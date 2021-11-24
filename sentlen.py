@@ -65,14 +65,10 @@ def plot_seaborn(data):
     fig.savefig("avgsentlens+regression_ELTeC-eng.png", dpi=300)
     
 
-
-
 def plot_pygal(data): 
     data = data.round({'avgsentlen': 2})
     mystyle = Style(
         colors=('#201f52', '#201f52', '#201f52', '#201f52', '#201f52'))
-  
-  
     plot = pygal.XY(show_legend = False, 
                     human_readable = True,
                     style = mystyle)
