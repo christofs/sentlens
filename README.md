@@ -1,19 +1,14 @@
 # sentlens
 
-Sentence length in corpora of literary texts, specifically in ELTeC-eng.  
+Sentence length in corpora of literary texts, specifically in ELTeC-eng. An analysis performed by Christof Schöch in late November, 2021. 
 
 # Data 
 
 The analysis is based on two corpora: 
 * ELTeC-eng, The English novel collection for the ELTeC, the European Literary Text Collection, produced by the COST Action Distant Reading for European Literary History (CA16204, https://distant-reading.net), release 1.0.1 (https://doi.org/10.5281/zenodo.4662490), edited by Lou Burnard and published in April 2021. Details: https://github.com/COST-ELTeC/ELTeC-eng
-* The Gutenberg Corpus as described by Martin Gerlach and Francesc Font-Clos, see: https://arxiv.org/abs/1812.08092, using a copy extracted in November 2021. See: https://github.com/christofs/gutenberg. 
-
-
-The contents of ELTeC-eng are listed here: https://distantreading.github.io/ELTeC/eng/index.html
+* The Gutenberg Corpus as described by Martin Gerlach and Francesc Font-Clos, see: https://arxiv.org/abs/1812.08092, using a copy extracted in November 2021. 
 
 # Analysis
-
-The analysis was done by Christof Schöch on November 24, 2021. 
 
 Samples and analyses
 
@@ -25,6 +20,6 @@ Samples and analyses
 
 Visualizations
 
-* Using seaborn, a scatterplot with a regression line is produced. The regression line is a third-degree polynomial. Good for seeing the general trend of the data.  
+* Using seaborn, a scatterplot with a regression line is produced. The regression line is a third-degree polynomial. Good for seeing the general trend of the data. 
 * Using pygal, a scatterplot with embedded metadata is produced. Good for looking at individual cases. 
 
