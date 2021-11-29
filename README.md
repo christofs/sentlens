@@ -2,6 +2,12 @@
 
 Sentence length in corpora of literary texts, specifically in ELTeC-eng. An analysis performed by Christof Schöch in late November, 2021. 
 
+# Result in a nutshell
+
+![](https://raw.githubusercontent.com/christofs/sentlens/main/Gutenberg_sample2/results/avgsentlens%2Bregression.png)
+
+The most largest and probably the most reliable sample is sample 2 from the Gutenberg Corpus, with 1000 novels from the period 1840–1920. The regression line appears to indicate an evolution towards shorter sentences, from about 25 words / sentence in 1840 to about 20 words / sentence in 1920. See, however, the various tests described below.  
+
 # Data 
 
 The analysis is based on two corpora: 
