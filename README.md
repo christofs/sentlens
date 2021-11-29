@@ -1,6 +1,6 @@
 # sentlens
 
-Sentence length in corpora of literary texts, specifically in ELTeC-eng. An analysis performed by Christof Schöch in late November, 2021. 
+Sentence length in corpora of literary texts, specifically in ELTeC-eng and the Gutenberg Corpus. An analysis performed by Christof Schöch in late November, 2021. 
 
 # Result in a nutshell
 
