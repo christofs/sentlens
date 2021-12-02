@@ -1,0 +1,3306 @@
+
+
+
+
+
+  +------------------------------------------------------------------+
+  | Anmerkungen zur Transkription                                    |
+  |                                                                  |
+  | Gesperrter Text ist als _gesperrt_ dargestellt, Fettschrift      |
+  | als $fett$, und Antiqua-Schrift als ~Antiqua~.                   |
+  | Eine Liste der Änderungen befindet sich am Ende des Buchs.       |
+  +------------------------------------------------------------------+
+
+
+
+
+                            Die Anfänge der
+                           Naturbeherrschung
+
+                      1. Frühformen der Mechanik
+
+
+
+
+Kosmos, Gesellschaft der Naturfreunde ◈ Stuttgart
+
+
+Die Gesellschaft Kosmos bezweckt, die Kenntnis der Naturwissenschaften
+und damit die Freude an der Natur und das Verständnis ihrer
+Erscheinungen in den weitesten Kreisen unseres Volkes zu verbreiten.
+-- Dieses Ziel sucht die Gesellschaft durch Verbreitung guter
+naturwissenschaftlicher Literatur zu erreichen im
+
+
+$Kosmos$, Handweiser für Naturfreunde
+
+Jährlich 12 Hefte mit 4 Buchbeilagen. Preis vierteljährl. 7.50 M.
+
+Diese Buchbeilagen sind, von ersten Verfassern geschrieben, im guten
+Sinne gemeinverständliche Werke naturwissenschaftlichen Inhalts.
+Vorläufig sind für das Vereinsjahr 1921 festgelegt (Reihenfolge und
+Änderungen auch im Text vorbehalten):
+
+Prof. Dr. K. Weule, Die Anfänge der Naturbeherrschung. 1. Frühformen
+der Mechanik.
+
+Hanns Günther, Radiotechnik.
+
+Dr. Kurt Floericke, Würmer.
+
+Wilh. Bölsche, Im Bernsteinwald.
+
+  Jedes Bändchen reich illustriert.
+
+  Geb. M 5.20 Gebd. M 7.80
+
+Diese Veröffentlichungen sind durch _alle Buchhandlungen_ zu beziehen;
+daselbst werden Beitrittserklärungen zum $Kosmos, Gesellschaft
+der Naturfreunde$, entgegengenommen. Auch die früher erschienenen
+Jahrgänge sind noch erhältlich. (Satzung, Bestellkarte, Verzeichnis der
+erschienenen Werke sowie Preise usw. siehe am Schluß.)
+
+
+Geschäftsstelle des Kosmos: Franckh'sche Verlagshandlung, Stuttgart.
+
+
+
+
+                              Die Anfänge
+                         der Naturbeherrschung
+
+                      1. Frühformen der Mechanik
+
+                                  Von
+
+                            Dr. Karl Weule
+
+                 Direktor des Museums für Völkerkunde
+              und Professor an der Universität zu Leipzig
+
+                      Mit zahlreichen Abbildungen
+               nach Originalzeichnungen von Max Wilhelm
+
+                            [Illustration]
+
+                               Stuttgart
+
+                 Kosmos, Gesellschaft der Naturfreunde
+
+             Geschäftsstelle: Franckh'sche Verlagshandlung
+
+                                 1921
+
+
+  Alle Rechte, besonders das Übersetzungsrecht, vorbehalten
+
+  Gesetzliche Formel für die Vereinigten Staaten
+  von Nordamerika:
+
+  Copyright 1921 by Franckh'sche Verlagshandlung
+  Stuttgart.
+
+  STUTTGARTER SETZMASCHINEN-DRUCKEREI
+  HOLZINGER & Co., STUTTGART
+
+
+
+
+Inhaltsverzeichnis.
+
+
+                                                                   Seite
+
+  1. _Einleitung._ Kultur ist Naturbeherrschung. Die weiße
+  Rasse steht darin zu oberst, doch beruht auch ihre
+  Herrschaft mehr auf bloßer Erfahrung als auf wahrer
+  Erkenntnis der Naturgesetze. Wie steht es damit bei den
+  Naturvölkern?                                                      7-8
+
+  2. _Die Freihaltung der Hand._ Arbeitsmöglichkeit des
+  Menschen nur bei dauernd freier Hand. Vom Sammelbeutel
+  der Urzeit bis zum Damenhandtäschchen und zum Rucksack
+  von heute. Die Kindertragarten                                    8-15
+
+  3. _Der Aufmarsch._ Die Einteilung der Physik und die
+  Einpassung ethnographischer Erscheinungen in ihren Rahmen        15-16
+
+  4. _Holz und Stein._ Holzzeit und Steinzeit. Das
+  Parallelogramm der Kräfte. Wesen des direkten und
+  des indirekten Schlages. Der schräge Schlag und
+  der Schlagbuckel. Das Abdrücken. Einfache und
+  zusammengesetzte Maschinen. Der Grabstock als Keil und
+  Hebel. Die Schneid-, Hieb- und Stichwerkzeuge                    16-22
+
+  5. _Das Leitungsvermögen._ Inneres und äußeres
+  Leitungsvermögen. Gute und schlechte Leiter. Die
+  Prinzipien der Tracht und der Wohnung. Das Feuer und das
+  Leitungsvermögen der Kochgerätschaften. Holzzange und
+  vegetabiler Kochtopf                                             22-28
+
+  6. Der Luftdruck. Wesen des Siedens. Der Schildkrötenfang
+  mit dem Fisch. Verwandlung der Arbeit in Wärme. Das
+  pneumatische Feuerzeug. Der Schröpfkopf im dunklen
+  Weltteil                                                         28-30
+
+  7. _Hebel, Rolle und Rad an der Welle._
+
+  ~a~) Der Hebel. Zweiarmige und einarmige Hebel.
+  Bohrmaschinen in Vorzeit und Gegenwart. Das Wurfholz und
+  die Schleuder. Zentrifugal- und Zentripetalkraft. Die
+  Ölpresse der Pangwe. Das Tipití-Problem                          31-38
+
+  ~b~) Die Rolle. Feste und bewegliche Rollen. Der
+  Flaschenzug bei den Eskimo                                       38-41
+
+  ~c~) Das Rad an der Welle. Das Differentialwellrad bei
+  den Chinesen. Die Baumwollentkernmaschine in Südasien            41-42
+
+  8. _Schiefe Ebene, Keil und Schraube._ Die schiefe Ebene
+  als Rampe und als Keil. Die Rampe im alten Orient und
+  im neolithischen Europa. Die Megalithen der Alten Welt
+  und Ozeaniens. Ernst Machs Ansicht vom ethischen und
+  kulturhistorischen Verdienst der Sklaverei. Bedeutung
+  der organisierten Arbeit. Auch die Riesenbauten von
+  Alt-Peru und Ozeanien nur durch Organisation möglich.
+  Das Brewarrina-Labyrinth in Alt-Australien. Seilbahnen
+  und Gleitbrücken in den Kordilleren und in Hochasien.
+  Der Pflug als Paradigma der bewegten schiefen Ebene.
+  -- Der Drall. Angewandte Festigkeitslehre in Afrika.
+  Abgesetzt geschmiedete Speer- und Pfeilspitzen. Bulbul
+  oder der Drall beim Kinderspielzeug von Neumecklenburg.
+  Der Wurfriemen der Griechen, Römer und Neukaledonier. --
+  Die aufgewickelte schiefe Ebene oder die Schraube. Der
+  Drillbohrer bei uns und im Stillen Ozean. Das Schwungrad.
+  Parallellaufende Schraubenräder in Südostasien. Die
+  Eskimoschraube. Der Bumerang ein Stück Schraubenmutter           42-54
+
+  9. _Das Beharrungsvermögen._ Der Besitz der Rotation als
+  ein Kriterium des Fortschritts. Das Wesen der Trägheit.
+  Kreisel und Diabolo. Spindel und Spinnwirtel. Bola und
+  Lasso                                                            54-60
+
+  10. _Das Parallelogramm der Kräfte._ Streichruder und
+  Paddel. Die schnellen Dualaboote. Das Segeln. Alter,
+  Verbreitung und Wesen des Kreuzens gegen den Wind.
+  Warum die Mikronesier nicht über Stag gehen können. Der
+  Fischdrachen und das Wesen des Luftdrachens                      60-65
+
+  11. _Licht und Schall._ Das Fischspeeren und der
+  Brechungsquotient. Das Negertelephon. Die Trommelsprache
+  und die Tonhöhen. Das drahtlose Telephon Südamerikas             66-68
+
+  12. _Schlußbetrachtungen._ Die Naturvölker keine
+  absoluten Naturbeherrscher, aber doch Herren ihres
+  Lebensraumes. Die künstliche Beleuchtung. Der Docht
+  und die Kapillarität. Wie die Ozeanier sich vor dem
+  Verdursten schützen. Filtrieranlagen. Der Wassertransport
+  und die Interferenz. Das Sagoschlämmen und das
+  spezifische Gewicht. Die Töpferscheibe. Hat der Neger
+  die Eisentechnik erfunden? Hochöfen und Gebläse. Die
+  Elastizität und ihre Anwendung                                   69-76
+
+
+
+
+[Illustration]
+
+
+
+
+1. Einleitung.
+
+
+Den Begriff Kultur definieren wir für gewöhnlich als die Gesamtsumme
+aller geistigen Errungenschaften einer Zeit. Demgegenüber kann man auch
+sagen: _Kultur ist Naturbeherrschung_. Nur wer der Natur und ihren
+Gegebenheiten als Herr gegenübersteht, besitzt Kultur, die um so höher
+sein wird, je unumschränkter sich jene Beherrschung darstellt.
+
+Tritt man von diesem Gesichtspunkt an eine Betrachtung der Menschheit
+heran, so stellen wir, wenigstens nach unserer Meinung, den Gipfelpunkt
+aller Völker und Zeiten überhaupt dar. Die weiße Rasse spielt förmlich
+mit den Elementen im chemischen Sinn; sie hat sich eine große Anzahl
+von Gesetzen der Physik untertan gemacht; sie verändert nach Belieben
+die Erdoberfläche durch Abtragung und Aufschüttung, fährt unter dem
+Wasser und in der Luft -- kurz, sie macht mit dem Erdball, was sie will.
+
+Soweit die technische Seite der Kultur in Frage kommt, wird man diesen
+Leistungen seine rückhaltlose Bewunderung nicht versagen können.
+Anders steht es hingegen um die moralische Seite. Vom gegenwärtigen
+Augenblick und der Zeit des Weltkrieges ganz abgesehen, wo durch Lüge
+und sittlichen Zusammenbruch ärger gesündigt worden ist als vielleicht
+jemals in der Menschheitsgeschichte, hat unsere Rasse nicht allzuviel
+Anlaß, auf ihr Verhalten in sich selbst und gegen die anderen stolz zu
+sein. Wollen wir also den Eindruck des Überragenden für uns bewahren,
+so bleibt nichts übrig, als vor allem eben jene technische Seite zu
+betonen.
+
+Aber auch auf diesem Gebiete sind wir in höherem Grade das Opfer
+unserer Einbildung und Selbstüberschätzung als uns gemeinhin zum
+Bewußtsein kommt. Niemand wird den hohen Rang und die staunenswerten
+Leistungen unserer Chemie und Physik, soweit sie von der strengen
+Wissenschaft getragen werden, anzweifeln oder sie herabzusetzen wagen.
+Aber wenn wir im gleichen Atem auch von einer Chemie und Physik des
+täglichen Lebens, sozusagen unseres Haushaltes sprechen, so sieht die
+Sache sogleich wesentlich anders aus, soweit es sich um das Verständnis
+des einzelnen handelt. Jeder Großstadtbewohner fährt wohl täglich
+mit der Straßenbahn, aber wie wenigen sind die bei ihr zur Anwendung
+gelangenden physikalischen Gesetze geläufig! Genau das gleiche gilt, ob
+wir mit oder ohne Draht telegraphieren, durch das Opernglas schauen,
+durch das Telephon sprechen oder hören usw.
+
+So ist es ganz allgemein bis zu den alltäglichsten Dingen herab.
+Wer überlegt sich, wenn er die Tür öffnet oder schließt, daß dabei
+bestimmte Hebelgesetze in Frage kommen; wer, wenn er eine Wanduhr
+aufzieht, daß für ihren gleichmäßigen Gang die Gesetze des freien
+Falles wie auch des Falles auf kreisförmiger Bahn in Wirksamkeit
+treten? Das Ansetzen des Wassers zum Kochen wird tagtäglich
+millionenfach wiederholt, aber welche von den Beherrscherinnen des
+Küchendepartements ist sich klar über das Wesen des Siedepunktes,
+über den atmosphärischen Druck und seine Überwindung? Welche über die
+physikalischen und chemischen Wirkungen, die durch den Koch-, Röst-
+oder Dünstprozeß im Äußern und Innern der Speisen hervorgerufen werden?
+Wir dürfen auch von uns ruhig sagen: Das alles ist selbstverständlich
+dem Fachmann vollkommen geläufig; über die eine oder andere Erscheinung
+denkt auch wohl der Laie einmal nach -- dem Volke selbst indessen sind
+bei seinem Tun die Gesetze der Chemie und der Physik ebenso fremd wie
+gleichgültig, zumal es ja auch ohne diese Kenntnis auskommt.
+
+Die gleichen geringen Anforderungen muß man nun aber auch an die
+Naturvölker stellen. Zwar verfügen sie, im Gegensatz zu uns, über
+keinerlei Wissenschaft im strengen Sinn, sondern wie unsere breite
+Masse nur über Empirie, über Erfahrung, aber in dieser haben sie es in
+vieler Beziehung weiter gebracht als man von vornherein erwarten darf.
+Ein Gang durch die anscheinend so einfache Welt dieser Völker wird uns
+in überraschender Weise darüber belehren.
+
+
+
+
+2. Die Freihaltung der Hand.
+
+
+Wer den Menschen in seiner Entwicklung verfolgt, muß den Blick über
+ihn hinaus rückwärts zur Tierwelt wenden, ganz gleich, ob es sich um
+die Entfaltung seiner körperlichen oder seiner geistigen Eigenschaften
+handelt. Mit dem schwierigen, aber über alle Maßen fesselnden Problem
+seiner körperlichen Entwicklung aus niedrigeren Formen haben wir uns
+im einschlägigen Kapitel der »Kultur der Kulturlosen« befaßt;[1]
+hier müssen und können wir uns damit begnügen, uns unsern Vorfahren
+als aufrecht stehenden, frei auf seinen Beinen schreitenden ~Homo
+sapiens~ vorzustellen, der die Anwartschaft auf eine unbegrenzte
+Gehirnentwicklung besaß, der über die Fähigkeit der artikulierten
+Sprache verfügte, und dessen jederzeit frei bewegliche Hände ihn zu
+allen jenen zahllosen Tätigkeiten befähigten, die ihn im Laufe der Zeit
+so himmelhoch über seine weniger glücklichen tierischen Gefährten von
+einst erhoben haben.
+
+Aber stimmt dieses rosige Bild auch wirklich in allen Einzelheiten? Mit
+einer an Gewißheit grenzenden Wahrscheinlichkeit können wir annehmen,
+daß die Lebensführung des jungen Menschengeschlechts sich in ganz
+ähnlicher Weise abgespielt hat, wie sie bei den zurückgebliebensten
+Völkern der Erde noch heute erfolgt, d. h. daß man das Leben unsteter
+Sammler und Jäger geführt hat. Ihnen war noch alles fremd, was wir
+Produktion nennen: jeder Eingriff in die Natur zum Zweck der Vermehrung
+und der Veredlung von Pflanze und Tier. Man hob auf, was man an
+genießbarem pflanzlichem Material, Kerftieren und anderen leicht
+erreichbaren Lebewesen fand, und verfolgte an großem Getier, was einem
+erleg- und genießbar dünkte.
+
+Bei dieser, äußerlich betrachtet, noch rein tierischen Lebensweise
+ist alsbald jener Fortschritt eingetreten, der unter der Bezeichnung
+der sexuellen oder geschlechtlichen Arbeitsteilung in der neueren
+völkerkundlichen und wirtschaftsgeschichtlichen Literatur einen
+so großen Raum einnimmt. Während der Mann auf Grund seiner ganzen
+körperlichen und geistigen Veranlagung dem Wilde folgte und den
+menschlichen Gegner bekämpfte, begnügte sich die Frau mehr mit dem
+Zusammentragen harmloserer Beute, deren Zubereitung ihr mit dem
+Augenblick mehr Sorge, aber auch mehr Befriedigung brachte, wo das
+Feuer in den Dienst der Menschheit trat. Mit Fug und Recht kann man ihr
+von diesem Moment an den Ehrentitel einer Hausfrau erteilen.
+
+Doch wie vollzog sich diese Urform der Wirtschaft im einzelnen? Solange
+der Mann ohne Beute einherzog, war er mit seiner Urkeule oder dem
+Urspieß, oder welcher Waffe er sich sonst bediente, in jedem Augenblick
+abwehr- und angriffsbereit gegen Mensch und Tier. Anders hingegen,
+wenn die mehr oder minder umfangreiche Last des erlegten Wildes ihn
+behinderte; ein unvorhergesehener Überfall oder ein jäher Angriff von
+Mensch oder Tier fand ihn dann möglicherweise wehrlos, einfach weil er
+im entscheidenden Augenblick nicht freier Herr über Hand und Arm war.
+Die Sorge für beide ist also vom ersten Augenblick des Menschentums ab
+an ihn herangetreten.
+
+Das gilt für beide Geschlechter auch noch aus einem friedlicheren
+Grunde. So sehr der Primitive auch das Kind des Augenblicks ist,
+das unverzüglich verspeist, was es vom Boden aufliest -- ganz ohne
+Vorratsammeln geht es schließlich bei keinem von ihnen ab. Und da auf
+jenen Stufen auch der Mann neben der Jagd stets die Sammeltätigkeit
+betreibt, so ist das nächstliegende Erfordernis die Beschaffung eines
+Behälters, in den alles getan wird, was nicht sofort zum Mund und in
+den immer hungrigen Magen wandert. Dieser Behälter -- ein Ledersack
+in Gebieten mit größerem Wild, ein geflochtenes Netz oder ein Beutel
+überall dort, wo jene Vorbedingung nicht erfüllt wird -- ist in der Tat
+das Wahrzeichen beider Geschlechter auf allen niedrigen Kulturstufen.
+Ihn tragen Buschmann und Buschmännin auf allen ihren Zügen; er ziert
+den Australier und sein Weib, den Kubu von Sumatra, den Wedda von
+Ceylon, den alten Kalifornier, den Mela- und Mikronesier, kurz er ist,
+wie sein Gegenstück, der bald zu behandelnde Grabstock, die Grundlage
+aller menschlichen Kultur, sozusagen das Symbol ihrer Sonderstellung im
+Reich alles Organischen überhaupt.
+
+Und dieses Symbol ist er geblieben durch alle Zeiten und alle
+Kulturstufen hindurch bis auf den heutigen Tag. Über den Urbeutel
+oder Ursack hinaus hat die Menschheit im Lauf unabsehbar langer
+Zeiträume und über die ganze Erde hinweg eine ebenso unübersehbare Zahl
+weiterer Trag- und Transportgeräte erdacht, einfache und komplizierte,
+praktische und weniger praktische -- jenes Urgerät indessen hat sie
+beibehalten, wo immer es sei, hat es beibehalten müssen, schon weil es
+letzten Endes keine andere Möglichkeit gibt, die Hand für den Gebrauch
+dauernd frei zu halten. In diesem Sinne kann man das Handtäschchen
+unserer Damen und die Aktenmappe unserer Herren nur mit gemischten
+Gefühlen betrachten; ganz im Gegensatz zum Tornister des Soldaten und
+dem Rucksack des Touristen, sowie der Umhängetasche, erfüllen sie ihren
+Endzweck nur in recht fragwürdigem Grade. Zumal das Handtäschchen
+bedeutet, rein ethnographisch besehen, einen Rückschritt. Zunächst ist
+es für eine wirksame Entlastung der Trägerin viel zu klein, zwingt
+diese vielmehr, selbst winzige Pakete einzeln zu tragen. Geradezu
+verhängnisvoll wird es indes im modernen Verkehrsleben, wenigstens
+dort, wo, wie in Deutschland und Österreich, die Straßenbahnen rechts
+fahren. Die weibliche Gewohnheit, alles links zu tragen, verleitet beim
+Abstieg selbst die Kennerin des Trägheitsgesetzes zum Griff mit der
+Rechten an die nächstbefindliche hintere Griffstange. Der Wagen braucht
+nur noch oder schon wieder ein wenig in Bewegung zu sein, um für die
+Ärmste zu einer Sturzkatastrophe zu führen. Ob die links fahrenden
+Völker ihre den weiblichen Gewohnheiten besser angepaßte linksseitige
+Fahrweise aus bewußter oder unbewußter Galanterie eingeführt haben,
+bleibe dahingestellt.
+
+Wir nennen die Gegenwart stolz das »Zeitalter des Kindes«. Das ist
+richtig, insofern die Allgemeinheit ein Interesse hat und es betätigt,
+dem Staat einen brauchbaren Nachwuchs zuzuführen. Im gegengesetzten
+Sinn, nach dem das nächstbeteiligte Einzelwesen, nämlich die Mutter,
+die größere Verantwortung hat, ist der Ausdruck hingegen falsch;
+nach ihm reicht die »Kinderfrage« im Gegenteil ebenfalls bis in
+die frühesten Jugendtage der Menschheit zurück. Welch unbegrenzte
+Hilfsmittel und welche Erleichterungen stehen der Mutter von heute zu
+Gebote! Weise Frauen und Kliniken, Ammen und Wärterinnen, die mit allen
+Vorsichtsmaßregeln gewonnene und behandelte Milch unserer Haustiere,
+Kindermehle aller Art, die hygienischsten Wohnungseinrichtungen und
+hundert andere Ausflüsse der Sorge um das junge Menschenkind mehr. Vor
+allem aber das eine, das wir ebenso gedankenlos hingenommen haben wie
+so viele andere grundlegende Erfindungen auch. Das ist der Kinderwagen.
+Heute ist er in den Ländern der Höchstkultur tatsächlich Gemeingut
+aller Schichten und gewährleistet somit der gesamten Weiblichkeit
+der weißen Rasse den freien Gebrauch ihrer Hände. Und wie rasch das
+gegangen ist! Jeder Landgeborene von uns Älteren ist bestimmt noch
+ein Schutzbefohlener des großen Umschlagmantels gewesen, in dem der
+Kleine zwar warm und mollig saß, der aber die Trägerin fast jeder
+Arbeitsfähigkeit beraubte.
+
+Die Urmutter und alle ihre Nachfolgerinnen unter den Naturvölkern
+haben das Problem der Arbeitsfähigkeit ungleich besser gelöst, auch
+diesmal zweifellos, weil sie es einwandfrei lösen _mußten_. Die
+Rolle der Frau im Wirtschaftsleben der Menschheit hat es von Anfang
+an mit sich gebracht, daß sie, wenn auch nicht überall schwerer, so
+doch anhaltender hat arbeiten müssen als der Herr und Gebieter. Ihr
+hat der innere Betrieb obgelegen bis in die Gegenwart. Da ist es nun
+erstaunlich zu sehen, wie sie sich zwischen Pol und Äquator mit dem
+Neugeborenen abgefunden hat. Wärterinnen gibt es im besten Fall erst,
+wenn die älteste Tochter das kleine Brüderchen oder Schwesterchen zu
+tragen vermag; vorher heißt es »Selbst ist der Mann« vom Tage der
+Geburt bis zu dem Augenblick, wo das Kleine sich selbst behelfen kann.
+Wie ihn aber unterbringen, wo die Arbeit nur so treibt, wo aber die
+mütterliche Brust die einzige Nahrungsquelle darstellt? Das ganze Buch
+oder doch zum mindesten einen großen Teil von ihm könnte man mit der
+Darstellung der Mittel füllen, welche die Mütter aller Zonen ersonnen
+und entdeckt haben, um diese Frage, die für sie gewissermaßen die Frage
+aller Fragen ist, zu lösen.
+
+[Illustration: Abb. 1. Karayáfrau, Brasilien, mit Tragen des Kindes auf
+dem Arm.
+
+(Nach Krause.)]
+
+[Illustration: Abb. 2. Frau aus dem Volke. Ägypten, Palästina.
+Schultertragart.]
+
+[Illustration: Abb. 3. Frau von der Collingwoodbai, Britisch-Neuguinea,
+mit Nackentragart.]
+
+Die einfachsten Tragweisen sehen noch von außerkörperlichen Geräten
+ab, indem das Kind mit Hilfe eines oder beider Arme an der Brust, auf
+der Hüfte (Abb. 1) oder auf der Schulter (Abb. 2) getragen wird. Eine
+Befreiung der Hand findet hierbei nur teilweise statt, weshalb die
+Bevorzugung einer bestimmten Körperseite noch nicht festzustellen ist;
+die Mutter trägt das Kind ebenso oft links wie rechts. Als Regel kann
+gelten, daß diese Methode gegenwärtig nur noch vorübergehend angewendet
+wird. Hier und da reitet das Kind auch auf dem Nacken der Mutter, mit
+den Beinchen nach vorn über deren Brust hinab (Abb. 3), oder es reitet
+»Huckepack« auf dem Rücken. Hierbei werden beide mütterliche Arme
+zum Tragen beansprucht, während sie dort zwar frei bleiben, aber zu
+lebhafter Arbeit gleichwohl kaum verwandt werden dürfen, da der kleine
+Reiter sonst leicht zu Boden stürzen könnte.
+
+Besser als diese noch fast tierisch anmutende Maßnahme sind die
+weitverbreiteten Bänder und Gurte, mit denen der Säugling auf der
+Hüfte festgehalten wird (Abb. 4). Dadurch wird dann wenigstens der
+entgegengesetzte Arm für die Arbeit frei. Wie ungemein bedeutsam schon
+dieser geringe Fortschritt empfunden wird, geht daraus hervor, daß der
+Gurt stets über die rechte Schulter nach der linken Hüfte verläuft, so
+daß dadurch die rechte Hand frei bleibt. Unter den vielen Dutzenden
+einschlägiger Bilder im Leipziger Völkermuseum befindet sich nur eine
+Ausnahme. In diesem Fall aber werden wir es mit einer Linkshänderin zu
+tun haben.
+
+[Illustration: Abb. 4. Kobeuáfrau, Amazonien, mit Kind im Traggurt.
+
+(Nach Koch-Grünberg.)]
+
+[Illustration: Abb. 5. Makondefrau, Deutsch-Ostafrika, mit Kind im
+Rückentragtuch.
+
+(Nach Weule.)]
+
+[Illustration: Abb. 6. Eskimofrau von Labrador mit Kind in der Kapuze.]
+
+Die endgültige Lösung des Problems bringen erst die höchst
+mannigfaltigen Tragvorrichtungen, bei denen das Kind am Körper der
+Mutter hängt, ohne überhaupt einen Arm in Mitleidenschaft zu ziehen.
+Für große Teile Afrikas ist die Unterbringung des Säuglings in dem
+bekannten Rückentuche bezeichnend, worin der ganze Körper warm und
+geschützt in der Höhe des mütterlichen Kreuzes kauert, während die
+Beinchen rechts und links heraushängen (Abb. 5). Das Kind nimmt in
+dieser Lage an jeder Bewegung der Mutter teil, ohne diese im geringsten
+zu behindern und auch ohne selbst den geringsten Schaden an Körper und
+Geist zu erleiden. Andere Rückentragvorrichtungen finden sich in den
+mannigfachsten Konstruktionen über die ganze Erde hin verbreitet bis
+zu der großen Pelzkapuze der Eskimofrauen (Abb. 6) und der kunstvollen
+Tragwiege vieler Amerikaner und Nordasiaten. Der Rücken hat sich bei
+den tastenden Versuchen der geplagten Mütter nach einer Befreiung
+der Hände schon aus dem Grund als der geeignetste Ort erwiesen, weil
+die Last hier dem eigentlichen Arbeitsbereich räumlich am weitesten
+entrückt ist. Außerdem gewährt die Unterbringung der Last auf ihm die
+beste Möglichkeit, den eigenen Körper im Gleichgewicht zu erhalten.
+
+Schon dieser kurze Ausblick auf nur eine einzige Seite des
+Völkerlebens ist geeignet, ein überraschendes Licht auf das Ausmaß der
+geistigen Arbeit zu werfen, die nötig gewesen ist, unseren Vorfahren
+den freien Gebrauch der Hand zu gewährleisten. Die wahrhaft überragende
+Stellung des Menschen im Rahmen der Natur versteht man tatsächlich
+erst, nachdem man ihr von dieser Seite her näher getreten ist. Und
+vor allem der Frau wird man erst gerecht, wenn man den Ideenreichtum
+bewundert, den sie in der gleichzeitigen Sorge für das Kind und für
+die Ausführungsmöglichkeit der ihr zustehenden Arbeit entfaltet
+hat. Unter den neueren Ethnographen zeiht vor allem der geistvolle
+Heinrich Schurtz gerade sie der Nüchternheit und Ideenarmut, die beide
+überall dort zutage träten, wo der frauliche Geist zu schöpferischen
+Taten Gelegenheit gehabt habe. So in der Töpferei, deren Erfindung
+auf die Frau zurückgeht; so auch in der Weberei, an deren Erfindung
+und vorläufiger Entwicklung ihr ebenfalls ein rühmlicher Anteil
+gehört. Bis zu einem gewissen Grad ist der Vorwurf berechtigt; in
+Afrika z. B. nimmt die Keramik blühende Formen an, sobald sie, wie in
+Nordwestkamerun und in Uganda, Männerarbeit wird. Den Stab über die
+Frau zu brechen, ist gleichwohl nicht ohne weiteres erlaubt, wie schon
+ihre Leistungen auf dem Gebiet der Tragweisen dartun. Die Wahrheit wird
+vermutlich in der Richtung zu suchen sein, daß man sagt: ihre Phantasie
+ist in dem ewigen Kleinkram der täglichen Wirtschaftssorgen verkümmert,
+der keinen großen Wurf zuläßt. Es wird für kommende Generationen
+interessant sein, festzustellen, ob die neuerliche Befreiung wenigstens
+der weißen Frau von dieser unübersehbar langen Bedrückung den Vorwurf
+jenes ungalanten Ethnographen entkräftet.
+
+Wie dem aber auch sei: beide Geschlechter haben den großen Wurf getan
+und der Natur wertvollstes Geschenk für den Menschen, die Hand, frei
+gemacht für die Arbeit. Die ist ihnen alsbald in tausenderlei Arten und
+Mannigfaltigkeit erwachsen, ganz unserer vorgefaßten, aber falschen
+Ansicht zum Trotz, wonach gerade der Wilde jeder Arbeit überhoben
+sei. Manche neue Aufgabe wird dabei zunächst noch rein instinktiv
+erfaßt und gelöst worden sein; andere wieder werden sehr bald ein
+gewisses Nachdenken, ja ein förmliches Studium erfordert haben, bis
+durch die gehäufte Erfahrung ganzer Geschlechterreihen jene relative
+Höchstleistung erreicht worden ist, die der betreffenden Kulturstufe
+harmonisch angepaßt erscheint. Von einem wirklichen Erkennen der
+Naturgesetze, einem wissenschaftlichen Einblick in das Wesen der
+Erscheinungen ist, wie gesagt, dabei nirgends die Rede; stets handelt
+es sich vielmehr um dieselbe Empirie, die bloße Erfahrung, die auch das
+Leben unserer breiten Masse beherrscht.
+
+Die Befreiung der Hand vom Naturzwang ist also die erste große Tat des
+Menschen auf dem Wege zum Fortschritt, ja sie ist die Vorbedingung
+des Fortschrittes selbst. Dieser bahnt sich nunmehr in ebenderselben
+Mannigfaltigkeit an, wie dem Menschen die Arbeit entgegentritt. Uns
+freilich erscheint das Leben des Wilden als ein unausgesetzter Kampf
+um den Lebensunterhalt allein, als die nackte Behebung der Sorge: wie
+friste ich mein Dasein und wie rette ich mich vor Hunger und Durst? Das
+trifft in Wirklichkeit zwar in höherem Grade zu als bei den Trägern
+höherer Zivilisation, doch kann man es andererseits direkt als Gesetz
+ansprechen, daß jeder Mensch die gleiche Leistung mit dem geringsten
+Kraftaufwand zu erreichen strebt, d. h. daß er die Bequemlichkeit
+sucht, wo und wie immer es sei. Die dadurch gewonnene Muße aber hat
+auch das einfachste Volk zu höheren Dingen zu verwenden gewußt, sei es
+in der Richtung auf eine behaglichere Lebensführung hin oder aber auf
+dem Gebiete des Sports und des Spiels oder gar dem der Kunst. Die fast
+allgemeine Verbreitung der tausenderlei Genußmittel ist ein Beleg für
+das eine, materielle Streben nach oben, die ebenso weite Verbreitung
+von Tanz und Musik, Spielzeug und Spiel und die bemerkenswerten
+Leistungen gerade niedrigster Völker in der bildenden Kunst ein solcher
+für das andere, ideelle Streben in derselben Richtung. Leiblicher und
+geistiger Komfort -- das ist der Wahlspruch des Menschengeschlechts,
+wann und wo immer es uns entgegentritt.
+
+
+
+
+3. Der Aufmarsch.
+
+
+Bei allen außerkörperlichen Betätigungen des Menschen gelangen Gesetze
+der Physik und der Chemie oder beider zugleich zur Anwendung. Der
+Physik gehören dabei alle die Vorgänge an, die nicht die stoffliche
+Zusammensetzung der gebrauchten Körper beeinflussen, während es die
+Chemie gerade mit den Veränderungen der stofflichen Natur der Dinge
+zu tun hat. Der systematische Ausbau der Physik seit Aristoteles und
+die ungeheure Vervielfältigung der Lebensbetätigungen auf den höheren
+Kulturstufen haben es mit sich gebracht, daß wir das Gebiet dieser
+Wissenschaft, deren Rolle im Haushalt der Naturvölker uns hier zunächst
+beschäftigen soll, in eine ganze Anzahl von Unterabteilungen haben
+zerlegen müssen, je nachdem es sich um bewegte oder ruhende Körper
+handelt und ob diese fest, flüssig oder gasförmig sind. Wir fassen den
+ganzen Komplex dieser Erscheinungen unter dem Namen Mechanik zusammen,
+die wir dann je nach den Aggregatzuständen der ruhenden oder bewegten
+Körper als Statik und Dynamik für die festen, als Hydrostatik oder
+Hydrodynamik für die flüssigen und als Aërostatik und Aërodynamik für
+die gasförmigen bezeichnen. Zu ihnen treten des fernern die Wärmelehre,
+die Akustik und die Optik, von Elektrizität und Magnetismus hier zu
+schweigen, da sie für die niederen Kulturen nicht in Betracht kommen.
+
+Fast möchte es gewagt erscheinen, die einfachen Lebensäußerungen
+der Naturvölker in die prunkvollen Hallen dieses wissenschaftlichen
+Riesengebäudes zu übertragen. Aber einmal hat gerade die Völkerkunde
+die Pflicht, den Anfängen oder doch den Frühformen aller Wissenschaften
+bei ihren Schutzbefohlenen nachzugehen, sodann aber besitzen auch wir
+mehr als ein Buch, welches die Physik des täglichen Lebens in unseren
+Volkskreisen behandelt. Dieses aber unterscheidet sich nicht dem Wesen,
+sondern höchstens dem Grade nach von dem der Naturvölker. Hinsichtlich
+des Verständnisses physikalischer Vorgänge schließlich besteht nicht
+einmal mehr jener Gradunterschied. Weder Wilder noch Weißer gibt sich
+überflüssigem Nachdenken hin.
+
+Bei alledem bestehen nicht unwesentliche Unterschiede in der
+Darstellungsmöglichkeit des tatsächlich vorhandenen. Unsere
+Lebensverhältnisse sind jedermann vollkommen geläufig, so daß die
+Darstellung die physikalischen Prinzipien zur Grundlage nehmen kann,
+ohne die ethnographischen Verhältnisse, unter denen sie zur Anwendung
+gelangen, zu schildern. Das geht bei unseren Fremdvölkern nicht, ohne
+Gefahr zu laufen, einen blutleeren Organismus zu schaffen. Hier wird es
+vielmehr angezeigt sein, beides in der Weise miteinander zu verknüpfen,
+daß man die einzelne technische Erfindung möglichst mitten in die
+lebendige Natur hineinsetzt, sie förmlich aus der Notwendigkeit der
+Anpassung an den Lebensraum der einzelnen Völker herauswachsen läßt.
+Nur so darf man ein einigermaßen wirkungsvolles Bild erhoffen. Es wird,
+zumal bei der Enge des zur Verfügung stehenden Raums, kaum mehr als
+skizzenhaft sein, doch bedeutet es ja auch nur einen Anfang, einen
+Versuch in der Technohistorik der Naturvölker.
+
+
+
+
+4. Holz und Stein.
+
+
+Wir setzen gewohnheitsmäßig an den Anfang aller Kulturentwicklung die
+Steinzeit; und wenn wir neuerdings vor deren älteren Zeitraum, vor das
+Paläolithikum, noch das Eolithikum mit seinen ganz urtümlichen Geräten
+setzen, so verstehen wir unter diesen Geräten doch auch wieder nur
+solche aus Stein.
+
+Dieses Bild ist nur sehr bedingt richtig. Man kann sich sehr wohl
+vorstellen, daß der Urmensch in Gegenden gelebt hätte, die wie die
+Steppe oder so mancher tropische Urwald mit seinem tiefen Humus ohne
+jeden Stein war. Dann wäre die Erfindung steinerner Waffen und
+Geräte ganz von selbst unterblieben, der Mensch hätte sich vielmehr
+mit Holz, Knochen, Muscheln, Horn u. dergl. Dingen zu behelfen
+gelernt, bis die Entdeckung der Metalltechnik ihn schließlich in eine
+günstigere Lage versetzt hätte. Alle diese Stoffe hat er nun aber
+auch dort herangezogen, wo ihm die Benutzung des Steins offenstand,
+ja von ihnen hat das Holz in demselben Maß vorgewaltet, wie es bis
+in die Neuzeit bei den Naturvölkern der Südsee und Amerikas der Fall
+gewesen ist, und wie man es selbst im Kulturbesitz entlegener Gegenden
+Europas überraschenderweise noch heute feststellen kann. Wenn die
+vorgeschichtlichen Funde ein anderes Bild ergeben, so liegt das einfach
+daran, daß wohl Stein, Muscheln und unter günstigen Umständen Knochen
+sich erhalten haben, nicht aber das vergänglichere Holz. An diesem und
+dem Stein hat also der Mensch sein Erfindungstalent zu üben zuerst
+Gelegenheit gehabt. Beim Stein können wir es mühelos noch an den
+vorgeschichtlichen Erzeugnissen selbst nachprüfen, hier und da auch bei
+einigen zurückgebliebenen Völkern der Gegenwart, während wir beim Holz
+auf diese allein angewiesen sind.
+
+[Illustration: Abb. 7. Der indirekte Schlag.]
+
+Bei der Steinbearbeitung ist das Nächstliegende der Schlag. Auch
+jeder von uns wird den Versuch einer Klingenherstellung nicht anders
+beginnen. Für unsere Altvordern handelte es sich dabei entweder um das
+Nachschärfen stumpf gewordener Schneiden, oder um das Behauen eines
+passenden Knollens zur Herstellung eines selbständigen Werkzeuges,
+oder um das Absplittern einer besonderen Klinge von einem größeren
+Kernstein oder Nuklëus und deren etwa noch weiteres Zurechtstutzen.
+Die einfachste und nächstliegende Methode war der Schlag mit einem
+passenden anderen Stein auf die zu bearbeitende Stelle selbst. Das
+ist der direkte Schlag, den jeder Laie anwenden wird. Feiner ist die
+Methode, die zu treffende Stelle des in Arbeit befindlichen Steines auf
+eine besondere Unterlage zu setzen und nunmehr auf einen bestimmten
+Punkt _oben_ auf dem Stein zu schlagen; dann springt ein Splitter in
+jeder gewünschten Größe ab. Die Unterlage kann der runde Rücken eines
+anderen Knollens sein oder auch die Oberkante eines prismatischen
+Steins, wie ihn Abb. 7 zeigt. Das Weimarer Städtische Museum, dessen
+herrliche urgeschichtliche Abteilung gerade nach der technologischen
+Seite hin mustergültig durchgeführt ist, führt jedem ernst zu
+nehmenden Besucher auf Wunsch beide Methoden vor, wobei die Vorteile
+des indirekten Schlages ohne weiteres in die Augen springen. Bis auf
+Bruchteile eines Millimeters kann bei einiger Übung das Arbeitsstück
+eingestellt werden.
+
+Ermöglicht wird diese Sicherheit durch das Walten eines physikalischen
+Prinzips, welches bei allen Arbeiten mit Schlag, Druck oder Zug zur
+Geltung gelangt. Das ist der bekannte Satz vom Parallelogramm der
+Kräfte, welches unsere Vorfahren, ohne sein Wesen zu erkennen, seit
+Zeiten benutzt haben, die aller Schätzung spotten. Da er uns auch sonst
+noch oft entgegentreten wird, sei er durch die Abbildung 8 erläutert.
+
+[Illustration: Abb. 8. Das Parallelogramm der Kräfte.]
+
+Nach diesem Satz der Mechanik können zwei Kräfte, die unter irgendeinem
+Winkel an einem Punkt angreifen, durch eine Mittelkraft, die
+Resultante, ersetzt werden, die ihrer Größe und Richtung nach gleich
+ist der Diagonale des Parallelogramms das aus den Seitenkräften und dem
+von ihnen eingeschlossenen Winkel konstruiert wird. ~AC~ und ~AB~ seien
+die Seitenkräfte oder Komponenten, die auf ~A~ wirken; dann ist ~AD~
+die Resultante. Ein Boot z. B., das durch den Wind oder die Dampfkraft
+allein quer über den Fluß von ~A~ nach ~C~, durch die Strömung allein
+in der gleichen Zeit stromabwärts von ~A~ nach ~B~ getrieben würde,
+wird durch beide zugleich auf dem Weg ~AD~ zu dem weiter stromabwärts
+gelegenen Punkte ~D~ des jenseits gelegenen Ufers gelangen. Beim Schlag
+ist die Sachlage umgekehrt; hier ist die Resultante ~AD~ mit der Stärke
+und Richtung des Schlages gegeben, so daß es nunmehr gilt, sie in 2
+Komponenten zu zerlegen, die zusammen dieselbe Wirkung hervorrufen wie
+jene allein. Das ist aus dem Grund ein schwieriges Beginnen, weil die
+Komponenten jede beliebige Richtung annehmen können. Eine bestimmte
+Lösung ist erst möglich, wenn die Komponenten bestimmte Voraussetzungen
+nach Richtung und Größe erfüllen. In der Praxis des Schlagens sind
+diese Unbekannten in der Härte und der Struktur des Steines, der Länge
+und Stärke des beabsichtigten Absplisses begründet, mit denen also
+jeder Schlagkünstler rechnen muß.
+
+Das Weimarer Museum ist auch hier wieder mit praktischen
+Versuchen vorbildlich vorangegangen, indem es die Sprung- und
+Splittererscheinungen des Feuersteins an durchsichtigem Glase
+studierte. Man benutzte dazu polierte Briefbeschwerer von Würfel- und
+Säulenform. Schlug man mit einem Treibhammer der Klempner, der eine
+kugelähnlich vorgewölbte Schlagfläche besitzt, senkrecht auf eine
+ebene Fläche, so entstand eine Figur, wie Abb. 9 sie zeigt: unter
+dem Treffpunkt entstand in dem Glas ein vollkommener Kegel von der
+Form einer Lampenglocke, der sich je nach der Heftigkeit des Schlages
+bis zur Basis des ganzen Körpers fortsetzte, so daß man den äußeren
+Glaskörper wie eine Haube abheben konnte. Das kommt daher, daß die
+Energie im Augenblick des Auftreffens auf den harten Körper nicht mehr
+ausschließlich nach unten wirken kann, sondern auch nach den Seiten
+ausstrahlen muß.[2] Die Resultante ist in ihre Komponenten zerlegt
+worden.
+
+[Illustration: Abb. 9. Schlagwirkung in einem Glaskörper.]
+
+In der Praxis der Naturvölker von einst wie von heute spielt dieser
+senkrechte Schlag keine Rolle, wohl aber der schräge. Weitaus die
+meisten Feuersteinklingen des Paläolithikums zeigen, soweit sie von
+einem Nuklëus abgesplittert worden sind, an ihrem dickeren Ende eine
+auffällige Hervorwölbung mit zentralem, stets an der Kante liegendem
+Treffpunkt. Das ist der Schlagbuckel oder Schlaghügel, auch Bulbus
+oder Schlagzwiebel genannt, mit seinen konzentrischen Wellenringen und
+Längssprüngen, wie Abb. 10 sie zeigt. Er entsteht dadurch, daß der Hieb
+schräg auf die Fläche des Kernsteins erfolgt. Dann kann sich nur ein
+Teil des Kegelmantels ausbilden, indem auf dem von der Schlagfläche aus
+in spitzem Winkel abspringenden Abspliß nur ein Schlagbuckel entsteht.
+Ganz große Meister der jüngeren Hälfte der älteren Steinzeit haben
+auf diese Weise Feuersteinklingen fast von der Länge eines kleinen
+Schwertes abgeschlagen; aus Obsidian, dem vulkanischen Glas, bringen
+die Bewohner der Admiralitätsinseln im Norden des Bismarck-Archipels
+ganz gleiche Kunstwerke noch heute mühelos zuwege.
+
+[Illustration: Abb. 10. Entstehung der Schlagzwiebel durch schrägen
+Schlag.]
+
+Daß eine solche Meisterschaft nur auf Grund einer endlos vererbten
+und gesteigerten Übung hat erreicht werden können, unterliegt keinem
+Zweifel. Welche Erfahrung gehört allein dazu, die Eigenschaften des
+Materials zu erkennen, seine Spaltrichtung, seine Härte, und wieviel
+Berechnung muß dann noch vorausgehen, um den Schlag mit Sicherheit und
+der Aussicht auf ein gutes Gelingen zu führen! Die Alten sind unbewußt
+große Physiker gewesen.
+
+Auf demselben Satz vom Parallelogramm der Kräfte beruht auch jene
+andere Methode der Steinbearbeitung, wie sie bei den Feuerländern
+und Eskimo noch neuerdings beobachtet worden ist, und wie sie auch
+während des ganzen jüngeren Paläolithikums Verwendung gefunden hat.
+Das ist das _Abdrücken_ von Splittern bei der feineren Bearbeitung der
+Steinklingen. Wie es bei den genannten amerikanischen Völkerschaften
+ausgeführt wird, habe ich bereits in den »Kulturelementen der
+Menschheit«, S. 25, unter Beifügung einer Abbildung beschrieben,
+die hier in Fig. 11 wiederholt sein mag. Es handelt sich dort um
+die Verwendung einer gebogenen Druckstange mit einem weicheren
+Einsatzstück, das man in bestimmtem Winkel auf die Kante des zu
+bearbeitenden Steins setzt, um nun durch einen starken Druck eine
+Lamelle zum Abspringen zu bringen. Der Leser begreift leicht, daß auch
+hier Richtung und Stärke des Drucks die Resultante darstellen; die
+eine der Komponenten verläuft dann tangential an der Schlagzwiebel,
+während die andere schräg durch den Abspliß geht. Ob die Paläolithiker
+den gleichen oder einen ähnlichen Apparat verwendet haben, läßt sich
+nicht mehr feststellen; das gleiche Prinzip haben sie indessen benutzt,
+auch wenn sie ihre Splitter nur mit einem einfachen Knochen oder einem
+Holzstab abgepreßt haben sollten.
+
+[Illustration: Abb. 11. Abdrücken von Steinlamellen bei den
+Alaska-Eskimo.]
+
+Wir nennen unsere Gegenwart mit Stolz nicht nur das Zeitalter des
+Kindes, sondern vielleicht mit noch mehr Berechtigung dasjenige
+der Maschine. In der Tat sind wir von solchen umgeben, wohin wir
+auch blicken: in der Industrie, in der Landwirtschaft und auch
+im anscheinend so elementaren Betrieb unseres Haushaltes. Die
+Begriffsbestimmung Maschine ist viel umstritten. Im physikalischen
+Sinn versteht man unter ihr eine Vorrichtung, die es ermöglicht,
+die Richtung, den Angriffspunkt oder die Größe einer Kraft in der
+gewünschten Weise abzuändern, wobei das, was an Größe der Kraft
+gewonnen wird, an Hubhöhe oder Schnelligkeit der Leistung verloren
+geht, oder umgekehrt. Man unterscheidet einfache und zusammengesetzte
+Maschinen. Als einfache Maschinen oder mechanische Potenzen bezeichnet
+man Hebel, Rolle und Rad an der Welle, schiefe Ebene, Keil und
+Schraube, weil sie keine Zerlegung in noch einfachere Maschinen
+zulassen. Die zusammengesetzten stellen Kombinationen der einfachen dar.
+
+Mit Ausnahme der Rolle reicht die Verwendung einfacher Maschinen im
+Wirtschaftsleben der Menschheit ebenfalls bis in deren Frühzeit
+zurück, wie wir im Lauf unserer Betrachtungen mehrfach sehen werden.
+Schon das hölzerne Urgerät verknüpft ihrer zwei miteinander. Das
+ist der in der neueren Völkerkunde viel besprochene _Grabstock_,
+dessen wirtschaftsgeschichtliche Bedeutung ich bereits in der
+»Urgesellschaft und ihrer Lebensfürsorge« zu würdigen versucht habe.
+Physikalisch vereinigen sich in ihm die beiden Maschinen des Keils
+und des Hebels. Das Wesen des Keils ist jedermann bekannt; er ist ein
+dreiseitiges Prisma, das mit einer Kante zwischen zwei Körper dringt,
+um diese vermöge einer auf seinem Rücken zur Wirkung gelangenden
+Kraft voneinander zu entfernen. Man kann ihn als ein System von zwei
+schiefen Ebenen auffassen, die mit ihren Grundflächen aneinander
+gelagert sind. Die Wirkung, allerdings auch der Weg, ist um so größer,
+je beträchtlicher die Seitenlänge des Keils im Verhältnis zu seinem
+Rücken, d. h. je spitzer oder schärfer er ist. Unter einem Hebel
+verstehen wir jeden um einen festen Punkt oder eine feste Achse
+drehbaren Körper, an dem Kräfte wirken. Schaukelbrett und Brecheisen
+sind gemeinverständliche Hinweise auf sein Wesen.
+
+Beider Wirkungsweise vereinigt sich also im Grabstock und damit wohl
+dem urtümlichsten und ältesten Werkzeuge der Menschheit überhaupt.
+In dem Augenblick, wo unser ältester Vorfahr denselben Stock, den er
+mutwillig vom nächsten Baum abgerissen hatte, mit der durch diese
+Abtrennungsart bedingten abgeschrägten Endfläche in den Erdboden
+stieß, um irgendeinen genießbaren Gegenstand herauszuholen, war der
+Keil erfunden, und wenn er darauf den Stock mit dem Schwung eines
+jugendkräftigen Geschlechts zur Seite bog, um die Knollenfrucht, oder
+worum es sich sonst handelte, dem Schoß der Erde zu entheben, so hatte
+sich ihm auch die Entdeckung des Hebels hinzugesellt, denn mit der
+Drehung um einen festen Punkt, in diesem Fall die Übergangsstelle in
+den Erdboden, wird der Stock eben zu dieser einfachen Maschine. Nach
+der einmal gewonnenen Erkenntnis ihres Wesens und ihrer Wirkung hat
+der Mensch dann gerade mit ihr förmlich gewuchert, denn wir finden den
+Hebel fortan fast bei allen außerkörperlichen Betätigungen verwendet.
+
+Uralte und dabei universale Formen des Keils sind alle unsere Schneid-,
+Hieb- und Stichgeräte und -waffen, ohne daß uns die physikalische
+Seite dieser Dinge für gewöhnlich so recht zum Bewußtsein kommt. Trotz
+ihrer Einfachheit sind sie dabei streng auf den Menschen beschränkt,
+indem kein Tier sich zur Höhe außerkörperlichen Schneidens, Hauens und
+Stechens emporzuschwingen verstanden hat.
+
+Im Sinn der Kappschen Theorie von der Selbstbeobachtung und der
+Organprojektion gibt dieser Umstand sehr zu denken. Diese berühmte
+Lehre sagt, daß zum Erkennen der Zweckmäßigkeit eines einmal
+erprobten Werkzeugs die Fähigkeit des Vergleichs mit den eigenen
+körperlichen Organen gehört (Kulturelemente S. 10 ff.). Erst wenn
+ich endgültig festgestellt habe, daß ein Steinsplitter, mit dem ich
+ein Fell zerschneide, vorteilhafter wirkt als meine eigenen Zähne
+oder meine Fingernägel, werde ich dem Werkzeuge den Vorzug geben, es
+beibehalten und gegebenenfalls vervollkommnen. Wenn nun nicht einmal
+die intelligentesten Tiere, trotzdem sie mit Stöcken schlagen und mit
+Steinen werfen, fähig gewesen sind, den Schritt zu den auf dem so
+einfachen Prinzip des Keils beruhenden Werkzeugen zu tun, so spricht
+das doppelt stark zugunsten der Kappschen Theorie. Lediglich der
+Mensch verfügt eben über jene Fähigkeit der Selbstbeobachtung, und
+nur er hat es in der Folge verstanden, die mangelhafte Wirkung seiner
+eigenen Schneid-, Hieb- und Stichorgane, also des Gebisses und der
+ausgestreckten Finger und ihrer Nägel, durch Messer und Zange, Stemm-
+und Hobeleisen, Beil und Säge, Lanze, Schwert und Dolch u. dergl. zu
+ersetzen. Das aber sind alles Dinge, die wiederum nur mit der Hand
+geführt werden können, so daß sich unser Wunderorgan also auch hier
+wieder als die unerläßliche Vorbedingung zum Aufstieg des Menschen
+darstellt.
+
+Nach diesem vorläufigen Einblick in die Gesetze der Physik, unter denen
+die beiden urtümlichsten Stoffe in den Dienst der jungen Menschheit
+gestellt worden sind, können wir die Flugbahn in das Reich der Mechanik
+nunmehr etwas ungebundener und kühner wählen, indem wir fortan auch
+solche Erscheinungen heranziehen, die ein tieferes, wenn auch immer
+noch unbewußtes Eindringen in die Geheimnisse der Natur zur Schau
+tragen. Manche von ihnen blicken auf ein ehrwürdiges Alter herab,
+während andere wieder viel jüngeren Datums, menschheitsgeschichtlich
+neue Erfindungen oder Entdeckungen sind. Sinnbilder des systematischen
+Hineinwachsens unseres Geschlechts in die Herrscherrolle über alles
+Organische und Unorganische bleiben sie dabei ohne Ausnahme.
+
+
+
+
+5. Das Leitungsvermögen.
+
+
+Die Wärme hat die Eigenschaft, sich auszubreiten, indem sie von Stellen
+höherer Temperatur zu solchen von niedrigerer übergeht. Das geschieht
+sowohl innerhalb ungleich erwärmter Körper selbst, wie auch zwischen
+zwei nebeneinandergelagerten verschiedenartigen Substanzen. Halten wir
+eine Metallstange ins Feuer, so wird auch das andere Ende warm, und
+halten wir an die heiße Metallstange irgendeinen anderen Körper, so
+erwärmt sich auch dieser. Jene Leitungsfähigkeit nennt man die innere,
+diese die äußere.
+
+Diesem Wärmeausgleich gegenüber verhalten sich die verschiedenen
+Substanzen nun höchst ungleich; während die Metalle im allgemeinen
+gute Leiter sind, gehören alle übrigen Substanzen zu den schlechteren.
+Setzen wir, wie es üblich ist, das Leitungsvermögen des Silbers
+gleich 100, so zeigt die Tabelle für eine Anzahl von Körpern folgende
+Vergleichszahlen:[3]
+
+  ========================+==================
+         Substanz         | Leitungsvermögen
+  ------------------------+------------------
+  Silber                  |       100
+  Kupfer                  |        74
+  Eisen                   |        12
+  Wismut                  |         2
+  Eis                     |         0,5
+  Glas                    |         0,2
+  Wasser                  |         0,14
+  Holz längs der Fasern   |         0,15
+  Holz quer zu den Fasern |         0,07
+  Baumwolle               |         0,05
+  Papier                  |         0,03
+  Schafwolle              |         0,02
+  Seide                   |         0,02
+  Luft                    |         0,005
+
+Diese Verschiedenheiten haben die Menschheit zu den mannigfaltigsten
+Maßnahmen und Verhaltungsregeln veranlaßt. Zunächst in Kleidung und
+Wohnung, dann auch in der Küche; schließlich und vor allem in der
+Technik.
+
+Die Völkerkunde unterscheidet in der heutigen Tracht nach Georg
+Gerland die tropische, die subtropische und die boreale oder nordische
+Form. Jene ist am schwächsten; sie fehlt oftmals ganz oder doch bei
+bestimmten Bevölkerungsteilen und bedeckt nie größere Körperflächen,
+sondern beschränkt sich im großen und ganzen auf die Hüftpartie. Nur
+wo großflächige Stoffe leicht erhältlich sind, nimmt die tropische
+Kleidung ebenfalls größere Dimensionen an, wie bei den Haussa in
+Westafrika, den Baganda im Nordwesten des Viktoria Nyansa und
+neuerdings den Massai und Wahehe in anderen Teilen Ostafrikas.
+
+Die subtropische Kleidung besteht aus einem hemdartigen Unterkleid und
+dem Mantel, wie die altrömische Tunika und die Toga dartun. Große Teile
+des Körpers bleiben dabei frei; der Mantel ist zudem leicht ablegbar --
+kurz, es handelt sich offensichtlich um eine Übergangsform.
+
+Das boreale Kleid endlich bedeckt den ganzen Körper und besteht aus
+vielen neben- und übereinandergetragenen Stücken, von der Kopfbedeckung
+bis zu Strumpf und Schuh herunter. Sie ist im Begriff, sich die ganze
+Welt zu erobern.
+
+Die menschliche Kleidung ist nach alledem sichtlich eine
+Anpassungserscheinung an das Klima. Sie ist als Folgewirkung unserer
+Ausnahmestellung rein außerkörperlich, im strengen Gegensatz zum Tier,
+welches sich einer rauheren Außenwelt durch einen natürlichen Pelz
+anpaßt. Pelzwerk ist in der Tat der gegebene Kleidungsstoff für den
+hohen Norden, denn es vereinigt in sich alle Eigenschaften, die an
+ein zweckentsprechendes Gewand gestellt werden müssen: ein eigenes,
+schlechtes Leitungsvermögen und zugleich die Fähigkeit, in seinen
+lockeren Haar- oder Federmassen -- es gibt bei den Hyperboräern auch
+Vogelbalgpelze -- viele Luft einzuschließen und zurückzuhalten. Nach
+dem treffenden Vergleich von A. Byhan in dessen hübschem Buch »Die
+Polarvölker« (Leipzig 1909) läuft die dortige Kleidung auf das gleiche
+Prinzip wie unser Doppelfenster hinaus; wie dieses zwischen den an sich
+schon schlecht leitenden Glasscheiben noch eine ganz schlecht leitende
+stehende Luftschicht beherbergt, verringert auch die arktische Kleidung
+den Zutritt äußerer Kälte und den Verlust an Eigenwärme auf ein
+Minimum. Auf beides kommt es bei aller warmen Kleidung an; daher die
+zwiebelartige »Vielschaligkeit« auch unserer Wintertracht im Gegensatz
+zur sommerlichen.
+
+Faßt man, wie manche Kulturhistoriker es tun, den menschlichen
+Wohnbau als eine Erweiterung unserer Kleidung auf, sozusagen als
+das gemeinsame weitere Gewand einer ganzen Menschengruppe, so darf
+es uns nicht wundern, die auf das Kleid verwendeten physikalischen
+Leitsätze auch beim Hause wieder zu finden, diesmal allerdings mit der
+Maßgabe, daß man in den heißen Ländern die Wärme nicht in das Haus
+hinein-, sie in den kalten aber nicht herauslassen will. Daher das
+sehr weit nach außen überstehende oder tief nach unten ragende Stroh-
+oder Palmendach so vieler tropischer Häuser und Hütten; daher die
+Fensterlosigkeit ebendort; daher schließlich die verschiedenartigen
+Abschlußmethoden arktischer Völker gegen die eisige Außenluft. Von
+diesen am bekanntesten ist der lange, in den Schnee oder auch den
+Boden gegrabene Gang bei den Eskimo, der entweder gekrümmt oder
+unterhalb des Niveaus der Hüttensohle angelegt ist. In Verbindung mit
+der luftdichten Bauart der Winterhütten verhütet besonders der tief
+angelegte Gang den Abfluß der Wärme nach außen und den Zustrom äußerer
+Kälte nach innen, indem die in dem unterhalb der Hüttensohle gelegenen
+Teile der Gangröhre lagernde schwere Luft ganz wie ein Stöpsel wirkt.
+Bei den Wandertschuktschen und Korjaken des nordöstlichsten Asiens
+beruht die Isolation weniger auf dem Gewicht als auf dem Einschluß
+der Luft. Diese leitet nur dann schlecht, wenn sie an der Bewegung
+verhindert ist, so daß sie nicht wechselt und solange sie nicht durch
+Verdampfung von Wasser Wärme entzieht. Daher für die Eingebornenkinder
+dort am Kältepol die Möglichkeit, bei mehr als 60° unter Null nackend
+im Schnee zu spielen, solange die Luft sich nicht regt. Um auch im
+Zelt dagegen geschützt zu sein, legt man in ihm eine Isolierkammer
+aus Renntierfellen an, die mit der Haarseite nach innen gekehrt sind.
+Sie nimmt etwa den dritten Teil des Innenraumes ein, wird tagsüber
+mit Lampen geheizt und dient des Nachts als Schlafraum. Die um sie
+herumlagernde starke Luftschicht sichert ihr durchaus genügende
+Temperaturverhältnisse zu.
+
+Das geringe Leitungsvermögen von Schnee und Eis ist gleichfalls in
+mehrfacher Weise ausgenutzt worden. Zunächst in der des Iglu, der
+bekannten Schneehütte der Zentraleskimo (vergl. Kulturelemente, Seite
+83 ff.), die physikalisch nach jeder Richtung hin gut begründet
+ist; denn zu dem schlechten Leitvermögen der Schnee- oder richtiger
+Firnwand selbst gesellen sich der soeben geschilderte Abschluß durch
+die Gangröhre und das ebenso geringe Leitvermögen des Fensters aus
+Seehundsdarm oder Eis. Sodann in einer primitiveren Form, indem sich
+der Sibirier, sofern er in den polaren Einöden von einem Schneesturm
+überfallen wird, ein Loch in den Schnee scharrt, gerade groß genug, um
+darin kauern zu können, und es mit Zweigen u. dergl. überdeckt. Etwas
+ähnliches unternimmt nach Heilborn[4] auch der nordamerikanische Elch,
+indem er sich richtige umwallte Schneeburgen schafft, nur daß er nicht
+für deren Bedachung zu sorgen weiß.
+
+In ein neues Verhältnis zum Leitungsvermögen der Substanzen tritt
+der Mensch mit der Hereinziehung des _Feuers_ in seinen Bereich,
+insonderheit seine Küche und die Technik. Solange er es nur zum Rösten
+und Braten benutzte, konnte es seinen Händen nicht gefährlich werden,
+denn der Stock, auf den er das Fleisch steckte, der Rost, auf den er
+es legte, waren beide schlechte Leiter, die er ruhig angreifen konnte,
+ohne sich zu verbrennen. Viel später kommt dann das Kochen auf, die
+Aufschließung der Speisen in siedendem Wasser. An Möglichkeiten, den
+Siedepunkt zu erzielen, gab es zwei, die auch beide benutzt worden
+sind. Die eine ist das Kochen von oben her mit Hilfe glühender Steine,
+die man in das Wasser hineinwirft (Abb. 12 ~a~), bis es siedet, um
+es durch weiteren Nachwurf auf dieser Temperatur bis zur Erreichung
+des jeweiligen Endzwecks zu erhalten. Dabei mußte das Auswechseln der
+Steine Nachdenken verursachen, bis ein Schlaukopf die Kelle erfand,
+oder auch die Zange, indem er einen Zweig einfach in der Mitte
+zerknickte, um nunmehr die Steine einzeln zwischen die Zweigenden
+zu klemmen (Abb. 12 ~b~). Schlechte Wärmeleiter und darum praktische
+Küchengeräte waren Kelle wie Zange aus bekannten Gründen.
+
+[Illustration: Abb. 12 ~a~ und 12 ~b~. Steinkochen bei kalifornischen
+Indianern. (Nach Holmes.)]
+
+Die andere Methode ist das gegenwärtig über die ganze Erde mit
+Ausschluß der Südsee geübte Kochen von unten her. Wir benutzen dabei
+Metallgefäße, deren Dünnwandigkeit und gutes Leitungsvermögen eine
+rasche Erhitzung von Topf und Inhalt verbürgen. Weitaus ungünstiger
+ist und war die Lage für alle Köchinnen, die sich lediglich der
+Tongefäße bedienen konnten, wie es vom Beginn der jüngeren Steinzeit
+an jahrtausendelang in Europa üblich war, und wie es bei vielen
+Urbewohnern von Asien, Afrika und Amerika noch heute der Fall ist.
+Ton leitet ungleich schlechter als Metall, und zumal die dickwandigen
+Gefäße der älteren Perioden müssen der Wärmeübertragung nachhaltigen
+Widerstand entgegengebracht haben.
+
+Das gilt nun im Höchstmaß schließlich von den noch urwüchsigeren
+Gefäßen, mit denen die Frau vor der Erfindung der Töpferei ihr
+Heil versuchte. Das konnten in Afrika Straußeneischalen sein, dort
+und anderswo Flaschenkürbisse, abgedichtete Schildkrötenschalen,
+Bambusröhren oder Bast- und Rindengefäße oder ähnliches, meist aber
+doch wohl eigens ausgehöhlte Holzschalen, jedenfalls lauter Substanzen
+von ganz geringem Leitungsvermögen, so daß ihre Verwendung in unserer
+Zeit der Kohlenteuerung und Kohlenknappheit kaum empfehlenswert sein
+dürfte.
+
+Aber kann man denn in Holzgefäßen überhaupt kochen? Die müssen doch
+elendiglich verbrennen, bevor der Inhalt auch nur eine halbwegs
+höhere Temperatur erreicht haben wird. Nun, man kann sogar in
+einem Papiergefäß kochen, in ihm sogar eine Bleikugel schmelzen,
+vorausgesetzt, daß man dafür sorgt, daß die Flamme keine freiliegende
+Stelle beleckt. Das Papier gibt die Wärme rasch an den Inhalt ab.
+Da die Wassertemperatur dabei nicht über 100° hinaussteigt und auch
+Blei schon bei 330° schmilzt, beide Temperaturen dem Papier jedoch
+nicht schaden, so bleibt es unverletzt. Bei den übrigen organischen
+Kochgeschirren liegen die Verhältnisse ganz ähnlich: zwar können
+sie außen verkohlen, doch schlägt die Flamme nicht durch, weil das
+benachbarte Wasser mit seiner relativ niedrigen Temperatur dies
+verhindert. Noch aus der jüngsten Vergangenheit ist der Gebrauch von
+Bastkörben und Bambuszylindern zu Kochzwecken aus Indonesien verbürgt
+(Abb. 13); es wäre nicht ohne Interesse zu wissen, ob die dortigen
+Hausfrauen für die doch immerhin vorhandene Seltsamkeit des Vorganges
+irgendwelches Verständnis haben oder ob sie ihn hinnehmen wie jedes
+andere alltägliche Geschehnis im Leben auch.
+
+[Illustration: Abb. 13. Pflanzliches Kochgefäß, Nikobaren.]
+
+Mit dem Aufkommen der Metalle lernt der Mensch schließlich auch die
+höheren Leitungsvermögen kennen. Er wird sicher schweres Lehrgeld in
+Gestalt verbrannter Finger bezahlt haben, bevor er begriff, daß man
+ungestraft kein heißes Metall berührt. Ganz Afrika hatte denn auch
+Schmiedezangen uralten Stils in der Form jener geknickten Holzstäbe,
+bis die Berührung mit dem Europäer auch hier die eiserne Zange mit den
+aufgesteckten hölzernen Handgriffen und damit ein Isoliermaterial von
+nur 0,15 oder gar 0,07 Leitungsfähigkeit eingeführt hat. Die Verwendung
+anderer Isoliermittel, wie Filz, Stroh, Sägespäne, Kieselgur,
+Kork, Kautschuk und dergleichen, gehört erst späteren Stufen der
+Metalltechnik an. Ohne diese Hilfsmittel wäre sie gar nicht zu denken.
+
+
+
+
+6. Der Luftdruck.
+
+
+Die meisten Flüssigkeiten verdampfen an ihrer Oberfläche bei jeder
+Temperatur. Das Wasser z. B. verdampft schon bei 0 Grad langsam, bei
+Zimmertemperatur schneller, bei höheren Temperaturen noch schneller.
+Dabei aber verdampft es immer nur an der Oberfläche, bis durch weiteres
+Erhitzen schließlich eine Temperatur erreicht wird, wo sich auch im
+Innern Dampf bildet. Diese Temperatur nennt man den Siedepunkt einer
+Flüssigkeit; sie besagt, daß die Spannkraft der in ihr enthaltenen
+Dämpfe dem auf der Flüssigkeit lastenden Druck das Gleichgewicht hält.
+
+Das Wesen des Siedepunktes ist für die Mehrzahl selbst der sogenannten
+Gebildeten ein Buch mit sieben Siegeln; wir dürfen also mit um so
+weniger Recht gegen die Naturvölker den Vorwurf erheben, die Tatsache
+der Luftschwere nicht erkannt zu haben. Kochen können viele von ihnen
+trotzdem vielleicht ebensogut wie manche weiße Bürgersfrau. Auch von
+der exakten Feststellung des Luftgewichts, wie es unsere Barometer uns
+täglich vorführen, ist keinem jener Völker jemals Kunde geworden, und
+trotz alledem haben etliche von ihnen von der Tatsache selbst in ganz
+angemessener Weise Gebrauch gemacht.
+
+[Illustration: Abb. 14. Der Schiffshalter.
+
+(Nach Brehms Tierleben.)]
+
+In allen Meeren tropischer und gemäßigter Breiten, auch im Mittelmeer,
+lebt die Fischgattung Echeneïs, im Volksmund Schildfisch oder
+Schiffshalter genannt. Jenen Namen führt er von einer ovalen Scheibe
+her, die, wie die Abbildung 14 zeigt, an Kopf und Nacken sitzt und
+aus zahlreichen kleinen, aufrichtbaren Platten besteht, die von einem
+erhöhten Rand umgeben und von einer Längsleiste geteilt werden. Drückt
+der Fisch den Rand mit dem die Scheibe umgebenden Ringmuskel an einen
+anderen Gegenstand an und richtet darauf die Platten hoch, etwa so, wie
+wir die Blätter einer Jalousie hochrichten, so entsteht zwischen diesen
+Platten ein luftverdünnter Raum, und die Scheibe heftet sich fest an.
+Das ist eine Folge des atmosphärischen Druckes, zu dem im Wasser noch
+der Druck der über der Haftungstiefe lagernden Wassersäule hinzutritt.
+Auf diese Weise saugt sich der Echeneïs an größeren Fischen,
+namentlich an Haien, fest und läßt sich fortschleppen, vermutlich, um
+sich seine Nahrung so bequem wie möglich zu verschaffen. Gern heftet
+er sich aber auch an Schiffe, und da das Volk in seinem naiven Glauben
+Tieren stets Übermächtiges zutraut, so ist er schon früh in den Geruch
+gekommen, Schiffe sogar anhalten zu können. Daher die Bezeichnung
+Schiffshalter.
+
+Die Unterart ~Echeneïs Remora~, der diese Macht im Gebiet der alten
+Mittelmeerkultur zugeschrieben wurde, ist nur 20-25 ~cm~ lang; von ihr
+ist also eine wirkliche Kraftleistung nicht zu erwarten. Dahingegen
+haben sich die Bewohner von Westindien, der Insel Sansibar und der
+Torresstraße die ungleich gewichtigere Masse des bei ihnen heimischen
+~Echeneïs Naucrates~ (des »Schiffsmächtigen«) zunutze gemacht, indem
+sie mit ihm zwar keine Schiffe, nicht einmal kleine Boote, wohl aber
+Schildkröten aufhalten und fangen. Das geschieht in der Weise, daß
+sie sich mehrere Exemplare des 1 Meter langen Fisches einfangen und
+bis zum Fangtage gefangen halten. Den armen Geschöpfen durchbohrt man
+dabei den Schwanz, zieht einen Strick hindurch und schlingt diesen
+sicherheitshalber noch um den Schwanz herum. Am Fangtage selbst fährt
+man aufs Meer hinaus, die »Meute« an der Leine. Ahnungslos treiben in
+süßem Schlummer Schildkröten auf den Wellen. Da jagt es in der Tiefe
+von allen Seiten unhörbar heran, saugt sich jäh, aber unlösbar ringsum
+fest; der Fischer zieht langsam die Leinen an -- das Wild ist gefangen.
+
+Das andere Vorkommnis gehört nicht im wissenschaftlichen Sinn unter die
+Rubrik Luftdruck, wohl aber im volkstümlichen, weshalb es an dieser
+Stelle gleichwohl Aufnahme finden soll.
+
+Die Verwandlung von Arbeit in Wärme ist uns allen bekannt und geläufig.
+So oft wir ein Zündholz reiben oder mit Stahl und Stein Feuer schlagen,
+erzeugen wir Wärme aus Arbeit; erst die durch Reibung oder Schlag
+entstandene Wärme entzündet den Phosphor oder den Schwamm. Darauf
+beruhen auch alle Feuererzeugungsmethoden der Wilden, das Quirlen
+mit dem Bohrstab wie das Reiben in der Längsrinne und das Sägen in
+der Querrille. (Vergl. die »Kultur der Kulturlosen«, Seite 60-94.)
+Selbst die Erzeugung von Feuer in der pneumatischen Röhre beruht auf
+demselben Gesetz: durch die rasche Kompression der Luft in der unten
+geschlossenen Röhre wird die Luft so heiß, daß sie den in der unteren
+Stempelhöhlung untergebrachten Schwamm entzündet. Ob die Bewohner
+Hinterindiens und der großen Sunda-Inseln, wo dieses pneumatische
+Feuerzeug im Gebrauch ist, allerdings unabhängig von uns auf die Idee
+gekommen sind, bleibe einstweilen dahingestellt. Möglicherweise ist
+ein genialer Kopf bei der Herstellung eines Blasrohres, der für jene
+Gebiete charakteristischen Fernwaffe, besonders energisch gewesen; in
+dem Bemühen, das Internodium einer markhaltigen Pflanze zu durchstoßen,
+um einen glatten Lauf zu gewinnen, mag er seinen Stempel mit starker
+Wucht nach unten gedrückt haben, um mit Erstaunen festzustellen, daß
+sich das fein zerteilte Mark dabei entzündet habe. Dann gehörte nur
+noch das Erfassen des Vorgangs hinzu, um die Erfindung bewußt weiter zu
+erhalten und auszubauen.
+
+[Illustration: Abb. 15. Afrikanischer Schröpfkopf.]
+
+Auf exakten wissenschaftlichen Prinzipien beruht hingegen wieder
+eine medizinische Verwendung des Luftdrucks. Das ist die Anwendung
+des Schröpfkopfes, der keineswegs auf die Heilkunst der Kulturvölker
+beschränkt ist, sondern sich ganz allgemein auch in Afrika, vereinzelt
+auch im Malaiischen Archipel und Nordamerika findet. Bei uns hat er
+die Form einer kleinen Metall- oder Glasglocke, die man über einer
+Weingeistflamme schwach erhitzt und möglichst schnell auf die zu
+schröpfende Hautstelle setzt. Durch die Volumenverminderung der Luft
+entsteht ein luftverdünnter Raum, in den die Haut und dabei auch die
+Blutgefäße dieser Partie hineingepreßt werden. Das geschieht durch
+den atmosphärischen Druck, der alle Teile unseres Körpers füllt,
+widrigenfalls wir unter der ungeheuren Last von etwa 300 Zentnern,
+die auf unserer rund 1½ Quadratmeter großen Körperoberfläche lagert,
+elendiglich zusammenbrechen würden. Hatte man vor dem Ansetzen des
+Schröpfkopfes Einschnitte gemacht, so tritt das Blut jetzt aus diesen
+heraus; war das nicht geschehen, so wird das Blut aus der Nachbarschaft
+des Schröpfkopfes nur unter diesen hingezogen, also von den darunter
+liegenden Teilen weggeleitet. Abb. 15 zeigt uns die Schröpfung eines
+Ostafrikaners. Der afrikanische Schröpfkopf besteht in der Regel aus
+der Spitze eines Kuhhornes, in die man von oben her ein Loch gebohrt
+hat. Zur Herbeiführung des Vakuums setzt der Medizinmann das breite
+Ende auf die zu schröpfende Hautstelle und saugt mit dem Munde, so
+stark er kann. Glaubt er das Horn luftleer genug, so praktiziert er
+geschickt mit der Zunge ein Stück Wachs, das er im Munde hält, auf
+die obere Öffnung und setzt den Mund ab. Das Horn wirkt nun in genau
+derselben Weise, nur vermutlich noch stärker, als unser »zivilisiertes«
+Gegenstück.
+
+
+
+
+7. Hebel, Rolle und Rad an der Welle.
+
+
+~a~) _Der Hebel._
+
+Den Hebel im eigentlichen Sinn haben wir bereits beim Auftakt zu
+unseren Betrachtungen, beim Grabstock, kurz berührt; in Wirklichkeit
+hat die primitive Menschheit sich seiner und seiner Abarten in viel
+umfangreicherer und zum Teil auch höchst sinnreicher Weise bedient.
+
+Abb. 16 zeigt uns das den Kosmoslesern aus den »Kulturelementen«
+bekannte Bild eines Neuguinea-Mannes bei der Herstellung eines
+Muschelarmringes. Er hat sich ein Stück aus dem riesenhaften Gehäuse
+von ~Tridacna gigas~ handlich zurecht geschlagen, es mit Rotangstreifen
+umflochten und in einer Vertiefung seiner hölzernen Arbeitsunterlage
+festgeklemmt. Bohrer kann, wie in den »Kulturelementen« beschrieben
+wurde, jeder hohle oder massive Holzstab sein, nur daß man Quarzsand
+als Angriffsmittel hinzuziehen muß. Für gewöhnlich verwendet man den
+leicht zugänglichen Bambus.
+
+[Illustration: Abb. 16. Neuguinea-Mann beim Muschelbohren.
+
+(Nach v. Luschan).]
+
+Technohistorisch interessant ist das Verfahren, außer durch die
+erwiesene Erkennung des Härteunterschiedes zwischen Muschelschale und
+Quarz, durch die wenn auch noch so urwüchsige Verwendung des Hebels,
+wie sie in Gestalt des angebundenen länglichen Steins erfolgt. Durch
+seine Masse wirkt er gleichzeitig als Beschwerer, also im Sinn eines
+selbsttätigen Vorschubs, und zugleich endlich auch als Schwungrad. Das
+Verfahren enthält also bereits alle wesentlichen Keime unserer modernen
+Bohrmaschinen.
+
+Der Mann könnte auf den Stein verzichten und den Bambus mit den
+bloßen Händen zu drehen versuchen; das wäre dann ein Rückfall auf die
+Ausgangsmethode für alle menschliche Bohrtätigkeit überhaupt. Sie ist
+bis auf die elementare Erzeugung des Feuers durch den mit den bloßen
+Händen gequirlten Bohrstab vielerorts durch Verfahren vervollkommnet
+worden, die schon wirklich zusammengesetzte Maschinen bedeuten.
+Dem Pumpenbohrer werden wir bei den Kapiteln Schraube bzw. schiefe
+Ebene und Trägheitsgesetz wiederbegegnen, während man Drehstrick und
+Drehbogen physikalisch als Hebel auffassen kann, deren Drehpunkt in der
+Längsachse des Bohrstabes liegt.
+
+Prähistoriker haben auf Grund von Teilfundstücken, die man als
+authentisch glaubt ansehen zu können, Bohrmaschinen und Steinsägen
+konstruiert, von denen die in Abb. 17 und 18 wiedergegebenen
+Forrerschen aus dem Neolithikum nach vielfach geteilter Ansicht
+am besten beglaubigt sind. Über ihre technische Seite handelt ein
+Aufsatz im »Kosmos-Handweiser« 1917, Seite 14-16; im übrigen sprechen
+die Zeichnungen für sich selbst. Physikalisch stellt der sogenannte
+Vorschub, d. h. der horizontale Balken, an dem Bohrstab wie Sägenträger
+befestigt sind und dessen Aufgabe es ist, Bohrholz wie Sägenstein
+in die Unterlage hineinzutreiben, je seinen sog. _einarmigen Hebel_
+dar. Dessen Wesen wird dem Leser am besten durch den Hinweis auf
+unseren Schubkarren klar. Beide Arme wirken auf der nämlichen Seite
+des Drehungspunktes, beim Karten also der Radachse. Die Last zieht am
+kürzeren Arm, nämlich der Ladefläche, nach unten, während sich die an
+den Griffen des längeren Hebelarms aufwärts ziehende Muskelkraft des
+Kärrners dagegen stemmt. Bei den beiden neolithischen Maschinen ist
+es umgekehrt: der längere Arm drückt in beiden Fällen nach unten, die
+Härte des Steins hingegen wirkt in entgegengesetzter Richtung. Bei der
+Säge stellt das pendelartige Gebilde einen weiteren einarmigen Hebel
+dar. Die Hand zieht oder schiebt am kürzeren Arm; den Widerstand findet
+sie in der Rinne der zu zerteilenden Unterlage.
+
+[Illustration: Abb. 17. Neolithische Bohrmaschine.
+
+(Nach Forrer.)]
+
+[Illustration: Abb. 18. Neolithische Steinsäge.
+
+(Nach Forrer.)]
+
+Auf gesicherteren Bahnen bewegen wir uns dem Gebrauch derartiger
+Maschinen gegenüber, soweit wir ihnen bei Naturvölkern von heute
+begegnen. Einfache Verlängerungen des menschlichen Hebelarmes und
+dabei doch ungemein wirksam sind das _Wurfholz_ und die _Schleuder_.
+Jene sind Vorrichtungen aus Holz, Bambus oder Knochen von 40-120
+~cm~ Länge und brett- oder stabförmiger Gestalt, die zum verstärkten
+Fortschleudern von Wurfspeeren oder Pfeilen dienen. Das geschieht,
+indem entweder ein am hintern Ende des Wurfholzes befindlicher Haken
+in das etwas ausgehöhlte untere Ende des Speer- oder Pfeilschaftes
+faßt (s. Abb. 19), oder indem ein im Wurfholz selbst befindliches
+rinnenförmiges Widerlager einen am Speerschaft angebrachten Haken
+aufnimmt (Abb. 20). Der Speerschaft selbst liegt in beiden Fällen
+dem Wurfholz dicht an, wobei er zwischen den freien Fingerenden der
+werfenden Hand eine gewisse Führung erhält. Manche Völker werfen den
+Speer so mit der Rechten allein; andere stützen sein vorderes Ende auf
+die hoch nach vorn ausgestreckte Linke. Die Wurfbewegung beschreibt
+dabei keine eigentliche Kreisform, sondern erfolgt mehr zugartig,
+wobei sich das Wurfgeschoß leicht aus der Befestigung löst, ohne
+daß die anfängliche Zielrichtung eine Änderung erfährt. Besonders
+die Ablösungsvorrichtungen der Eskimo stellen wahre Wunderwerke an
+Durchdachtheit dar; einwandfreier würde auch kein weißer Ballistiker
+diese Probleme lösen.
+
+[Illustration: Abb. 19. Australische Speerschleuder.]
+
+Verbreitet ist das Wurfholz über große Teile Australiens, Mela- und
+Mikronesiens, über den Nordosten Asiens und den gesamten von Eskimo und
+einigen ihrer Nachbarn bewohnten Norden Amerikas, über einen kleinen
+Bezirk von Mexiko und das zentrale Brasilien. Im vorkolumbischen
+Amerika war es viel weiter in Gebrauch; vor allem auch bei den alten
+Kulturvölkern Mexikos und den Inkaperuanern. In Europa endlich
+glaubt man es schon im ausgehenden Paläolithikum, in der sogenannten
+Renntierzeit, nachweisen zu können.
+
+[Illustration: Abb. 20. Speerschleuder in Neuguinea.]
+
+Die Wirkung beruht auf den Gesetzen des Hebels und der Fliehkraft. Man
+beabsichtigt, durch eine größere Anfangsgeschwindigkeit eine größere
+Durchschlagskraft oder eine beträchtlichere Wurfweite zu erzielen, und
+erreicht das dadurch, daß bei der Anwendung des Wurfholzes die Kraft
+des Armes längs eines längeren Weges aufgewendet wird, um auf dem
+Geschoß eine größere Geschwindigkeit aufzuhäufen. Beim Wurf aus freier
+Hand wirkt die Kraft nur auf eine kürzere Strecke.
+
+Den übrigen künstlichen Wurfvorrichtungen, die von gewissen Völkern
+zur Erzielung größerer Wirkungen ersonnen worden sind, den Wurf- oder
+Rollriemen und Wurfschlingen, werden wir unter einem anderen Stichwort
+begegnen.
+
+Die _Schleuder_ und ihr Gebrauch sind allgemeiner bekannt, trotzdem sie
+aus unserem Volksleben seit langem verschwunden ist. Ihre Bestandteile
+sind zwei Schnüre, zwischen denen ein Stück Leder oder ein kleines
+Geflecht von der Form einer zusammenklappbaren Tasche befestigt ist.
+Zum Wurf legt man einen Stein in diese Tasche, wickelt das Ende der
+einen Schnur um die drei letzten Finger und faßt das Ende der anderen
+Schnur zwischen Daumen und Zeigefinger. Dann versetzt man den Stein
+in rasche Kreisbewegung und läßt im geeigneten Moment das letzte
+Schnurende los, worauf der Stein mit erstaunlicher Geschwindigkeit
+fortfliegt.
+
+Die Wirkung gleicht ganz derjenigen des Wurfholzes, beruht also
+ebenfalls auf den Prinzipien des Hebels und der sogenannten Fliehkraft.
+Eine solche gibt es nun gar nicht, sondern was man so oder Schwungkraft
+nennt, ist lediglich die Folge des Beharrungsvermögens oder der
+Trägheit, kraft dessen jeder Körper in seinem Zustande der Ruhe oder
+der gleichförmigen Bewegung in geradliniger Bahn verharrt, solange
+er nicht durch einwirkende Kräfte gezwungen wird, diesen Zustand
+zu ändern. Ein in krummliniger Bahn bewegter Körper widerstrebt
+der Krümmung seiner Bahn also mit der aus dem Beharrungsvermögen
+entspringenden Kraft, eben der Fliehkraft oder Zentrifugalkraft.
+Eine auf gekrümmter Bahn dahinfahrende Lokomotive hat in jedem
+Augenblick das Bestreben, entlang der Berührungslinie oder Tangente
+der Bahn geradeaus zu gehen, also sich vom Mittelpunkt der Kurve
+zu entfernen. Dieses Bestreben äußert sich durch einen Druck der
+Radkränze auf die äußere Schiene. Dieser Druck oder diese Kraft heißt
+die Zentrifugalkraft. Ihr entgegen wirkt von seiten der unnachgiebigen
+Schiene eine gleich große, nach innen gerichtete Kraft, die als
+_Zentripetalkraft_ die Lokomotive zwingt, auf den Schienen zu bleiben.
+
+Bei der rasch im Kreis herumgeschwungenen Schleuder erleiden die
+Schnüre eine Spannung, die, als Zentripetalkraft nach innen wirkend,
+den Stein nötigt, von der geradlinigen tangentialen Bewegung
+abzuweichen und eine Kreislinie zu beschreiben. Die Zentrifugalkraft
+übt zugleich einen Zug auf _die_ Hand aus, die die freien Enden der
+Schnüre festhält. Läßt diese Hand die eine der Schnüre frei, so hört
+mit der Zentripetalkraft auch die Zentrifugalkraft plötzlich auf,
+und der Stein fliegt, nunmehr nur noch der Trägheit gehorchend,
+in tangentialer Richtung mit der Geschwindigkeit davon, die er im
+Augenblick des Loslassens besaß.
+
+Mitten in das Wirtschaftsleben der Naturvölker zweier Erdteile führen
+uns die nächsten Verwendungsarten des Hebels.
+
+Abbildung 21 ~a~ zeigt eine Ölpresse der Pangwe im äquatorialen
+Westafrika. Ihre Einrichtung ist einfach genug und aus der Zeichnung
+ohne weiteres ersichtlich. Die auszupressende Masse der mazerierten
+und vorgewärmten Palmölfrüchte füllt das Beutelchen am senkrecht
+aufgehängten Preßbrett. Der Hebel ist wieder einarmig; sein Drehpunkt
+ist das feste Widerlager am handfreien Ende, längerer Arm die Strecke
+vom Drehpunkt bis zu den Händen des Arbeiters, der kürzere die Strecke
+vom Drehpunkt bis zum gepreßten Sack.
+
+[Illustration: Abb. 21 ~a~ und ~b~. Ölpresse der Pangwe. ~a~ nach
+Herzog Adolf Friedrich, ~b~ nach G. Tessmann.]
+
+Die Methode, wie unsere Abb. 21 ~a~ sie zeigt, bedeutet in der Technik
+der Pangwe einen Fortschritt. Nach einem anderen Beobachter nämlich
+erfolgt das Pressen auch noch in der Art, daß der Arbeiter den Hebel
+nicht selbst auf den Ölsack drückt, sondern das freie Hebelende an
+den rechten Pfosten heranzieht und dort festbindet (Abb. 21 ~b~),
+so daß der nunmehr stark gekrümmte Preßstab lediglich durch seine
+Elastizität wirken kann. Unter diesem ersten Stock befestigt er in der
+gleichen Weise einen zweiten, einen dritten usf., so daß der Zweck des
+Auspressens schließlich auch auf diese kindliche Weise erreicht wird.
+Entwicklungsgeschichtlich erweckt, wie gesagt, dieses Verfahren den
+urwüchsigeren Eindruck; ob es gleichwohl autochthon, d. h. von den
+Pangwe selbst erfunden, oder ob es von irgendwo anders her entlehnt
+worden ist, kann einstweilen nicht entschieden werden. Zwar sind die
+Pangwe, trotzdem sie lange im Verdacht eines stark ausgebildeten
+Kannibalismus gestanden haben, ein intelligentes Volk, dem man eine
+derart einfache, eigentlich auf der Hand liegende Maschine schon
+zutrauen könnte, doch ist der Neger nach der technischen Seite hin im
+allgemeinen nicht hoch veranlagt.
+
+Das gilt in etwas erhöhtem Grade von manchen südamerikanischen
+Indianern und in beträchtlich höherem von den Eskimo, die man mit Fug
+und Recht die einzigen wirklichen Handwerker unter den Naturvölkern
+nennen kann.
+
+Hauptnahrungsmittel der meisten Indianerstämme Brasiliens ist das Mehl
+aus der Wurzel des Kassawestrauches ~Manihot utilissima~. Diese Knolle
+enthält neben geringen Mengen von Blausäure (0,002 vom Tausend) den
+überaus starken Giftstoff Manihotoxin, der vor dem Genuß natürlich
+entfernt werden muß. Das geschieht, indem man die Wurzeln zu Mehl
+zerreibt, dieses zu einem wässrigen Brei anrührt und den giftigen Saft
+dann entweder durch Kneten auf einem feinen Sieb oder durch Pressen
+in einem Schlauch entfernt. Diese Schläuche heißen Tipití; sie sind
+aus zähen Rohrstreifen geflochten, 1,50 bis 2 Meter lang, zylindrisch,
+und endigen oben und unten je in einer Schleife oder Öse. Zum Gebrauch
+füllt man den Schlauch mit dem Brei und hängt ihn mit der oberen Öse
+an einem vorstehenden Querbalken des Hauses auf. Durch die untere Öse
+steckt man eine derbe Stange, deren kürzeres Ende man in einem Loch
+in der Hauswand verankert. Auf das freie längere Ende setzt sich dann
+entweder die geplagte Hausfrau allein (Abb. 22), oder mit ihr auch noch
+die übrige halbe oder ganze Familie, so daß der Schlauch in die Länge
+gezogen und der giftige Saft aus seinem Inhalt herausgepreßt wird. Ist
+alle Flüssigkeit in die untergestellte Schale gelaufen, so drückt die
+Frau den Schlauch wieder zusammen, verkürzt und erweitert ihn dadurch,
+und schüttet die nunmehr trockne Masse in einen bereitgehaltenen
+flachen Korb.
+
+[Illustration: Abb. 22. Maniokpresse in Amazonien.
+
+(Nach Koch-Grünberg.)]
+
+Physikalisch beruht das einfache, aber doch recht praktische Verfahren
+wiederum auf dem Prinzip des einarmigen Hebels und wäre insofern
+kaum erwähnens- und bemerkenswert. Das ändert sich jedoch durch die
+merkwürdige Rolle, zu der das Tipití in der Literatur gestempelt worden
+ist.
+
+Für so einfach wir Nichtphysiker das Wesen des Hebels halten, bis
+wir durch Unterricht und Studium eines anderen belehrt werden, so
+zwiespältig steht man dem zylindrischen Schlauch gegenüber. »Natürlich
+muß der Manioksaft auslaufen,« sagen die einen, »denn durch das
+Ausziehen wird das Volumen des Schlauches ~eo ipso~ kleiner.« »Unsinn,«
+entgegnen die anderen, »das Volumen bleibt sich gleich, denn was ich an
+Durchmesser verliere, gewinne ich an Länge.« Von den Nächstbeteiligten,
+nämlich den Amerikareisenden selbst, hat sich keiner über diese Frage
+ausgelassen; sie haben lediglich die interessante Tatsache berichtet.
+Auch die allgemeine Völkerkunde oder Ethnologie als solche ist, wie
+über technische Fragen überhaupt, achtlos über das Tipitíproblem
+hinweggeschritten. Erst der neuerdings begründete Wissenszweig
+der Technohistorie hat es aufgegriffen und zu lösen versucht.
+Zunächst durch Horwitz[5] in dem Sinn, daß die bloße Verengerung des
+Schlauchzylinders das Auspressen des Saftes bedinge; später dann
+durch F. M. Feldhaus[5] in dem etwas modifizierten Sinn, daß die
+Streckung im Grunde genommen wie eine Schraube wirke. Der Schlauch sei
+nämlich diagonal geflochten, so daß jede Längenänderung sein Gefüge
+seitlich verschöbe. Beim Strecken zöge das eine Verlängerung und
+zugleich auch eine Verengung nach sich, die dann einen Druck auf die
+Füllmasse bewirke. Feldhaus stellt sich den Vorgang also als eine Art
+Wringbewegung vor.
+
+Schließlich habe auch ich der Frage mein Augenmerk gewidmet.[5] Von
+den 11 Tipití des Leipziger Völkermuseums zeigt nur ein einziges eine
+diagonale Flechtart, während die Flechtstreifen bei allen übrigen
+longitudinal verlaufen. Nun »schraubt« oder »wringt« jenes eine zwar
+beim Ausziehen, doch übt die geringfügige Bewegung eine kaum merkbare
+Wirkung auf das Schlauchvolumen aus. Die Feldhaussche Erklärung genügt
+also nicht. Mein Appell an Leipziger Physiker fruchtete zunächst
+nichts; später hat dann unser Geophysiker Prof. Dr. Wenger mathematisch
+festgestellt, daß eine Verlängerung stets auch eine Volumenverminderung
+bedeutet, die um so größer wird, wenn sich mit dem Ausziehen auch
+ein engeres Aneinanderlegen der Baststreifen verbindet. Die Drehung
+hingegen hat an sich keine Volumenverminderung zur Folge, es sei
+denn, daß sich auch bei ihr die Streifen dichter aneinander oder gar
+übereinander legen. Nach meinen im Anfang dieses Jahres vorgenommenen
+praktischen Versuchen ist dieses engere Aneinanderlegen der einzelnen
+Baststreifen tatsächlich das ausschlaggebende Moment bei dem ganzen
+Vorgang.
+
+Urwaldindianer sind keine Mathematiker, weder »höhere« noch
+»elementare«; sie haben das kleine, für sie und ihre Erhaltung aber
+ungeheuer wichtige Problem von einer anderen Seite, nämlich der der
+Praxis, anfassen müssen. Dabei hat ihnen Allmutter Natur schon von sich
+aus ganz hübsche Weghilfen gegeben. Die Zerkleinerung des klobigen
+Wurzelknollens gebot schon die Rücksicht auf den eigenen Mund; die
+Erfindung des Reibbrettes mit seinen eingesetzten Steinreihen lag
+also nicht weit. Brachte man dann das Mehl in einem geflochtenen
+Behälter unter, dessen Herstellung im Lande der Palmen mit ihren
+Fiederwedeln ebenfalls in der Luft lag, so ergab schon der natürliche
+Zug infolge der Schwerkraft eine Verengerung der Flechtfugen und eine
+Verlängerung des Behälters -- der Saft floß mit anderen Worten ganz
+von selbst heraus. Zwischen dieser Beobachtung und der rationellen
+Durchführung des Gesamtverfahrens, wie es heute geübt wird, liegt
+sicher ein auch zeitlich ungeheuer langer Weg mit mühselig errungenen
+kleinen Fortschritten und harten Fehlschlägen; man hat zweifellos die
+verschiedensten Flechtarten durchprobiert und enge oder weite Fugen
+gelassen, bis schließlich jene Stufe erreicht worden war, die wir in
+diesem Teil der Neuen Welt vor 400 Jahren vorgefunden haben. Die Presse
+arbeitet, wie der Augenschein lehrt, vollkommen zweckentsprechend
+und einwandfrei, denn wäre das nicht der Fall, so hätte keiner der
+Erbauer Gelegenheit gehabt, sich seiner Erfindungsgabe zu freuen -- das
+Manihotoxin hätte den letzten Aruaken und den letzten Karaiben schon
+vor Jahrtausenden dahingerafft.
+
+
+~b~) _Die Rolle._
+
+Die Rolle ist uns allen in ihren beiden Formen geläufig, als feste
+sowohl wie als bewegliche. Jene finden wir über den Ladetüren aller
+älteren Speicher hoch oben im obersten Stock, wo sie dem Aufziehen
+leichterer Lasten dient; diese als Flaschenzug überall dort, wo
+es sich um den Hub schwerer Lasten handelt. Der physikalische
+Unterschied besteht darin, daß die feste Rolle lediglich die Richtung
+der Arbeitsleistung ändert, nicht aber deren Größe, während bei der
+beweglichen eine Kraftvermehrung stattfindet, der allerdings eine
+Verringerung des Weges gegenübersteht. Die Leichtigkeit, mit der ein
+Mann mit Hilfe des Flaschenzugs die schwersten Lasten, wenn auch ganz
+langsam, emporzieht, ist ein Bild, das uns alltäglich entgegentritt.
+
+Im Leben der Naturvölker gibt es zu solchem Tun kaum Gelegenheit;
+dazu ist es im allgemeinen zu einfach und elementar. Wo einzelne
+Völkerschaften oder gar ganze Zeitalter gleichwohl dazu geschritten
+sind, haben sie andere physikalische Prinzipien befolgt. Nur den
+Allerweltskünstlern unter den Naturvölkern von heute, den Eskimo, ist
+es, soweit ich im Augenblick übersehe, vorbehalten geblieben, die
+rühmliche Ausnahme zu bilden, und zwar gleich in einem Maßstab, der ein
+wahrhaft grenzenloses Erstaunen hervorrufen müßte, sofern es sich um
+eine selbständige Eskimoerfindung handelte. Aber auch bei der Annahme
+einer Entlehnung bleibt ein gerüttelt Ausmaß geistiger Auffassungs- und
+Durcharbeitungsfähigkeit übrig.
+
+[Illustration: Abb. 23. Schema des Eskimo-Flaschenzugs.
+
+(Nach O. T. Mason.)]
+
+Es handelt sich um den auf unserem Titelbilde wiedergegebenen Vorgang.
+Die ursprüngliche Quelle ist mir nicht zugänglich gewesen, ich entnehme
+das Bild vielmehr einer Arbeit von Otis Tufton Mason, den man mit Fug
+und Recht als den Technologen unter den amerikanischen Völkerkundlern
+bezeichnen kann.[6]
+
+[Illustration: Abb. 24. Die bewegliche Rolle.
+
+(Nach Pfaundler.)]
+
+Die Szene spielt im Nordwesten von Nordamerika, an der Küste der
+Halbinsel Alaska. Eskimo haben ein gewaltiges Walroß zur Strecke
+gebracht und wollen es nun an Land zerlegen. Den ungefügen, zwanzig
+bis dreißig Zentner schweren Körper des toten Riesen ohne andere
+mechanische Hilfsmittel als die üblichen Stricke aus ungegerbter
+Tierhaut das felsige Steilufer hinaufzubewegen, erweist sich als
+aussichtslos. Da steckt der geistige Führer von ihnen zwei Ruder oder
+auch irgendein paar kräftige Stücke Treibholz je in eine Felsenspalte,
+ordnet die Stricke in einer ganz bestimmten Weise an (Abb. 23) und
+gebietet nun seinen Gefährten, nach zwei entgegengesetzten Richtungen
+zu ziehen. Das tun sie aus Leibeskräften und -- o Wunder! der vordem
+unbewegliche Koloß gleitet zwar langsam, aber doch sozusagen spielend
+die Felsenfläche hinauf.
+
+Was der umsichtige Eskimo konstruiert hat, stellt sich bei genauerem
+Hinsehen als ein sehr sinnreiches System zweier beweglicher Rollen dar,
+die ganz im Sinn eines vierseiligen Flaschenzuges wirken, so daß die
+ziehenden Männer auch nur ein Viertel der Kraft aufzuwenden haben, die
+sie ohne diese Vorrichtung hätten einsetzen müssen. Zum Verständnis
+diene die beifolgende Abbildung 24. Das eine Seilende ~c~ ist
+befestigt, das andere ~a~ sowie der Kloben ~b~ mit der Rolle beweglich,
+so daß beim Ziehen an ~a~ außer einer Drehung auch eine fortschreitende
+Bewegung der Rolle eintritt. Da nun durch Vermittlung der Rolle in
+beiden Seilenden ~c~ und ~a~ die gleiche Spannung herrscht, so verteilt
+sich die Last in zwei gleiche Teile, und wenn die beiden Seilstücke
+einander parallel laufen, so entfällt auf jeden dieser Teile gerade
+die Hälfte. Der Arbeiter hat in diesem Fall also nur die halbe Kraft
+aufzuwenden; dafür wird der Weg, um den die Last gehoben wird, nur
+halb so groß sein wie der Weg, den der Arbeiter selbst oder seine Hand
+zurückzulegen hat.
+
+Das Seilsystem der Eskimo fällt in etlichen Konstruktionsteilen aus
+diesem Schema heraus. An Stelle der Rollen sehen wir nur Schleifen, die
+mit dem Messer aus der dicken Haut des Tieres herausgeschnitten sind.
+Auf Grund der unter ihnen liegenden Speckschicht wirken sie allerdings
+trotzdem völlig ausgleichend auf die beiden durch sie hindurchlaufenden
+Seilenden, so daß sie frei beweglichen Rollen gleichgesetzt werden
+können. Die beiden Ruder versehen je eine doppelte Funktion; jedes von
+ihnen bildet in seinem System sowohl den festen Punkt ~c~, wie auch
+die Gleitbahn für das freie Ende ~a~ des Seiles. Dabei gilt indessen
+der Begriff »fester Punkt« auch nur mit dem Vorbehalt, daß die Seile
+oder die Ruder selbst nicht sehr glatt sind. Wäre das der Fall, so
+möchte bei einer sehr ungleichen Zugleistung der beiden Männergruppen
+schließlich das ganze Seilsystem ins Gleiten geraten, ja das schwächer
+bediente Seilende würde möglicherweise gar durch die Hautschleifen
+und hinter den Rudern hinweg in die ungefesselte Freiheit rutschen
+und die stärkeren Männer unliebsam zu Falle bringen. Bei der Rauheit
+ungegerbter Fellstreifen liegt ein solcher Fall allerdings wohl
+außerhalb aller Wahrscheinlichkeit.
+
+Mason und wahrscheinlich auch sein Gewährsmann Elliott sagen nichts
+über die vermutliche Herkunft dieser merkwürdigen ethnographischen
+Erscheinung hier im entlegensten Teile der Neuen Welt. Sie dem
+Haupt eines Eskimo selbständig entspringen zu lassen, wäre ein
+kühner Gedanke, den selbst die sonstige technische Geschicklichkeit
+jenes Volkes nicht stützt; man wird also wohl oder übel Entlehnung
+annehmen müssen. Nun kennen und benutzen zwar schon die Chinesen der
+Han-Zeit, also der Jahrhunderte um Christi Geburt, die feste Rolle zum
+Heraufholen ihrer Wassereimer aus den Brunnen, und in der Mitte des
+19. Jahrhunderts hat Sir John Francis Davis im Reich der Mitte sogar
+eine Hebevorrichtung beobachtet, die ein richtiges Differentialwellrad
+darstellt, also eine weit höhere Form, als auch wir sie für gewöhnlich
+verwenden.[7] Die Maschine ist in Abb. 25 wiedergegeben; ihre
+Wirkungsweise leuchtet ohne weiteres ein. Wird die ungleich starke
+Welle nach hinten zu umgedreht, so wickelt sich von dem dickeren linken
+Teil mehr Tau ab als rechts aufgewickelt wird; die Rolle und ihre Last
+senken sich also, wenn auch nur um die halbe Differenz der Auf- und
+Abwicklung. Bei der entgegengesetzten Drehung erfolgt die Hebung der
+Last in demselben Tempo.
+
+[Illustration: Abb. 25. Chinesisches Differentialwellrad.
+
+(Nach Laufer.)]
+
+Also die Chinesen beherrschen, wie so viele andere technische, so
+auch dieses Prinzip. Trotzdem liegt es näher, bei der geographischen
+Lage Alaskas eher an europäische Beeinflussung zu denken. In den mehr
+als 170 Jahren, seitdem der Deutsche Georg Wilhelm Steller jene Küste
+betreten hat, haben die Eingeborenen ja auch genugsam Gelegenheit
+gehabt, die Tätigkeit von Hebekranen an Bord europäischer, insbesondere
+russischer Schiffe zu betrachten. Aber selbst dann bleibt die
+Übernahme noch eine erstaunliche Leistung. Man versetze 10000 Weiße,
+denen theoretische wie praktische Kenntnisse der Physik abgehen, in
+die gleiche Lage -- würde wohl mehr als einer den Mechanismus einer
+solchen Einrichtung begreifen? Vermutlich keiner. Also Hut ab vor jenen
+Walroßjägern!
+
+
+~c~) _Das Rad an der Welle._
+
+Der Name klingt gelehrter, als die Maschine in Wirklichkeit aussieht.
+Tatsächlich kennt sie jeder, der einmal eine Wäscherolle gedreht oder
+einen Eimer Wasser aus einem Windebrunnen emporgehoben hat. Auch das
+soeben behandelte chinesische Hebezeug zeigt das Wesen des Wellrades,
+wie es ebenfalls genannt wird, in bester Weise.
+
+Das Wellrad besteht danach aus einem um seine Achse drehbaren Zylinder
+oder einer Welle, auf der ein Rad von größerem Durchmesser befestigt
+ist. In der chinesischen Maschine stellt die stärkere Welle das größere
+Rad dar; sie zeigt zugleich die entgegengesetzte Wirkung der um beide
+Wellen geschlungenen Seile.
+
+Bei den Naturvölkern sucht man das Wellrad in dieser Form
+vergebens; außer beim Bohrer, dem Kreisel, der Spindel, der bei
+ihnen noch immer umstrittenen Schraube und dem später ebenfalls
+noch zu behandelnden Drall sind sie überhaupt nicht zur Rotation
+wellenförmiger Körper gelangt. Eine Ausnahme bildet lediglich die
+Baumwollentkernungsmaschine, wie sie bei den Batta auf Sumatra, in
+Hinter- und Vorderindien und einzelnen Teilen Hochasiens gebräuchlich
+ist. Abbildung 26 gibt eine solche Maschine wieder.
+
+[Illustration: Abb. 26. Südasiatische Baumwoll-Entkernungsmaschine.]
+
+Wie wir sehen, ist von einem größeren Rad oder auch nur einer stärkeren
+Welle bei ihr keine Rede, man muß das Wellrad vielmehr in einem anderen
+Bestandteil suchen. Das ist nun die Kurbel, mit der die untere Welle
+gedreht wird, worauf sie durch das Schraubensystem am anderen Ende auch
+die obere Welle in Umdrehung versetzt. Indem man die Baumwollflocken
+zwischen beiden Wellen hindurchtreibt, quetscht man die Samenkörner
+heraus.
+
+Diese Kurbel läßt sich als zweierlei auffassen: als Hebel und als der
+ideelle Teil einer Rolle, die man sich ja auch ohne Schwierigkeit als
+voll denken kann. In diesem Augenblick hätten wir dann das wirkliche
+Wellrad vor uns. Die Bewegungsübertragung von einer Walze auf die
+andere durch horizontale Schraubenräder ist deswegen merkwürdig,
+weil solche Schraubenräder, wie Horwitz meint, in der europäischen
+Technik erst sehr spät, wahrscheinlich erst seit dem Beginn des 19.
+Jahrhunderts, verwendet worden sind, während sie in Indien vermutlich
+auf ein hohes Alter zurückblicken. In ihnen hätten wir damit also
+endlich einmal eine Erfindung höheren Grades, die nicht von unserer
+sonst alles überragenden Rasse vorweggenommen worden ist. Im übrigen
+hat bei dieser Maschine auch der Keil sehr reichlich Verwendung
+gefunden: zunächst bei der Befestigung der Kurbel an der unteren
+Welle selbst; sodann bei dem unter dem Walzenpaar befindlichen Brett,
+welches mit ihrer Hilfe in die Höhe getrieben werden kann. Die
+Wirkung überträgt sich dann durch zwei im Innern der Pfosten laufende
+Gleitstücke auf die untere Walze, die damit fester gegen die obere
+gepreßt wird.
+
+
+
+
+8. Schiefe Ebene, Keil und Schraube.
+
+
+Auch von dieser zweiten Gruppe der einfachen Maschinen sind uns
+bereits vereinzelte Anwendungsarten begegnet. Die schiefe Ebene tritt
+in doppelter Weise als Maschine auf: als Rampe und als Keil. Der
+Unterschied besteht darin, daß bei der Rampe die schiefe Ebene stehen
+bleibt, während das Gleitstück, indem es gehoben wird, die Ebene
+entlang gleitet; beim Keil hingegen wird die schiefe Ebene selbst
+verschoben, so daß das Gleitstück gehoben wird.
+
+Die Rampe spielt in unserem unendlich vielgestaltigen Verkehrsleben
+eine bedeutsame Rolle. Keine Überführung einer Landstraße oder einer
+Eisenbahn über die andere, kein Güterbahnhof ohne ihre mehr oder minder
+gleichmäßig geneigte Fläche; ja selbst Wasserfahrzeuge befördert man,
+wie das bekannte Beispiel des Oberländischen Kanals in Westpreußen
+beweist, auf diese bequeme Weise von einer Höhenlage auf die andere.
+Ohne die Rampe wären der moderne Massen- und Schnelltransport überhaupt
+nicht zu denken. Man kann sie daher als ein Kind der Gegenwart
+bezeichnen.
+
+Das hindert indessen nicht, daß sie auch schon in alter Zeit und
+sogar auch bei den Völkern niedrigerer Kulturstufe ihre Würdigung
+gefunden hat. Wer sich den Transport jener Steinkolosse vorstellt,
+wie sie zu den gigantischen Bauten der alten Ägypter, den Pyramiden
+und Tempelanlagen, sowie zu den Denkmälern der Babylonier und Assyrer
+verwendet worden sind, kommt ohne die theoretische Zuhilfenahme von
+Anrampungen gar nicht aus. Tatsächlich hat die Fortbewegung denn auch
+auf solchen bis zu den Spitzen der Pyramiden hinauf stattgefunden,
+wobei die Blöcke selbst auf Schleifen oder Kufen ruhten, die man
+entweder ohne ein anderes Hilfsmittel als die Zugkraft ungeheurer
+Menschenmassen oder aber auf untergelegten Rundhölzern weiter schaffte.
+
+Etwa gleichzeitig mit ihrer Rolle im Zweistromland und am Nil hat die
+Rampe eine Blütezeit auch im Westen des Mittelmeeres und in Westeuropa
+erlebt. Das ist die Zeit der Megalithen (~megas~ = groß, ~lithos~ =
+Stein) oder, wie wir volkstümlich sagen, der Hünengräber. Auch wer
+diese gewaltigen Steinplatten sieht, wie sie die Dolmen und Ganggräber
+Norddeutschlands, Nordhollands, Englands, kurz der ganzen Umrandung der
+Nordsee, auch Portugals und des Nordrandes von Afrika von Marokko im
+Westen bis zur Halbinsel Barka im Osten überdecken, oder jene ebenso
+wuchtigen langgeformten Blöcke, wie sie unter dem Namen Menhir und
+Bautasteine als stimmungsvolle Zeugen eines heroischen Kultus oder
+einer ebenso kraftvollen Pietät aus dem Boden derselben Erdstellen in
+eine ganz, ganz anders geartete Gegenwart hereinragen, der wird sich
+fragen müssen, wie anders jene alten Baumeister diese Massen hätten
+bewegen und aufrichten sollen als eben auch wieder unter Zuhilfenahme
+der Rampe. Belege haben wir meines Wissens nicht, doch bleibt keine
+andere Vorstellung übrig. Mit Platten von mehreren Dezimetern Dicke
+und mehreren Metern Länge und Breite und Blöcken von Hunderten von
+Zentnern an Gewicht hantiert man vor dem Zeitalter hydraulischer und
+elektrischer Krane und Hebezeuge nicht ohne weiteres.
+
+Außerhalb des europäisch-mittelmeerischen Kulturkreises sind Megalithen
+über alle Erdteile außer dem Festland Australien verbreitet; sie finden
+sich in reicher Anzahl in Vorderindien, wo gewisse Völkerschaften sie
+bis in die Neuzeit hinein errichtet haben, und sind auf zahlreichen
+Inseln Mikro- und Polynesiens festgestellt worden, wo im allgemeinen
+kein Mund mehr Kunde über Alter, Zweck und Herstellungsart der
+Steinbauten zu geben vermag. Dort finden sich gewaltige, viele Meter
+lange und breite, meist aus zyklopisch schweren, viele Tonnen wiegenden
+Steinblöcken errichtete Terrassen und Plattformen, Pyramiden und
+straßenähnliche Anlagen, menhirartige Steinobelisken und Nachbildungen
+der menschlichen Gestalt u. a. mehr. Auf der Karolineninsel Ponape
+gibt es eine ganze heilige Stadt, die nur vom Adel und den Priestern
+betreten werden darf und eine Fläche von nicht weniger als 1½ bis 2
+~qkm~ bedeckt. Sie besteht aus 92 Gehegen aus Korallensteinplattformen,
+die mit Basaltmauern von 3 bis 10 Meter Höhe eingefaßt sind. Von
+ihnen allein wissen wir, daß man die Steine auf Flößen von weither
+herbeigeschleppt und mit Hilfe richtiger Baugerüste, Rampen und Hebel
+an Ort und Stelle gebracht hat. Wie dagegen die alten Bewohner der
+Osterinsel die riesigen Massen ihrer berühmten Steinidole bewegt
+und aufgerichtet haben mögen, entzieht sich wohl für immer unserer
+Kenntnis. Da es sich um Monolithe handelt, die im Durchschnitt 7-8
+Meter aus dem Erdboden herausragen, so kann auch hier keine andere
+Möglichkeit als die Beförderung des langen Steinblocks eine schiefe
+Ebene hinauf in Frage kommen, die unmittelbar neben der Vertiefung
+lag, in der man das Idol aufrichten wollte. Theoretisch erscheint dann
+das Hinabkippen des freien Steinendes in die Baugrube sehr leicht; in
+Wirklichkeit wird es den polynesischen Baumeistern arge Kopfschmerzen
+verursacht haben.
+
+In seinem kleinen, aber gedankenreichen Buch »Kultur und Mechanik«
+(Stuttgart 1915) meint der Physiker Ernst Mach, man dürfe die
+zwangsweise Verwendung ungeheurer Mengen von Sklaven, wie sie bei den
+Riesenbauten Mesopotamiens und Ägyptens zum Transport jener Steinmassen
+üblich war, nicht ohne weiteres verdammen, so drakonisch auch die
+Strafen bei der mühseligen Arbeit mit den rohen Hilfsmitteln gewesen
+sein möchten; ja sie könne neben einem ethischen sogar auch ein
+kulturhistorisches Verdienst für sich in Anspruch nehmen. Vordem habe
+man kriegsgefangene Feinde entweder gepfählt oder geblendet; jetzt,
+nach ihrer Heranziehung zu nutzbringender Arbeit, sei man ohne weiteres
+dazu übergegangen, die haarsträubenden Grausamkeiten zu mildern,
+bis sie schließlich verschwinden. Auf technischem Gebiet aber sei
+das Zusammenschweißen vieler Kräfte zu einem Zweck die erste größere
+Erfindung orientalischer Machthaber gewesen.
+
+Mit seinen beiden Beobachtungen singt der seither verstorbene
+Historiker und Philosoph der Mechanik das Loblied sowohl der Arbeit
+wie der Organisation; ohne beides wären in der Tat weder die
+altägyptischen noch die mesopotamischen Kulturen möglich und denkbar
+gewesen, denn hier wie dort zwang die ungleichartige Wasserführung der
+lebenspendenden Ströme zu Eingriffen in die Natur, die nur mit der
+organisierten Arbeit ganzer Arbeiterheere durchzuführen waren. Auf der
+damit gewonnenen materiellen Grundlage hat sich die Zivilisation beider
+Gebiete dann ganz von selbst aufbauen können.
+
+Erhebt ein Gesetz auf Geltung Anspruch, so muß es Allgemeingültigkeit
+besitzen; die Machsche Beobachtung muß sich demnach bestätigen, wo
+immer gleiche oder ähnliche Voraussetzungen gegeben sind; auch unter
+den Naturvölkern. Nehmen wir ein paar Stichproben vor.
+
+Bauten von unerhörter Großartigkeit sowohl in den räumlichen
+Abmessungen wie dem Gewicht der verwendeten Steinkolosse erregten
+das Erstaunen der Spanier bei ihrer Ankunft im alten Peru.
+Befestigungsanlagen wie die Burg Sacsahuaman in Cuzko, Ollantaytambo
+und andere an der Waldgrenze gegen die wilden Indianerstämme gingen
+über alles, was die Conquistadoren in dieser Art gesehen hatten.
+Erklärlich werden sie auch nur durch die politischen und sozialen
+Verhältnisse des Inkareiches, dessen Sonnenkönig über die Arbeitskraft
+schlechthin jedes Untertanen und vor allem jedes Unterworfenen gebieten
+konnte, trotzdem Tahuantinsuyu, das »Reich der vier Teile der Welt«,
+im Grunde genommen ein rein sozialistisches Staatswesen war, in dem
+es weder Privateigentum an Grund und Boden, noch Geld, weder Reichtum
+noch Armut, dafür allerdings auch ein alles durchsetzendes Beamtentum
+und keinerlei innere und äußere Freiheit gab. Darf man den überraschend
+schnellen Aufstieg dieses Reiches mit einigem Recht auf die kraftvolle
+Zusammenfassung aller militärischen Machtmittel durch eine Reihe
+starker Herrscher zurückführen, so ist sein jäher Zusammenbruch vor
+einer Handvoll hergelaufener Abenteurer mit um so größerem Recht durch
+diese Überorganisation auf der einen, den Mangel an Persönlichkeit auf
+der anderen Seite bedingt.
+
+Im stillen Ozean sprechen die Verhältnisse noch klarer im Sinne Machs.
+Mikronesier und Polynesier sind malaiische Einwanderer von Westen her.
+Sie waren Seefahrer von einer Kühnheit, daß nicht einmal Weiten von der
+Länge des halben Erdumfanges -- so viel und mehr beträgt der Abstand
+von Madagaskar, ihrem äußersten Westpunkt, bis zur Osterinsel -- sie zu
+schrecken vermochten. Wenn solche kraftvollen Menschen zur Errichtung
+zyklopischer Baudenkmale schritten, die nur durch ein Zusammenwirken
+aller zustande kommen konnten, so kann das niemand wundern;
+ebensowenig, daß in den neuen, engen Verhältnissen auf den kleinen
+Eilanden dieses Stärkebewußtsein verbleichen und dahinschwinden mußte,
+sobald die Erinnerung an die nautischen Großtaten schwand. Tatsächlich
+fanden James Cook und die übrigen Entdecker des 18. Jahrhunderts die
+Bevölkerung im unverkennbaren Zustande des sittlichen und kulturellen
+Rückganges vor.
+
+Mit einigem Recht können wir das Machsche Gesetz selbst beim
+Festlandaustralier und damit einer Menschengruppe verfolgen, die nach
+allgemeiner Anschauung am wenigsten von der Kultur beleckt sei. Heute
+ist das unglückselige Volk allerdings eine jammervolle Ruine, dem unter
+den grausamen und harten Maßnahmen der englischen Eindringlinge über
+kurz oder lang die letzte Daseinsmöglichkeit genommen sein wird. Aber
+auch schon bei Beginn der Kolonisation am Ende des 18. Jahrhunderts
+entbehrten sie alles dessen, was ein wirkliches Volkstum ausmacht: des
+strammen Rassegefühles und des politischen und sozialen Zusammenhangs.
+In kleinen und kleinsten Trupps durchzogen sie jahraus, jahrein ihre
+Jagd- und Schweifgebiete.
+
+Diese selben Leute nun besitzen ein Monument, welches Zeugnis ablegt,
+daß es einstmals weit besser um den Australier gestanden haben muß.
+Das ist das Steinlabyrinth von Brewarrina im oberen Darling, etwa
+100 Kilometer oberhalb der Stadt Bourke in Neusüdwales. Es besteht
+aus einem etwa 90 Meter langen Steinwehr, das sich auf felsiger
+Unterlage quer durch den Fluß erstreckt. Von diesem Quergang aus ist
+dann ein ungefähr 100 Meter weit stromaufwärts reichendes Labyrinth
+von Steinmauern erbaut, das den Fang der den Fluß hinauf- und
+hinabziehenden Fische erleichtern soll. Die Mauern bilden zu dem
+Zweck kreisförmige Becken, die zumeist durch stark gewundene Gänge
+miteinander verbunden sind. So fest sind diese Mauern gebaut, daß die
+gewaltigen Fluten, die zu Zeiten in einer Höhe von 7 Metern darüber
+hinwegrauschen, höchstens die obersten Lagen der Steine zu verschieben
+imstande sind.
+
+Und was lehrt uns dieses Brewarrina-Wehr? Nun, doch wohl nichts
+anderes, als daß es auch im Leben dieser Ärmsten von heute einmal
+eine Periode gegeben haben muß, wo die Bevölkerung dichter und wo sie
+vor allem organisations- und arbeitsfähig gewesen ist. Australische
+Horden der Gegenwart wären solcher nur durch gemeinsames, zweck- und
+zielbewußtes Zufassen erreichbarer Leistungen um so weniger fähig,
+als auch bei Brewarrina der Baustoff aus großer Entfernung hat
+herbeigeschafft werden müssen. Ob dieses Aufflackern einer großen
+Energie aus der Mitte der alten Australier selbst geboren ist, oder ob
+es auf eine fremde, kraftvollere Völkerwelle zurückgeht, die später in
+das australische allgemeine Elend heruntergezogen worden ist, läßt sich
+einstweilen nicht entscheiden, wäre aber aus kulturhistorischen Gründen
+der Untersuchung wert.
+
+Mit dem Begriff der Rampe verbinden wir uneingestandenermaßen den
+Begriff der Beförderung schwerer Lasten. Weil diese für das einfache
+Leben der Naturvölker und Halbkulturvölker von heute überhaupt nicht
+in Betracht kommen, darf man sich nicht wundern, daß auch die Rampe so
+stark zurücktritt oder ganz fehlt. Lediglich in Hochgebirgsgegenden
+mit ihren besonderen Naturbedingungen hat das Verkehrsleben zu einer
+eigenartigen Verwendungsart der feststehenden schiefen Ebene geführt,
+bei jenen Seilbahnen und Gleitbrücken nämlich, die unter dem Namen
+Tarabiten aus den Kordilleren Südamerikas bekannt sind, und ganz
+gleichartigen Seilbahnen aus den Hochgebirgsländern Zentralasiens. Das
+Prinzip ist einfach das der im stabilen Gleichgewicht aufgehängten
+Last, die an einem geneigt verlaufenden Seil über tiefe Schluchten und
+reißende Bergströme nach der niedrigeren Seite hinübergleitet. Ob die
+Last aus Menschen oder aus in Gurten schwebenden Pferden oder sonstigen
+Dingen besteht, ist dabei belanglos. Das Titelbild des Kosmosbändchens
+»Urgesellschaft« zeigt eine solche Tarabite in vollem Betrieb.
+
+Die _bewegte_ schiefe Ebene oder ihre Verdoppelung, den Keil, in
+ihrer kulturhistorischen Bedeutung zu schildern, ginge weit über
+unseren Rahmen hinaus. Wie bereits betont wurde, fällt die gesamte
+unübersehbare Schar aller Hieb-, Schneid- und Stechgeräte physikalisch
+unter den Begriff Keil. Nur auf eine Form der einfachen bewegten
+schiefen Ebene sei noch hingewiesen, schon deshalb, weil sie vielleicht
+die kulturförderlichste aller menschlichen Erfindungen überhaupt
+darstellt.
+
+Das ist der Pflug. Über seine Ausgangsform oder Ausgangsformen gehen
+die Ansichten noch weit auseinander, trotzdem sichtlich alles dafür
+spricht, daß er mit der quergestellten Feldhacke zusammen seinen
+gemeinsamen Ausgangspunkt in der Astgabel besitzt. Auch in der
+uranfänglichen Wirkung stimmen beide überein, indem bei beiden das
+Erdreich nicht gewendet, sondern nur gehoben und dadurch gelockert
+wird. Insofern stellen beide bewegte schiefe Ebenen dar. Mit dem
+Aufkommen der Metalle nimmt die Pflugschar, unter Beibehaltung der
+horizontalen Grundfläche, die bekannte geschweifte Form an, die erst
+das Wenden der Scholle und damit bestimmte biologische Vorgänge in der
+Ackerkrume ermöglicht. Vom mechanischen Standpunkt aus kann man diese
+Bewegung als eine Art Drall oder auch als eine Art Schraubenbewegung
+auffassen, womit wir von neuem zu ein paar in der Völkerkunde
+vielumstrittenen physikalischen Erscheinungen gelangen.
+
+[Illustration: Abb. 27. Materialversteifung.
+
+~a b~ Versteifung afrikanischer Eisenklingen, ~c~ Versteifung des
+bekannten Papiergeschosses unserer Knaben.]
+
+Was Drall ist, weiß jeder, der einmal durch einen gezogenen Gewehr-
+oder Geschützlauf hindurchgesehen hat. Die in dessen Wandung
+eingeschnittenen Rillen sollen dem Geschoß während des Fluges
+eine Drehung um seine Längsachse verleihen, so daß, es sich nicht
+überschlägt, kein Querschläger wird, sondern unter dem geringsten
+Luftwiderstand seine einmal begonnene Bahn möglichst weit verfolgt.
+Die Beibehaltung der im gezogenen Lauf gewonnenen Drehbewegung ist
+unmittelbar die Wirkung des uns bereits geläufigen Beharrungsvermögens,
+das erst durch irgendeine andere Kraft, den Aufschlag oder sonst eine
+Störung, unterbrochen oder aufgehoben wird.
+
+In der Völkerkunde hat man in früheren Jahrzehnten eine solche
+Drallvorrichtung gern bei Wurfspeeren und Pfeilen der Naturvölker
+gesucht. Zunächst in Form und Querschnitt gewisser afrikanischer
+Eisenspitzen. In diesem Erdteil findet man deren beide Hälften
+innerhalb ihrer Längsachse häufig scharf gegeneinander abgesetzt, so
+daß ein Querschnitt von der nebenstehenden Form (Abb. 27 ~b~) entsteht.
+Selbst der Altmeister der modernen Ethnologie, Adolf Bastian, hat
+in dieser Form die Ursache einer Rotationsbewegung vermutet. Das
+ist nun physikalisch unmöglich, zumal keine der beiden Flächen im
+geringsten flügelartig geschweift verläuft, was Vorbedingung für die
+Rotationsbewegung wäre. Beide stellen vielmehr vollkommene, wenn auch
+etwas zueinander geneigte Ebenen dar.
+
+Die Frage nach dem eigentlichen Endzweck dieser abgesetzten Klingenform
+gehört in das Kapitel der Festigkeitslehre, für deren Behandlung
+durch den Neger diese Erfindung einen sehr hübschen Beitrag liefert.
+Es handelt sich kurz gesagt um eine Versteifung der Klinge, um deren
+Umbiegen beim Auftreffen auf den menschlichen oder tierischen Körper zu
+verhindern. In meiner Arbeit über den afrikanischen Pfeil (1899) war
+mir diese Erklärung entgangen. Kurz nach deren Erscheinen übersandte
+mir der damalige Kieler Geograph Prof. O. Krümmel in einem Brief ein
+Stück Papier, das schon beim ersten Blick durch seine kunstvolle
+Faltung oder Kniffung in der Mittel- oder Höhenlinie dasselbe Prinzip
+wie die afrikanischen Klingen offenbarte (Abb. 27 ~c~). Es war
+dasselbe Geschoß, das wir als Knaben so oft erfolgreich in die Luft
+entsendet hatten. Das afrikanische Eisen ist von Haus aus sehr weich;
+Härteverfahren sind dem Neger nicht bekannt; da ist man durch Zufall
+auf diese Art der Versteifung gestoßen, die nun über weite Strecken
+Allgemeingut geworden ist.
+
+Andere haben den Drall in der Befiederungsanlage der Pfeile gesucht.
+Dort wäre er leicht möglich, indem man die einzelnen Fahnen der
+längshalbierten Federn derart am Schaft befestigte, daß die Flügel
+schiffsschraubenartig geschweift verlaufen; dann muß sich das Geschoß
+förmlich in die Luft hineinbohren, wodurch das Überschlagen vermieden
+würde. Nun finden sich unter den Tausenden von Pfeilen unserer
+Völkermuseen zwar vereinzelte Beispiele dieser Art, doch wäre es
+immerhin gewagt, bei ihnen an eine bestimmte Absicht zu denken, zumal
+dann doch in jedem Fall auch eine pfriemenförmige Spitze zu einem
+solchen Rotationspfeil gehörte. Das ist jedoch keineswegs der Fall.
+Jede flächenförmige Pfeilspitze aber würde den Drall der Fiederung in
+seiner Wirkung aufheben.
+
+So scheint es denn wirklich, als ob die Naturvölker es bis zu dieser
+Errungenschaft nicht gebracht haben. Mir persönlich ist nur ein
+einziges, noch dazu der Welt der Kinderspielzeuge angehöriges Beispiel
+bekannt, das ich der Vollständigkeit wegen mitteilen will, trotzdem es
+für die Herrschaft des Menschen über die Natur vollkommen bedeutungslos
+ist.
+
+Das Spiel heißt Bulbul und wird im nördlichen Neu-Mecklenburg und auf
+Neu-Hannover, beides Inseln im Bismarck-Archipel, gespielt. Hauptmann
+Friederici berichtet darüber (Mitt. a. d. deutschen Schutzgebieten,
+Erg.-Heft 5, Berlin 1912, Seite 98-99) wie folgt: »Die Knaben hocken
+am Strande dort, wo die über das flache Riff kommenden Ausläufer
+der Brecher den Sand andauernd benetzen. Aus diesem feuchten Stoff
+(in der Hauptsache Kalksand) formen sie durch Drehen und Streichen
+außerordentlich regelmäßige und recht feste Figuren etwa von der Form
+einer Runkelrübe (Abb. 28 ~a~). Mit einem starren Halm wird dann dieser
+Figur das spitze Ende so abgedreht, daß ein flacher Kegel nach innen
+entsteht. Die Abdrehung geschieht ganz in der Weise unserer Drechsler,
+indem der starre Halm festgehalten wird, während man die Sandfigur
+drehend gegen sein Ende drückt. Dem so entstandenen flachen Kegel
+wird schließlich durch dieselbe Manipulation noch ein kleiner, nach
+innen gerichteter Spitzkegel aufgesetzt (Abb. 28 ~b~). Hat der Kanake
+eins, zwei oder drei dieser Kunstwerke fertiggestellt, so tritt er,
+die eine Figur in der rechten und zwei in der linken Hand, stolz in
+das Wasser hinein, wobei er nicht vergißt, sich vergewissernd nach mir
+umzuschauen, ob ich auch die bevorstehende Kunstleistung beobachte.
+Nun wird eine Figur nach der andern mit einer drehenden, wirbelnden
+Bewegung aus der rechten Hand hoch in die Luft gestoßen, das dicke
+schwere Ende nach oben, das spitze, durch den Doppelkegel ausgehöhlte
+nach unten. Der beabsichtigte Enderfolg ist nun der, daß die oben
+dicke und schwere Figur, ohne die senkrechte Richtung ihrer Längsachse
+zu ändern, hoch in die Luft steigt und ohne umzuschlagen auch wieder
+herunterfällt. Sie schlägt dann mit dem spitzen ausgehöhlten Ende
+auf die Wasserfläche auf, wodurch das mit Gewalt in die beiden Kegel
+hineingepreßte Wasser eine Art Sprengwirkung hervorbringt. Mit dumpfem
+Knall löst sich die Figur auf, um als schmutzige Masse unter dem Wasser
+zu verschwinden. Das Spiel verlangt eine nicht geringe Kunstfertigkeit
+und Übung, wenn es gelingen soll. Einmal müssen diese Figuren aus
+Seesand sehr sorgfältig und symmetrisch hergestellt werden, und dann
+erfordert das Hochstoßen eine ganz erstaunliche Beherrschung von Arm,
+Hand und Finger. Wird die Figur nicht genau senkrecht, mit genügender
+Kraft und hinreichender Umdrehungsgeschwindigkeit aus den Gelenken
+emporgeschleudert, so schlägt sie um oder fällt auf die Seite. Sowie
+ferner der Wurf nicht genau in der Längsachse der Figur erfolgt,
+bricht das dicke Ende genau in dem Augenblick ab, wo das Spielzeug die
+ungeschickte Hand des Knaben verläßt.«
+
+Friederici knüpft an diesen lebensvollen Bericht noch Betrachtungen aus
+seiner Leutnantszeit, wo er als Rekrutenoffizier die jungen Soldaten in
+die Geheimnisse des Dralls bei unserem Dienstgewehr einweihen mußte. Er
+kommt dabei zu dem Ergebnis, daß die schwarzen Knaben von Neu-Hannover
+das Problem spielend in der Praxis zu lösen wußten, während manchem
+braven Bauernsohn und Rekruten von damals die Theorie des Schießens bis
+zu den letzten Diensttagen nicht recht klar geworden sei. Friederici
+schließt endlich mit dem kulturgeschichtlich bedeutungsvollen Hinweis,
+daß dieses Bulbul mit seinem durch die Handbewegung erzeugten Drall,
+sodann unsere gezogenen Gewehre und Geschütze und schließlich der
+Wurfriemen der Alten, die αγκυλη der Griechen und das ~ammentum~
+der Römer, zusammen eine Erfindung darstellen, die ganz offenkundig
+mehrfach und unabhängig voneinander gemacht worden sei. Den Bulbul
+Melanesiens und den Riemenspeer des weit entfernten, 2000 Jahre
+älteren mittelmeerischen Kreises werde ernsthaft wohl niemand in
+kulturhistorischen Konnex miteinander bringen wollen, und daß auch die
+Theorie der gezogenen Kanonen nicht auf den Riemenspeer des klassischen
+Altertums zurückführe, gehe schon daraus hervor, daß dieser von uns
+erst 1868 in seinem Wesen erkannt worden sei, wo man gezogene Geschütze
+und Gewehre längst eingeführt habe.
+
+[Illustration: Abb. 28. Bulbulspiel von Neu-Mecklenburg.]
+
+Friederici hätte der Aufzählung seiner unabhängigen Drallprovenienzen
+noch eine vierte hinzufügen können, die der Neukaledonier nämlich,
+die bis zu ihrer Europäisierung den dort üblichen langen Wurfspeer
+ebenfalls mit Hilfe einer Drallvorrichtung schleuderten. Das Prinzip
+bei diesen allen, den antiken wie auch dem modernen ozeanischen,
+bestand in einem Riemen oder einer geflochtenen Schnur, deren eines
+Ende man am Daumen der rechten Hand befestigte, während der übrige
+Teil spiralig um die Mitte des Speerschaftes gewickelt wurde (Abb.
+29). Verließ dann der Speer im Wurf die Hand, so rollte der Riemen ab,
+wodurch der Speer selbst in Rotation um seine Längsachse geriet, was
+ein Überschlagen verhinderte.
+
+[Illustration: Abb. 29. Neukaledonier, den Speer mit der Wurfschlinge
+werfend.]
+
+Die schiefe Ebene wirkt um so günstiger, je länger die Basis im
+Verhältnis zur Höhe ist. Das legt den Wunsch nahe, stets sehr lange
+schiefe Ebenen zu benutzen. Dadurch würde indessen die Maschine sehr
+unhandlich. Um sie in ein bequemeres Format zu bringen, empfiehlt es
+sich, sie auf einen Zylinder aufzuwickeln. Dann entsteht einerseits die
+Wendeltreppe, andererseits die Schraube. Abbildung 30 stellt diesen
+Vorgang dar.
+
+Die Elemente der Schraube sind die Schraubenspindel und die sie
+umhüllende Schraubenmutter. Bei Anwendung der Schraube handelt es sich
+fast immer darum, durch eine drehende Bewegung der Spindel eine in der
+Richtung der Achse fortschreitende langsame Bewegung der Mutter, oder
+durch eine drehende Bewegung der Mutter eine in der Richtung der Achse
+fortschreitende langsame Bewegung der Spindel mit stark vergrößerter
+Kraft hervorzubringen.
+
+Eine seltenere Verwendung der Schraube besteht darin, daß man die
+Schraubenmutter fortschreitend bewegt, um dadurch eine drehende
+Bewegung der Schraubenspindel zu bewirken. Das geschieht z. B. bei
+unserem Schraubendrillbohrer, bei dem durch die Ab- und Aufwärtsführung
+der handlich geformten Mutter auf der Triebstange diese abwechselnd
+nach beiden Richtungen rotiert. Die Schraubengänge müssen hier sehr
+steil sein, damit der auf Reibungsarbeit entfallende Bruchteil
+der aufgewendeten Arbeit nicht zu groß wird. Wer sich jemals mit
+Laubsägearbeiten befaßt hat, kennt das bequeme Instrument aus eigener
+Erfahrung.
+
+Unter den Naturvölkern hat dieser Drillbohrer eine Form angenommen,
+bei der die Mutter nicht so ohne weiteres zu erkennen ist. Das ist
+die in Abb. 31 wiedergegebene Maschine, wie sie manche Bewohner des
+Stillen Ozeans zum Durchbohren von Muschelschalen und Schildkrötplatten
+verwenden, und wie sie von den alten Indianern am St.-Lorenz-Strom zum
+Feuerquirlen gebraucht worden ist. Die Schraubenmutter ist hier nicht
+von Anbeginn vorhanden, sondern bildet sich erst in der Form der sich
+um die Triebstange wickelnden Doppelschnur. Zur Inbetriebsetzung des
+Bohrers dreht man die Triebstange mit der Hand, so daß die Doppelschnur
+sich schraubenförmig um sie herumwickelt; sodann drückt man die
+horizontale Druckstange nach unten, wodurch die Triebstange in rasche
+Drehung gerät. Durch die Trägheit der Schwungscheibe setzt sich die
+Drehung über den Nullpunkt, d. h. den Moment des Ablaufens der Schnur,
+hinaus fort, so daß sich die Schnur wohl oder übel von neuem um die
+Triebstange wickelt und die Druckstange wieder nach oben führen muß.
+Sodann wiederholt sich das Spiel von neuem. Dem Schwungrad begegnen
+wir hier in der Welt der Naturvölker wohl zum ersten- und einzigenmal,
+sofern es nicht auch schon unsere Neolithiker bei einer allerdings fast
+hypothetischen Bohrmaschine (anderer Konstruktion als der in Abbildung
+17 wiedergegebenen) verwendet haben sollten. Diesen Pumpenbohrer
+vermag sich jeder selbst leicht zu konstruieren. Trotzdem nehmen die
+Ethnologen an, daß er im stillen Ozean und im Malaiischen Archipel erst
+neuerdings von Europa her eingeführt sei, während er bei den Algonkin
+und Irokesen vermutlich autochthon ist. Das Schwungrad hat die Aufgabe,
+infolge seines Beharrungsvermögens Unregelmäßigkeiten im Gang einer
+Maschine auszugleichen und die Rotationsbewegungen der Welle über den
+sogenannten toten Punkt hinwegzuführen. Zur Erfüllung dieser Aufgaben
+muß es möglichst massiv sein, was bei dem Pumpenbohrer mit seiner
+unverhältnismäßig schweren Holzscheibe ja auch der Fall ist.
+
+[Illustration: Abb. 30. Entstehung der Schraubenlinie aus dem
+aufgewickelten Schnitt der schiefen Ebene.]
+
+[Illustration: Abb. 31. Ozeanischer Drillbohrer.]
+
+[Illustration: Abb. 32. Die Eskimo-Schraube.
+
+~a~ Schraube und Mutter bei einem Pfeil, ~b~ Hautpflock.
+
+(Nach Horwitz und M. Porsild.)]
+
+Die Erfindung der technisch richtig ausgebildeten Schraube durch die
+Naturvölker ist noch umstritten, trotzdem diese Frage neuerdings eine
+ziemlich umfangreiche Literatur gezeitigt hat.[8] Von Indien abgesehen,
+wo wir die merkwürdigen Schraubenräder mit parallelstehenden Achsen
+bereits kennengelernt haben und wo die Schraube vermutlich auf ein
+hohes Alter zurückblickt, kommen als möglicherweise selbständige
+Erfinder lediglich die Eskimo in Betracht. In welch sinnreicher
+Weise sie die Schraube verwenden, geht aus den Abbildungen 32 ~a b~
+hervor. Bei ~a~ sind Spindel und Mutter zwar schon beide vorhanden,
+doch noch nicht geometrisch vollkommen ausgebildet. Den Pflock aus
+Holz (~b~) oder Walroßzahn verwenden die Eskimo zum Verstopfen der
+den Seehunden durch die Harpune verursachten Wunden, einesteils um
+das Ausbluten zu verhindern, andernteils um das Bugsieren des toten
+Körpers zu erleichtern. Die Schraube wird in die Wunde eingebohrt; sie
+schafft sich also hierbei ihre Mutter in der Tierhaut selbst, ganz in
+derselben Weise wie unsere Holzschrauben das in dem vorgebohrten Loch
+auch tun. Auf die zahlreichen sonstigen Verwendungsarten der Schraube
+bei diesem technisch so hochstehenden Volk können wir nicht eingehen.
+Man hat ihm, möglicherweise mit Recht, ihre Erfindung abgesprochen,
+die Bekanntschaft der Eskimo mit der Schraube vielmehr auf die lange
+Berührung mit den in Grönland ansässigen Europäern zurückgeführt. Aber
+selbst in diesem Fall bleibt die Geschicklichkeit und Vielseitigkeit in
+der Verwendung des neuen Kulturgutes noch höchst bemerkenswert.
+
+Der eigenartigsten Schraube begegnen wir jedoch wieder im armseligen
+Australien. Das ist der berühmte Bumerang, den jeder kennt und der
+ballistisch doch vielleicht mehr Geheimnisse birgt als irgendeine
+andere Geschoßart. Einen ethnographischen Abriß über ihn habe ich
+in den »Kulturlosen« (S. 26/28) gebracht; physikalisch stellt seine
+geschweifte Gestalt das Segment einer Schraubenmutterwindung dar,
+die sich während des Fluges um eine imaginäre Spindel dreht, während
+des Anstiegs aufwärts, beim Fall darauf abwärts. Die merkwürdigen
+unberechenbaren Kurven gerade während dieses Abstiegs scheinen auf
+Unregelmäßigkeiten im Bau dieser merkwürdigsten aller Schrauben
+zurückzugehen.
+
+
+
+
+9. Das Beharrungsvermögen.
+
+
+Ernst Mach nennt als wichtigstes und anregendstes Werkzeug dem in der
+Kulturgeschichte die größte Rolle zugefallen sei, den Feuerbohrer.
+Er deutet damit zunächst auf die grundlegende Wichtigkeit hin,
+die dem jederzeit künstlich erzeugbaren Feuer in der menschlichen
+Kulturentwicklung zugefallen ist, sodann aber doch auch auf die nicht
+minder folgenreiche Erfindung der Rotationsbewegung, zu der kein
+anderes Geschöpf auch nur den geringsten Auftakt gefunden hat. In der
+Tat ist der Mensch mit dem Gewinn der Wellenbewegung in den Besitz der
+entwicklungsfähigsten aller einfachen Maschinen, ja zur Grundlage aller
+zusammengesetzten Maschinen überhaupt gelangt. Ohne Rotation wäre die
+Vollkultur einfach nicht zu denken.
+
+Wenn wir bei den Naturvölkern aller Zeiten diese urtümliche
+Wellenbewegung so unverhältnismäßig wenig weiter gebildet vorfinden,
+so gibt uns dieser Umstand eine ungeheuer wichtige Handhabe, ja
+vielleicht direkt den Schlüssel für das Zurückbleiben so vieler
+Völker auf niedrigen Stufen in die Hand. Sie haben, wie die
+bisherigen Ausführungen lehrten und die weiteren noch lehren
+werden, die mannigfaltigsten Vorrichtungen gefunden und erfunden,
+um ihre Lebenshaltung über die Höhenlage einfach tierischer
+Wirtschaft emporzuheben. Dadurch indessen, daß sie die unbegrenzte
+Ausbaumöglichkeit jener Drehbewegung nicht erkannt, ausgenutzt und
+weiter verfolgt haben, sind sie aller jener ungezählten Vorteile
+verlustig gegangen, die die glücklichere weiße Rasse zur Beherrscherin
+des Erdballs und aller seiner Bewohner gestempelt haben.
+
+Das Gesetz der Beharrung oder der Trägheit ist, wie wir wissen,
+durchaus nicht auf rotierende Körper beschränkt, betrifft vielmehr
+jeden Körper in jeder Lage. Ist er in Ruhe, so bleibt er darin, bis
+ihm Geschwindigkeit von außen erteilt wird. Ist er in Bewegung, so
+verharrt er in seiner Geschwindigkeit, bis ihm diese von außen genommen
+wird. Auch die Bewegungsrichtung kann er nur ändern infolge einer von
+außen wirkenden Kraft. Aber für den Laien verknüpft sich der Begriff
+der Beharrung in erster Linie unleugbar mit dem anderen der Bewegung
+und insonderheit der Rotation. Im Zeitalter der tausenderlei Fahrzeuge
+und vor allem des Fahrrads ist das kein Wunder. Wodurch erhält sich
+denn z. B. der Radfahrer im Gleichgewicht, und zwar um so leichter,
+je schneller er fährt? Doch nur durch das Trägheitsgesetz; denn jeder
+rotierende Körper hat die Eigenschaft, daß er einer Änderung der
+Lage der Rotationsebene und damit also auch der Rotationsachse einen
+Widerstand entgegensetzt, der nichts als die Folge der Trägheit ist.
+Es bedarf einer Kraft, um die Achse des rotierenden Körpers aus ihrer
+Lage zu bringen, die um so größer sein muß, je schneller er sich dreht.
+Für den Radfahrer ist es daher schwieriger, sehr langsam zu fahren
+und doch das Gleichgewicht zu erhalten. Auch beim Kreisel ist es die
+Rotation, die ihn in aufrechter Lage erhält, und beim Diabolo seligen
+oder unseligen Angedenkens war es nicht anders.
+
+Zu dieser Erkenntnis sind die Naturvölker also nicht gelangt, womit
+sie sich ihre Aufstiegsmöglichkeit bis zu einem sehr hohen Grade
+verscherzt haben. Das Schwungrad am Feuerquirl der alten Anwohner des
+Lorenzstromes und der kanadischen Seen und der seiner Herkunft nach
+zudem noch zweifelhafte Drillbohrer Ozeaniens bestätigen als einsame
+Ausnahmen nur die Regel.
+
+In diesem Zusammenhang klingt es fast wie ein Witz der
+Kulturgeschichte, daß gerade nur jene soeben erwähnten beiden
+Spielzeuge des Kreisels und des Diabolos ein paar weitere, für den
+Fortschritt völlig bedeutungslose Belege bilden. Der Kreisel ist
+heute sicher allgemeines Besitztum der Jugend aller Zonen; woher er
+ursprünglich stammt und ob er nur ein- oder mehrmals erfunden worden
+ist, entzieht sich meiner Kenntnis. Im Malaiischen Archipel besitzt er
+ganz ungefüge Abmessungen, so daß ein ruhiger Gang gewährleistet ist.
+In Afrika tritt er allein schon im Rovuma-Gebiet in vier verschiedenen
+Formen auf, die in den Abbildungen 33 ~a~ bis ~d~ wiedergegeben sind.
+Die eine, kegelförmige (~a~) gleicht ganz der unsrigen; sie wird
+auch in ganz derselben Weise in Bewegung gesetzt. Bei den beiden
+weiteren (~b~ und ~c~) ist keine Schnur nötig, bei ihnen genügt das
+Schnellen zwischen Daumen und Mittelfinger zur Inbetriebsetzung. Das
+Schwungrad, denn um ein solches handelt es sich doch offensichtlich,
+besteht aus Scheiben vom Flaschenkürbis. Die vierte Art ist mir in
+zwei Varianten bekannt: der in ~d~ abgebildeten vom Rovuma und der in
+~e~ wiedergegebenen aus Urundi am nördlichen Ostufer des Tanganyika.
+Bei beiden tritt zum erstenmal ein neues mechanisches Element auf:
+die gleitende Reibung, indem sich die Kreiselwelle beim Abrollen der
+Schnur gegen ein von der linken Hand gehaltenes Widerlager legt. Wir
+haben hier in der Tat den Anfang unseres Wellenlagers. Das Widerlager
+besteht am Rovuma aus einem durchlochten abgegessenen Stück Maiskolben,
+in Urundi aus einem 15-30 ~cm~ langen Stück Hirsehalm, aus dem ein
+fensterartiger Rahmen herausgeschnitten ist. Beide Kreisel arbeiten
+vortrefflich, manche von ihnen sogar unter Hervorbringung gar nicht
+übler Töne.
+
+[Illustration: Abb. 33. Afrikanischer Kreisel. ~a~-~d~ Rovumagebiet,
+~e~ Urundi.
+
+(Nach Weule.)]
+
+Als das Diabolospiel 1907 bei uns auf der Bildfläche erschien, war
+es für alle lebenden Deutschen etwas Neues, und es bedurfte erst
+literarischer Studien, um festzustellen, daß eine gleichartige »Seuche«
+schon einmal, vom Herbst 1812 bis etwa 1825 bestanden hat. Der modernen
+Wiederholung ist bekanntlich eine weit kürzere Lebensdauer beschieden
+gewesen, indem der interessante Doppelkegel schon nach 1 bis 2 Jahren
+wieder verschwand. Wir sind schnellebiger geworden. Feldhaus führt das
+Wiederaufleben des Spiels auf den Kricketspieler Frey zurück. Frey hat
+es vermutlich aus der Literatur über jene erste Diabolowelle entlehnt.
+Woher es jedoch die Pariser Modedamen und Modeherren von 1812 genommen
+haben, kann ich nicht entscheiden.
+
+[Illustration: Abb. 34. Afrikanisches Diabolospiel.]
+
+Im Sommer 1906 habe ich Gelegenheit gehabt, das Diabolospiel auf dem
+Makondeplateau im Südosten von Deutsch-Ostafrika kennenzulernen.
+Inmitten der großen Menge von Eingeborenen, die gekommen waren, mir
+ihre Tänze und Spiele vorzuführen, vergnügte sich ein Mann damit, einen
+in der Mitte gerillten schweren Holzzylinder mit Hilfe einer an zwei
+Stöcken befestigten Schnur in die Höhe zu werfen und auf dieser Schnur
+immer von neuem aufzufangen. Bei genauerem Zusehen stellte ich als das
+wirksame Prinzip des ganzen Vorgangs die rasend schnelle Rotation fest,
+in die der Holzzylinder durch bestimmte Armbewegungen des Spielers
+versetzt wurde. Jenes Original befindet sich heute im Leipziger
+Völkermuseum. Es ist in der obenstehenden Abbildung 34 abgebildet.
+
+Gebührt dem Makonde-Diabolo unstreitig die Priorität vor dem
+europäischen von 1907, so ist das noch mehr der Fall bei zwei anderen
+Vorkommnissen, von denen das eine ebenfalls auf Afrika, das andere
+auf Vorderindien entfällt. Von jenem erzählt der englische Reisende
+V. L. Cameron, der von 1873 bis 1875 Afrika von Osten nach Westen
+durchquerte, während der indische in einem kompilatorischen Werk
+vermerkt ist. Cameron sollte damals dem berühmten Missionar und
+Reisenden David Livingstone neue Hilfsmittel nach dessen Arbeitsgebiet
+südöstlich vom Tanganyika bringen; ihm begegnete indessen in Tabora nur
+die Leiche des am 1. Mai 1873 verstorbenen großen Menschenfreundes,
+so daß Cameron seinen Plan änderte und durch den ganzen Süden des
+heutigen Kongostaats bis zur Westküste zog. In der Nähe des Tanganyika
+unterhielt eines Tages ein Sklave eines Häuptlings Djonmah die
+Reisenden durch seine Geschicklichkeit, indem er ein Stück Holz von der
+Form einer Sanduhr vor und hinter sich in die Luft warf, es auffing
+und wieder warf, so daß es immerfort weiter spann. Cameron sagt kein
+Wort von den beiden Stöcken und der sie verbindenden Schnur, die ihm
+also gar nicht aufgefallen sein müssen, ein Beweis entweder für sein
+nur geringes Interesse oder für eine wenig scharfe Beobachtungsgabe,
+in jedem Fall aber doch für seine Unbefangenheit. Ihm war das Spiel
+vollkommen neu.
+
+Das indische Diabolo wird nach Thurston (~Castes and Tribes of
+Southern India~; ~Madras~ 1909, ~III~. S. 502-504) von den Korava seit
+undenklichen Zeiten gespielt. Die Korava sind einer jener niedrigen
+Stämme, die seit vorarischer Zeit unstet im Lande schweifen. Sie sind
+so geschickt mit dem Diabolo, daß sie es selbst beim Seiltanzen bis zur
+Höhe von Kokosnußbäumen in die Luft schleudern, und daß manche Künstler
+es auffangen, ohne überhaupt hinzusehen. Das Diabolo besteht bei ihnen,
+ganz wie das afrikanische, aus festem Holz, ist aber nur ebenso groß
+und schwer wie das europäische.
+
+Die Übereinstimmung im Material könnte, zumal bei den übrigen engen
+Kulturbeziehungen, für einen Zusammenhang zwischen Indien und Afrika
+sprechen. Aber woher haben dann die Korava diese ihrem sonstigen
+Kulturbilde doch sehr wenig angepaßte Maschine? Ist sie ein Überlebsel
+aus der Seuchenwelle, die Europa erstmals 1812 überflutete und
+vielleicht auch nach Südasien hinübergebrandet ist? Oder liegt bei den
+Korava etwa gar selbständige Erfindung vor? Ganz unmöglich wäre das
+nicht, wenngleich sehr unwahrscheinlich.
+
+Von einwandfreierem Alter im Gebrauch der Menschheit, nämlich
+neolithisch, ist das Zurückgreifen auf das Trägheitsgesetz in der Form
+des Wirtels auf der Spindel; in ihr haben wir zugleich einen weiteren
+höchst wichtigen Ausgangspunkt für die ganze spätere Rotationsmechanik.
+Den Gebrauch der Spindel kennt unsere Generation nur noch aus Büchern;
+selbst in Ostafrika fand ich sie 1906 nur noch bei zwei sehr alten
+Leuten. Der eingeführte Kattun hatte die eigene Weberei auch dort
+bereits gemordet. Form und Gebrauch unserer alteuropäischen Spindel
+zeigt Abbildung 35. Man wand den Spinnstoff um einen hölzernen Stock,
+den Rocken, den die Spinnerin neben sich aufstellte oder in den Gürtel
+steckte. Jetzt legte sie die einzelnen Fasern durch Zupfen mit der
+einen Hand einander parallel, ordnete sie zu einer Art Vorfaden,
+während sie mit der andern die Spindel an ihrem oberen Ende in
+Drehung versetzte. An der Spindel war der Faden mit einer Schlinge in
+einem Häkchen oder einem schraubenförmigen Einschnitt so befestigt,
+daß die Drehung der Spindel auf ihn übertragen wurde. Die Spindel
+selbst bestand aus einem meist hölzernen, seltener knöchernen oder
+elfenbeinernen oder metallischen, pfriemenförmigen Stäbchen, dessen
+stärkerem unterem Teil eine scheibenförmige Schwungmasse aus gebranntem
+Ton, Stein, Horn, Holz oder Metall, der sogenannte Wirtel, aufgesetzt
+war. Durch dieses kleine Schwungrad wurde die Drehbewegung der Spindel
+ausgiebiger und gleichmäßiger, was sich ohne weiteres auf den Faden
+übertrug, der sich bei ihrem rotierenden Absinken zur Erde bildete.
+War die Bewegung abgelaufen, so wurde der Faden vom oberen Spindelende
+abgelöst, auf diese aufgerollt und von neuem festgehakt. Sodann begann
+der Vorgang von neuem.
+
+[Illustration: Abb. 35. Spinnrocken und Spindel.]
+
+In Europa reicht diese Spinntechnik, wie gesagt, bis in die jüngere
+Steinzeit zurück. Bei den Naturvölkern ist sie nur lückenhaft
+verbreitet, wobei Australien, Polynesien und die Arktis ganz
+ausscheiden, während in Afrika und Amerika im allgemeinen nur die
+niedriger stehenden Völkergruppen nicht bis zu ihr fortgeschritten
+sind. Zu einem maschinellen Betriebe höherer Art, wie ihn schon unser
+Handrad und noch mehr das anheimelnde Trittrad unserer Spinnstuben
+darstellen, ist indessen keins von ihnen vorgedrungen, so vollendet
+uns im übrigen z. B. der westafrikanische horizontale Webstuhl
+entgegentritt. Der unterscheidet sich von unserem, nunmehr allerdings
+auch überholten Handwebstuhl lediglich durch dessen Festigkeit und
+Eleganz des Aufbaues, keineswegs aber durch die innere Einrichtung.
+
+Zum Schluß sei noch einiger Gerätschaften gedacht, deren Wirkung zwar
+ebenfalls auf dem Prinzip des Beharrungsvermögens beruht, die sich
+aber im Gegensatz zu der friedlich anmutenden Spindel der Hackbauern
+vorwaltend bei reisigen Steppen- und Reitervölkern finden. Das sind die
+Bola und der Lasso. Ihre Gemeinsamkeiten und ihre Unterschiede sind
+bekannt. Bei beiden wirbelt der Reiter das ganze Riemensystem um das
+Haupt; während er aber die dreikugelige Bola im geeigneten Augenblick
+ganz fliegen und um sich rotieren läßt, damit sich ihre durch Stein-
+oder Metallkugeln beschwerten Riemen dem unglücklichen Opfer um Hals
+oder Beine schlingen, behält er beim Lasso das eine Ende fest in der
+Hand, so daß sich nur die gleitende Schlinge über das Opfer legt.
+Indem er im selben Augenblick hält oder in scharfem Winkel abbiegt,
+wirkt die Masse von Pferd und Reiter als äußere Kraft auf die Schlinge
+ein, die sich nunmehr schließt und den Gegner wehrlos macht. Beide
+Wurfwaffen stellen wahrhaft fein durchdachte Anwendungen mechanischer
+Prinzipien dar.
+
+
+
+
+10. Das Parallelogramm der Kräfte.
+
+
+Von allen Sätzen der Mechanik wird keiner so oft unbewußt verwendet
+wie dieser, denn in Wirklichkeit kann man zwei an einem Punkt unter
+einem Winkel angreifende Kräfte stets durch eine einzige ersetzen,
+wie auch eine gegebene Kraft stets in zwei Seitenkräfte zerlegen,
+die zusammen dieselbe Wirkung hervorbringen wie jene allein. Der
+gesamte Komplex unserer menschlichen Betätigung steht im Zeichen des
+Kräfteparallelogramms von seinen Anfängen an bis zur Gegenwart hinauf.
+
+Aus dieser Fülle Beispiele herauszugreifen hält schwer. Wir wollen uns
+mit einigen wenigen begnügen, die das Hineinwachsen unseres Geschlechts
+in die Herrenrolle dafür um so beredter predigen.
+
+Da ist als uralte und nahezu allgemein menschliche Kunstübung das
+Rudern zu nennen. Jeder, auch der wasserfremdeste Großstadtbewohner,
+bildet sich ein, es zu können. Die Unfallstatistik bringt leider den
+Gegenbeweis. Auch von den Naturvölkern verstehen es nicht alle, ein
+Zeichen, daß der Mensch das Rudern wirklich erst hat lernen müssen. Die
+Kulturvölker rudern anders als die Naturvölker; wir streichen, diese
+»paddeln«, d. h. tauchen, im Boot stehend oder hockend und das Gesicht
+nach vorn, ihr kurzes Ruder aus freien Händen etwas nach vorn, aber
+parallel der Kielebene in die Flut und drücken das Boot so vorwärts.
+Physikalisch handelt es sich in beiden Fällen um die Arbeit von Hebeln,
+und zwar einer Kombination je des ein- und des zweiarmigen Prinzips.
+Da das Boot weiterkommen soll, liegt der eigentliche Drehpunkt am
+unteren Ruderende im Wasser. Beide Hebelarme liegen dann innerhalb
+der Ruderlänge selbst. Den kürzeren Arm stellt der Widerstand des
+Wassers dar, der überwunden werden muß; den längeren das Ruder bis zu
+den Händen seines Meisters. Die Zweiarmigkeit wird uns klar, wenn wir
+sehen, mit welcher Leichtigkeit unsere Wettruderer in ihren Booten
+mit den weitausladenden Dollen große Geschwindigkeit erzielen. Das
+ermöglicht ihnen der inseits der Dolle liegende längere Hebelarm, der
+dafür allerdings auch eine größere Streichweite erfordert. Daher die
+auf Rollen laufenden Gleitsitze. Beim Paddeln liegt der Drehpunkt des
+zweiarmigen Hebels in der unteren Hand.
+
+In welch einschneidender Weise ein zu weites Ausholen die
+Arbeitsleistung schädigt, zeigt uns die dem Pfaundlerschen Werk
+entnommene Abbildung 36; zugleich auch, in welcher Weise die Zerlegung
+der Kräfte vor sich geht. »Wenn wir,« sagt Pfaundler, »wie das auf der
+rechten Bootseite gezeichnet ist, das Ruder aus der Stellung ~OR~ in
+die Stellung ~OR′~ bringen, wobei ein Bogen von 120° beschrieben wird,
+so stelle zu Beginn des Ruderschlages ~ad~ die Kraft dar, mit der er
+auf das Wasser wirkt. Diese Kraft zerfällt in die für uns nutzlose
+Komponente ~ab~ und in die Komponente ~ac~. Nur die letztere bringt
+das Schiff vorwärts. Ebenso ist gegen Ende des Ruderschlags nur die
+Teilkraft ~a′c′~ für unsern Zweck dienlich. Nur in dem Moment, wo
+das Ruder senkrecht auf die Mittellinie des Schiffes gerichtet ist,
+wirkt die volle, ungeteilte Kraft des Ruderschlages vorwärtstreibend
+auf das Schiff. -- Beobachten wir dieselben Konstruktionen auf der
+linken Seite, wo der Bogen des Ruders nur 60° beträgt. Hier sind die
+wirksamen Teilkräfte zu Beginn und am Ende des Ruderschlages wieder
+~ac~ und ~a′c′~. Während nun auf der rechten Seite ~ac~ und ~a′c′~
+nur ungefähr die Hälfte der vollen Kraft betragen, sind auf der
+linken Seite die wirksamen Teilkräfte nur wenig kleiner als die volle
+Kraft. Das zu weite Ausholen ist also unökonomisch; zwar bringt der
+doppelt so weite Ruderschlag das Boot weiter vorwärts als der weniger
+weit ausholende, aber durchaus nicht doppelt so weit, während unsere
+Anstrengung doppelt so groß ist. Rationeller ist es also, kleinere,
+aber dafür zahlreichere Schläge auszuführen, allerdings auch nur bis zu
+einem gewissen Grade, da ja auch das Ausheben und Einsenken des Ruders
+Arbeitskraft erfordert.«
+
+[Illustration: Abb. 36. Das mechanische Prinzip des Ruderns.]
+
+Das Paddeln erfolgt nach genau den gleichen Gesetzen, nur daß die
+Ruderebene um annähernd 90° gedreht ist. Da es bei der Kürze der Ruder
+keine großen Ausschläge gestattet und der Ruderer sein Gesicht dem Ziel
+zuwendet, besitzt es einige Vorteile vor unserer Art des Ruderns. In
+der geräumigen Kamerunbucht äußerten sie sich jahrzehntelang in der
+Weise, daß bei den Wettrudern der deutschen Matrosen die buntbemalten
+großen Einbäume der Duala-Neger in der Regel schneller fuhren als
+unsere langrudrigen schweren Plankenboote, was für jenen an sich
+schon nicht sehr bescheidenen Volksstamm stets ein Grund lärmendsten
+Triumphes war. ~Tempi passati!~
+
+Über den Anfängen des Segelns lagert ein tiefes Dunkel. An sich
+erscheint seine Entdeckung oder Erfindung leicht, da der Wind ja
+schließlich jeden flächenhaften schwimmenden Gegenstand vor sich
+hertreibt. Trotzdem ist es unter den Naturvölkern nur sehr lückenhaft
+verbreitet, beim Neger von Haus aus gar nicht, in Amerika nur bei den
+Inkaperuanern und den Maya, während es die Inselkaraiben Westindiens
+und die Tupí und Guaraní des östlichen Südamerika vermutlich erst in
+nachkolumbischer Zeit von den Europäern gelernt haben. Nur bei der
+malaiischen Rasse ist es seit unvordenklichen Zeiten Allgemeingut;
+wie hätte sie sonst ihre Wanderung um mehr als den halben Erdball
+vollführen können!
+
+Auf diese seetüchtige Rasse ist nun auch das Lavieren oder Kreuzen
+gegen den Wind beschränkt. Für Nordwest-Europa wird diese schwierigste
+aller nautischen Künste zum erstenmal für das Jahr 1189 erwähnt,[9]
+ist also eine recht junge Errungenschaft. Wie alt sie bei den
+Malaien und insonderheit den Poly- und Mikronesiern ist, und ob
+diese ihre Durchdringung des Stillen Ozeans bis Hawaii im Norden
+und der Osterinsel im Osten bereits der durch das Kreuzen bedingten
+Unabhängigkeit von den Windrichtungen verdanken oder dem bloßen Segeln
+mit dem Winde, läßt sich wohl kaum noch entscheiden. Heute, wie gesagt,
+beherrschen sie diese Kunst, wenngleich sie dabei auch ein ganz klein
+wenig anders verfahren, als das bei unseren Segelmanövern geschieht.
+Der Gegenstand ist schon aus diesem Grund einer näheren Betrachtung
+wert, wobei wir uns wiederum an Pfaundler anschließen wollen.
+
+Aufkreuzen ist in allen den Fällen nötig, wo der Wind vom Ziele her
+weht. Um es trotzdem zu erreichen, drehen wir das Boot so, daß seine
+Kiellinie ~KK′~ gegen einen andern Punkt ~Z′~ gerichtet ist, und
+stellen die Segelfläche in die Richtung ~SS′~, also zwischen die
+Windrichtung und die Kiellinie (Abb. 37). Nun sucht der Wind den
+Punkt ~A~ des Segels in der Richtung nach ~D~ zu bewegen. Die Strecke
+~AD~ stelle uns die Kraft dar, mit der das geschieht. Diese Kraft
+zerlegt sich in zwei Komponenten ~AB~ und ~AC~. Die erstere läßt die
+Luftmassen längs des Segels abstreichen, ohne weitere Wirkung zu
+äußern; die letztere Teilkraft, die senkrecht auf der Segelfläche
+steht, sucht Segel und Schiff in der Richtung ~AC~ mit der Stärke
+~AC~ zu bewegen. Aber das Schiff kann nur in der Kiellinie fahren,
+da der Widerstand des Wassers sonst zu groß ist. Somit zerfällt die
+Kraft ~AC~ wiederum in zwei Teilkräfte ~Ab~ u. ~Ac~. ~Ab~ übt keine
+Wirkung wegen des Widerstandes des Wassers aus, ~Ac~ aber treibt das
+Schiff in der Richtung des Kiels mit einer Kraft, die durch die
+Strecke ~Ac~ vorgestellt wird. Somit segeln wir in der Richtung nach
+dem Ziele ~Z′~. Nach einiger Zeit wenden wir mit dem Steuer das Boot
+rechts herum in der Richtung nach ~Z″~ und stellen das Segel wieder
+nach ~SS′~, zwischen die Windrichtung ~WD~ und die Kielrichtung ~K′K~.
+Nun wiederholt sich wie früher die doppelte Zerlegung, und wir segeln
+gegen ~Z″~. An dem Punkt ~Z″~ angekommen, wenden wir wieder nach links,
+so daß das Boot in die gleiche Stellung kommt wie bei der Abfahrt. So
+müssen wir unser Ziel ~Z~ erreichen.
+
+[Illustration: Abb. 37. Das mechanische Prinzip des Kreuzens gegen den
+Wind.]
+
+Das ist der Vorgang rein schematisch betrachtet. In der Praxis
+kompliziert er sich bei uns durch die Blähung des Segels, noch mehr
+aber in der Südsee, wo zunächst der Ausleger in Rechnung zu ziehen ist,
+wo aber auch, wie auf den Marshall-Inseln, der Mast nicht mittschiffs,
+sondern außenbords auf der Auslegerbrücke steht. Dieser Ausleger, ein
+durch Querhölzer mit dem Boot verbundener balkenförmiger Schwimmer,
+ist der Grund, warum die Mikronesier nicht über Stag gehen oder
+halsen, d. h. durch einfaches Wenden des Schiffes aufkreuzen können.
+Er muß nämlich stets an der Windseite bleiben, um den Segeldruck
+auszugleichen.[10] Deshalb wird an der Wendestelle das Boot mit dem
+Heck nach vorn gedreht -- sie sind hinten wie vorn gleich scharf
+gebaut -- und das Segel von hinten nach vorn getragen. Also ein in
+Einzelheiten urtümliches, als Ganzes aber doch großartiges Verfahren,
+dem kein anderes Naturvolk etwas Gleichwertiges an die Seite zu setzen
+hat.
+
+Der Ausleger kompliziert das Fahren aber auch noch in einer anderen
+Beziehung. Er bietet dem Wasser einen Widerstand, der auf die
+Fahrtrichtung des Bootes selbst nicht ohne Wirkung bleiben kann. Sie
+äußert sich in Reibung, die das Schiff nach seiner Seite hin ablenken
+und theoretisch im Kreis herumführen muß. Um dem zu begegnen, haben
+außer den Nikobaresen vor allem die Marshall-Insulaner die dem Ausleger
+zugewandte Bootseite erheblich gewölbter gestaltet als die andere
+Seite, die beim Marshallboot eine fast gerade Fläche bildet. Auf diese
+Weise wird der ungleiche Wasserwiderstand so gut ausgeglichen, daß die
+Fahrt nunmehr in der gewünschten geraden Linie erfolgt.
+
+[Illustration: Abb. 38. Drachenfischerei auf den Salomonen.]
+
+Wir können von der Südsee nicht scheiden, ohne noch einer halb
+nautischen, halb aëronautischen Großleistung ihrer Bewohner zu
+gedenken. Das ist der Fischdrachen, dessen Verwendung ich bereits im
+»Kosmos-Handweiser« von 1917, Seite 65, kurz geschildert habe. Er
+wird heute in drei Gebieten gebraucht, vom Westende von Neuguinea
+bis zur Bandasee und vereinzelt sogar bis zur Sundastraße, vom
+Ostende Neuguineas bis zu den Santa-Cruz-Inseln und den nördlichen
+Neuen Hebriden, und schließlich im nördlichen und westlichen
+Bismarck-Archipel. Aller Wahrscheinlichkeit nach ist er nicht
+einheimisch, sondern über Indonesien von irgendwoher eingewandert.
+
+In Form und Handhabung ähnelt der Fischdrachen unserem heimischen
+Papierdrachen sehr, nur ist er aus leichten Pflanzenblättern
+zusammengestellt und gegen den Winddruck durch dünne Stäbchen
+versteift. Wie man aus der Abbildung 38 ersieht, paddelt der Fischer
+kräftig gegen den Wind; der Drache steigt, schleppt aber am Ende
+seines Schweifes einen Köder in Form eines Bündels zusammengewickelter
+Spinnwebfäden, in denen sich große Fische, wie Hornhechte, beim
+Hineinbeißen mit den Zähnen verfangen sollen. Der Köder hüpft bei
+der frischen Brise lustig über die Wellen dahin, so daß er die
+Aufmerksamkeit der Hornhechte sehr wohl erregen wird.
+
+Bis hierher sind die Literaturangaben klar und unmißverständlich. Wie
+aber bringt der Fischer, falls er allein auszieht, den Drachen zum
+Steigen, und wie zieht er ihn, nachdem er am Zucken der Schnur das
+Anbeißen des Fisches festgestellt hat, ein, ohne daß der Drache ins
+Wasser fällt? Selbst die eingehenden Studien meines Mitarbeiters Dr.
+Plischke, der dem Fischdrachen zurzeit eine Monographie widmet, haben
+in den meisten dieser Punkte bisher keine Klarheit zu schaffen vermocht.
+
+[Illustration: Abb. 39. Das mechanische Prinzip des Luftdrachens.]
+
+Physikalisch stellt der Luftdrache eine solche Häufung von Gesetzen
+dar, daß wir auf eine ausführliche Darlegung verzichten, uns vielmehr
+mit einer groben Analyse begnügen müssen. In der Abbildung 39 stelle
+~sp~ den horizontal im Schwerpunkt ~p~ der geneigten Drachenfläche ~bb~
+angreifenden Winddruck dar. Nach dem Satz vom Kräfteparallelogramm
+zerlegt sich die Resultante ~pa~ in die Teilkraft ~pd~, die wirkungslos
+an der Fläche entlang gleitet, und die Teilkraft ~pc~, die senkrecht
+gegen die Fläche aufwärts drückt. Dorthin würde also der Drache
+gehoben, wenn er ohne Gewicht wäre. Da das nicht der Fall ist, setzt
+sich der Druck ~pc~ mit der in ~p~ senkrecht abwärts wirkenden
+Schwerkraft zu der Gesamtresultante ~pg~ zusammen. Die bei ~p~
+befestigte Schnur ~ep~ nimmt die Richtung dieser Resultante an und hält
+ihr durch ihre Spannung das Gleichgewicht, d. h. der Drache schwebt
+beim Festhalten und steigt beim Nachlassen der Schnur. Die besonderen
+Einwirkungen des Schweifes auf Schwerpunkt, Schnurbefestigung usw.
+müssen wir hier als zuweit führend beiseite lassen.
+
+
+
+
+11. Licht und Schall.
+
+
+Zu dem Fischer mit dem Drachen gesellt sich der andere mit Wurfspeer
+und Bogen und Pfeil; während aber jener nur auf die angegebenen Teile
+Ozeaniens und Indonesiens beschränkt ist, kehrt dieser in allen
+Erdteilen wieder. Zudem muß zum mindesten der Speerwurf nach dem
+Fisch uralt sein, denn er wird gerade von den allertiefststehenden
+Völkern gern geübt. Der Bogen hingegen ist eine verhältnismäßig junge
+Erfindung, die bei uns einwandfrei erst von der jüngeren Steinzeit an
+nachweisbar ist.
+
+Die naheliegende Frage ist nun: Wie hat sich der Schütze bei seinem
+Beginnen zu verhalten? Zielt er auf den Fisch selbst, oder über oder
+unter ihn? Daß ein Stock, wenn man ihn schräg ins Wasser hält, nach
+oben geknickt erscheint, beobachtet jedes Kind, es kann sich jedoch
+die Erscheinung nicht erklären. Später hört es dann im Unterricht von
+der Brechung des Lichts beim Übergang von einem Medium in ein anderes
+und sieht nunmehr die Sache schon mit etwas mehr Verständnis an.
+Ein gefälliger Erwachsener zeigt ihm schließlich den von dem alten
+griechischen Mathematiker Euklid schon vor 2200 Jahren angestellten
+Versuch mit der Silbermünze in der undurchsichtigen Schüssel, worauf
+es keinen Augenblick länger im Zweifel sein wird, daß der Gegenstand
+selbst sich tiefer befindet als es den Anschein hat. Jener Versuch
+besteht bekanntlich darin, daß man die Münze in der leeren Schüssel so
+legt, daß der etwas abseits stehende andere sie eben gerade nicht mehr
+sieht. Füllt man dann die Schüssel vorsichtig mit Wasser, so taucht die
+Münze für den Beobachter nach und nach über dem Schüsselrand auf, bis
+sie schließlich vollkommen sichtbar ist, während sie in Wirklichkeit
+noch unverrückt in ihrer alten Tiefe liegt.
+
+Den Urmenschen hat niemand weder mit Versuchen beglückt noch über
+Brechungsgesetze unterrichtet, und doch haben er und seine Nachfahren
+gelernt, mit Brechungsquotienten zu rechnen. Wie ungezählt viele
+Fehlwürfe und Fehlschüsse ihn das gekostet hat und noch heute jeden
+angehenden Wasserschützen kosten mag, ist gar nicht auszudenken. Hier
+hat die Empirie, die Erfahrung, das Maximum an Arbeit verlangt, aber
+auch einen ihrer größten Triumphe gefeiert.
+
+Wie sich der Vorgang im einzelnen abspielt, läßt sich bequem aus der
+Abbildung 40 ersehen. Die Brechung der von Gegenständen unter dem
+Wasser ausgehenden Lichtstrahlen hat zur Folge, daß sie uns näher der
+Wasseroberfläche zu liegen scheinen, als es in Wirklichkeit der Fall
+ist. So erscheint der Fisch ~F~, wenn wir ihn von ~a~ aus erblicken,
+in ~F′~ zu sein. Ist aber das Auge in ~a′~, so scheint er uns in ~F″~
+zu stehen. Die scheinbare Erhöhung wird also immer größer, je schiefer
+wir auf die Wasserfläche schauen; auch nimmt sie dabei immer rascher
+zu. Will man daher Fische schießen, so muß man stets tiefer zielen, und
+zwar um so mehr, je geneigter die Schußrichtung ist. Die »wilden« Jäger
+wissen das ganz genau, sind auch sonst über die Schwierigkeiten gut
+unterrichtet, vor allem über die Notwendigkeit, ein festes »Abkommen«
+zu haben. Daher das häufige schräge Eintauchen des Pfeils in das
+Wasser, um den Grad der Lichtbrechung zu prüfen; daher bei vielen
+Indianern Südamerikas auch das Hineinwerfen einer leuchtend roten Beere
+in den Fluß, um in dem Augenblick, wo ein von unten zuschnappendes
+Fischmaul sie verschlingen will, den Pfeil zu entsenden.
+
+[Illustration: Abb. 40. Erklärung des Fischschießens. Die scheinbare
+Höhe der Fische unter Wasser.]
+
+[Illustration: Abb. 41. Ostafrikanisches Telephon. (Nach Weule.)]
+
+Auf dem Gebiet der Akustik besteht die höchste Leistung der Naturvölker
+in der Besiegung des Raumes durch den sozusagen artikulierten Schall,
+durch die Signal- oder Trommelsprache. Vollendeter zwar ist das
+niedliche Telephon, das sich ostafrikanische Kinder konstruieren. Es
+ist in der Literatur schon seit den 1890er Jahren bekannt, doch fehlt
+es in den meisten Sammlungen. Im Süden von Deutsch-Ostafrika habe ich
+1906 ein paar Belegstücke erlangen können. Abb. 41 zeigt ein solches
+Telephon, bei dem es sich ganz offenbar um eine allerdings sehr
+geschickte Entlehnung aus europäischen Spielwarenläden handelt. Wie
+man sieht, besitzen diese Telephone die Form einer kleinen Trommel aus
+Holz oder Flaschenkürbis, deren obere Öffnung mit der feinen enthaarten
+Haut eines bestimmten Nagetieres überspannt wird. Die Leitung, eine
+sehr dünne, gut gearbeitete Pflanzenfaserschnur, wird durch ein enges
+Löchlein in der Mitte der Membran gezogen und durch einen Knoten am
+Durchgleiten verhindert. Die Apparate arbeiten ausgezeichnet; man kann
+sich bei straff angespannter Schnur auf 100 Meter und mehr -- länger
+sind die Leitungen nicht -- sehr gut durch sie verständigen. Welches
+Gesetz für das Leitungsvermögen einer solchen Schnur in Frage kommt,
+entzieht sich meiner Beurteilung; dazu bin ich nicht Physiker genug.
+
+Alle übrigen akustischen Verständigungsmittel, soweit sie auf der
+Trommel beruhen, haben den Vorzug, ureigenes Gut der Naturvölker
+zu sein. Die Erfindung einer Signalsprache ist nicht schwer, denn
+die Beobachtung, daß die stärkere Holzwand eines ausgehöhlten
+Holztroges einen tieferen Ton gibt als die schwächere, liegt nahe. Die
+konventionelle Einführung einer Art Morsesystems in Gestalt tieferer
+und höherer Töne für bestimmte Begriffe unter den Stammesgenossen
+bringt die Erfindung dann ebenso leicht zum Abschluß.
+
+Zu einer wirklichen Trommelsprache gehört allerdings doch wohl noch
+mehr. Ihre höchste Entfaltung hat sie in den küstennahen Gegenden
+Äquatorial-Westafrikas gefunden, wo die Eingebornen sich mühelos die
+längsten Geschichten über weite Entfernungen hin erzählen. Das ist
+nun ein Gebiet, wo manche Sprachen von sogenannten Tonhöhen oder
+musikalischen Akzenten durchsetzt sind, wo mit anderen Worten die
+Bedeutung der Silben mit der Art der Aussprache wechselt, ganz wie
+im Chinesischen auch. An diesen Umstand knüpft Prof. v. Luschan an,
+indem er meint, daß gerade erst dieser besondere Sprachcharakter die
+wesentlichste Vorbedingung für jene Vollentwicklung der Trommelsprache
+gewesen sei. Ob diese Vermutung durch weitere phonetische und
+linguistische Untersuchungen über Bord geworfen oder bestätigt werden
+wird, muß die Zukunft lehren; in jedem Fall hatte die vollendete
+Durchführung jener Errungenschaft ihren Besitzern ein bedeutendes
+Übergewicht über ihre Nachbarn eingetragen, bis die Herrschaft der
+Europäer das alles wieder ausgeglichen hat.
+
+Die allerfeinste Heranziehung der Akustik durch Naturvölker findet
+sich jedoch im tropischen Südamerika. In Ethnologenkreisen ist sie
+unter dem Namen Cambarysu bekannt und berühmt. Das sind ebenfalls
+Schlitztrommeln aus Holz, die von den Eingebornen so untergebracht und
+aufgestellt werden, daß ihre Töne ausschließlich an den gewünschten
+Punkten, nämlich gleichartigen »Stationen«, vernommen und gedeutet
+werden können. Zu dem Zweck baut man bei den Catuquinaru besondere
+Häuschen und stellt die Trommel darin in eine mit Holzstücken gefüllte
+Grube, die bei anderen Stämmen wegfällt. Trommeln nun die Männer in der
+Morgenstille, so werden die Zugänge zum Aufstellungsraum verschlossen
+gehalten, damit die Tonwellen nicht vom Walde verschluckt werden,
+sondern sich konzentrieren, durch die Giebel des Hauses entweichen und
+sich erst über den Wipfeln der Bäume in der freien Luft ausbreiten.
+Also eine leibhaftige Telephonie ohne Draht!
+
+
+
+
+12. Schlußbetrachtung.
+
+
+Mit dem Cambarysu wollen wir den Rundblick auf die physikalischen
+Errungenschaften der Naturvölker einstweilen beschließen. Dieser
+kleine Wunderapparat wendet sich bewußt an die nur geringe Schar
+der Eingeweihten. Das ist falsche Bescheidenheit, denn ein kurzer
+Überschlag alles von uns Gebrachten beweist doch unzweideutig, daß die
+Naturvölker keineswegs jene halb- oder ganztierischen Lebewesen sind,
+für die sie in Laienkreisen so oft gehalten werden. Alle Völker der
+Erde sind, wie wir in den Kosmosbändchen so oft betont haben, gleich
+alt, und alle haben genugsam Zeit und Gelegenheit gehabt, Erfahrungen
+zu sammeln und Entdeckungen und Erfindungen der verschiedensten Art
+zu machen. Wenn die weiße Rasse dabei ungleich erfolgreicher gewesen
+ist als alle übrigen, so haben ihr dabei zahlreiche Umstände geholfen,
+auf die hier einzugehen wir um so weniger Veranlassung haben, als der
+Unterschied keineswegs dem Wesen, sondern lediglich dem Grade nach
+besteht. Ganz ohne Errungenschaften ist nicht einmal das primitivste
+Völkchen geblieben, ja die Mehrzahl kann sich sogar eines oft nicht
+einmal unbeträchtlichen Schatzes an technischen Mitteln rühmen.
+
+Aber die Herrschaft über die Natur? Besitzen sie auch die? In dem Sinn,
+wie wir sie auffassen, sicherlich nicht; weder verfügen sie so souverän
+über die Kräfte der Luft und des Wassers, noch über die der Tierwelt,
+des Dampfes, der Elektrizität und der explosiblen Gase, wie wir das von
+uns rühmen. Aber Herrscher sind sie bei alledem doch, wenn auch nur
+über ihren eigenen, mehr oder weniger beengten Lebensraum. Und auch
+das verstehen wir zuweilen falsch. Wie bedauern wir den unglückseligen
+Buschmann in seiner kargen Heimat! Kaum jemals fühlbarer Überfluß,
+dafür aber um so häufiger der bitterste Mangel an allem, was uns zur
+bloßen Fristung des nackten Daseins erforderlich dünkt. Dabei fühlt
+sich dieser Wilde in seinem Dasein entschieden geborgener als mancher
+Großstadtbewohner in dem seinigen. Das Nahrungsbedürfnis? Als Sammler
+und Jäger kennt er alle Schliche und Methoden, die seiner Umwelt
+angepaßt sind. Die in jenen Regionen doppelt brennende Wasserfrage?
+Auch sie hat er zu lösen verstanden allezeit, vom Völkchen der
+Buschmänner lebte sonst längst nicht einer mehr. Wie im wahrsten Sinn
+souverän deren Herrschaft über ihre Heimat ist, lehrt nichts besser
+und einwandfreier als die noch immer zu wenig beachtete Tatsache,
+daß alle die Herero, die nach der Schlacht am Waterberg im August
+1904 nach Osten in das Sandfeld zogen, sich nur dadurch vom sicheren
+Untergang haben retten können, daß sie sämtliche Lebensgewohnheiten der
+vordem von ihnen so verachteten Vorbewohner dieser Region, eben der
+Buschmänner, sklavisch angenommen haben.
+
+So ist es allerorts; in allen Zonen hat der Mensch sich förmlich erst
+seine Lebensbasis geschaffen, sowenig das scheinbar rein vegetative,
+pflanzenähnliche Dahindämmern so manches Naturvolkes dafür zu
+sprechen scheint. Um das im einzelnen zu beweisen, müßte man eine
+umfassende Völkerkunde größten Umfanges schreiben. Einige wenige
+Belege rein _physikalischen_ Charakters haben wir in den vorstehenden
+Ausführungen gebracht, die gleichsam nur als Stichproben aus dem
+gesamten Kenntnisschatz der Naturvölker betrachtet sein wollen. Den auf
+vorwaltend _chemischer_ Grundlage beruhenden Errungenschaften soll das
+nächste Kosmosbändchen gewidmet sein. Somit bleibt uns heute nur noch
+die Aufgabe einer mehr andeutungsweisen, unsystematischen Übersicht
+wenigstens der Hauptsache dessen, was unsere so oft falsch beurteilten
+Freunde an weiteren physikalischen Leistungen und Kenntnissen zu
+verzeichnen haben.
+
+Wie weit reicht die künstliche Beleuchtung der menschlichen Wohnung
+zurück? Nun, sicher doch ebensoweit, wie das Feuer im Dienst
+unseres Geschlechtes steht; das Herdfeuer seiner Urhütte diente am
+Abend zugleich auch zu deren Erhellung. Auf dieser Stufe stehen
+seltsamerweise die meisten Naturvölker noch heute; sie haben kein
+höheres Lichtbedürfnis, sondern sitzen bis zum frühen Schlafengehen
+malerisch um ihr Universalfeuer herum. Kienspan, Fackel und Lampe
+sind unter diesen Umständen nur dünn verteilt zu finden, jener im
+alteuropäischen Kulturkreis, die Fackel aus Pflanzenharzen und stark
+ölartigen Früchten bei westafrikanischen und malaio-polynesischen
+Völkerschaften, die Lampe endlich bei den Eskimo und im alten
+Südeuropa. Schalenförmige Steine, die man als Lampen deutet,
+hat man neuerdings in südfranzösischen Höhlen des ausgehenden
+Paläolithikums gefunden; sie wie auch die Specksteinlampe der Eskimo
+brennen nur mit Hilfe eines Dochtes, und bestehe er auch nur aus
+einem zusammengedrehten Pflanzenflöckchen; sie beruhen also auf dem
+Gesetz der Kapillarität, deren wenn auch unbewußte Heranziehung in
+die menschliche Wirtschaft damit bis in überraschend ferne Zeiten
+zurückreicht. Unter Kapillarität verstehen wir die Erscheinung, daß
+in engen Röhren, die man in eine Flüssigkeit taucht, diese höher oder
+tiefer steht als außerhalb. Die Erscheinung erklärt sich aus der
+molekularen Anziehung zwischen den Flüssigkeitsteilchen unter sich (der
+Kohäsion) und zwischen den Teilchen der Flüssigkeit und der festen Wand
+(der Adhäsion). Ihre Wirkungsweise kann jedes Schulkind tagtäglich an
+seinem Löschblatt feststellen. Badeschwamm, Handtuch, Pinsel und Docht
+beruhen auf demselben Prinzip.
+
+Für den einzelnen Mitteleuropäer gibt es insofern keine
+Trinkwasserfrage, als er bloß an die Wasserleitung oder an den Brunnen
+zu gehen braucht. Beim Primitiven liegt die Sache so einfach nicht;
+in Trockengebieten bedroht ihn ständig die Frage der Beschaffung
+schlechthin; in Sumpfregionen oder solchen des Brackwassers muß er sich
+fragen: Wie mache ich die Flüssigkeit genießbar und bekömmlich? Beide
+Zwangslagen haben selbst schon die einfachsten Menschheitsgruppen zu
+den mannigfachsten Maßnahmen und Einrichtungen veranlaßt, so daß ein
+Ethnologe neuerdings ein ganzes Buch über den Gegenstand schreiben
+konnte.[11]
+
+Uns galt das Seewasser so lange für gänzlich unbenutzbar, bis wir es
+destillieren lernten. Wenn den Andamanesen und den Mikronesiern auf
+ihren langen Seefahrten das Süßwasser ausgegangen ist, springen sie
+morgens und abends je für lange Zeit in die salzige Flut, wodurch
+der Körper durch die Hautporen Wasser aufnimmt. Das rettet sie
+immerhin eine ganze Zeitlang vor dem Verdursten. Von den Polynesiern
+wird berichtet, daß sie neben Wasservorräten stets auch solche
+von bestimmten Pflanzen mitnehmen. Das Kauen dieser Blätter soll
+die Wirkung haben, daß man Seewasser genießen kann, ohne Schaden
+zu erleiden. Sickerlöcher für Brack- und Sumpfwasser finden sich
+vielerorts; im Gebiet des Schari südöstlich vom Tschadsee liegen sie
+bis zu 2 Kilometer vom Fluß ab, und im Lande Bornu umsäumen sie ganz
+systematisch die modrigen und brackigen Seen des Landes. Man hat also
+Sand und Kies als treffliche Filter erkannt. Für die Filtrierung des
+Meerwassers dienen auf vielen Südseeinseln ganz gleichartige, im Innern
+des Landes abgeteufte Anlagen. Selbst das von vielen Ethnologen als
+besonders primitiv angesehene Völkchen der Wedda auf Ceylon greift zu
+ihnen, da man das Wasser von Tümpeln und selbst dasjenige klarer Flüsse
+für giftig hält.
+
+Eine recht niedliche Erfindung wird von den Australiern berichtet.
+Diesen fehlt die Töpferei, so daß sie sich mit flachen Rindenmulden
+für den Wassertransport behelfen müssen. Um ein Ausschwappen
+und Ausspritzen des in diesem Lande doppelt kostbaren Inhalts
+zu verhindern, bedecken sie ihn mit buschigen Zweigen. Bei den
+Völkern des südlichen Deutsch-Ostafrika traf ich dasselbe Verfahren
+an; es entspricht vollständig der Verwendung jener kleinen
+Bretterkreuze, die bei uns zu Lande auf die gefüllten Wasser- oder
+Milcheimer gelegt werden. Physikalisch fällt die Erscheinung unter
+den Begriff der Interferenz, d. h. der gegenseitigen Einwirkung
+zusammentreffender Wellen. Begegnen sich auf einer Wasserfläche zwei
+gleiche Wellensysteme, so wirken sie bei ihrer Durchkreuzung derart
+aufeinander ein, daß an allen Stellen, wo die Wellenberge des einen
+Systems mit den Wellenbergen des andern zusammentreffen, das Wasser zu
+doppelter Höhe erhoben, an den Stellen, wo zwei Täler zusammenkommen,
+zu doppelter Tiefe herabgedrückt wird, während es dort, wo je ein
+Wellenberg mit einem Wellental zusammenfällt, seine ursprüngliche
+Höhenlage beibehält. Das Entstehen solcher überhohen Wellenberge durch
+Einlegen von Fremdkörpern zu verhüten, ist der Zweck der einfachen,
+aber sinnreichen Einrichtung.
+
+Mit dem Begriff des spezifischen Gewichts ist der Mensch vertraut
+geworden, seitdem er zum erstenmal selbst ins Wasser gegangen oder
+sich ihm auf einem schwimmenden Fremdkörper anvertraut hat. Hätte er
+sein absolutes Gewicht feststellen können und es durch sein Volumen
+dividiert, so würde er haben feststellen müssen, daß er leichter war
+als das Wasser, trotzdem sein erster Schwimmversuch dem Anschein nach
+das Gegenteil erwies.
+
+Neben Schwimmen und Schiffahrt spielt das spezifische Gewicht im Leben
+der Naturvölker wohl nur dort eine Rolle, wo es auf das Abscheiden
+fester Bestandteile aus Flüssigkeiten ankommt. Bei dem Auspressen
+des Maniokmehls mit dem Tipití unter den Amazonasindianern nimmt der
+abfließende Saft noch eine Menge feinverteilter fester Teilchen mit,
+die sich in der untergestellten Schale sammeln. Die Indianerfrau
+läßt das volle Gefäß ruhig stehen; die festen Teilchen setzen sich
+ab, werden abgegossen und ergeben getrocknet ein Mehl, das von den
+Indianern weit höher geschätzt wird als die ausgepreßte Masse selbst.
+
+Weit allgemeiner findet sich der gleiche Prozeß überall dort, wo der
+Sago den Grundstock der Nahrung bildet, also in ganz Hinterindien, im
+Malaiischen Archipel und auf Neuguinea. Die Sagopalme hat die angenehme
+Eigenschaft, in ihrem ganzen Innern aus der geschätzten Speise zu
+bestehen, nur daß sie einstweilen noch innig mit holzigen Bestandteilen
+durchsetzt ist. Hat man den übermannsstarken Baum gefällt, so gilt
+es, dieses durchwachsene Mark herauszuschlagen und zu zerkleinern,
+was mit stumpfen Hacken oder Klöpfeln verschiedener Konstruktion
+geschieht. Dann endlich erfolgt der Abscheidungsprozeß. Wie er am
+Kaiserin-Augusta-Fluß in Kaiser-Wilhelms-Land durchgeführt wird, zeigt
+Abbildung 42. Man wählt einen Trog, nämlich den unteren konischen
+Teil einer der gewaltigen Blattscheiden des Sagobaumes selbst, legt
+ihn etwas schräg auf Böcke und baut in das tiefer liegende Ende ein
+Gitter aus feinen Stäben ein, gegen welches sich ein Stück getrockneter
+Kokosblattscheide als eigentlicher Filter legt. Im Troge selbst knetet
+man nun die rohe Masse mit Wasser durch, wobei die Späne zurückbleiben,
+während das Sagomehl mit dem Wasser durch eine vorgesetzte steile
+Rinne in einen auf dem Boden stehenden Behälter abfließt. Der weitere
+Vorgang gleicht dem der Behandlung des Maniokmehls.
+
+Die letzten, hier noch eben zu streifenden Errungenschaften ragen
+gewissermaßen schon in die höhere Technik herein; sie eignen sich
+demgemäß auch vortrefflich zu einem natürlichen Abschluß. Die eine ist
+die Töpferscheibe; andere hängen eng mit den Anfängen der Metalltechnik
+zusammen; die letzten schließlich fallen unter den Begriff der
+Elastizität.
+
+[Illustration: Abb. 42. Sagoschlämmen am Sepik, Neuguinea. (Nach
+Reche.)]
+
+Die Töpferscheibe ist eine senkrecht stehende Achse mit einer schweren
+Scheibe in Tritthöhe unten und einer kleineren auf dem oberen
+Achsenende. Der Töpfer versetzt die Maschine durch Treten der unteren,
+zugleich als Schwungrad dienenden Scheibe in Rotation, während er mit
+den Händen auf der oberen die Tonmasse formt; also eine höchst einfache
+Vorrichtung. Trotzdem -- vielleicht auch gerade deshalb -- ist man
+über Alter und Herkunft noch immer nicht unterrichtet. In Ägypten ist
+sie uralt, bei uns erscheint sie erst mit den Slawen, also vor noch
+nicht 1½ Jahrtausenden; bei den Naturvölkern existiert sie gar nicht
+oder doch nur in leisen Anfängen in Gestalt von Topfscherben, die
+die Töpferin bei ihrer Modellierarbeit als immerhin schon drehbare
+Unterlage benutzt. Die Rotation hat unserm Geschlecht, wie man immer
+wieder sieht, überraschend viele Schwierigkeiten bereitet.
+
+Die vorkolumbische Menschheit schied sich in zwei große Teile: den
+metallverarbeitenden Westen, aus Europa, Asien und Afrika bestehend,
+und den metallosen Osten, der aus Australien, Ozeanien und Amerika
+bestand. Wer das erste Kupfer geschmolzen und verarbeitet, die erste
+Bronze legiert und das erste Eisen verhüttet hat, ist noch immer
+eine Streitfrage, doch denkt man bei Kupfer und Bronze einheitlich
+wenigstens an den vorderasiatisch-europäischen Kulturkreis. Beim
+Eisen ist man nicht einmal so weit, da für seine Entdeckung und erste
+Verarbeitung auch die Neger Afrikas in Frage kommen können; ja,
+Professor v. Luschan hat direkt den Beweis zu führen versucht, daß
+unsere Eisentechnik aus Afrika komme, also beim Neger älter sei als
+selbst im alten Orient. Träfe das zu, so bedeutete es einen ungeheuern
+Triumph für diese Rasse, zugleich allerdings auch einen ebenso
+niederschmetternden Beweis für ihre technische Unfähigkeit, etwas nicht
+einmal ohne Geschick Errungenes nun auch zielbewußt weiter auszubauen.
+
+[Illustration: Abb. 43. Afrikanische und malaiische Blasebälge beim
+Verhüttungsprozeß.]
+
+Die Anfänge sind in der Tat vollkommen sachgemäß und einwandfrei:
+richtige Hochöfen vom Prinzip unseres älteren rheinischen Ofens
+mit Gicht, Schachtraum, Rast, Schmelzraum und Herd und vollkommen
+rationeller Beschickung mit abwechselnden Lagen von Holzkohle und
+Eisenstein; dazu Einlaßdüsen für Gebläse, die das Erz zwar nicht bis
+zum Schmelzfluß bringen, wohl aber zum Zusammensintern, so daß es sich
+mit leichter Mühe aus der entstandenen Luppe herausschmieden läßt. Also
+alles in allem ein vortrefflicher, vielversprechender Auftakt, nur
+schade, daß das Stück nicht weitergeführt worden ist.
+
+Genau dasselbe Bild zeigen die Gebläse. Abbildung 43 zeigt die
+beiden afrikanischen Typen kombiniert mit dem malaiischen. Von jenen
+besteht der eine aus einem abgezogenen Tierbalg mit drei zugebundenen
+Beinen, während in das vierte die zum Hochofen oder Schmiedefeuer
+führende Düse eingefügt ist. Ventil ist der oben belassene
+Schlitz, der beim Herunterdrücken mit Hilfe zweier angebundener
+Längsstäbchen geschlossen, beim Hochziehen geöffnet wird. Das ist
+der Schlauchblasebalg. Der andere Typ besteht aus einer Art großen
+Doppellöffels aus Holz oder Ton, dessen beide Aushöhlungen mit Fell
+oder großen Blättern überspannt sind, in deren Mitte je ein langer Stab
+eingebunden ist. Das ist der Gefäßblasebalg. Die Handhabung geschieht
+durch abwechselndes Heben und Senken beider Stäbe, wodurch ein
+annähernd gleichmäßiger Luftstrom entsteht. Der malaiische Blasebalg
+endlich gleicht im Aufbau unserer Saug- und Druckpumpe, wie sie
+jedermann von der Feuerspritze her kennt: in den Bambuszylindern laufen
+an Stöcken befestigte Kolben auf und nieder und pressen die Luft in die
+seitlich angesetzte Düse.
+
+[Illustration: Abb. 44. Schwippgalgen, in ganz Mittel- und Südafrika
+angewandt.
+
+(Nach Weule, Negerleben in Ostafrika.)]
+
+Allen drei Systemen gemeinsam ist der Mangel an eigentlichen Ventilen,
+d. h. Klappen, durch welche die Luft beim Hub von unten her oder
+seitlich zugeführt werden könnte; überall muß sie sich vielmehr einen
+Weg durch die Düse selbst oder, wie beim malaiischen Blasebalg, an der
+Undichtigkeit der Stempel entlang suchen. Hier sind wir also an der
+oberen Grenze des Schlußvermögens jener Rassen angelangt; darüber hilft
+auch der Umstand nicht hinweg, daß der Malaie sich die Elastizität
+der eingespannten Bambusstange zunutze macht, die ihn wenigstens des
+Stempelhubs überhebt und dadurch nicht unerheblich entlastet.
+
+Mit der Elastizität haben sich sowohl der Arktiker wie der Südasiat und
+der Neger ungleich besser zu stellen verstanden als mit so knifflichen
+Fragen wie der des Ventils, was aus der unendlich langen Holzzeit,
+welche die junge Menschheit hat durchlaufen müssen, durchaus erklärlich
+erscheint. Das Hauptverwendungsbereich liegt natürlich da, wo es auf
+die Auslösung plötzlicher Energie ankommt, also beim Bogen und der
+Armbrust und den unterschiedlichen Tierfallen. Alle drei sind so späte
+Errungenschaften, daß sie nicht Zeit gefunden haben, den Weg um die
+ganze Erde zurückzulegen. Mehrfach erfunden zu werden, sind sie aber
+bereits zu kompliziert, so einfach sie uns verwöhnten Europäern auch
+erscheinen mögen. Abbildung 44 zeigt den indonesisch-afrikanischen
+Haupttypus, Abbildung 45 eine in Hinterindien heimische Form dieser
+Tierfallen. Jeder halbwüchsige europäische Knabe wird imstande sein,
+die Konstruktion alsbald nachzuempfinden und zu erläutern; wieviel
+Generationen sich aber dort unten am Äquator den Kopf an dieser
+immerhin nicht ganz kleinen Häufung physikalischer Probleme zermartert
+haben mögen, bis das Werk zu der heutigen Vollendung heranreifte, das
+ist nicht auszudenken.
+
+[Illustration: Abb. 45. Selbstschuß bei den Senoi, Malakka.]
+
+
+
+
+Fußnoten:
+
+[1] _K. Weule_, Die Kultur der Kulturlosen. Kosmos, Gesellschaft der
+Naturfreunde Franckh'sche Verlagshandlung. Stuttgart 1910. S. 51-60.
+Auch die beiden anderen einschlägigen Kosmosbändchen »Kulturelemente
+der Menschheit« und »Die Urgesellschaft und ihre Lebensfürsorge« sind
+in den folgenden Ausführungen oftmals herangezogen worden.
+
+[2] Illustrierter Führer durch die vorgeschichtliche Abteilung des
+Weimarer Städtischen Museums. Herausgegeben im Auftrage der Stadt
+Weimar von Armin Möller, Kustos. Verlag des Städtischen Museums.
+
+[3] _L. v. Pfaundler_, Die Physik des täglichen Lebens. 3. Auflage.
+Stuttgart und Berlin 1913. S. 272. Auf das ausgezeichnete Buch hat
+oftmals zurückgegriffen werden können.
+
+[4] _A. Heilborn_, Allgemeine Völkerkunde. ~I.~ Aus Natur und
+Geisteswelt Nr. 487. S. 64.
+
+[5] _H. Th. Horwitz_, Beiträge zur außereuropäischen und
+vorgeschichtlichen Technik. Jahrbuch des Vereins deutscher Ingenieure.
+1916. Bd. 7. S. 181; _F. M. Feldhaus_, Über die Saftpresse der
+Guayana-Indianer. Zeitschrift für angewandte Chemie. Jahrgang 31.
+Nr. 53 vom 2. Juli 1918; _K. Weule_, Zusammenhänge und Konvergenz.
+Petermanns geograph. Mitteilungen. 1920. S. 70.
+
+[6] _O. T. Mason_, ~The human beast of burden~. ~Report of the United
+States National Museum 1887~, S. 255.
+
+[7] _Berthold Laufer_, ~Chinese pottery of the Han Dynasty~. Leiden
+1909, S. 72 ff.
+
+[8] _Globus_, Band 79 und 80; _M. P. Porsild_, ~The principle of the
+screw in the technique of the Eskimo~. ~American Anthropologist. N. S.
+Vol. 17~, Nr. 1; _B. Laufer_, ~The Eskimo screw as a Culture-Historical
+Problem~, ebenda, Nr. 2; _Horwitz_, a. a. O.
+
+[9] Vgl. _Walther Vogel_, Geschichte der deutschen Seeschiffahrt. ~I.~
+Berlin 1915. S. 515.
+
+[10] Vgl. Dr. _P. Hambruch_, Die Schiffahrt auf den Karolinen- und
+Marshall-Inseln. Meereskunde. Sammlung volkstümlicher Vorträge.
+6. Jahrgang, 6. Heft. S. 10.
+
+[11] Dr. _A. Haberlandt_, Die Trinkwasserversorgung primitiver Völker.
+Petermanns geogr. Mitteilungen. Erg.-Heft 174. Gotha 1912.
+
+
+
+
+Freude am Leben
+
+und sichere Grundlagen
+
+für eine moderne Weltanschauung findet jeder in der Natur.
+
+
+Zum Beitritt in den »Kosmos, Gesellschaft der Naturfreunde«, laden wir
+
+  alle Naturfreunde
+
+jedes Standes sowie alle Schulen, Volksbüchereien, Vereine usw. ein. --
+Außer dem geringen
+
+  Vierteljahresbeitrag von nur M 7.50
+
+  (Dazu durch den Buchhandel Bestellgeld, etwaige Postgebühr besonders)
+
+erwachsen dem Mitgliede $keinerlei$ Verpflichtungen; dagegen werden ihm
+folgende großen Vorteile geboten:
+
+Die Mitglieder erhalten laut § 5 der Satzung als Gegenleistung für
+ihren Jahresbeitrag im Jahre 1921 $kostenlos$:
+
+    ~I.~ Die Monatsschrift Kosmos, Handweiser für Naturfreunde.
+         Reich bebildert.
+
+   ~II.~ Die ordentlichen Veröffentlichungen. 4 Buchbeilagen.
+
+           Prof. Dr. K. Weule, Die Anfänge der Naturbeherrschung
+           Hanns Günther, Radiotechnik
+           Dr. Kurt Floericke, Würmer
+           Wilh. Bölsche, Im Bernsteinwald
+
+  ~III.~ Vergünstigungen beim Bezuge von hervorragenden
+         naturwissenschaftlichen Werken
+
+
+  Jedermann kann jederzeit Mitglied werden.
+        Bereits Erschienenes wird nachgeliefert.
+
+Anmeldungen bei jeder Buchhandlung oder durch die Geschäftsstelle des
+_Kosmos_, _Stuttgart_, Pfizerstraße 5.
+
+Folgende seit Bestehen des Kosmos erschienene Buchbeilagen erhalten
+Mitglieder, solange vorrätig, zu _Ausnahmepreisen_:
+
+
+1. Gruppe 1904-1907. Broschiert M 65.60, gebunden M 101.20.
+
+  $1904$ Bölsche, W., Abstammung des Menschen. -- Meyer, Dr. M. W.,
+        Weltuntergang. -- Zell, Ist das Tier unvernünftig? (Dopp.-Bd.)
+        -- Meyer, Dr. M. W., Weltschöpfung.
+
+  $1905$ Bölsche, W., Stammbaum der Tiere. -- Francé, Sinnesleben der
+        Pflanzen. -- Zell, Dr. Th., Tierfabeln. -- Teichmann, Dr. E.,
+        Leben und Tod. -- Meyer, Dr. M. W., Sonne und Sterne.
+
+  $1906$ Francé, Liebesleben der Pflanzen. -- Meyer, Dr. M. W., Rätsel
+        der Erdpole. -- Zell, Dr. Th., Streifzüge durch die Tierwelt.
+        -- Bölsche, W., Im Steinkohlenwald. -- Ament, Dr. W., Die Seele
+        des Kindes.
+
+  $1907$ Francé, Streifzüge im Wassertropfen. -- Zell, Dr. Th.,
+        Straußenpolitik. -- Meyer, Dr. M. W., Kometen und Meteore. --
+        Teichmann, Fortpflanzung und Zeugung. -- Floericke, Dr. K., Die
+        Vögel des deutschen Waldes.
+
+
+2. Gruppe 1908-1911. Broschiert M 65.60, gebunden M 101.20.
+
+  $1908$ Meyer, Dr. M. W., Erdbeben und Vulkane. -- Teichmann, Dr. E.,
+        Die Vererbung. -- Sajó, Krieg und Frieden im Ameisenstaat.
+        -- Dekker, Naturgeschichte des Kindes. -- Floericke, Dr. K.,
+        Säugetiere des deutschen Waldes.
+
+  $1909$ Francé, Bilder aus dem Leben des Waldes. -- Meyer, Dr. M. W.,
+        Der Mond. -- Sajó, Prof. K., Die Honigbiene. -- Floericke,
+        Kriechtiere und Lurche Deutschlands. -- Bölsche, W., Der Mensch
+        in der Tertiärzeit.
+
+  $1910$ Koelsch, Pflanzen zwischen Dorf und Trift. -- Dekker,
+        Fühlen und Hören. -- Meyer, Dr. M. W., Welt der Planeten. --
+        Floericke, Säugetiere fremder Länder. -- Weule, Kultur der
+        Kulturlosen.
+
+  $1911$ Koelsch, Durch Heide und Moor. -- Dekker, Sehen, Riechen
+        und Schmecken. -- Bölsche, Der Mensch der Pfahlbauzeit. --
+        Floericke, Vögel fremder Länder. -- Weule, Kulturelemente der
+        Menschheit.
+
+
+3. Gruppe 1912-1915. Broschiert M 65.60, gebunden M 101.20.
+
+  $1912$ Gibson-Günther, Was ist Elektrizität? -- Dannemann, Wie unser
+        Weltbild entstand. -- Floericke, Fremde Kriechtiere und Lurche.
+        -- Weule, Die Urgesellschaft und ihre Lebensfürsorge. --
+        Koelsch, Würger im Pflanzenreich.
+
+  $1913$ Bölsche, Festländer und Meere. -- Floericke, Einheimische
+        Fische. - Koelsch, Der blühende See. -- Zart, Bausteine des
+        Weltalls. -- Dekker, Vom sieghaften Zellenstaat.
+
+  $1914$ Bölsche, Wilh., Tierwanderungen in der Urwelt. -- Floericke,
+        Dr. Kurt, Meeresfische. -- Lipschütz, Dr. A., Warum wir
+        sterben. -- Kahn, Dr. Fritz, Die Milchstraße. -- Nagel, Dr.
+        Osk., Romantik der Chemie.
+
+  $1915$ Bölsche, Wilh., Der Mensch der Zukunft. -- Floericke, Dr. K.,
+        Gepanzerte Ritter. -- Weule, Prof. Dr. K., Vom Kerbstock zum
+        Alphabet. -- Müller, A. L., Gedächtnis und seine Pflege. --
+        Besser, H., Raubwild und Dickhäuter.
+
+
+4. Gruppe 1916-1920. Brosch. M 68.80, gebunden M 106.25.
+
+  $1916$ Bölsche, Stammbaum der Insekten. -- Dekker, Dr., Heilen und
+        Helfen. -- Floericke, Dr., Bulgarien. -- Weule, Krieg in den
+        Tiefen der Menschheit (Doppelband).
+
+  $1917$ Besser, Natur- und Jagdstudien in Deutsch-Ostafrika. --
+        Floericke, Dr., Plagegeister. -- Hasterlik, Dr., Speise und
+        Trank. -- Bölsche, Schutz- und Trutzbündnisse in der Natur.
+
+  $1918$ Floericke, Forscherfahrt in Feindesland. -- Fischer-Defoy,
+        Schlafen und Träumen. -- Kurth, Zwischen Keller und Dach. --
+        Hasterlik, Dr., Von Reiz- und Rauschmitteln.
+
+  $1919$ Bölsche, Eiszeit und Klimawechsel. -- Zell, Neue
+        Tierbeobachtungen. -- Floericke, Spinnen und Spinnenleben. --
+        Kahn, Die Zelle.
+
+  $1920$ Fischer-Defoy, Lebensgefahr in Haus und Hof. -- Francé, Die
+        Pflanzen als Erfinder. -- Floericke, Schnecken und Muscheln. --
+        Lämmel, Wege zur Relativitätstheorie.
+
+
+Alle 4 Gruppen auf einmal bezogen: brosch. M 226.50, geb. M 352.--
+
+Einzeln bezogen kostet jed. Band brosch. M 4.20, geb. M 6.60 (für
+Nichtmitgl. je M 5.20 bezw. M 7.80). Die Jahrgänge 1904-1916 (je 5
+Bände) kosten für Mitglieder brosch. je M 18.--, geb. je M 28.20. Die
+Jahrgänge 1917-1920 (je 4 Bände) kosten für Mitglieder brosch. je
+M 14.40, geb. je M 22.40.
+
+Vom Kosmos-Handweiser sind noch geringe Vorräte von 1910, 1911, 1913,
+1914, 1915, 1917, 1918, 1919, 1920 vorhanden. Jeder Band kostet für
+Mitglieder brosch. M 10.--, geb. M 19.50 (für Nichtmitglieder brosch.
+M 12.--, geb. M 24.--).
+
+[Illustration: Feuererzeugung bei den Gauchos der Pampas
+
+(Probebild aus Weule, Kultur der Kulturlosen)]
+
+          Schriften über
+  Völkerkunde u. Völkerforschung
+
+                von
+
+       Prof. Dr. Karl Weule:
+
+
+  Die Kultur der Kulturlosen
+
+    Ein Blick in die Anfänge menschlicher Geistesbetätigung
+    Mit 3 Tafeln und zahlreichen Abbildungen.
+
+
+  Kulturelemente der Menschheit
+
+    Anfänge und Urformen der materiellen Kultur
+    Mit 4 Tafeln und zahlreichen Abbildungen.
+
+
+  Die Urgesellschaft und ihre Lebensfürsorge
+
+    Mit zahlreichen Abbildungen.
+
+
+  Vom Kerbstock zum Alphabet. Urformen der Schrift
+
+    Mit zahlr. Abbild. nach Originalaufnahmen u. Originalzeichnungen
+
+
+  Der Krieg in den Tiefen der Menschheit.
+
+    Mit zahlr. Abbildungen nach Originalzeichnungen. (Doppelband).
+
+
+  Jeder Band (_Januar_ 1921) geb. M 5.20, gebd. M 7.80
+
+
+  _Franckh'sche Verlagshandlung, Stuttgart_
+
+                  STUTTGARTER SETZMASCHINEN-DRUCKEREI
+                      HOLZINGER & Co., STUTTGART
+
+
+
+
+  +--------------------------------------------------------------+
+  | Anmerkungen zur Transkription                                |
+  |                                                              |
+  | Inkonsistenzen wurden beibehalten, wenn beide Schreibweisen  |
+  | gebräuchlich waren, wie:                                     |
+  |                                                              |
+  | anderen -- andern                                            |
+  | Baumwoll-Entkernungsmaschine -- Baumwollentkernmaschine      |
+  | Druckes -- Drucks                                            |
+  | Eingeborenen -- Eingebornen                                  |
+  | Eskimo-Schraube -- Eskimoschraube                            |
+  | Flaschenzuges -- Flaschenzugs                                |
+  | Fortschrittes -- Fortschritts                                |
+  | Leitungsvermögen -- Leitvermögen                             |
+  | Neu-Mecklenburg -- Neumecklenburg                            |
+  | Raumes -- Raums                                              |
+  | Rovuma-Gebiet -- Rovumagebiet                                |
+  | Tipití-Problem -- Tipitíproblem                              |
+  | ungeheuern -- ungeheuren                                     |
+  | unseren -- unsern                                            |
+  |                                                              |
+  | Interpunktion wurde ohne Erwähnung korrigiert.               |
+  | Im Text wurden folgende Änderungen vorgenommen:              |
+  |                                                              |
+  | S. 5: »Breewarina« in »Brewarrina« geändert.                 |
+  | S. 17: »besondern« in »besonderen« geändert.                 |
+  | S. 18: »Satz von Parallelogramm« in »Satz vom                |
+  |        Parallelogramm« geändert.                             |
+  | S. 34: »gradliniger« in »geradliniger« geändert.             |
+  | S. 42: »untern« in »unteren« geändert.                       |
+  | S. 46f: »Breewarina« in »Brewarrina« geändert.               |
+  | S. 51: »Drallprovinzen« in »Drallprovenienzen«
+geändert.     |
+  | S. 52: »Schildkrotplatten« in »Schildkrötplatten«
+geändert.  |
+  | S. 60: »untern« in »unteren« geändert.                       |
+  | S. 60: »kürzern« in »kürzeren« geändert.                     |
+  | S. 60: »längern« in »längeren« geändert.                     |
+  | S. 66: »allertiefstehenden« in »allertiefststehenden«
+       |
+  |       geändert.                                              |
+  | S. 72f: »untern« in »unteren« geändert.                      |
+  | S. 74: »ältern« in »älteren« geändert.                       |
+  | S. 75: »obern« in »oberen« geändert.                         |
+  | S. 77: »Wilh. Boelsche« in »Wilh. Bölsche« geändert.         |
+  +--------------------------------------------------------------+
+
+
+
+

@@ -1,0 +1,3323 @@
+GESPREKKEN ***
+
+
+
+
+                   MALEISCH-NEDERLANDSCHE GESPREKKEN.
+
+                                 DOOR
+                           Dr. A. A. FOKKER,
+
+  Leeraar in de Maleische Taal aan de Openbare Handelsschool en aan de
+     Opleidingsschool voor Adsp. Administrateurs bij de Zeemacht te
+         Amsterdam; privaat-docent aan de Universiteit aldaar.
+
+
+                               Zutphen,
+                          W. J. THIEME & Cie.
+
+
+
+
+
+
+
+VOORBERICHT.
+
+
+De Maleisch-Nederlandsche Gesprekken hier verzameld zijn voor ’t
+grootste gedeelte ontleend aan de „Vocabulary” van F. Swettenham; een
+zevental zijn door ons zelf opgesteld. In de eerste is echter
+doorloopend verbetering in ’t Maleisch aangebracht, zooals bij
+vergelijking met het origineel dadelijk kan blijken. Ook zijn hier en
+daar volzinnen ingelascht of toegevoegd en andere weggelaten.
+
+De schrijfwijze verschilt niet veel van die van Swettenham. Alleen is
+voor ch c gebruikt, en werd de spelling meer in overeenstemming met de
+juiste uitspraak gebracht. De slotklank in woorden als bâdaq werd
+onderscheiden van de k. Zoo kwam, durven wij zeggen, groote verbetering
+in de schrijfwijze der klinkers. Deze toch werden door Swettenham zeer
+vaak lang geschreven, waar ze inderdaad kort waren (kîta, in pl. v.
+kita, dâlam in plaats van dalăm enz.) In plaats van bânyak of banjaq
+schreven wij bâñaq. De eigenaardige klinker in de slotlettergreep van
+woorden als dekăt, senăng enz. werd door ons op de hier bedoelde wijze
+geschreven. De z.g. stomme e behielden wij, omdat deze nu eenmaal
+algemeen zoo geschreven wordt, en in dit boekje een praktische
+spelling, geen fonetische transscriptie als in onzen Leercursus beoogd
+wordt.
+
+De oe-klank bleven wij met u schrijven. Dit komt ons veel praktischer
+voor.
+
+Een spelling als in deze Gesprekken heeft ook voor een Engelschman
+weinig bezwaar. Ook dit is een voordeel.
+
+Voor hen, die nog niet vertrouwd zijn met deze wijze van
+transscribeeren, volge hier dit overzichtje:
+
+
+Klinkers.
+
+    e       z.g. stomme e;
+    é en è  ongeveer als in ’t Fransch;
+    ă       iets meer naar de a dan „stomme” e;
+    u       als oe in ’t Nederlandsch;
+
+
+Medeklinkers.
+
+    c       als tj in praatje;
+    j       ongeveer als Eng. j in jam, meest door Nederlanders met dj
+            geschreven;
+    y       als de Nederlandsche j;
+    g       als de Fransche g in gant;
+    q       geeft ’t plotseling afbreken van den ademstroom na den
+            voorafgaanden klinker te kennen (een hikkend geluid, dat
+            iets van een k heeft).
+    ñ       als nj in ons woord oranje.
+
+
+    Dr. A. A. FOKKER.
+
+        Amsterdam, Januari 1899.
+
+
+
+
+
+
+
+ERRATA.
+
+
+NB. Men zal goed doen door de volgende verbeteringen aan te brengen
+voordat men ’t boekje gebruikt:
+
+Op blz.  1 regel  1 van onderen staat sejug,  moet wezen sejuq;
+,, ,,    9   ,,  17 ,,    ,,     ,,   tengeh   ,,   ,,   tengah;
+,, ,,   12   ,,  10 ,,  boven    ,,   balik en mari moet wezen
+                                      bâlik en mâri;
+,, ,,   13   ,,   1 ,,    ,,     ,,   Esoq,   moet wezen Ésoq;
+,, ,,   29   ,,   7 ,,   onder   ,,   Nak,     ,,   ,,   Naq;
+,, ,,   39   ,,  17 ,,    ,,     ,,   kârang   ,,   ,,   kûrang;
+
+Verder eenige keeren kalaw voor kâlaw en maka voor mâka.
+
+
+
+
+
+INHOUD.
+
+
+                                                                Bladz.
+
+    Gesprek   1. Het weder                                          1
+      ,,     2. De tijd                                             4
+      ,,     3. De weg                                              9
+      ,,     4. Gesprek met een kok                                13
+      ,,     5.   ,,    ,,  ,,  bediende                           16
+      ,,     6. Op een rivier                                      18
+      ,,     7. In de wildernis                                    24
+      ,,     8. Op zee                                             27
+      ,,     9. Op jacht                                           29
+      ,,    10. Aan tafel                                          33
+      ,,    11. In een hotel                                       35
+      ,,    12. Gesprek met een Maleisch Vorst                     36
+      ,,    13. Op de markt                                        38
+      ,,    14. Het aanleggen van een plantage                     39
+      ,,    15. Gesprek met een tuinman                            44
+      ,,    16.   ,,    ,,  ,,  waschman en zijn knecht            46
+      ,,    17.   ,,    ,,  ,,  stalknecht                         48
+      ,,    18.   ,,    ,,  ,,  schrijver                          51
+      ,,    19.   ,,    ,,  ,,  schoenmaker                        53
+      ,,    20.   ,,    ,,  ,,  kleermaker                         54
+      ,,    21.   ,,    ,,  ,,  timmerman en met een wagenmaker    57
+      ,,    22. Aan ’t station                                     59
+      ,,    23. Gesprek met een zieke, over ziekte en
+                geneesmiddelen                                     60
+      ,,    24. Bij den Magistraat                                 66
+      ,,    25. Op school                                          70
+      ,,    26. Onlusten in een inlandschen staat                  73
+      ,,    27. Gesprek met een koopman en over
+                koopmansaangelegenheden                            75
+      ,,    28. Openbare verkooping (vendutie)                     79
+
+
+
+
+
+
+
+MALEISCHE GESPREKKEN.
+
+1. HET WEDER.
+
+
+Ari âpa sekârang?                  Wat voor weer is ’t vandaag?
+Bâñaq pânas âri ini.            }  ’t Is erg warm vandaag.
+Pânas sekâli âri ini.           }
+Ta bôleh tâhan.                    ’t Is niet uit te houden.
+Selâlu kah pânas bagini?           Is ’t altijd zoo warm?
+Ia, tuan, lebih-kûrang bagini      Ja, mijnheer, ongeveer altijd zoo
+juga.                              (lett. ongeveer zoo ook ’t zelfde.)
+Ta perenah sâya râsa pânas         Ik heb nog nooit zoo’n warmte
+bagini; tentu lebih pânas deri     gevoeld; ’t is zeker warmer dan te
+Singapûra.                         Singapoer.
+Sâya pikir lebih pânas di          Ik geloof (denk), dat het te
+Pulaw-Pinang (Sâya kîra...)        Pulaw-Pinang warmer is.
+Betul, di bandar, tetapi di        Zeker, in de haven, maar op den berg
+bukit tidaq.                       niet.
+Sejuq di bukit (Dingin....)        ’t Is koud op de bergen.
+Kemuñcaq bukit itu sangăt sejuq    De top van den berg is erg koud.
+(dingin).
+Di negri sâya, pada musim          In mijn land is ’t in den kouden
+dingin, sejuq sekâli, ingga âir    tijd erg koud, zoodat het water in
+sungay dan âir kôlam jâdi beku     de rivieren altemaal bevriest
+semuâ-ña.                          (stolt).
+Ta perenah bagitu di-sini. (Ta     ’t Is hier nooit zoo.
+suah....)
+Tuan suka kah pânas?               Houdt u van de warmte?
+Suka juga.                         Och, jawel (Houd ervan toch).
+Tidaq, sâya ta suka sekâli.        Neen, ik houd er volstrekt niet van.
+Ôrang Melâyu ta tâhan sejuq.       De Maleiers kunnen niet tegen de
+                                   koude (verdragen de koude niet).
+Kâlaw sejuq sangăt, maka           Als ’t erg koud is, krijgen zij de
+dia-ôrang kenâ demăm.              koorts.
+Susah itu.                         Dat’s lastig.
+Tuan pikir âpa? Pânas kah ésoq     Wat dunkt u? Zal ’t morgen warm zijn
+ataw ujan?                         of regenen?
+Bârangkâli ujan ésoq.              Misschien regent ’t morgen.
+Nampaq saperti naq(endaq) ujan.    ’t Ziet er uit alsof ’t wil gaan
+                                   regenen.
+Betul, nampaq gelap sangăt.        Inderdaad, ’t ziet er erg donker
+                                   uit.
+Bârangkâli tâi-ujan sâja.          Misschien zijn ’t maar losse wolken.
+Ujan lebat.                        ’t Regent hard. (De regen is dicht).
+Kâlaw angin tûrun dulu, t’âda      Als er eerst wind opsteekt,
+berâpa ujan.                       beteekent de regen niet veel (is de
+                                   regen niet bizonder).
+Sâya arăp begitu.                  Ik hoop ’t (zoo).
+Tâda salju dan ujan-bâtu di        Er is geen sneeuw en geen hagel in
+negri-negri di bâwah angin ini.    den Indischen Archipel (landen onder
+                                   den wind).
+Ta perenah, tuan.                  Nooit, mijnheer.
+Âda kah perenah kaw liat salju     Heb je ooit sneeuw gezien?
+itu?
+T’âda, tuan, tetapi sâya dăngăr    Neen, mijnheer, maar ik hoor dat er
+âda juga kâdang-kâdang salju       in China soms (ook) sneeuw is.
+dalăm negri Cina.
+Rupâ-ña pun sâya dăngăr saperti    Naar ik hoor ziet het er uit als
+kâbo-kâbo.                         boomwol.
+Ia, sungguh bagitu.                Ja, ’t is inderdaad zoo.
+Di sini tiap-tiap âri sarupa       Hier is ’t iederen dag ’t zelfde,
+juga, ta bôleh tâu bulan Januâri   men kan de maand Januari niet van de
+deri bulan Juni.                   maand Juni onderscheiden (lett.
+                                   weten).
+Sungguh, tetapi malăm-ña sejuq     Zeker, maar de nachten zijn toch
+juga.                              (wel) koud.
+Ia, kârena malăm-âri selâlu âda    Ja, want ’s nachts is er voortdurend
+angin sedikit.                     (steeds) een beetje wind.
+Sâya suka udâra sini deri udâra    Ik verkies de lucht hier boven de
+Erôpah.                            Europeesche lucht.
+Kâlaw ujan, bâru sedăp sekâli      Als ’t regent, is ’t eerst bizonder
+râsâ-ña.                           aangenaam (’t gevoel ervan).
+Ia, kâlaw ujan sedikit, kâlaw      Ja, als ’t een beetje regent, als ’t
+bâñaq, tidaq.                      veel is, niet.
+Kâlaw ujan sedikit pun, bâik       Als ’t een beetje regent, is ’t ook
+juga.                              goed.
+Kâlaw ujan ésoq, sâya ta bôleh     Als ’t morgen regent, kan ik niet
+pegi.                              gaan.
+Kâlaw cuâca bâik, bôleh sâya       Als de hemel helder (goed) is, kan
+jâlan.                             ik op weg gaan.
+Ujan ta ujan pun, tentu sâya       Of ’t regent of niet, ik ga toch
+jâlan juga.                        stellig op weg.
+Betul lah itu, tuan.               Dat’s zeker (juist), mijnheer!
+Âwan-âwan gelap sangăt rupâ-ña.    De wolken zien er zeer donker uit.
+Kâlaw tûrun angin, âbis lah        Als er wind komt (neerkomt), gaan
+âwan-âwan itu.                     die wolken weg (op).
+Datăng pâgi-pâgi ésoq.             Kom morgen heel vroeg.
+Din’âri ta bôleh, tetapi pâgi      Met ’t aanbreken van den dag kan ik
+nanti sâya datăng.                 niet, maar ik zal vroeg komen.
+Kâlaw petăng, ta berguna lâgi.     Als ’t avond (namiddag) is, geeft ’t
+                                   niets meer (is ’t onnut verder).
+Nanti sâya côba (dăngăn)           Nu, ik zal zien wat ik doen kan (ik
+sabôleh-bôleh-ña.                  zal probeeren zoo goed als ’t kan).
+Terang sekâli bulan malăm ini.     De maan is erg helder van nacht.
+Pukal berâpa nâik?                 Hoe laat is ze opgekomen, komt ze
+                                   op?
+Kûrang priksa (beleefder dan:      Ik weet ’t niet.
+sâya tidaq tâu, terwijl tâu lah!
+ongemanierd is).
+Tetapi pâgi-pâgi bâru masuq        Maar ze gaat pas heel vroeg in den
+(jâtoh).                           morgen onder.
+Kâlaw t’âda bulan, bintang semua   Als er geen maan is, hebben de
+lebih terang cahyâ-ña.             sterren alle meer glans, (is
+                                   helderder de glans der sterren).
+Pâtut kita jâlan waktu bulan       ’t Is het beste (gepast), dat we op
+gelap.                             weg gaan bij donkere maan.
+Bumi ini jâlan-ña keliling         Deze aarde gaat rondom de zon, en de
+mâta-âri, dan bulan pun            maan gaat om de aarde.
+berkeliling bumi.
+Mâta-âri jâuh sekâli deri bumi     De zon is zeer ver van de aarde
+ini.                               verwijderd.
+Angin keñcang sekâli.              De wind is zeer sterk (strak).
+Angin endaq tûrun.                 De wind zal opsteken.
+Angin endaq mati.                  De wind gaat afnemen, liggen.
+Angin dârat sejuq, angin lâut      De landwind is koud, de zeewind
+pânas, lâgi membangkitkăn          warm, en bovendien veroorzaakt hij
+peñakit.                           ziekten (doet ziekte ontstaan).
+Sâya takut bârangkâli nanti        Ik ben bang, dat er wellicht een
+tûrun ribut.                       storm opsteekt.
+Âda kah kaw dăngăr gûruh itu?      Heb je dien donder gehoord?
+Pohon-kâyu kenâ petir.             De boom is door den bliksem
+                                   getroffen (door een donderkijl
+                                   getroffen).
+Tidaq, sâya liat kilap sâja.       Neen, ik heb alleen den bliksem
+                                   gezien.
+Bâik tutup jendêla, dan tûrunkăn   Je moet ’t venster sluiten en de
+lâyar.                             zeilen neerlaten. (’t Is goed....)
+
+
+
+
+
+
+
+2. DE TIJD.
+
+
+Pukul berâpa sekârang?              Hoe laat is ’t nu?
+Lebih-kûrang pukul sa-puluh.        Ongeveer tien uur (tien slagen).
+Âda kah tuan menâroh jam            Bezit u een horloge?
+(reloji)?
+Mâna bôleh menâroh jam dalăm        Hoe kan ik een horloge hebben in de
+utan?                               wildernis?
+Nampaq saperti rembang.             ’t Ziet er uit, alsof ’t middag is
+                                    (hoogste stand der zon).
+Kâlaw mâta-âri nampaq, tidaq        Als de zon te zien is, is ’t niet
+susah endaq tâu pukul berâpa.       lastig om te weten hoe laat ’t is.
+Bagimâna?                           Hoe zoo?
+Pâgi-pâgi deri waktu terbit-ña,     ’s Morgens vroeg van den tijd van
+ia-itu subuh, mâta-âri nâik         ’t opgaan der zon, dat is de tijd
+sampay tengah-âri, ia itu pukul     voor ’t ochtendgebed, stijgt de zon
+dua-belas. Deri waktu itu           tot twaalf uur. Van dien tijd af
+mâta-âri jâtoh sampay luhur, ia     daalt ze tot aan den tijd van ’t
+itu pukul dua. Deri situ jâtoh      middaggebed, d. i. twee uur. Van
+lâgi sampay sembâyang-asar, ia      dan af daalt ze nog meer tot den
+itu kîra-kîra pukul empat petăng.   tijd van ’t namiddaggebed, d. i.
+Kemudian mâta-âri masuq kembâli     zoo wat vier uur in den namiddag.
+jam pukul enăm petang.              Daarna gaat de zon weer onder om
+                                    zes uur in den namiddag.
+Pukul berâpa tuan nanti sedia?      Hoe laat is u (straks) klaar?
+Sekârang sâya sedia.                Ik ben nu klaar.
+Kâlaw tuan bâlik dalăm dua jam      Als u over twee uur terug komt,
+lâgi, bôleh kâmi jâlan.             kunnen wij op weg gaan.
+Dua jam lâgi jâdi lambat sangăt.    Over twee uur is ’t erg laat.
+Âpa bôleh buat? Sâya tidaq bôleh    Wat is er aan te doen? Ik kan mijn
+meñiapkan bârang-bârang lebih       goed niet eerder gereed maken.
+dulu deri itu.
+Kâlaw bagitu, jangan sebutkăn dua   Dan moet je maar niet meer erover
+kâli; dalăm dua jam nanti aku       spreken (niet twee maal noemen),
+bâlik kemâri.                       over twee uur zal ik weer hier
+                                    terugkomen.
+Âpa kâtâ-ña?                        Wat zegt-i?
+Kâtâ-ña nanti dia datăng ésoq       Hij zegt dat hij morgen heel vroeg
+pâgi-pâgi; kâlaw tidaq pâgi,        komen zal; als ’t niet in den
+tentu tengah-âri dia âda di sini.   ochtend is, dan is hij zeker ’s
+                                    middags hier.
+Pukul berâpa nanti tuan datăng?     Hoe laat komt u (straks)?
+Dekăt pukul dua.                    Bij tweeën.
+Lebih-kûrang pukul tiga.            Ongeveer drie uur.
+Pukul empat betul.                  Precies vier uur.
+Pukul sa tengah empat (of: tiga     Half vier in den namiddag;
+sa tengah) petăng;
+Pukul dua siang; pukul sembilan     Twee uur ’s middags; negen uur ’s
+malăm.                              avonds (’s nachts).
+Pukul sâtu kûrang sa prâpat.        Om kwart vóor éen (éen min een
+Pukul lima lebih sa prâpat.         kwart). Kwartier over vijf (vijf
+                                    plus een kwart).
+Pukul delâpan lâlu.                 Over achten.
+Pâgi ini, of: tâdi pâgi (ook:       Van morgen.
+pâgi tâdi).
+Malăm sekârang (of als ’t nog       Heden avond (nacht), van avond
+vóór dien tijd is: nanti malăm).    (nacht).
+Semalăm; kelmârin (kemâri).         Gisteren, gisterenavond; gisteren.
+Semalăm pâgi.                       Gisteren ochtend.
+Kelmârin siang-âri.                 Gisteren middag (tusschen 10 en 4).
+Kelmârin dulu. [1]                  Eergisteren.
+Ésoq, ésoq-âri.                     Morgen (demain).
+Ésoq-ña.                            Den volgenden dag (le lendemain).
+Bésoq.                              Later ’s.
+Ta bôleh tidaq, nanti dia datăng    Hij moet bepaald overmorgenochtend
+lusa pâgi.                          komen (’t kan niet niet, hij zal
+                                    komen...)
+Perlu lah dia âda disini dalăm      ’t Is noodzakelijk, dat hij hier
+tiga âri lâgi.                      zij binnen drie dagen.
+Dia ta bôleh sampay waktu itu.      Hij kan dien tijd niet hier zijn
+                                    (aankomen).
+Ta bôleh tidaq datăng, perlu        Hij móet komen, zijn komst is
+sekâli datăng-ña.                   volstrekt noodzakelijk.
+Âpa sabab  } tuan ta datăng?        Waarom is u niet gekomen?
+Mengâpa    }
+Âpa sabab  } kaw tidaq datăng?      Waarom ben je niet gekomen?
+Mengâpa    }
+Sâya terhâl di jâlan, tuan, jâdi    Ik ben onderweg opgehouden,
+lambat sampay.                      mijnheer, zoodat ik daardoor laat
+                                    aangekomen ben.
+Bohong! Kaw lêngah di jâlan.        Leugens! Je hebt gelanterfant
+                                    onderweg.
+Tatekâla sampay sûrat ini datăng    Zoodra deze brief aankomt, moet je
+lah sekâli (of: Saketika....)       onmiddellijk komen (sekâli = in een
+                                    keer, in eens, tevens).
+Kâbarkăn dia sâya tidaq bôleh       Zeg hem, dat ik niet langer wachten
+menanti lâgi.                       kan.
+Kâtâ-ña nanti datăng dăngăn         Hij zegt, dat hij spoedig zal
+sigra-ña.                           komen.
+Kâlaw bagitu, bôleh sâya menanti    Dan (als ’t zoo is), kan ik nog een
+lâgi sa suku jam (sa prâpat jam).   kwartier wachten.
+Bila jâdi itu?                      Wanneer is dat gebeurd?
+Lebih-kûrang sa bulan dulu.         Zoowat een maand geleden.
+Tentu kah?                          Stellig?
+Tentu.                              Stellig.
+Bôleh kah ingăt pukul berâpa itu?   Kan je je herinneren hoe laat dat
+                                    was?
+Bagimâna bôleh tâu? Sâya tidaq      Hoe kon ik ’t weten? Ik bezit geen
+menâroh jam.                        horloge.
+Pâgi kah, petăng kah?               Was ’t ochtend, of namiddag
+                                    (avond)?
+Sâya tidaq berâpa ingăt, tuan,      Ik herinner ’t me niet recht,
+tetapi pâda pikîran sâya sudah      mijnheer, maar naar mijn idee was
+jâuh malăm (of: sâya kîra sudah     ’t diep in den nacht (ver nacht).
+jâuh malăm).                        (of: ik gis, meen....)
+Berâni kah sumpah?                  Durf je erop te zweren?
+Berâni, tuan.                       Jawel, mijnheer (Durf, mijnheer).
+Bâik lah, sameñjaq âri engkaw       Goed, sinds den dag, dat je hem
+berjumpa dăngăn dia sampay âri      ontmoette tot nu toe, hoe lang is
+ini, berâpa lâmâ-ña?                dat?
+Bârangkâli sâtu minggu (sâtu        Misschien een maand.
+jumaät).
+Ésoq-ña âri itu âda kah engkaw      Heb je ’m den volgenden dag ook
+berjumpa dăngăn dia juga?           ontmoet?
+Entah. Ta tâu lah sâya!             Ik weet ’t niet. Weet ik ’t!
+Côba ingăt bâik-bâik, âri engkaw    Kom, herinner je ’s goed, den dag
+berjumpa dăngăn dia, âda kah dia    dat je ’m ontmoette, heeft hij toen
+kâta dia berjumpa dăngăn Mat        gezegd, dat hij Mat den vorigen dag
+malăm-ña dulu, ataw dua âri dulu,   ontmoet had, of een maand geleden?
+ataw sa bulan dulu?
+Bârang-kâli itu âri juga.           Misschien dien zelfden dag.
+Âpa, âri engkaw berjumpa dăngăn     Wat, den dag dat je ’m ontmoette,
+dia âri itu juga dia berjumpa       op dien zelfden dag had hij Mat
+dăngăn Mat?                         ontmoet?
+Kâta dia bagitu.                    Dat zegt hij.
+Kâtâ-ña bagitu.                     Dat zegt-i.
+Âpa, dia berjumpa dăngăn Mat itu    Wat, heeft hij Mat ontmoet voordat
+dulu deri bercakăp dăngăn engkaw    hij met je sprak of daarna?
+ataw kemudian?
+Bârangkâli diliat ña akăn Mat       Misschien heeft hij Mat eerst
+dulu.                               gezien.
+Itu lah yang aku tâña pada engkaw   Dat vraag ik je juist.
+(.. sama kaw).
+Kemudian deri engkaw tinggalkăn     Hoe lang nadat je haar verlaten
+dia, berâpa lâma lâgi, kirâ mu,     hebt, is ze, naar je gissing,
+dia mati?                           gestorven?
+Bârang-kâli tengah dua jam (sâtu    Misschien anderhalf uur zoowat.
+jam sa tengah) bagitu.
+Kûrang priksa.                      Ik weet ’t niet.
+Cakăp betul-betul.                  Zeg ’t naar waarheid (praat juist).
+Betul, tuan.                        ’t Is waar, mijnheer.
+Sameñjaq sâya datăng kemâri, sâya   Sedert ik hier gekomen ben, zoek ik
+câri sama tuan.                     naar u.
+Berâpa lâma engkaw di sini?         Hoe lang ben je hier?
+Tâda berâpa lâma.                   Niet zoo heel lang.
+O, minta maäf, kâlaw sâya tâu       O, neem me niet kwalijk (vraag
+tuan Ânu, tentu sâya datăng         vergiffenis), als ik geweten had,
+lekas.                              dat het Mijnheer N. N. was, zou ik
+                                    zeker spoedig gekomen zijn.
+Tidaq âpa (of: Tidaq mengâpa).      ’t Is niets; ’t maakt niets uit.
+Lâin kâli tuan datăng, tentu sâya   Als u een anderen keer komt, zal ik
+sedia menanti.                      zeker klaar staan en op u wachten.
+Bila bôleh sâya jumpa tuan lâgi?    Wanneer kan ik u weer ontmoeten?
+Malăm sekârang, lepas makan.        Van avond, na ’t eten.
+Kâlaw tuan bôleh datăng malăm       Als u van avond komen kan, om tien
+sekârang, jam pukul sa-puluh        uur twintig minuten, kunnen we die
+lebih dua-puluh menit, bôleh kita   zaak afdoen.
+selesaykăn perkâra itu.
+Bâik lah, bôleh aku datăng.         Goed, ik kan komen.
+Mâri lebih dulu deri itu.           Kom u wat eerder.
+Sâya nanti datăng kemudian.         Ik zal later komen.
+Âda kah kaw liat pukul berâpa dia   Heb je gezien, hoe laat hij
+keluar?                             uitgegaan is?
+Pukul dua malăm rebô.               Om twee uur Dinsdag (den nacht van
+                                    Woensdag).
+Sâya kîra bagitu. Tentu dia yang    Ik geloof, dat ’t zoo is. Zeker
+buat.                               heeft hij ’t gedaan.
+
+
+
+
+
+
+
+3. DE WEG.
+
+
+Mâna jâlan pegi (pergi) ka          Waar is de weg, die naar de kampong
+kampung ânu?                        die en die gaat?
+Ini lah dia.                        Deze is ’t.
+Betul kah jâlan ini pegi ka         Is dit de goede weg naar de kampong
+kampung ânu?                        die en die?
+Tidaq, tuan silap jâlan (sâlah      Neen, u heeft zich in den weg
+jâlan).                             vergist.
+Mâna jâlan yang betul?              Welke is de goede weg?
+Pulang bâlik jâlan tâdi kedăr       Ga den weg van daareven zoowat een
+sâtu bâtu (sâtu pal), kemudian      mijl ver terug, dan slaat u rechts
+ikut kânan (kîri) (simpang ka       af.
+kânan, kîri).
+Berâpa jâuh deri sini?              Hoe ver is ’t van hier?
+Lebih-kûrang tiga bâtu (pal),       Ongeveer drie Eng. mijl, misschien
+bârang-kâli sâtu jam bôleh          kan u er in een uur komen, als u
+sampay, kâlaw jâlan derăs; kâlaw    hard loopt, als u onderweg draalt,
+lêngah di jâlan, tengah dua jam     komt u er eerst in anderhalf uur.
+bâru sampay.
+Kâlaw bagitu, sâya jâlanlah.        Als ’t zoo is, ga ik op weg.
+Jâlan ini pegi ke mâna?             Waar gaat deze weg heen?
+Ka Bukit-Timah.                     Naar Bukit-Timah (lett. tinberg).
+Jâlan-ña bâik kah?                  Is de weg goed?
+Bâik juga.                          Jawel. (Goed wel, toch).
+Sedang lah.                         Middelmatig, zoo, zoo.
+Tidaq, tuan, ta bôleh pegi          Neen, mijnheer, u kan dien weg niet
+mengikut jâlan itu.                 volgen.
+Âpa fasal (of: âpa sebab, of:       Waarom (niet)?
+mengâpa)?
+Jâlan-ña ta bâik sekâli, bâñaq      De weg is volstrekt niet goed, er
+selut (lumpur), lâgi lôbang         is veel modder, en bovendien zijn
+bâñaq.                              er veel kuilen (gaten).
+Bôleh kah krêta lâlu di situ?       Kan er een rijtuig langs?
+Ta bôleh, tuan.                     Dat kan niet, mijnheer.
+Bagi-mâna kita jâlan, kâlaw         Hoe gaan we dan, als ’t zoo gesteld
+bagitu?                             is?
+Âda lâin jâlan, mâu bâlik sedikit   Er is een andere weg, dan moet u
+dulu, kemudian ikut jâlan kânan.    eerst wat teruggaan, daarna den
+                                    rechtschen weg inslaan (volgen).
+Bôleh kah engkaw tuñjuqkăn jâlan    Kan je dien weg aanwijzen?
+itu?
+Minta maäf, sâya âda kerjâ          Ik vraag excuus, ik heb wat werk
+sedikit, tetapi budaq ini bôleh     maar deze jongen kan hem u wijzen.
+menuñjuqkăn sama tuan.
+Terima kâsih.                       Dank je (u).
+Mâri, kita jâlan.                   Kom, laat ons op weg gaan.
+Ini kah jâlan betul, tidaq kah?     Is dit de juiste weg, of niet?
+Bukan, jâlan itu pegi ka Selitar.   Neen, die weg gaat naar Selitar.
+Tuan ’naq (endaq) pegi ke mâna?     Waar wil u heen?
+Ka Bukit Timah. Bukan kah ini       Naar Bukit-Timah. Is dit de weg
+jâlan-ña?                           niet?
+Bukan. Jâuh lâgi deri ini.          Neen. Nog ver van hier.
+Kâtâ-ña ôrang itu ini lah dia.      Die lui zeiden, dat dit de weg was.
+Tidaq, tuan, tuan sâlah faham.      Neen, mijnheer, u heeft ’t verkeerd
+(sâlah arti).                       begrepen.
+Tidaq, sâya arti bâik-bâik          Neen, ik heb heel goed zijn woorden
+perkâtâän-ña.                       verstaan.
+Ah! ini lah bâru jâlan betul.       O, dit is pas de juiste weg.
+Mâna jâlan pegi ke rumah tuan       Waar is de weg, die naar ’t huis
+Ânu?                                van den heer N. N. gaat?
+Tuan mâna? siâpa?                   Welke heer? Mijnheer wie?
+Sâya tidaq kenal tuan itu.          Ik ken dien heer niet.
+Âda kah kaw tâu rumah tuan Ânu?     Weet je (soms) ’t huis van den heer
+                                    N. N.?
+Rumah-ña di âtas bukit tinggi       Zijn huis staat boven op een hoogen
+(bukit rendah).                     heuvel (lagen heuvel).
+Bârang-kâli kuda tuan itu ta        Misschien kan uw paard dien heuvel
+bôleh nâik bukit itu, kârena        niet beklimmen, want hij is zeer
+cûram sangăt.                       steil.
+Kâlaw kuda ta bôleh nâik, sâya      Als ’t paard er niet tegen op kan,
+bôleh jâlan-kaki.                   kan ik te voet gaan.
+Âda lûrung kecil, tetapi semaq      Er is een pad (kleine weg), maar
+sedikit.                            die is nogal vuil (begroeid).
+Sâya ta feduli.                     Daar geef ik niet om.
+Deri sini nampaq ujung-ña, dekăt    Van hier is ’t begin (van den weg)
+pokoq-pinang itu.                   te zien, dicht bij dien
+                                    pinang-boom.
+Âda kah kaw liat tuan lâlu          Heb je (soms) een heer langs dezen
+mengikut jâlan ini?                 weg zien voorbijgaan?
+Datăng deri mâna?                   Van waar kwam hij?
+Jâlan deri sini (deri sâna).        Hij ging hier vandaan
+                                    (daarvandaan).
+Dia jâlan-kaki kah, nâik kuda kah   Ging hij te voet, zat hij te paard,
+(berkuda kah), ataw dalăm krêta     of was hij in een rijtuig?
+(bekrêta)?
+Jâlan-kaki, memikul senâpang.       Te voet, en hij droeg een geweer
+                                    over schouder.
+Âda sâya liat.                      Ja, ik heb ’m gezien.
+Dia lâlu sabelah sâna, âda dua      Hij is dien kant voorbij gegaan,
+jam sudah.                          twee uur geleden.
+Kâlaw bâlik tuan itu, kâbarkăn      Als die heer terugkomt, zeg hem
+pâda dia sâya sudah jâlan dulu      dan, dat ik al langzaam vooruit ben
+pelâhan-pelâhan.                    gegaan.
+Bôleh kah buat itu?                 Kan je dat doen?
+Bôleh, tuan.                        Jawel, mijnheer (kan, m.)
+Ke mâna dia pegi?                   Waar is hij heen gegaan?
+Sâya tidaq tâu nâma tempat itu.     Ik weet den naam van die plaats
+                                    niet.
+Ini kah jâlan pegi ka               Is dit de weg naar de tuinen
+kebon-bunga?                        (bloementuinen)?
+Jâlan t’âda bersimpang kah?         Zijn er geen zijwegen aan den weg?
+Tâda.                               Neen.
+Âda dua simpang ña, yang pertâma    Hij heeft twee zijwegen, de eerste
+ke kânan, yang kedua ke kîri. Ta    naar rechts, de tweede naar links.
+bôleh silap jâlan.                  U kan zich niet vergissen in den
+                                    weg.
+Jâlan bâñaq lumpur-ña; terlâlu      Er is veel modder op den weg; ’t is
+lêcaq.                              erg modderig.
+Jâlan-ña kering.                    De weg is droog.
+Âda juga lêcaq di jâlan-ña,         De weg is wel wat modderig, maar
+tetapi tidaq bâñaq.                 niet erg.
+Bâñaq debu (âbu) di jâlan.          Er is veel stof op den weg.
+Musim pânas selâlu bagitu.          In de droge moeson is ’t altijd
+                                    zoo.
+Kâlaw angin, susah sekâli, jâdi     Als ’t waait, is ’t erg
+mâta dan mulut penuh dăngăn debu    onaangenaam, want dan raken oogen
+(âbu).                              en mond vol stof (’t gevolg is,
+                                    dat....)
+Debu (âbu) Singapûra itu celâka     ’t Stof te Singapoer is heel naar
+sekâli, sebab mêrah: sa kâli        (ongelukkig), omdat het rood is:
+lekăt, ta bôleh dikeluarkăn lâgi.   als ’t eens zich vasthecht, kan men
+                                    ’t niet meer eraf krijgen.
+Jâlan-jâlan di Singapûra semua      De wegen te Singapoer zijn alle
+bâik.                               goed.
+Betul, tuan, tetapi bukit-ña        Jawel, mijnheer, maar er zijn veel
+bâñaq, jâdi susah sekâli pâda       heuvels, zoodat het erg lastig is
+kuda, selâlu nâik-tûrun.            voor de paarden, ’t gaat steeds op
+                                    en af.
+Di tânah Melâyu jârang sekâli       In de Maleische landen ontmoet men
+berjumpa jâlan besar, jâlan-utan    zeer zelden een grooten weg, ’t
+semua.                              zijn alle boschpaden.
+Di Lârut âda jâlan-krêta-api. Di    Te Lârut is een spoorweg. Op Java
+Tânah Jâwa pun sudah bâñaq          zijn al veel spoorwegen.
+jâlan-krêta-api.
+Jâlan-krêta-api terus sekâli,       Een spoorweg gaat regelrecht, deze
+jâlan ini béngkoq.                  weg is krom.
+Jâlan dulu; jâlan di belâkang.      Loop vooruit; loop achteraan.
+Pusing bâlik.                       Draai je om, en keer terug.
+Bâlik lah kita (Mâri lah, kita      Laat ons teruggaan. Kom laat ons
+bâlik).                             terugkeeren.
+Kâlaw dapăt jâlan, kita pegi,       Als we ’n weg vinden, dan gaan wij,
+kâlaw tidaq, kita bâlik.            anders (zoo niet), dan keeren wij
+                                    terug.
+Mâri sini.                          Kom hier.
+Pegi kâta ’kăn dia sâya menanti     Ga hem (hun) zeggen, dat ik hier
+di sini, kemudian engkaw bâlik      wacht, daarna kom je gauw terug.
+kemâri dăngăn sigra.
+Sudah.                              ’t Is goed (ik heb niets meer te
+                                    zeggen).
+
+
+
+
+
+
+
+4. GESPREK MET EEN KOK.
+
+
+Ésoq pâgi-pâgi sediakăn makânan    Morgenochtend vroeg moet je wat eten
+sedikit (siapkăn m. s.)            klaarmaken.
+Tuan mâu makan âpa?                Wat wenscht u te eten?
+Berâpa ôrang mâu makan?            Hoeveel menschen willen er eten?
+Kita yang âda di rumah sekârang    Wij, die hier nu in huis zijn en
+dan lâgi dua ôrang tuan.           bovendien twee heeren.
+Bôleh sediakăn âir-tèh [2]         Je kunt thee klaarzetten, koffie,
+kahwa, roti panggang, telor,       geroosterd brood, eieren, met
+dăngăn buah-buah.                  vruchten.
+Buah macăm âpa tuan suka?          Wat voor vruchten gelieft u te
+                                   hebben? (Welke soort).
+Buah-manggis, durian, rambutan,    Manggis, durian, rambutan, pulasam,
+pulasam, nânas, limaw, pisang,     ananas, sinasappelen, bananen, al
+mâna-mâna yang bôleh dapăt.        wat er te krijgen is.
+Kahwa sudah âbis.                  De koffie is al op.
+Bâik, bôleh beli lâgi.             Goed, je kunt meer koopen.
+Kahwa arga berâpa sa kati          Hoeveel kost de koffie tegenwoordig
+sekârang?                          per kati?
+Empat-puluh sèn, tuan.             Veertig cent, mijnheer.
+Bâik, bôleh beli lima kati.        Goed, koop vijf kati.
+Sâya tidaq sempat pegi ke pasar,   Ik heb geen tijd, om naar de markt
+tuan (ñôñah).                      te gaan, mijnheer (mevrouw).
+Tidaq mengâpa, suruh koki kecil.   Dat doet er niet toe, stuur dan den
+                                   bijkok (kleine kok, kokin).
+Sakit, tuan (ñôñah).               Die is ziek, Mijnheer (Mevrouw).
+Kalaw bagitu, suruh lâin ôrang,    Stuur dan een ander, wie ’t ook zij,
+bârang-siâpa âda.                  die er is (al wie er is).
+Tidaq âda lâin ôrang.              Er is niemand anders.
+Câri ôrang, ta bôleh tidaq sâtu    Zoek een ander, er moet in ieder
+ôrang perlu pegi mengambil         geval iemand die boodschap gaan doen
+bârang itu.                        (die zaak gaan halen).
+Ésoq ta bôleh?                     Kan ’t morgen niet?
+Tidaq, âri ini juga perlu pegi.    Neen, vandaag moet men bepaald gaan
+                                   (noodzakelijk te gaan).
+Kâlaw bagitu, sâya mâu pegi        Dan wil ik zelf gaan.
+sendïri.
+Suka-ati engkaw lah.               Dat moet jij weten (je eigen
+                                   goedvinden).
+Malăm sekârang endaq memberi       Wat wil je ons van avond te eten
+kita makan âpa?                    geven?
+Sop, ikan gorèng, udang, kambing   Soep, gebakken visch, garnalen,
+panggang, âyam rebus, nasi,        geroosterd geitevleesch
+kâri, kêju dan puding.             (schapevleesch), gekookte kip,
+                                   rijst, kerrie, kaas en pudding.
+Kâri macăm âpa?                    Wat voor soort kerrie?
+Kâri Melâyu, kâri kering, kâri     Maleische kerrie, droge kerrie,
+Benggâla, kâri-terung.             Benggaalsche kerrie, terung-kerrie.
+Aku mâu makan pukul tujuh betul,   Ik wil precies om zeven uur eten,
+bôleh kah sedia makanan pâda       kan je ’t eten om dien tijd klaar
+waktu itu?                         hebben?
+Bôleh, tuan (ñôñah).               Jawel, Mijnheer (Mevrouw).
+Tiga ôrang endaq makan di sini.    Drie menschen zullen hier eten.
+Âpa, tiga semua?                   Wat, drie in ’t geheel? (drie
+                                   allen?)
+Tidaq, tiga ôrang lâin deri        Neen, die menschen behalve ons, dus
+kâmi, jâdi tujuh semua.            zeven bij elkaar (allen).
+Sâya minta belañja sedikit lâgi,   Ik vraag nog wat meer geld, om
+tuan (ñôñah).                      inkoopen te doen, Mijnheer
+                                   (Mevrouw).
+Bagimâna, wang sudah âbis kah?     Hoe zoo, is ’t geld al op?
+Ini âda sa-puluh ringgit, bôleh    Hier heb je tien dollar
+buat belañja.                      (rijksdaalders), dat kan je als
+                                   huishoudgeld gebruiken.
+Ta cukup.                          Dat is niet genoeg.
+Âpa fasal?                         Waarom niet? (Waarom?)
+Bânaq sudah belañja membeli        Ik heb al veel geld uitgegeven om
+bârang-bârang makan, lâgi miñaq,   eetwaren te koopen, bovendien olie,
+lilin (dian), âpa semua.           kaarsen, en wat niet al.
+Aku râsa kaw boros benăr, pâtut    Ik geloof, dat je erg verkwistend
+belañja kûrang deri itu, nanti     bent, je moet met minder
+’ku beri lima ringgit lâgi, jâdi   huishoudgeld toekomen (’t is
+cukup, bôleh pakay tiga âri        behoorlijk, dat het h. h. geld
+lâmâ-ña.                           minder zij dan dat). Ik zal nog vijf
+                                   dollars geven; dan is ’t genoeg,
+                                   daar kan je drie dagen mee doen (kan
+                                   je drie dagen lang gebruiken).
+Ta cukup.                          Dat is niet genoeg.
+Bôleh côba.                        Je kunt ’t probeeren.
+Deri mâna kaw datang?              Waar ben je geweest? (Waar kom je
+                                   vandaan?)
+Pegi pasar (pekăn), tuan.          Naar de pasar, mijnheer.
+Lambat benăr engkaw bâlik. Âda     Je bent erg lang uitgebleven (je
+kah dapăt ketam itu?               komt erg laat terug.) Heb je die
+                                   krabben kunnen krijgen?
+T’âda, tuan, jâdi sâya beli        Neen, mijnheer, ik heb dus maar
+tîrăm.                             oesters gekocht.
+Bâik kah tîrăm itu?                Zijn die oesters goed?
+Bâik, tuan, bâru bâwa.             Ja, mijnheer, ze waren pas
+                                   aangebracht.
+Tuan mâu makan mentah kah?         Wil u ze rauw eten?
+Bôleh dibakar.                     Ze kunnen gebakken worden.
+Âda kah susu?                      Is er melk?
+Bañaq, ñôñah.                      Veel, mevrouw.
+Beri sama aku (beri kăn aku).      Geef ze mij. Breng ze hier.
+Bâwa kemâri.
+Bâwang di mâna?                    Waar zijn de uien?
+Âda dalăm bakul di dapur.          Ze zijn in een mand in de keuken.
+Pegi ambil.                        Ga ze halen.
+Âda kah engkaw tâu membuat ès?     Kan je ijs maken?
+Tidaq, ñôñah, sâya ta tâu.         Neen, mevrouw, ik kan ’t niet (ik
+                                   weet ’t niet).
+Tâu juga s’ikit-s’ikit.            Ik kan ’t wel zoowat (een beetje,
+                                   een beetje).
+Jangan terlampaw masaq-ña.         Je moet ’t niet te gaar maken.
+Kûrang masaq.                      ’t Is niet goed gaar.
+Nasi ini angit.                    Deze rijst is aangebrand.
+Berâpa ékor itiq kaw beli tâdi?    Hoeveel eenden heb je zooeven
+                                   gekocht?
+Tiga ékor.                         Drie stuks.
+Cukup kah?                         Is dat genoeg?
+Kâlaw ta cukup, bôleh beli lâgi.   Als ’t niet genoeg is, kan je nog
+                                   meer koopen.
+Pegi lah tangkăp âyam sa ékor.     Ga ’n kip vangen.
+Tiga ékor sudah potong (semlèh).   Drie stuks zijn al geslacht.
+Bâwa kemari, aku endaq merâsa.     Breng ’t hier, ik wil ’t proeven.
+Ta sedăp râsâ-ña.                  ’t Is niet lekker van smaak.
+Sedăp sekâli râsâ-ña.              ’t Smaakt heel lekker.
+Sagenăp bârang kaw beri kâmi       Alles wat je ons gisteren(avond) te
+makan semalăm itu t’âda betul      eten hebt gegeven was niet
+masaq-ña. Kâlaw ta bôleh kaw       behoorlijk klaar gemaakt (gekookt).
+buat lebih bâik deri itu, nanti    Als je ’t niet beter dan zoo (dan
+aku meñcâri lâin koki.             dat) kunt maken, dan zoek ik een
+                                   anderen kok.
+Endaq lah kaw membuat sop yang     Je moet de soep beter maken, anders
+bâik. Kâlaw tidaq, nanti aku       kort ik je op je loon (kîra-kîra =
+potong kîra-kîra-mu (gâji-mu).     rekening).
+Jangan bâwa âyam tua. Lâgi         Je moet geen oude kippen brengen.
+câbutkăn bulu-ña dăngăn pâtut;     Bovendien moet je ze behoorlijk
+jangan celur âyam itu.             plukken (veeren uittrekken); je moet
+                                   ze niet in heet water dompelen, (d.
+                                   w. z. om de veeren eraf te krijgen).
+
+
+
+
+
+
+
+5. GESPREK MET EEN BEDIENDE.
+
+
+Di mâna aku ’pu-ña jongos? (in de   Waar is mijn huisjongen?
+Straits: boy).
+Âda di sini, tuan.                  Hij is hier, Mijnheer.
+Panggil dia.                        Roep hem.
+Pakâyan sudah sedia? Malăm          Zijn m’n kleêren al klaar? Van
+sekârang aku endaq makan di luar,   avond wil ik uit eten gaan (buiten
+di rumah tuan Ânu, târoh pakâyan    eten), bij den Heer N. N., leg mijn
+pakay malăm dalăm peti.             avondkleeren in de kist.
+Tuan mâu pakay ităm kah ataw        Wil u zwart of wit dragen?
+putih?
+Bâju dan seluar putih, rompi        Witte jas en broek, zwart vest.
+ităm. (Voor rompi in de Straits:
+wiskăt, ’t Eng. waistcoat).
+Târoh pakâyan cukup bôleh pakay     Leg genoeg kleeren neer om drie
+tiga âri.                           dagen te dragen.
+Tuan mâu bâwa pakâyan ini ataw      Wil u deze kleeren brengen of zal
+sâya?                               ik ’t doen?
+Engkaw bâwa.                        Jij brengt ze.
+Pukul berâpa sâya jâlan?            Hoe laat moet ik weg gaan?
+Engkaw endaq lah sampay di rumah    Je moet bij mijnheer N. aankomen om
+tuan Ânu pukul enăm betul. Lepas    precies zes uur. Na ’t eten mag je
+makan kaw bôleh pulang.             naar huis gaan.
+Seluar ini ta bôleh pakay, sudah    Deze broek kan ik niet dragen. Hij
+kôyaq. Beri sama tukang-meñjâit,    is gescheurd. Geef hem aan de
+sûruh betulkăn.                     naaister, laat haar hem repareeren.
+Mâna sepâtu aku pakay semalăm?      Waar zijn de schoenen, die ik
+                                    gisteren gedragen heb?
+Sudah kotor, belom sâya cuci        Ze zijn al vuil, ik heb ze nog niet
+(gosoq).                            schoongemaakt (gepoetst.)
+Beresihkăn bâik-bâik.               Maak ze goed schoon.
+Tuan mâu makan di kantor (di ufis   Wil U op ’t kantoor eten?
+(Eng.))?
+Ia, saâri-âri bâwa makânan ka       Ja, iederen dag moet je om twaalf
+kantor pukul dua-belas, aku ’naq    uur eten naar ’t kantoor brengen,
+makan pukul satengah sâtu betul.    ik wil precies om half een eten.
+Engkaw mâu kerjâ sama aku?          Wil je bij mij in dienst komen (bij
+                                    mij werken)?
+Kâlaw tuan suka.                    Als ’t u belieft (als u lust
+                                    heeft).
+Jâdi jongos kah? (boy kah?)         Om huisjongen te worden?
+Di mâna kaw kerjâ dulu?             Waar ben je vroeger in dienst
+                                    geweest?
+Âda kah sûrat (sûrat-pertandâän)?   Heb je een getuigschrift?
+Sudah lepas kerjâ dăngăn tuan       Wat heb je gedaan, toen je al van
+Ânu, kaw buat âpa?                  Mijnheer N. N. weg was?
+Berâpa gâji kaw terima selâma       Hoeveel loon heb je tot nu toe
+ini?                                ontvangen?
+Aku ta bôleh beri gâji lebih deri   Ik kan je niet meer loon geven dan
+tujuh ringgit sa bulan.             zeven dollars (rijksdaalders) in de
+                                    maand.
+Makan âtas tuan kah?                Is ’t eten dan voor uw rekening (op
+                                    u)?
+Makânan masuq.                      ’t Eten erin begrepen.
+Engkaw meñcâri makan sendîri.       Je zorgt zelf voor je eten. (Je
+                                    zoekt zelf eten.)
+Panday kah cakăp Ôlanda?            Kan je Hollandsch (Engelsch)
+(Inggris).                          spreken?
+Âda kah krêta dekăt sini?           Is hier een rijtuig in de buurt?
+Kâlaw tuan sûruh, bôleh sâya câri   Als u ’t mij beveelt, kan ik er een
+sâtu.                               zoeken.
+Sekârang ta mâu, tetapi pukul       Nu wil ik er geen hebben, maar van
+delâpan malăm sekârang aku mâu      avond om acht uur wil ik een
+krêta di rumah ini.                 rijtuig hier hebben.
+
+
+
+
+
+
+
+6. OP EEN RIVIER.
+
+
+Âpa nâma sungay ini?               Hoe heet deze rivier?
+Di mâna kuâlâ-ña?                  Waar is de uitmonding?
+Ini lah kuâlâ-ña.                  Dit is de uitmonding.
+Sâya endaq mudik, bôleh kah        Ik wil de rivier op, kan ik hier een
+dapăt prâu di sini?                vaartuig krijgen?
+Prâu macâm âpa tuan mâu?           Wat voor soort vaartuig wil u
+                                   hebben?
+Sampan, bidar, ketiap,             Kleine roeischuit, overdekte gondel,
+prâu-sâgur (dit laatste ook:       huisboot, uitgeholde boomstam.
+prâu-jâlur).
+Mâna yang bâik?                    Welke is de beste?
+Kâlaw mâu mudik derăs (cepăt of    Als u snel de rivier op wil gaan is
+bangăt) sâgur kecil yang bâik.     een kleine sâgur ’t best.
+Kâlaw mâu mudik senăng bâik        Als u op aangename wijze wil
+pakay ketiap âtaw bidar.           opvaren, is ’t beter een ketiap of
+                                   bidar te gebruiken.
+Bôleh kah mudik berkâjang mati?    Kunnen we de rivier opgaan met een
+                                   vaste kâjang (dek van palmbladeren).
+Sampay Kuâla-Lâbu sâja, tuan. Di   Tot Kuâla-Lâbu alleen maar, daar
+situ mâu buka kâjang.              kunnen we de kâjang eraf doen
+                                   (openmaken).
+Âpa sebab?                         Waarom?
+Sebab sungay ini deri Kuâla-Lâbu   Omdat de rivier van Kuâla-Lâbu af
+ka ulu bâñaq semaq.                sterk begroeid is.
+Susah benăr itu.                   Dat ’s erg lastig.
+Ia, tetapi bôleh berpâyung.        Jawel, maar we kunnen zonneschermen
+                                   gebruiken.
+Susah juga, tetapi kâjang, ta      Dat ’s toch lastig, maar, kâjang of
+kâjang pun, aku mâu mudik âri      geen kâjang, ik wil van daag toch de
+ini juga.                          rivier op.
+Sekârang âir-sûrut. Lebih bâik     Nu is ’t eb. ’t Is beter den vloed
+menantikan âir-pasang, bâru        af te wachten, dan eerst kan men
+bôleh mudik senăng.                gemakkelijk de rivier opvaren.
+Ta bôleh menanti, sêwa prâu sa     Ik kan niet wachten, huur een boot
+buah dan câri ôrang-ña cukup.      en zoek een voldoend aantal
+                                   menschen.
+Jûru-mudi sa ôrang, lâgi           Eén stuurman, en bovendien hoeveel
+ânaq-prâu berâpa ôrang tuan mâu?   bemanning wil u hebben?
+Ânaq-prâu empat ôrang jâdi lima    Vier man roeiers (lett. kinderen der
+semuâ-ña.                          boot), dus in ’t geheel vijf.
+Berâpa tuan mâu beri gâji?         Hoeveel loon wil u geven?
+Saberâpa pâtut. Berâpa yang âdat   Zooveel als billijk is. Zooveel als
+di sini.                           hier de gewoonte is.
+Kâlaw âdat di sini, dibâyarkăn     ’t Is hier gebruik de boothuur aan
+sêwa kepâda tuan prâu, dan dia     den eigenaar te betalen, en deze kan
+bôleh selesaykăn dăngăn            ’t in orde maken met den stuurman
+jûru-mudi.                         (lett. Indien het gebruik hier.., d.
+                                   w. z. wat aangaat enz.)
+Ânaq-prâu dibâyar sa suku sa       De roeiers worden betaald met een
+âri.                               halven gulden (kwart dollar) per
+                                   dag.
+Bagi-mâna, aku beri makan juga     Hoe zoo, geef ik den roeiers ook te
+pâda ânaq-prâu itu?                eten?
+Tidaq, tuan, makânan-ña sendîri.   Neen, mijnheer, ’t eten is voor hun
+                                   rekening (hun eigen eten).
+Berâpa besar ketiap tuan mâu       Hoe ’n groote huisboot wil u
+pakay, yang muat sa kôyan kah?     gebruiken, die een „kôyan” laadt (1
+                                   kôyan in de Straits = 40 pikul, op
+                                   Java 30)?
+Âku ta tâu, kâlaw muat sa kôyan.   Ik weet ’t niet, of ’t een kôyan
+Bôleh kah dua ôrang tidur dăngăn   laadt. Kunnen er twee menschen met
+senăng di bâwah kâjang?            gemak onder de kâjang slapen?
+Ô, senăng sekâli, tuan. Kâlaw      O, heel gemakkelijk, mijnheer. Als
+prâu muat sa kôyan, tidaq bâwa     ’t een boot is, die een kôyan laadt,
+bârang-bârang, bâñaq ôrang bôleh   en niet veel goederen meeneemt, dan
+duduq dăngăn senăng.               kunnen er veel menschen met gemak in
+                                   zitten.
+Bârang-bârang sâya sedikit sâja,   Ik heb maar weinig bagage, laad het
+muat dalăm prâu lekas-lekas.       gauw in de boot.
+Sudah siap kah? (Sedia kah?)       Is ’t al klaar?
+Sedia, tuan.                       Ja, mijnheer (gereed, m.)
+Kâlaw bagitu, tôlaq.               Dan afstooten!
+Âir dalăm di sini, mâu pakay       ’t Water is hier diep, we moeten
+dâyung.                            riemen gebruiken.
+Berdâyung lah kuat-kuat.           Roei flink.
+Kâyuh lah kuat-kuat.               Pagaai flink.
+Pâut.                              Pak flink aan.
+Bila berâlih sûrut, bôleh kita     Als we buiten ’t bereik van den
+bergâlah.                          vloed zijn, kunnen we boomen. (Als
+                                   de vloed zich verplaatst ...)
+Kâlaw sâya mudik sâja, bâlik       Als ik alleen de rivier op ga, en
+mengikut lâin jâlan, berâpa sêwa   terug ga langs een anderen weg,
+prâu itu?                          hoeveel is dan de boothuur?
+Bagitu juga, tuan.                 ’t Zelfde, mijnheer.
+Ô, ta pâtut bagitu, engkaw bôleh   O, dat ’s niet billijk, je kunt
+muat di ulu dan ambil sêwa         boven op nieuw laden, en huur vragen
+mengilir kembâli.                  voor de terugvaart (en nemen huur
+                                   voor ’t terugvaren de rivier af).
+Mûrah sekâli membâwa bârang        ’t Is erg goedkoop goederen van de
+mengilir deri ulu, tetapi bôleh    bovenlanden de rivier af te brengen,
+sâya kûrangkăn sedikit, jika       maar ik kan ’t wel wat minder
+tuan tidaq bâlik.                  stellen (verminderen) als u niet
+                                   teruggaat.
+Lebih bâik kita berjañji dulu.     ’t Is beter, dat we vooruit
+                                   afspreken (overeenkomen).
+Bâik lah, tuan, biar lah           Goed, mijnheer, laat het twee en
+dua-puluh-dua ringgit.             twintig rijksdaalders (dollars)
+                                   wezen.
+Bila tuan mâu jâlan?               Wanneer wil u vertrekken?
+Lusa pâgi-pâgi.                    Overmorgen heel vroeg.
+Siapkăn dâyung dan gâlah           Maak voldoende riemen en boomen
+cukup-cukup, jangan kûrang         gereed, laat er niets hoegenaamd
+sâtu-âpa pun.                      ontbreken.
+Bôleh kah tuan beri duit sedikit   Kan u wat geld (duiten) vooruit
+dulu, endaq membeli bârang         geven, om wat eetwaren te koopen, en
+makânan, dăngăn rôtan dan          rôtan en zoo voort?
+lâin-lâin-ña?
+Berâpa kaw mâu?                    Hoeveel wil je hebben?
+Bârang lima ringgit cukup, tuan.   Zoowat 5 rijksdaalders (dollars) is
+                                   genoeg, mijnheer.
+Bâik lah. Lusa pâgi mâri ke        Goed. Overmorgen ochtend kom je naar
+rumah-ku mengambil                 mijn huis, om de bagage te halen,
+bârang-bârang, bâwa tûrun ke       breng die naar de boot (breng naar
+prâu.                              beneden in de boot).
+Isi sâtu peti dăngăn tânah, bâwa   Vul een kist met aarde, breng die
+bersâma ke dalăm prâu, bôleh       met ’t andere (samen) in de boot,
+kita bertânaq dalăm prâu.          dan kunnen we in de boot rijst
+                                   koken.
+Pegang gâlah semua ôrang.          Neemt allen de boomen in de hand.
+Gâlah ta sampay (ta jejaq).        De boomen raken den grond niet.
+Côba lâgi sa kâli. Sampay kah      Probeer ’t nog eens. Raken ze nu?
+tidaq?
+Sampay, tuan.                      Jawel, mijnheer (lett. ze komen aan,
+                                   ze zijn toereikend.)
+Tikăm gâlah, kita âñut.            Flink boomen, we drijven af (lett.
+                                   steek met de boomen).
+Bila sampay di tañjung itu, mâu    Wanneer we aan dien landpunt komen,
+gâlah kuat-kuat, sebab ârus        moet er met kracht geboomd worden,
+derăs sekâli di situ.              want daar is de stroom zeer sterk.
+Bila sampay di teloq, senăng       Wanneer we aan den inham komen
+sedikit.                           (kromming landwaarts in), is ’t een
+                                   beetje aangenamer.
+Singgah, singgah!                  Leg aan, leg aan!
+Ôrang-ôrang di dârat âda melâung   Volk aan den wal roept ons toe, laat
+kita, sûruh singgah.               aanleggen.
+Tebing tinggi sangăt di situ,      De oever is daar erg hoog, breng de
+rapăt pantay-pasir di ulu itu.     boot dicht bij den zandoever daar
+                                   hooger op (sluit aan bij ...)
+Bôleh juga nâik, tuan. Âda         U kan wel aan wal stappen, (stijgen)
+jembâtan, âda jamban.              mijnheer. Er is een brug, een
+                                   badhuisje (tevens privaat).
+Âir tohor sekâli, prâu ta lepas.   ’t Water is erg laag, de boot raakt
+Prâu kandăs.                       niet los. De boot is aan den grond
+                                   geraakt.
+Lepas juga.                        Ze is toch losgeraakt.
+Kering di sini, undur kembâli.     ’t Is hier ondiep (droog), ga weer
+                                   terug (ga achteruit terug).
+Sekârang dalăm sedikit, bergâlah   Nu is ’t wat dieper boomen.
+lah.
+Âir tâwar kah ataw mâsin?          Is ’t water zoet of zilt?
+Pâyaw, tuan.                       Brak, mijnheer.
+Câri tempat yang terang (lâpang)   Zoek een plek, die open is, leg daar
+sedikit, singgah di situ, kita     aan, dan kunnen wij koken.
+bertânaq.
+Ini lah tempat bâik.               Hier is een goede plek.
+Rapăt ka tepi.                     Breng de boot dicht bij den kant
+                                   (sluit aan tegen den kant).
+Câcaq gâlah, tambat prâu,          Steek een boom in den grond, maak de
+bertânaq lah semua ôrang           boot vast, laat al de menschen gauw
+lekas-lekas.                       rijst koken.
+Sudah âbis makan, jâlan lah        Na afloop van ’t eten moeten we weer
+kita.                              op weg.
+Prâu tersangkut.                   De boot zit vast.
+Di kâyu kah, di pasir kah, di      Aan hout, aan zand, aan modder?
+lumpur kah?
+Kâlaw sangkut di kâyu, mâu         Als ze aan hout vastgeraakt is,
+undur, kâlaw di pasir, sorong      moeten we achteruit, als ’t tegen
+prâu, bârang-kâli bôleh lepas.     zand is, moet je de boot duwen,
+                                   misschien kan ze los raken.
+Timbang betul-betul. Prâu singit   Breng haar goed in evenwicht. De
+ke sâna.                           boot helt daarheen.
+Ketiap ini menggolèq sangăt        Deze „huisboot” schommelt erg.
+(berolèng-orlèng sangăt).
+Prâu ini tetăp sekâli.             Deze boot ligt (is) zeer vast.
+Kâit dâhan itu dăngăn gâlah,       Pak dien boomtak met den boom, en
+tâhan bâik-bâik di bûrit prâu.     houd flink tegen aan den
+                                   achtersteven.
+Âluan sudah lepas, kenâ di         De voorsteven is al los, ’t midden
+tengah, di ékor (bûrit), kenâ      zit vast, de achtersteven, ’t roer
+kemudi.                            (getroffen aan ’t midden enz.)
+Jâga di âluan!                     Kijk goed uit aan den voorsteven!
+Berâpa jâuh deri Bandar-Termâsa    Hoe ver is ’t van Bandar-Termâsa
+mudik ka Rekoh?                    naar Rekoh?
+Sâtu âri berdâyung, enăm âri       In een dag roeiens en zes dagen
+bergâlah bôleh sampay.             boomens kan men er komen.
+Lima tañjung lâgi, sampay lah,     Nog vijf landpunten, dan zijn we er,
+tuan.                              mijnheer (komen we aan.)
+Sebab ujan terlampaw lebăt, jâdi   Doordat de regens bizonder hevig
+sungay besar sangăt.               (dicht) waren, is de rivier erg hoog
+                                   (geworden).
+Tiga âri dulu âda bah besar.       Drie dagen geleden is er een groote
+                                   watervloed geweest.
+Câcaq gâlah di tengah, di sini     Steek een boom in ’t midden in den
+bôleh kita bermalăm; kâyu-api      grond, hier kunnen we overnachten;
+senăng dapăt, lâgi utan terang     brandhout is gemakkelijk te krijgen,
+sedikit.                           en bovendien is ’t bosch een beetje
+                                   open.
+Ñâmuq terlampaw bâñaq, târoh       Er zijn bizonder veel muskieten, leg
+dâun-kâyu di âtas api, biar âda    boombladeren boven op ’t vuur, dan
+asăp sedikit.                      komt er wat rook (opdat er wat rook
+                                   zij).
+Bangunkăn semua ôrang din’âri      Wek al de lui morgen bij ’t krieken
+ésoq, gelap-gelap bertânaq,        van den dag, kook de rijst als ’t
+kemudian bôleh kita berjâlan       nog donker is; daarna kunnen we weer
+pula.                              op weg gaan.
+Bila prâu mengilir, pakay          Wanneer de boot de rivier af gaat,
+pengâyuh sâja.                     moet je maar de pagaaien gebruiken.
+Jâga tunggul di adăp itu, kâlaw    Pas op dien boomstam daar vooruit,
+kenâ sekârang, nanti terlintang    als we er nu tegen aankomen, gaat de
+prâu, bârang-kâli kâram kita.      boot dwars liggen, en slaan we
+Nanti tenggelăm bârang-bârang      misschien om. Dan zinken al onze
+semua.                             goederen.
+Tetapi kita nanti timbul, dan      Maar wij zullen boven komen, en
+bôleh berenang ke dârat.           kunnen naar den wal zwemmen.
+Ôrang sini biâsa mengâil kah?      Zijn de menschen hier gewoon met een
+(memañcing kah?)                   haak (hengel) te visschen?
+Âda sa ôrang dua ôrang yang        Enkele menschen visschen met een
+mepas, tetapi bâñaq yang           vlieg (kunstaas), maar velen met een
+meñjâla.                           net (totebel).
+Âpa macăm ikan dapăt dalăm         Wat voor soort visschen vangt men in
+sungay ini?                        deze rivier?
+Ikan-kâluï âda, ikan-sebâraw,      Kâluï komt voor, en sebâraw,
+ikan-tengah, dan bâñaq lâin-lâin   ikan-tengah, en allerlei andere
+macăm.                             soorten.
+Ikan-kâluï yang sedăp sekâli       De kâluï is de lekkerste om te eten.
+makan.
+Kâlaw dapăt ikan, gorèng sâja      Als je visch vangt, braad ze dan
+(bakar sâja, panggang sâja).       maar (bak ze maar, roost ze maar).
+
+
+
+
+
+
+
+7. IN DE WILDERNIS.
+
+
+Tuan mâu pegi ke mâna?            Waar wil u heen gaan?
+Ka Selim.                         Naar Selim.
+Jâuh sekâli. Bârang-kâli sâtu     Dat ’s erg ver. Zoowat (misschien)
+malăm mudik, dua âri berjâlan,    een nacht de rivier op, en twee dagen
+bâru sampay ka Selim.             gaans, dan komt men pas te Selim.
+Jâlan éloq kah?                   Is ’t een mooie weg?
+Jâlan utan. Tuan terlebih tâu     Een boschpad. U weet daar alles van
+hal-ña: mendaki-menûrun sâja;     (weet ’t ’t best, zeer goed); maar
+mâu juga meñeberang dua tiga      steeds op en af, ook moet men twee of
+ânaq-âir.                         drie beken oversteken.
+Sungay-ña tohor, tetapi kâlaw     De rivier is laag, maar als de regens
+ujan datăng, susah juga, nanti    komen, is het toch lastig, dan
+bertemu bah.                      krijgen we een overstrooming. [3]
+Kâlaw jâlan pâgi-pâgi, bôleh      Als men zeer vroeg op weg gaat, kan
+sampay siang-âri.                 men in den middag aankomen.
+Kâlaw mâta-âri sudah tinggi,      Als de zon al hoog is, en men gaat
+bâru berjâlan, tentu malăm bâru   dan eerst op weg, komt men zeker pas
+sampay.                           in den nacht aan.
+Kâlaw bagitu, lebih bâik          Dan is ’t beter in ’t bosch te
+bermalăm dalăm utan.              overnachten.
+Bôleh, tuan, tetapi susah juga    Dat kan wel, mijnheer, maar ’t is
+bermalăm di utan.                 toch lastig in ’t bosch te
+                                  overnachten.
+Âwat? (Sebab âpa?)                Waarom?
+Nâmuq bâñaq, lâgi dalăm rimba     Er zijn veel muskieten, bovendien
+besar bârang-kâli jumpa rimaw.    komen we in ’t groote woud misschien
+                                  wel een tijger tegen.
+Kâlaw buat api besar, tentu       Als we een groot vuur aanleggen
+rimaw ta berâni dekăt.            (maken), durven de tijgers zeker niet
+                                  dicht bij komen.
+Bârang-kâli, tuan.                Misschien, mijnheer.
+Bâwa kâjang dua tiga bidang,      Breng twee stuks kâjang-dek, en ook
+lâgi tikăr-bantal dăngăn          nog matten, kussens en
+kelambu, bôleh kita tidur         muskieten-gordijnen, dan kunnen we
+senăng sedikit.                   eenigszins aangenaam slapen.
+Bârang-kâli rumput bâsah, bâik    Misschien is ’t gras nat, u moest ook
+tuan bâwa kâin-getah juga.        wat gutta-percha-doek meenemen.
+Jangan bâwa bârang bâñaq: susah   Neem niet veel goed mee, ’t is erg
+sekâli memikul bârang dalăm       lastig in ’t woud bagage te dragen.
+rimba.
+Rimba sedikit, tuan, belukar      Er is weinig hoog bosch, mijnheer,
+bâñaq.                            wel veel kreupelhout.
+Belukar terlebih susah, sebab     ’t Kreupelhout is ’t onaangenaamst
+pânas.                            (lastigst) van wege de hitte.
+Kâlaw pokok-kâyu besar-besar,     Als er hooge boomen zijn, kunnen we
+bôleh kita berlindung dîri deri   voor de warmte schuilen.
+pânas.
+Kaki kita tentu nanti sakit,      Onze voeten zullen zeker pijn doen
+sebab jejaq bâñaq akar di         door ’t treden op veel wortels op den
+jâlan.                            weg.
+Jâga dûri, tuan: kâlaw kenâ       Pas op de dorens, mijnheer, als ze in
+kâin-bâju, tentu kôyaq            ’t goed van uw jas komen, scheurt het
+(terkôyaq).                       zeker (als geraakt ’t goed ...)
+Âda kah bâñaq pacăt di sini?      Zijn er hier veel springbloedzuigers?
+                                  (boombloedzuigers).
+Kâlaw âri-ujan bâñaq, kâlaw       Als ’t regenachtig weer is, veel, als
+musim-pânas tida.                 ’t droge moeson is niet.
+Pacăt pun susah, tetapi lintah    Springbloedzuigers zijn wel lastig,
+terlebih jâhat. Kâlaw lekăt dua   maar gewone bloedzuigers (nl. in het
+tiga ékor lintah itu,             water) zijn ’t kwaadst. Als er twee
+bârang-kâli minum dârah dekăt     of drie stuks zich vasthechten,
+sa cupaq.                         zuigen (drinken) ze misschien wel een
+                                  „cupaq” bloed op [4].
+Tidaq mengâpa: sudah keñang,      Dat doet er niet toe: als ze
+dia jâtoh juga.                   verzadigd zijn, vallen ze toch af.
+Buñi âpa itu?                     Wat is dat voor een geluid?
+Âpa buñi itu?                     Wat is dat geluid?
+Kâyu rebah, tuan.                 Een boom die omvalt, mijnheer.
+Petăng sekârang bôleh kita        Van avond (namiddag) kunnen we
+berenti di lâdang Sakay,          ophouden op een veld van Sakay’s,
+berpondoq di situ.                (oorspr. bewoners van Malaka), en
+                                  daar een hut opslaan.
+Âda dua tiga kelâmin ôrang        Er zijn twee of drie gezinnen van
+Jambi, bâru menebas kăn utan      Jambiërs, die pas ’t bosch hebben
+buat lâdang.                      gekapt om een bouwveld te maken.
+Endaq menanăm âpa?                Wat willen ze planten?
+Pâdi-uma, tuan.                   Gemeene rijst, mijnheer. (uma = veld
+                                  in ’t bosch, dat geen speciale
+                                  bewerking vereischt.)
+Mâna yang bâik, pâdi-uma kah      Welke rijst is beter, de uma-rijst of
+pâdi-sâwah kah (bendang kah)?     die van sâwah’s?
+Pâdi sâwah yang bâik, tuan,       Sâwah-rijst is de beste, mijnheer,
+lâgi bâñaq dapăt.                 bovendien krijgt men dan veel.
+
+
+
+
+
+
+
+8. OP ZEE.
+
+
+Di mâna kapal kita?               Waar is ons schip?
+Di lâbuan, tuan. Di kuâla.        Op de reede, mijnheer. In den
+                                  riviermond.
+Kâlaw tâda angin, ta bôleh (ta    Als er geen wind is, kunnen we van
+dapăt) belâyar malăm ini.         nacht niet zeilen (onder zeil gaan).
+Sâya pikir angin nanti tûrun.     Ik denk, dat er straks wind zal
+                                  opsteken.
+Kâlaw angin deri belâkang,        Als de wind van achteren komt, is ’t
+ñâman, kâlaw deri muka susah.     heerlijk, van voren is ’t
+                                  onaangenaam.
+Kâlaw deri sabelah, bôleh kita    Als de wind van terzijde komt, kunnen
+bêloq.                            we laveeren. (Als van ter zijde ...)
+Jangan belâyar bulan gelap, ta    Ga niet onder zeil bij donkere maan,
+bôleh nampaq.                     dan kan men niet zien.
+Pukul berâpa bulan nâik           Hoe laat komt de maan op?
+(terbit)?
+Jâuh malăm, tuan, bârang-kâli     Laat (ver) in den nacht, mijnheer,
+pukul sâtu.                       misschien om een uur.
+Kâlaw bagitu, tûrun ke pantay     Dan moet je om twaalf uur naar ’t
+pukul dua-belas, nanti sâya       strand komen (dalen), dan kom ik
+datăng.                           daar.
+Câri orang panday pegang          Zoek iemand, die verstand heeft van
+kemudi.                           sturen (bekwaam in ’t hanteeren van
+                                  ’t roer).
+Susah meñcâri, tuan, tetapi,      Die is lastig te zoeken, mijnheer,
+kâlaw malăm terang, bôleh kita    maar als ’t een heldere nacht is,
+mengikut pantay, bâtu dan         kunnen we ’t strand volgen, er zijn
+kârang t’âda.                     geen rotsen of klippen.
+Bongkar sâuh.                     Haal ’t anker op.
+Buka lâyar semua.                 Hijsch al de zeilen.
+Lâyar âgung sâja jâdi lah dulu.   Eerst maar alleen ’t groote zeil (’t
+                                  groote zeil slechts, dan is ’t in
+                                  orde (geworden) vooreerst).
+Tûrunkăn jib.                     Haal ’t kluiverzeil neer.
+Kelat sudah kusut, pañjat tiang   De schoot is in de war, klim in de
+betulkăn-ña.                      mast en maak hem in orde.
+Kîri kemudi, nampaq âir berôlaq   Bakboord (links) ’t roer, er is vóor
+di adăp, tentu âda bâtu.          draaiing in ’t water te zien, er zijn
+                                  zeker rotsen.
+Kemudi ta makan, tuan.            ’t Roer pakt niet, Mijnheer.
+Kîri cikar!                       Bakboord ’t stuurrad!
+Betulkăn kemudi, kita undur.      Zet ’t roer recht, we gaan achteruit.
+Bagi-mâna ârus sekârang?          Hoe is de stroom nu?
+Âir pasang kah sûrut?             Is er vloed of eb?
+Pasang-penuh.                     De vloed is op zijn hoogst.
+Sûrut-timpas.                     Laag water (laagste eb).
+Âir bunga-pasang.                 De vloed is juist begonnen.
+Sâtu âri bulan âir pasang         Als de maan éen dag oud is, hebben we
+besar.                            heel hoog water.
+Dârat ta nampaq lâgi, lebih       ’t Land is niet meer te zien, ’t is
+bâik rapăt ke pantay sedikit.     beter wat dichter bij ’t strand te
+                                  gaan.
+Ta bôleh, tuan, pantay sudah      Dat kan niet, mijnheer, ’t strand is
+dekăt, ta nampaq sebab ujan       al dichtbij, ’t is niet te zien van
+lebăt ini.                        wege den harden regen.
+Kâlaw nampaq bukit Jegrâ, tuju    Als de Jegrâ-berg in ’t zicht komt,
+lah betul-betul, bôleh dapăt      moet je er goed op af sturen, dan
+Kuâla-Langat.                     kunnen we de mond der Langat binnen
+                                  loopen (krijgen.)
+Buang perum.                      Werp ’t lood uit.
+Berâpa âir?                       Hoeveel water staat er?
+Âir dalăm juga, ta jejaq perum.   ’t Water is nogal diep, ’t lood raakt
+                                  den grond niet.
+Buang sa kâli lâgi.               Werp ’t nog eens uit.
+Empat depâ betul.                 Precies vier vadem.
+Tohor sini, jâga bâik-bâik,       ’t Is hier ondiep, wees voorzichtig,
+nanti kita kenâ beting.           straks raken we op een zandbank.
+Sudah lepas beting.               We zijn al over den zandbank.
+Lâbuh sâuh; padămkăn api, sâtu    Werp ’t anker uit; doe ’t vuur uit.
+ôrang jâga kapal, lâin ôrang      Een man houdt de wacht over ’t schip,
+semua bôleh tidur.                de anderen mogen allen gaan slapen.
+Kapal menggolèq (olèng-olèng)     ’t Schip slingert erg, ’t is lastig
+sangăt, susahm âu tidur.          als men slapen wil.
+Pukul lima pâgi aku mâu jâlan     Om vijf uur in den ochtend wil ik
+lâgi. Arăng âda cukup kah?        weer op weg. Is er voldoende
+                                  houtskool?
+Arăng t’âda lâgi, tetapi          Er is geen houtskool meer, maar
+kâyu-bakaw bâñaq.                 rhizophoren-hout veel. (hout van
+                                  strandwortelboomen).
+Ambil âir tâwar saberâpa bôleh    Haal zooveel zoet water als we laden
+muat, kâlaw pakay âir mâsin,      kunnen, als je zout water gebruikt,
+nanti rusaq pesâwat (priuk-ña).   bederft de machine (de ketel, lett.
+                                  pot).
+
+
+
+
+
+
+
+9. OP JACHT.
+
+
+Sâya endaq pegi menémbaq.          Ik wil gaan jagen (schieten).
+Tuan ’naq menémbaq âpa?            Waar wil u op jagen?
+Naq menémbaq bûrung.               Ik wil vogels schieten.
+Bûrung macăm âpa?                  Wat voor soort vogels?
+Bûrung-berkèq, puyuh,              Snippen, kwartels, talingen, wilde
+bûrung-belibis, itik-âir, undan,   eenden, wilde ganzen, al wat er maar
+âpa-âpa macăm yang âda.            is (welke soorten, die er zijn).
+Bûrung-kuang yang susah sekâli     De argus-fazant is ’t lastigst te
+mendapăt-ña.                       krijgen.
+Dia inggăp di âtas pokoq dalăm     Hij zit op boomen in groote wouden.
+rimba besar-besar. Kâlaw ôrang     Als men hem nadert (reeds nabij is),
+sudah dekăt, terbang lah dia.      vliegt hij weg.
+Tuan pakay senâpang-kôpaq?         Gebruikt u een achterlader?
+Ia, senâpang-kôpaq dua mâtâ-ña;    Ja, een dubbelloops-achterlader; een
+senâpang kembar.                   dubbelloops-geweer.
+Bâwa petrum yang isi penâbur       Breng patronen met fijnen hagel
+âlus itu.                          erin.
+Tidaq âda lâgi, tuan: sudah âbis   Die zijn er niet meer, mijnheer: die
+semua, tinggal nomor lima sâja.    zijn alle op, er is alleen nog maar
+                                   no. 5 (blijft no. 5 slechts).
+Kâlaw menémbaq punay éloq lah      Als men op wilde duiven schiet, is
+nomor lima.                        no. 5 uitstekend (mooi).
+Bâwa petrum-pelûru dua tiga        Breng twee of drie hagelpatronen
+butir, bârang-kâli jumpa           mee, misschien treffen we een wild
+bâbi-utan âtaw buâya.              zwijn of een krokodil.
+Sabelah sini, tuan, âda dua tiga   Dezen kant uit, mijnheer, er zitten
+ékor bûrung inggap di rumput       twee of drie vogels daar in ’t gras,
+sâna, tepi pâya.                   aan den kant van ’t moeras.
+Itu dia!                           Daar zijn ze!
+Kenâ kah tidaq?                    Zijn ze geraakt of niet?
+Kenâ, tuan.                        Ze zijn geraakt, mijnheer.
+Pegi lah mengambil-ña.             Ga ze halen.
+Kenâ sedikit, tuan. Belom mati,    Ze zijn maar even (een beetje)
+sudah meñelăm.                     geraakt, ze zijn nog niet dood, ze
+                                   zijn al ondergedoken.
+Panday sekâli sembuñi              Die talingen kunnen zich heel goed
+bûrung-belibis itu, melâinkăn      verschuilen (zeer bekwaam zich te
+mati-langsung, susah meñcâri-ña.   verschuilen); tenzij ze morsdood
+                                   zijn, is ’t lastig ze te zoeken.
+Bûrung bâñaq, tuan; tetapi pâya    Er zijn veel vogels, mijnheer; maar
+dalam, mâu pakay prâu.             ’t moeras is diep, we moeten een
+                                   boot gebruiken.
+Rumput sudah pañjang, susah        ’t Gras is al hoog (lang), ’t is
+beprâu.                            lastig te varen.
+Bôleh juga kita berjâlan           We kunnen ook heel langzaam loopen.
+pelâhan-pelâhan. Berdâyung ta      Roeien gaat niet, we moeten boomen.
+bôleh, mâu bergâlah.
+Tuan duduq di tengah prâu, di      Ga u in ’t midden van de boot, aan
+âluan, sâya nanti bergâlah deri    den voorsteven zitten, dan zal ik
+belâkang.                          van achter boomen.
+Luas sekâli pâya ini. Âpa nâma     Dit moeras is zeer uitgestrekt. Hoe
+tampat-ña?                         heet deze plaats?
+Bendang-kering, tuan.              Bendang-kering (droog rijstveld)
+                                   mijnheer.
+Bûrung sudah jâtoh, kenâ           De vogel is gevallen, hij is in zijn
+sâyap-ña, nanti dia lâri, ambat    vleugel getroffen, straks loopt hij
+lekas.                             weg, ga hem gauw achterna.
+Dapăt, tuan, kenâ di dâda,         Ik heb ’m (gekregen), mijnheer, hij
+mati-langsung.                     is in de borst getroffen, hij is
+                                   morsdood.
+Mâna-mâna yang belom mati,         Alle, die nog niet dood zijn moet je
+semlèhkăn dia, bôleh ôrang Selam   slachten (op Mohammedaansche wijze),
+mâkan-ña.                          dan kunnen de Moslims ze eten.
+Lemaq sekâli dâging-ña.            ’t Vleesch is erg machtig (vet).
+Bûrung berkèq yang sedăp deri      Snippen zijn ’t lekkerst van alle.
+semua.
+Tuan suka kah bebûru rusa?         Houdt u er van herten te jagen?
+Kâlaw âda añjing, suka juga.       Als er honden zijn, houd ik er wel
+                                   van.
+Râja-râja Pâhang yang panday       De vorsten van Pâhang zijn goede
+bebûru.                            jagers (bekwaam in ’t jagen).
+Âpa bangsa añjing dia pakay        Wat voor soort (ras) honden
+(dipakay-ña)?                      gebruiken ze?
+Añjing ôrang Sakay.                Honden van de Sakay’s (oorspr.
+                                   bewoners van Malaka).
+Cari ôrang Sakay, yang panday      Zoek een Sakay, die wilde dieren kan
+mengikut binâtang liar, bôleh      opsporen, dan kunnen we die gaan
+kita pegi menémbaq.                jagen (schieten).
+Âda sa ôrang pâwang di sini,       Hier is een „pâwang” (soort
+tuan.                              dierenbezweerder, die wilde dieren
+                                   opspoort), mijnheer.
+Binâtang macăm âpa bôleh dapăt?    Wat voor soort dieren kan je vinden?
+(Âpa macăm binâtang bôleh
+dapăt?)
+Gâjah, bâdaq, selâdang, tenuq,     Olifanten, neushorens, wilde
+rusa [5], kijang, pelanduq [6]     runderen (op Java bantèng), herten,
+dan lâin-lâin-ña.                  reeën, dwerghertjes enz. (en
+                                   andere).
+Kâlaw bôleh dapăt selâdang sa      Als je een wilde koe (stier) kunt
+ékor, gemăr lah ati-ku.            krijgen, zou ik ’t heerlijk vinden
+                                   (is mijn hart begeerig).
+Kâlaw untung, bôleh juga kita      Als we gelukkig zijn, kunnen we er
+dapăt, tuan.                       wel een krijgen, mijnheer.
+Aku arăp bagitu.                   Dat hoop ik (ik hoop zoo).
+Jangan bâwa bâñaq ôrang, sa        U moet niet veel menschen meenemen,
+ôrang dua ôrang sâja, jâdi lah.    twee man maar, dat ’s voldoende. U
+Tuan jâlan pelâhan sekâli, ta      moet heel langzaam loopen, en u mag
+bôleh cakăp-cakăp.                 niet praten.
+Tempat mâna yang dia suka?         Van welke plaatsen houden ze?
+Utan-buluh dekăt dăngăn âir        Bamboe-bosch dicht bij een warme
+angăt, itu lah yang dia suka       bron (lauw water), daar houden ze
+sangăt.                            veel van.
+Bôleh kah dekăt dăngăn dia?        Kan men ze naderen?
+Bôleh juga, kâlaw ôrang panday     Jawel (kan wel), als men bekwaam is
+mengikut binâtang.                 in ’t opsporen van dieren (volgen
+                                   van dieren).
+Kâlaw jantăn, tanduq-ña            ’t Mannetje heeft dikke lange horens
+besar-pañjang. Betina pun          (lett.: als ’t mannetje, zijn horens
+bertanduq juga, tetapi kecil       groot lang). ’t Wijfje heeft ook
+lâgi.                              horens, maar die zijn kleiner.
+Kulit-ña ităm, bulu pèndèq,        De huid is zwart, de haren zijn
+kaki-ña kecil, bulu-betis-ña       kort, de pooten klein, ’t haar op de
+mêrah.                             huid is rood.
+Gârang sekâli-binâtang itu,        Die dieren zijn erg kwaadaardig, als
+kâlaw dia langgar, endaq lah       ze aanvallen, moeten we voorzichtig
+kita jâga bâik-bâik.               zijn.
+Dia terekam dăngăn tanduq-ña.      Ze vallen met hun horens aan.
+Kâlaw luka ta mati, bârang-kâli    Als ze gewond en niet dood zijn,
+gârang, kâlaw ta kenâ lâri lah     zijn ze wellicht gevaarlijk (woest),
+dia.                               als ze niet getroffen zijn, loopen
+                                   ze weg.
+
+
+
+
+
+
+
+10. AAN TAFEL.
+
+
+Siapkăn makânan (sediakăn          Zet het eten klaar.
+makânan).
+Bâwa makânan.                      Breng het eten.
+Makânan sudah sedia, tuan.         ’t Eten is al klaar, mijnheer.
+Tukar pinggan ini [7]: terlâlu     Geef me een ander bord (ruil dit
+kotor.                             bord): ’t is erg vuil.
+Pisaw ini tidaq beresih, bâwa      Dit mes is niet schoon, breng een
+lâin.                              ander.
+Dâging ini kûrang masaq, angkat,   Dit vleesch is niet voldoende gaar,
+sûruh masaq lâgi.                  neem ’t weg en laat het gaarder
+                                   maken (nog meer koken).
+Kâin-mêja ini kecil âmat,          Dit tafellaken is al te klein,
+mengâpa engkaw tidaq târoh lâin?   waarom heb je geen ander neergelegd?
+Bâwa lâgi sâtu krusi, sâma tuan    Breng nog een stoel, voor dezen
+ini.                               heer.
+Kentang [8] ini sudah busuq: di    Deze aardappelen zijn al bedorven.
+mâna kaw dapăt?                    Waar heb je ze gehaald (gekregen)?
+Minta serbèt beresih, ganti yang   Ik vraag een schoon servet, geef
+tuan ’pu-ña.                       mijnheer een ander (ruil dat van
+                                   mijnheer).
+Ganti garpu dan pisaw.             Verwissel de vorken en messen.
+Pisaw ini tumpul sekâli, sûruh     Dit mes is zeer bot, laat het wat
+âsah sedikit.                      slijpen.
+Minta garăm, lâda, cuka, sambal,   Geef me (vraag) zout, peper, azijn,
+gula, miñaq, sesâwi.               inlandsche toespijs (Spaansche peper
+                                   enz.), suiker, olie, mosterd.
+Tuang anggur ke dalăm gelas        Schenk wijn in al de glazen. Als je
+semua. Bila kaw liat gelas sudah   ziet, dat er een glas leeg is, vul
+kosong, isi lâgi.                  je het weer.
+Gelas tuan itu tidaq penuh,        ’t Glas van dien heer is niet vol,
+tambah lâgi.                       doe er wat bij.
+Minta anggur-asăm, anggur-mêrah,   Geef me (vraag) Rijn-wijn, rooden
+anggur-puf (sempâni).              wijn, champagne.
+Anggur ini kûrang sejuq, bâwa      Deze wijn is niet koel genoeg, breng
+âir-bâtu. Angkat bir ini, tuan     ijs (steenwater). Neem dit bier weg,
+tidaq suka.                        mijnheer houdt er niet van.
+Jâlankăn nasi, tuan C. belom       Laat de rijst rondgaan (doe de rijst
+dapat.                             gaan), mijnheer C. heeft nog niet
+                                   gehad (gekregen).
+Nasi ini angit. Sûruh masaq        Deze rijst is aangebrand. Laat
+lâin.                              andere koken.
+Âpa sebab kaw tidaq datăng lebih   Waarom kom je niet eerder? Die dame
+dulu? Ñôñah (nônah) itu sudah      (jonge dame) heeft al twee maal
+panggil dua tiga kâli.             geroepen.
+Kâlaw ôrang panggil, lekas sâut    Als er iemand roept, moet je gauw
+(jâwab), lâin kâli ingăt.          antwoord geven, denk er een anderen
+                                   keer aan.
+Di mâna lâin-lâin boy (jongos)     Waar zijn al de andere bedienden?
+semua? Sûruh dia-ôrang menanti     Laat ze hier wachten, en aan tafel
+di sini, jâga mêja waktu kâmi      bedienen (passen op de tafel), op
+makan.                             den tijd dat wij eten.
+Tâña sâma tuan, kâlaw suka minum   Vraag aan mijnheer, of hij koffie
+âir kahwa (kopi).                  wenscht te drinken.
+Bâwa rokoq. Ambil yang âlus di     Breng sigaren. Haal de fijne in ’t
+peti kâlèng kecil.                 kleine blikken kistje.
+Uñjuqkăn sâma tuan-tuan ini        Presenteer ze aan al deze heeren.
+semua.
+Minta api; gûris-api [9];          Ik vraag vuur; lucifers; een lont
+tâli-api.                          (vuurtouw).
+Aku mâu minum rokoq lâgi.          Ik wil nog meer rooken (sigaren
+                                   drinken).
+
+
+
+
+
+
+
+11. IN EEN HOTEL.
+
+
+S’p’âda (samentrekking van          Hei daar, is er iemand?
+siâpa-âda)!
+Sâya, tuan!                         Jawel, mijnheer!
+Minta kâmar.                        Ik vraag een kamer.
+Tuan mâu kâmar yang lima rupiah     Wil u een kamer van vijf gulden
+sa âri kah âtaw yang enăm rupiah?   daags of een van zes?
+Minta yang lima rupiah sâja.        Geef me maar een van vijf (vraag
+                                    die van vijf gulden).
+Sila kan ikut sâya, tuan. Nanti     Wees zoo goed mij te volgen,
+sâya tuñjuqkăn.                     mijnheer. Ik zal er u een wijzen.
+Kâmar ini terlâlu kecil.            Deze kamer is te klein (erg klein).
+Semua bagitu, tuan.                 Ze zijn alle zoo, mijnheer.
+Yang di sabelah situ bagitu juga?   Die aan gindschen kant ook?
+Tidaq tuan, itu yang enăm rupiah    Neen, mijnheer, die zijn van zes
+sa âri. Lebih besar deri ini.       gulden daags. Ze zijn grooter dan
+Tuan mâu liat?                      deze. Wil u ze zien?
+Sudah. Ta usah. Biar lah aku        Och, neen, ’t hoeft niet.
+ambil kâmar ini sâja.               (Afgedaan, ’t hoeft niet). Laat me
+                                    deze kamer maar nemen.
+Nanti pukul berâpa ôrang makan di   Hoe laat eet men hier (straks)?
+sini?
+Pukul sâtu, tuan. Nanti malăm       Om een uur, mijnheer. Van avond om
+pukul delâpan.                      acht uur.
+Mâna kâmar-mandi?                   Waar is de badkamer?
+Minta tuâla dan sâbun. (voor        Ik vraag een handdoek en zeep.
+tuâla op Java anduq, verb. Holl.
+handdoek).
+Sûruh boy (jongos) bâwa             Laat mijn jongen mijn tandenborstel
+sikat-gigi dan sisir. Lâgi âda      en mijn kam brengen. Ze zijn nog in
+dalăm kopor di kâmar.               de koffer in mijn kamer.
+Âda kah cermin di kâmar-mandi?      Is er een spiegel in de badkamer?
+(Op Java voor cermin kâca).
+Âda, tuan.                          Jawel, mijnheer (er is, mijnheer).
+Berâpa âri tuan mâu tinggal di      Hoeveel dagen wil u in dit logement
+rumah-makan ini?                    blijven?
+Itu lah mandor datăng, tuan. Dia    Daar komt de mandoer (soort
+minta masuqkan nâma dan pekerjâan   opperkellner), mijnheer. Hij
+tuan ke dalăm daftar (buku).        verzoekt u uw naam en betrekking in
+                                    ’t register te schrijven (in te
+                                    brengen).
+Nanti malăm tuan suka pakay krêta   Wenscht u van avond een rijtuig te
+kah?                                hebben (gebruiken)?
+Berâpa sêwâ-ña sa jam?              Hoeveel is ’t per uur (de huur)?
+Tiga rupiah, tuan.                  Drie gulden, mijnheer.
+Bâik lah. Sûruh pasang pukul sa     Goed, laat om half zeven inspannen.
+tengah tujuh.
+
+
+
+
+
+
+
+12. GESPREK MET EEN MALEISCH VORST.
+
+
+Tunku âda di dalăm kah?           Is de Tunku thuis?
+Âda, tuan, tetapi Tunku berâdu,   Jawel, mijnheer, maar de Tunku
+belom jâga.                       slaapt, hij is nog niet wakker.
+Pukul berâpa Tunku nanti jâga?    Hoe laat wordt de Tunku wakker?
+Nanti tengah âri. Sudah dia       Om twaalf uur (straks middag). Als
+sîram, bôleh tuan berjumpa        hij al gebaad heeft, kan u hem
+dăngăn dia.                       ontmoeten.
+Tunku sila kan masuq tuan.        De Tunku noodigt u uit binnen te
+                                  komen.
+Selâmat berjumpa, Tunku, sâya     Ik verheug me u te zien, Tunku (Heil
+arăp Tunku sêhat.                 bij ’t ontmoeten), ik hoop dat u
+                                  gezond is.
+Sêhat juga, terima kâsih, tuan.   Heel wel, dank u, mijnheer.
+Siâpa ini, Tunku? Sâya belom      Wie is dit, Tunku? Ik ken hem nog
+kenal.                            niet.
+Âdiq sâya, tuan: Tunku Ngah.      Dit is mijn jongere broeder,
+                                  mijnheer: Tunku Ngah.
+Bila Tunku endaq berangkat        Wanneer wil u weer naar ’t binnenland
+bâlik ka ulu?                     terug gaan?
+Belom tentu lâgi, tuan. Pekat     Dat’s nog niet vast, mijnheer. Ik wil
+dulu dăngăn âdiq sâya ini.        eerst met mijn jongeren broeder
+                                  overleggen.
+Kâlaw Tunku bâlik ka ulu beprâu   Als u naar ’t binnenland teruggaat,
+kah, bergâjah kah, berjâlah       gaat u dan in een boot, op een
+kah?                              olifant of te voet?
+Jâlan kaki susah, sebab           Te voet te gaan is lastig omdat de
+mendaki-menûrun bâñaq. Lâgi       weg erg op en neer gaat. Bovendien
+gâjah pun susah berjâlan          loopen de olifanten moeilijk in dit
+musim-ujan ini. Ôrang bâru        jaargetijde. Menschen zoo pas van de
+sampay deri ulu kâtâ-ña pâda      binnenlanden gekomen, zeiden me, dat
+sâya âir di jâlan itu s’ingga     het water op den weg tot aan de
+lutut. Sebab itu sâya pikir       knieën reikt. Daarom denk ik, dat het
+bâik ikut sungay.                 beter is de rivier te volgen.
+Kâkanda Unku Lung sûruh pâtik     Uw (oudere) broeder Unku Lung stuurt
+mengadăp memberi tâu kepâda       mij naar u toe (laat mij vóor u
+Tuanku Kâkanda âda di             verschijnen), om u kennis te geven,
+Kubang-Buâya, ésoq nanti dia      dat hij te Kubang-Buâya is, en morgen
+sampay kemâri mengadăp Tuanku.    hier aankomt om vóor u te
+                                  verschijnen.
+Bâik lah. Âwaq bâlik mengâtakăn   Goed. Ga terug en zeg aan mijn
+pâda Kâkanda, Âdinda âda sedia    broeder, dat ik (jongere broeder) hem
+menanti kăn dia.                  hier verwacht (gereed ben op hem
+                                  wachtende).
+Pâtik bermuhun.                   Ik vraag verlof om heen te gaan.
+Ia, jâlan lah.                    Goed, je kunt gaan.
+Tunku Lung, yang endaq sampay     Is die Tunku Lung, die morgen zal
+ésoq, dia âbang kah kepâda        komen een (oudere) broeder van u?
+Tunku?
+Bukan âbang sa-jâlan-jâdi         Geen (oudere) broeder van denzelfden
+(betul), tuan: sâtu bâpa, lâin    vader en dezelfde moeder (van
+ibu.                              dezelfde wijze van geboren worden,
+                                  echt): denzelfden vader, een andere
+                                  moeder.
+Bârang-kâli tidaq âda             Misschien heeft u geen broeders of
+âdiq-kâkaq yang s’ibu-sa-bâpa,    zusters van denzelfden vader en
+dăngăn Tunku?                     dezelfde moeder?
+Âda juga, tuan: kâkaq sâtu yang   Jawel, mijnheer; een oudere zuster,
+sudah nikâh pada Râja Mahmûd,     die getrouwd is met Râja Mahmûd, en
+dan âdiq laki-laki sâtu yang      een jongere broeder, die nog niet
+belom besar, tengah mengâji       volwassen (groot) is, die leert nog
+dia. Belom xatam. [10]            de Koran lezen. Hij heeft die nog
+                                  niet doorgelezen.
+Dua-puluh-delâpan juz sudah       Acht en twintig afdeelingen heeft hij
+dibâca, âda dua juz belom.        al gelezen, twee nog niet.
+Kâlaw bulan-puâsa bâca qurân di   Als men in de vastenmaand in een
+tengah majelis, maka kita ta      gezelschap de Koran leest, en wij
+tâu bâca, mâlu sekâli.            kunnen dan niet lezen, zijn we erg
+                                  beschaamd.
+Kâlaw ânaq ôrang bâik-bâik ta     De kinderen van aanzienlijken (indien
+bôleh tidaq mâu xatam qurân.      kinderen....) moeten volstrekt de
+                                  Koran doorgelezen hebben.
+
+
+
+
+
+
+
+13. OP DE MARKT.
+
+
+Kaw berjual âpa di sini?           Wat heb je hier te koop?
+Sâya endaq membeli kâin-sarung,    Ik wil sarong’s, Javaansch batiksel,
+bâtik buâtan Jâwa; bôleh kah       koopen; kan ik die hier krijgen?
+dapăt di sini?
+Ini kûrang bâik, âda kah yang      Deze zijn minder goed, zijn er
+bâik deri ini?                     betere dan deze?
+Itu mâhal sekâli; itu tidaq        Dat is erg duur; dat is niet
+mûrah.                             goedkoop.
+Bôleh tâwar, tuan.                 U mag bieden (afdingen), mijnheer.
+Côba tuñjuqkăn yang mûrah.         Laat er eens wat zien, die
+                                   goedkooper zijn.
+Âda kah kâin-setrâ? (op Java:      Heb je ook zijden stoffen?
+sutra)
+Setrâ Cina buat bâju?              Chineesche zijde om buisjes van te
+                                   maken?
+Di sini t’âda, tuan. Dalăm keday   Hier is ’t niet, mijnheer. In den
+Makaw bôleh dapăt.                 Makawschen winkel (kraam) kan u ’t
+                                   krijgen.
+Bôleh kah sâya beli                Kan ik goederen koopen in het
+bârang-bârang dalăm pajăk-gâday    pandjeshuis?
+(rumah-gâday)?
+Dalăm pajăk-gâday ta bôleh,        In ’t pandjeshuis kan het niet, maar
+tetapi dalăm keday kâin bûruq      wel kan u er in den uitdragerswinkel
+bôleh juga dapăt.                  (kraam van versleten stoffen)
+                                   krijgen.
+Kâin Bugis di mâna bôleh sâya      Waar kan ik Boegineesche kleedjes
+beli?                              koopen?
+Sekârang ta bôleh dapăt, tuan,     Nu kan u ze niet krijgen, mijnheer,
+tetapi dalăm musim Bugis bôleh     maar in den tijd van de Boegineezen
+beli di prâu ôrang Bugis, âtaw     (een bepaald deel van ’t jaar) kan u
+di Kampung-Gelam tepi lâut.        ze koopen aan de schuiten der
+                                   Boegineezen, of in Kampoeng-Gelam
+                                   aan zee.
+Mâna tukang-mas yang panday        Waar is hier de beste (bekwaamste)
+sekâli di sini?                    goudsmid?
+Bârang-kâli ôrang Jâwa di          Misschien is ’t een Javaan in K. G.
+Kampung-Gelam. Tukang Cina pun     De Chineesche goudsmid (eig.
+panday juga, tetapi kâmi kûrang    handwerksman) is ook wel knap, maar
+percâya sedikit.                   wij vertrouwen hem minder.
+Bukan kah ini keday sa ôrang       Is dit niet de winkel van een Javaan
+Jâwa bernâma Ahmad, tukang-mas     genaamd Ahmad, goudsmid?
+(juâri)?
+Betul, tuan: dulu âda dia          Jawel (juist) mijnheer: vroeger
+tinggal di sini, sekârang sudah    woonde hij hier, nu is hij (reeds)
+pindah ke Johor.                   naar Djohor verhuisd.
+
+
+
+
+
+
+
+14. HET AANLEGGEN VAN EEN PLANTAGE.
+
+
+Sâya ’naq membuka kebon tanăm      Ik wil een plantage aanleggen om
+kahwa dan sebâgay-ña; bôleh kah    koffie enz. te planten; kan je zoo
+meñcâri ôrang kuli bârang sa       ongeveer honderd koeli’s zoeken?
+râtus ôrang?
+Di mâna tuan ’naq membuka kebon    Waar wil u die plantage aanleggen?
+itu?
+Di ulu Pêraq.                      In de bovenlanden van Pêrak.
+Tuan mâu kuli Cina kah âtaw        Wil u Chineesche koeli’s of Javanen?
+ôrang Jâwa?
+Ôrang Jâwa delâpan-puluh, ôrang    Tachtig Javanen en twintig
+Cina dua-puluh.                    Chineezen.
+Berâpa tuan mâu beri gâji sa       Hoeveel loon wil u per man geven?
+ôrang?
+Pâda ôrang Jâwa enăm ringgit sa    Aan de Javanen zes dollar
+bulan, makânan di âtas dia. Cina   (rijksdaalders) per maand, ’t eten
+bagitu juga.                       voor hun rekening (op hen). De
+                                   Chineezen even-zoo.
+Bôleh sâya dapăt, tuan, tetapi     Ik kan ze krijgen, mijnheer, maar ze
+dia-ôrang tentu endaq minta        zullen zeker om voorschot vragen.
+cengkeram dulu [11].
+Bâik lah, bôleh sâya beri          Goed, ik kan elk (éen man) tien
+sa-puluh ringgit sa ôrang,         dollar geven, maar een hoofd van hen
+tetapi sa ôrang kepâlâ-ña endaq    moet voor de anderen instaan. Anders
+lah tanggung âtas yang lâin.       (zoo niet) gaan ze allen er van
+Kâlaw tidaq, nanti dia-ôrang       door, en is mijn geld voor niets
+lâri semua, ilang wang sâya        weg.
+percuma.
+Kâlaw sa râtus ôrang, beri         Als er honderd man zijn en u geeft
+cengkeram sa-puluh ringgit sa      tien dollar voorschot per man, dan
+ôrang, jâdi mâu minta jâmin        (dus) wil u een borgstelling van
+sa-ribu ringgit.                   duizend dollar hebben?
+Ia, betul.                         Ja, juist.
+Câri kăn dua ôrang yang âda arta   Zoek me twee menschen op, die wat
+bôleh meñjâmin-ña.                 gefortuneerd zijn (die goederen
+                                   hebben) om voor hen borg te wezen.
+Âpa macăm kerjâ tuan mâu beri      Wat voor soort werk wenscht u aan
+kepâda kuli itu?                   die koeli’s op te dragen (te geven)?
+Kerjâ menebas utan, membuat        ’t Openkappen (werk openkappen), het
+jâlan dan pârit meñcangkulkăn      maken van wegen (paden) en sloten,
+tânah, menanăm pokoq-pokoq dan     het omspitten van den grond, het
+sebâgay-ña.                        planten van boomen enz.
+Sudah kah tuan buat rumah di       Heeft u daar al een huis gebouwd
+sâna âtaw belom?                   (gemaakt) of nog niet?
+Sudah sâya jañji dăngăn ôrang      Ik heb al een overeenkomst aangegaan
+Melâyu di sâna, dia endaq          met een Maleier daar, hij zal
+memanggil Sakay menebas kăn        Sakay’s ontbieden (roepen) om het
+utan.                              bosch te kappen.
+Bagi-mâna tuan jañji dăngăn dia?   Hoe is u met hen overeengekomen?
+Dia jañji kerjâ, borong, endaq     Hij is overeengekomen het heele werk
+menebas kăn sa-râtus depâ          aan te nemen (borong is die wijze
+pañjang dan lêbar-ña sa-râtus      van werken, waarbij men betaalt voor
+(sa-râtus depâ nâik, sa-râtus      ’t volledige werk na afloop), om
+bukâ-ña), dăngăn arga sa-râtus     honderd vadem in ’t vierkant om te
+ringgit.                           kappen, tegen honderd dollar (met
+                                   prijs 100 dollar).
+Tebas dan bakar?                   Kappen en branden?
+Ia, bagitu.                        Ja, zoo is ’t.
+Mûrah juga.                        Dat ’s wel goedkoop.
+Beras makânan kuli di mâna bôleh   De rijst voor de koeli’s om te eten,
+dapăt?                             waar kan men die krijgen? (rijst,
+                                   voedsel der koeli’s....)?
+Tujuh âri sa kâli dia ôrang        Eens in de acht dagen kunnen zij
+bôleh sûruh dua tiga ôrang tûrun   twee of drie man naar de markt
+ka pekăn (pasar), membeli beras,   sturen (naar beneden sturen naar de
+memikul kembâli.                   markt), om rijst te koopen en ’t
+                                   hierheen terug te dragen.
+Âmat jâuh, tuan.                   ’t Is erg ver, mijnheer.
+Tidaq berâpa jâuh. Kâlaw âri itu   ’t Is niet bizonder ver. Als ze dien
+ta bôleh bâlik, bôleh tidur sâtu   dag niet terug kunnen keeren, kunnen
+malăm di pekăn, bâlik ésoq.        ze een nacht op de markt slapen, en
+                                   den volgenden ochtend terugkeeren.
+Memikul (mengambin) bârang dalăm   ’t Dragen (dragen aan banden over de
+utan terlâlu susah.                schouders) van goederen is erg
+                                   lastig in ’t bosch.
+Bila sudah buat lûrung, bôleh      Wanneer er al wegen zijn gemaakt,
+pakay kerbaw membâwa               kan men karbouwen (buffels)
+bârang-bârang. Kemudian bôleh      gebruiken om de goederen te brengen.
+buat jâlan krêta.                  Daarna kunnen we een weg voor
+                                   rijtuigen maken.
+Cucikăn tem pat buat pondoq        Maak een plek schoon om er maar een
+sâja. Nanti ésoq bôleh menebas     hut op te slaan. Dan kan je morgen
+kăn utan empat lima depâ, tempat   ’t bosch vier of vijf vadem
+dîrikăn bangsal-kuli. Câri         wegkappen, waar een koeli-loods kan
+tempat yang bâik, lâgi dekăt       opgericht worden (plaats van
+dăngăn âir.                        oprichten...). Zoek een goede plek,
+                                   bovendien dicht bij ’t water.
+Kâlaw t’âda sungay, mâu gâli kăn   Als er geen rivier is, moet men twee
+perigi dua buah, sa buah buat      putten graven, éen voor drinkwater
+âir-minum, sa buah buat mandi.     en éen om te baden.
+Bila sudah âbis bangsal dan        Wanneer de loods en de putten klaar
+perigi, sâya ’naq memilih          zijn, zal ik een plek uitkiezen om
+tempat-tanăm-benih                 ’t zaad te planten. (zaadbed.)
+(perse-mâyan).
+Bila sudah tanăm benih itu, buat   Wanneer het zaad al geplant is, moet
+jamba dăngăn dâun-kâyu, maka       je een dek maken van (lett. met)
+kâlaw t’âda ujan sa-âri-âri,       boomblaren, en als ’t niet iederen
+bôleh disîram dăngăn âir.          dag regent kan het met water begoten
+                                   worden.
+Berâpa kâli sa âri mâu disîram?    Hoeveel maal daags moet het begoten
+                                   worden?
+Sa kâli sâja, petăng-âri, pukul    Maar eens, ’s namiddags zoo wat om
+lima bagitu.                       vijf uur.
+Sudah terbit (tumbuh) benih itu?   Is dat zaad al opgekomen (gegroeid)?
+Sudah, tuan. Tidaq jâdi, tuan.     Jawel, mijnheer. ’t Is niet
+Benih sudah mati.                  opgekomen (geworden), mijnheer, ’t
+                                   Zaad is al dood.
+Kâlaw benih kahwa-susu [12],       Bij cacao-zaad (als ’t c. z. is),
+waktu tanăm endaq lah ôrang jâga   moet men op den planttijd behoedzaam
+bâik-bâik, masuqkăn benih-ña ke    zijn, en het zaad heel recht in den
+dalăm tânah bujur sekâli; kâlaw    grond doen; anders worden de
+tidaq, pokoq-ña nanti béngkoq.     boompjes krom.
+Tampang-kahwa itu sudah besar,     De jonge koffieplantjes zijn reeds
+bila datăng ujan, endaq lah        groot, wanneer er regen komt, moeten
+ditanămkăn di kebon (dipindahkăn   ze in den tuin geplant
+ka kebon).                         (overgebracht) worden.
+Bila dicâbut, bâik-bâik rusaqkăn   Wanneer ze uitgetrokken worden, wees
+akar-ña.                           dan voorzichtig, dat je de wortels
+                                   niet beschadigt.
+Kâlaw akar-terus bumi itu rusaq,   Als de hoofdwortel (wortel recht in
+mati lah pokoq-ña.                 den grond) beschadigd wordt, gaat de
+                                   plant dood.
+Pekâkas bâñaq sudah rusaq.         Van de werktuigen is al veel stuk.
+Cangkul dan beliung kûrang, mâu    Hak en dissel ontbreken, ’t is
+beli lâgi.                         noodig andere (nog meer) te koopen.
+Pekâkas yang surdah rusaq itu      Geef de werktuigen, die al kapot
+beri pâda tukang-besi, sûruh       zijn, aan den smid, laat hem die in
+bâiki (betulkăn).                  orde maken.
+Âpa yang kûrang bôleh beli, sâya   Wat er ontbreekt kan je koopen, voor
+’pu-ña kîra.                       mijn rekening.
+Sâya minta cuti dua âri, tuan      Ik vraag twee dagen verlof,
+[13].                              mijnheer.
+Buat âpa?                          Waarvoor? (om wat te doen?)
+Kepâla sakit, tuan, sâya endaq     Ik heb hoofdpijn, mijnheer, ik wil
+pegi berôbat.                      me laten genezen (geneesmiddelen
+                                   gebruiken).
+Aku bôleh beri ôbat.               Ik kan geneesmiddelen geven.
+Ta bôleh, tuan. Sâya ta mengarti   ’t Kan niet, mijnheer. Ik heb geen
+ôbat ôrang-putih, sâya endaq       verstand van Europeesche
+meñcâri bumur (dukun) Melâyu.      geneesmiddelen (gen. m. der blanken)
+                                   ik wil een Maleischen dokter
+                                   opzoeken.
+Pârit-pârit semua mâu didălamkăn   De sloten moeten alle dieper gemaakt
+lâgi; kâlaw tûrun ujan lebăt, ta   worden; als er hevige regen valt,
+berguna macăm bagini.              deugt dit soort niet.
+Tânah keras, tuan.                 De aarde is hard, mijnheer.
+Buat jâlan deri sini ka            Maak een weg van hier naar de grens
+peringgâän kebon.                  van den tuin.
+Lêbar-ña sa depâ cukup lah.        Een vadem breed is voldoende
+                                   (breedte ervan....)
+Di mâna-mâna jumpa sungay mâu      Overal waar je een rivier tegen
+buat titi kâyu (jembâtan kâyu).    komt, moet je een houten vlonder
+                                   (houten brug met leuningen) maken.
+Titi kâyu-utan, jangan pakay       Vlonders van ruw hout (boschhout),
+pâpan, kâyu bulăt sâja.            je moet geen planken gebruiken, rond
+                                   hout (stammen) maar.
+Bubuh tânah di âtas-ña, supâya     Leg er aarde boven op, dat er een
+kuda bôleh lâlu (biar kuda bôleh   paard overheen kan (voorbij kan
+lâlu).                             gaan).
+
+
+
+
+
+
+
+15. GESPREK MET EEN TUINMAN.
+
+
+Tukang-kebon âda menanti, tuan.    De tuinman staat te wachten,
+                                   mijnheer.
+Malăm sekârang (nanti malăm) âda   Van avond eten hier menschen, je
+ôrang makan di sini, côba câri     moet ’s een boel bloemen zoeken, en
+bunga bâñaq-bâñaq, âturkăn di      op de etenstafel rangschikken.
+mêja-makan.
+Bunga macăm mâna tuan suka?        Wat voor soorten van bloemen
+                                   verlangt u?
+Âpa yang âda jâdi lah.             Al wat er maar is, is goed (lett.
+                                   wat dat er is, wordt, slaagt).
+Pegi ka kebon-bunga, minta pâda    Ga naar de bloementuin, vraag aan
+tuan yang meñjâga di situ, dia     den heer die daar toezicht houdt
+endaq memberi. Bâwa bakul, bôleh   (waakt), die zal er je geven. Neem
+diïsi-ña.                          een mand mee, die kan hij vullen.
+Petik bunga mêrah dua tiga         Pluk twee of drie roode bloemen.
+tangkay.
+Bunga mêrah t’âda, tuan.           Roode bloemen zijn er niet,
+                                   mijnheer.
+Tidaq mengâpa (tidaq peduli),      Dat doet er niet toe, zoek allerlei
+câri dâun-dâun-kâyu, mâna yang     boomblaren, al die mooi zijn.
+éloq.
+Kebon ini saperti utan rupâ-ña:    Deze tuin ziet eruit als een
+penuh tumbuh-tumbuhan.             wildernis; hij is vol onkruid
+                                   (opgroeisels).
+Aku pikir kaw malăs benăr.         Ik geloof (denk), dat jij erg lui
+                                   bent.
+Pekâkas t’âda, tuan, mâna bôleh    Er zijn geen gereedschap, mijnheer;
+kerjâ betul?                       hoe kan men dan goed werken?
+Nanti aku beri duit (wang),        Ik zal je duiten (geld) geven, dan
+bôleh beli âpa-âpa yang kûrang.    kan je al wat ontbreekt koopen.
+Bâik lah, tuan; nanti sâya         Goed, mijnheer; ik zal een hak, een
+membeli cangkul, sisir-tânah,      hark en een gieter koopen.
+sîrâman.
+Bâik engkaw beli                   ’t Zou goed wezen, dat je zoowat
+bârang-dua-puluh pasu, masuqkăn    twee-en-twintig bloempotten kocht,
+bunga ke dalăm-ña.                 en de bloemen erin zette.
+Jâlan ini ta bâik sekâli, côba     Deze paden (wegen) zijn heelemaal
+betulkăn.                          niet goed, toe, maak ze in orde.
+Añcurkăn bâtu, târoh di jâlan,     Maak steenen stuk (vergruizel
+kemudian bubuh pasir di âtas-ña    steenen), leg ze op de paden, daarna
+(tudung dăngan pasir).             leg je zand erover heen (dek ’t toe
+                                   met zand).
+Rumput di kebon sudah terlâlu      Het gras in den tuin is al veel te
+tinggi-ña, côba potong pèndèq.     hoog; zeg, snij ’t eens kort af.
+Tidaq sampay, mâu lebih pèndèq     Niet genoeg, ’t moet nog korter.
+lâgi.
+Bunga ini sudah berâpa lâma        Hoe lang heb je die bloemen al niet
+tidaq kaw sîram? Semua lâyu        begoten? Ze zien er alle verlept
+rupâ-ña.                           uit.
+Kâlaw tidaq disîram, nanti mati    Als ze niet begoten worden, gaan ze
+sekâli.                            alle dood.
+Mâna sîrâman? Sîram sekârang.      Waar is de gieter? Begiet ze nu.
+Tong-âir sudah kosong.             De waterton is al leeg.
+Kâlaw tidaq diïsi sa-âri-âri,      Als ze niet dagelijks gevuld wordt,
+bagi-mâna bôleh sîram bunga?       hoe kan je dan de bloemen begieten?
+Pagăr itu sudah bûruq rupâ-ña.     Die schutting (heining, heg) ziet er
+Betulkăn.                          al vermolmd uit. Maak ze in orde.
+Sampah-sampah ini angkat semua,    Dit vuil (deze afval) moet je
+bâwa keluar dalăm gerôbaq.         altemaal opnemen (wegnemen), en in
+                                   een kruiwagen wegbrengen.
+Biâsâ-ña sâya bakar petăng-âri,    Gewoonlijk verbrand ik het ’s
+tuan.                              avonds, mijnheer.
+Bôleh juga.                        Dat mag ook.
+
+
+
+
+
+
+
+16. GESPREK MET EEN WASCHMAN EN ZIJN KNECHT.
+
+
+Sûruh dobi mâri ésoq [14].          Laat den waschman morgen hier
+                                    komen.
+Sediakăn (siapkăn) pakâyan kotor    Leg het vuile goed alles heel vroeg
+semua pâgi-pâgi, endaq ku beri      klaar, ik wil het aan den waschman
+pâda dobi.                          geven.
+Bila dobi datăng, beri tâu          Wanneer de waschman komt, geef er
+pâda-ku (sama aku).                 mij dan kennis van.
+Bilang pakâyan semua, periksa       Tel al de kleeren, ga ze goed na,
+bâik-bâik, kâlaw betul tidaq.       of ze in orde zijn of niet.
+Semuâ-ña betul, ñôñah.              Alles is in orde, mevrouw.
+Tidaq betul, ñôñah, sapu-tangan     ’t Is niet in orde, mevrouw, er
+kûrang sa lay, bâju (jas) kûrang    ontbreekt een zakdoek, bovendien is
+dua lay, lâgi sârung-bantal sa      een kussensloop niet van u; ’t is
+lay bukan ñôñah ’pu-ña, sudah       verruild met een van iemand anders;
+tukar dăngăn ôrang ’pu-ña;          van dit paar kousen ontbreekt er
+sârung-kaki (kâos) ini kûrang       een; ook is dit lijfje gescheurd.
+yang sa belah; lâgi kutang ini
+kôyaq.
+Kaw kâta pâda dobi, aku ta mâu      Je moet aan de waschman zeggen, dat
+bâjar upah-ña ingga sampay          ik zijn loon niet betalen wil,
+dibâwâ-ña pakâyan semua yang        voordat (totdat) hij al de nu
+kûrang sekârang ini;                ontbrekende kleedingstukken
+sârung-bantal ini sûruh bâwa        teruggebracht heeft; laat hem deze
+pulang, bâwa kembâli aku ’pu-ña.    kussensloop naar zijn huis brengen
+                                    en de mijne terugbrengen.
+Dobi, âpa sebab kaw tidaq cuci      Waschman, waarom heb je deze
+(bâsuh) betul pakâyan ini? Ta       kleeren niet behoorlijk gewasschen?
+bâik sekâli rupâ-ña. Bâñaq kôyaq,   Ze zien er volstrekt niet goed uit,
+lâgi kûrang kañji.                  ook ontbreekt er stijfsel aan.
+Bâwa pulang pakâyan ini, cuci       Neem deze kleeren mee naar huis,
+lâgi sa kâli, dan târoh kañji       wasch ze nog eens, en doe er ruim
+cukup-cukup.                        stijfsel in.
+Kâlaw kaw cuci pakâyan-ku, berâpa   Als je mijn kleeren wascht, hoeveel
+kaw minta upah-ña?                  vraag je dan als loon?
+Tiga ringgit sa-râtus lay, ñôñah.   Drie dollar (rijksdaalders) per
+                                    honderd stuks, mevrouw.
+Tetapi aku mâu bâyar sa bulan sa    Maar ik wil eens in de maand
+kâli, bukan bilangan pakâyan.       betalen, niet per stuk (geen
+                                    telling der kleederen).
+Kâlaw bagitu, ñôñah bôleh bâyar     Dan kan u mij drie dollar per maand
+sâma sâya tiga ringgit sa bulan     (zes gulden per maand) betalen.
+(enăm rupiah sa bulan).
+Bâik lah, kaw bôleh datăng di       Goed, je kunt hier iederen Maandag
+rumah-ku membâwa pakâyan cuci       aan huis ’t schoone goed komen
+(beresih) dan menerima pakâyan      brengen en ’t vuile in ontvangst
+kotor, tiap-tiap âri senèn.         nemen.
+Kâin yang dua lay ini aku mâu       Deze twee kain’s wil ik morgen
+petăng ésoq, ta bôleh tidaq.        namiddag (avond) zonder mankeeren
+                                    (’t mag niet niet) hebben.
+Kâlaw pânas, bôleh sâya bâwa,       Als er zon is, kan ik ze brengen
+ñôñah, kâlaw ujan ta bôleh.         mevrouw, als ’t regent niet.
+Kâlaw kaw côba, tentu bôleh bâwa,   Als je ’t probeert, kan je ze zeker
+bâik pânas bâik tidaq.              brengen, of er zon is of niet.
+Rompi (wiskăt) ini tidaq betul      Dit vest is niet goed gevouwen, ’t
+lipat-ña, bâñaq kedut.              is vol kreuken (veel kreuken).
+Seluar (celâna) ini jangan târoh    In deze broek moet je geen stijfsel
+kañji, aku suka lembut, tapi        doen, ik heb hem liever zacht maar
+setrika bâik-bâik.                  je moet hem goed strijken.
+Kemêja ini sudah rusaq, kaw pakay   Dit hemd is bedorven, je hebt een
+besi-setrika terlâlu angăt, sudah   al te heet strijkijzer gebruikt, ’t
+angus sekâli. Nanti ku potong       is heelemaal verbrand. Ik zal een
+upah-mu sâtu ringgit.               dollar van je loon inhouden
+                                    (afsnijden).
+Âpa tumpuq-tumpuq mêrah di celâna   Wat zijn die roode vlekken op die
+putih ini?                          witte broek?
+Itu tâi-besi, ñôñah, kenâ           Dat’s ijzerroest, mevrouw, van de
+kañcing.                            knoopen (geraakt door de knoopen).
+Mâna bôleh kenâ kañcing di situ?    Hoe kan het daar de knoopen raken?
+Itu bekas ludah-sîrih. Cuci lâgi    Dat zijn sporen van sirih-spuug.
+sa kâli sampay ilang semua          Wasch ’t nog ’s over totdat al de
+tumpuq-ña.                          vlekken weg zijn.
+
+
+
+
+
+
+
+17. GESPREK MET EEN STALKNECHT.
+
+
+Kaw meñcâri kerjâ sâis kah         Zoek je werk als staljongen
+(tukang-kuda kah)?                 (paardejongen)?
+Kaw panday kah kerjâ-kuda?         Kan je met paarden omgaan? (Ben je
+                                   bekwaam in paardenwerk?)
+Aku âda dua ékor kuda—sa pasang    Ik heb twee paarden—een span—jij
+(jori)—kaw endaq meñjâga yang sa   moet een er van verzorgen, bovendien
+ékor, lâgi jâdi kusir (coachman)   koetsier zijn, wanneer ik dat
+kâdang-kâdang, bila aku suka,      verlang, en ook nog helpen met het
+dan lâgi tulung cuci (bâsuh)       schoonmaken van ’t paardetuig.
+pakâyan-kuda.
+Makânan kuda aku yang membeli,     ’t Voeder voor de paarden koop ik,
+maka sa-âri-âri kaw minta sâma     en dagelijks vraag jij dat aan den
+boy (jongos), dia bôleh beri       huisjongen, die kan je voeder voor
+makânan cukup sa âri.              een dag (genoeg) geven.
+Berâpa tuan beri makan sa ékor     Hoeveel voeder geeft u éen paard per
+kuda sa âri?                       dag?
+Tiap-tiap âri kaw endaq lah beri   Iederen dag moet je de paarden drie
+makan tiga kâli pâda kuda, sa      maal te eten geven, in eens twee
+kâli makan pâdi dua cupaq,         „cupaq” pâdi (een vierde „gantang”),
+kacang sa cupaq, busi (dedăk) sa   een „cupaq” Indische paardeboonen,
+tengah cupaq.                      en een halve „cupaq” zemelen.
+Aku mâu krêta ésoq pâgi pukul      Ik wil morgen ochtend om tien uur ’t
+sa-puluh, ’naq pegi ke             rijtuig hebben, ik wil naar
+Singapûra.                         Singapoer gaan.
+Kuda jori kah (sa pasang kah)?     ’t Span paarden?
+Tidaq, kuda tunggal.               Neen, een enkel paard.
+Kuda ităm, kuda mêrah, kuda        ’t Zwarte paard, ’t bruine paard, ’t
+belang, kuda abluq.                gevlekte paard (de schimmel), ’t
+                                   muiskleurige paard.
+Pegang kuda ini sabentar.          Hoû dit paard een oogenblik vast.
+Legam (kekang) sudah bekârat,      ’t Bit is al verroest, waarom maak
+âpa fasal (âpa sebab) tidaq kaw    je ’t niet beter schoon?
+cuci (beresihkan) lebih bâik?
+Gosoq bâik-bâik, kemudian târoh    Poets (wrijf) ’t goed, daarna doe je
+miñaq-selâda sedikit.              er wat slâ-olie op.
+Ras (tâli kekang, lès) kîri        De linkertoom is in de war, maak dat
+kusut, betulkăn.                   in orde.
+Jut (setrèng) belom diïkătkăn!     De strengen zijn nog niet
+Âpa sebab kaw tidaq peratikăn      vastgemaakt! Waarom let je er niet
+bâik-bâik? Kâlaw kuda lâri         goed op? Als ’t paard nu er van door
+sekârang, nanti jehânam kita.      gaat, zijn wij gefopt (in de hel).
+Lepaskăn kuda, lepaskăn            Laat ’t paard los, laat den kop los.
+kepâlâ-ña.
+Nâik di belâkang.                  Stijg achter op.
+Mâna câbuq (cambuq)?               Waar is de zweep?
+Mâna cemeti?                       Waar is de karwats?
+Tertinggal, tuan.                  Die is achtergebleven, mijnheer.
+Lekas pegi mengambil ña.           Ga ’m gauw halen.
+Jâlan lah, aku ta bôleh menanti    Ga je gang, ik kan niet langer
+lâgi. Jâlan pelâhan-pelâhan.       wachten. Rij (ga) langzaam.
+Lekas lâgi!                        Nog sneller!
+Pukul sedikit.                     Sla ’m een beetje.
+Ta bôleh pukul, tuan, nanti dia    Slaan mag niet, mijnheer, anders
+jâhat (nakal).                     wordt hij kwaadaardig (ondeugend).
+Pegang rôda, pusingkăn             Hoû het wiel vast, draai ’t.
+(putărkăn).
+Letaqkăn pakâyan itu, mâri sini    Leg dat tuig neer, kom hier en hoû
+pegang kuda.                       het paard vast.
+Kaw berbuat âpa? Jangan pegang     Wat voer je uit? Hoû het paard niet
+kuda bagitu.                       zoo vast.
+Bagimâna mâu pegang, tuan?         Hoe moet hij dan vastgehouden
+                                   worden, mijnheer? (Hoe wil ’t
+                                   vastgehouden?)
+Pegang dekăt kekang-ña             Houd ’m vast dicht bij ’t bit met
+(legam-ña), dua-dua tangan sa      beide handen te gelijk.
+kâli.
+Nanti gigit, tuan.                 Hij zal me bijten, mijnheer.
+Ta bôleh gigit.                    Hij kan niet bijten.
+Kuda ini meñépaq kah?              Slaat dit paard?
+Tidaq, tuan, jinaq benăr, tidaq    Neen, mijnheer, hij is erg mak,
+nakal sekâli; tidaq bertingkah.    heelemaal niet kwaad (ondeugend);
+                                   heeft geen kuren (streken, grillen,
+                                   bizondere manieren).
+Pasang krêta: aku endaq makan      Span ’t rijtuig in: ik wil een
+angin sedikit.                     toertje doen (lett. een beetje wind
+                                   eten).
+Kuda sakit, tuan: ta bôleh         ’t Paard is ziek, mijnheer; hij kan
+pakay.                             niet gebruikt worden.
+Kûrang âpa?                        Wat mankeert hij?
+Sakit serdi, tuan.                 De droes, mijnheer.
+Panggil tuan doktor-hêwan, minta   Laat den paardenarts komen (lett.
+beri ôbat.                         roep...) verzoek hem geneesmiddelen
+                                   te geven.
+Kuda sakit bâtuq, dua tiga âri     ’t Paard hoest (heeft hoestziekte),
+bôleh bâik pula.                   in twee of drie dagen kan hij weer
+                                   gezond (goed) zijn.
+Aku arăp bagitu, tetapi perlu      Dat hoop ik (lett. ik hoop zoo),
+kaw belâ (peliâra) bâik-bâik.      maar ’t is noodzakelijk, dat je ’m
+                                   goed oppast.
+Berâpa âri lâgi bâru bôleh         Binnen hoeveel dagen is hij pas weer
+pakay?                             te gebruiken? (lett. hoev. dagen nog
+                                   pas kan (men) gebruiken?)
+Jangan beri kăn dia makan rumput   Geef hem niet te veel gras te eten,
+terlâlu bâñaq, sa kâli makan sa    eens per dag is genoeg (eens eten
+âri cukup lah.                     een dag...)
+Mâu nâik kuda ésoq petăng pukul    Ik wil morgen namiddag om vier uur
+empat, bâwa kuda ke kantor         paard rijden, breng het paard naar
+(ufis).                            ’t kantoor.
+Belâkang-ña luka, ta bôleh pakay   Zijn rug is gewond, hij kan geen
+sêla (jin, pelâna), tuan.          zadel velen, mijnheer. (lett. niet
+                                   kan gebruiken een zadel).
+
+
+
+
+
+
+
+18. GESPREK MET EEN SCHRIJVER.
+
+
+Jûru-tulis, jangan datăng          Schrijver, je moet niet zoo laat
+siang-âri bagitu. Sudah berâpa     komen (zoo in de „siang”, het deel
+kâli sâya kâta: ta bôleh tidaq     van den dag van 10–3). Hoeveel maal
+datăng pâgi pukul tujuh betul.     reeds heb ik gezegd, dat je zonder
+Kâlaw siang-âri bagitu,            mankeeren ’s morgens precies om
+pekerjâän ta bôleh âbis.           zeven uur moest komen (lett. dat je
+                                   niet niet mag komen...) Als ’t zoo
+                                   laat is, kan ’t werk niet af komen.
+Âda pekerjâän âpa, tuan?           Wat is er voor werk, mijnheer?
+Âda sûrat-sûrat ini, bâru sampay   Er zijn deze brieven, die gisteren
+semalăm. Semua mâu dibalăs         pas (aan)gekomen zijn. Ze moeten
+lekas-lekas.                       alle zeer spoedig beantwoord worden.
+Balâsan sûrat itu târoh di mêja    Leg ’t antwoord op dien brief daar
+kecil situ, lâinkăn deri           op die kleine tafel (op gindsche kl.
+sûrat-sûrat lâma.                  t.) houd ’t afgescheiden van de
+                                   andere brieven (zonder ’t af van...)
+Sûrat dua lay ini sâlin            Schrijf deze twee brieven goed over.
+bâik-bâik.
+Sâlinan ini tidaq bôleh pakay:     Dit afschrift kan ik niet gebruiken:
+congkah-mangkih hurûf ña, lâgi     de letters staan schots en scheef,
+kûrang terang tulisan-ña. Sâlin    bovendien is ’t schrift minder
+sa kâli lâgi.                      duidelijk, schrijf ’t nog eens over.
+Sampul-sûrat (sârung-sûrat)        De enveloppen zijn op, mijnheer.
+sudah âbis, tuan.
+Kepâla-râja (prangko) cukup-kah?   Zijn er genoeg postzegels?
+Cukup, tuan, macăm mêrah lâgi sa   Jawel (genoeg) mijnheer, van de
+râtus lay.                         roode (roode soort) nog honderd
+                                   stuks.
+Jûru-tulis, jangan beli            Schrijver, je moet niet meer van dit
+kertas-kembang yang macăm bagini   soort vloeipapier koopen, mijn brief
+lâgi: sûrat sâya ini               is vol met vlekken.
+cûring-mûring sekâli.
+Sâya minta pènah bâru.             Ik verzoek u om een nieuwe pen.
+Sûrat Melâyu ini mâu ditulis       Deze Maleische brieven moeten met
+dăngăn qalam dan dawât, ta bôleh   een qalam (Arab. pen) en dawât
+pakay pènah dan tinta.             (Arab. inkt) geschreven worden, je
+                                   moogt geen gewone pen en inkt
+                                   gebruiken.
+Ini belom dicap. Ambil lak         Dit is nog niet gestempeld. Haal
+mêrah, ta bôleh lak ităm.          roode lak, zwarte mag niet.
+Bagi-mâna buñi sûrat yang bâru     Hoe luidt die brief, die pas gekomen
+datăng itu? Côba bâca.             is? Lees ’m eens voor.
+Priksa tanda-tangan-ña itu.        Kijk die handteekening ervan eens
+Siâpa nâmâ-ña yang mengirim?       na. Hoe is de naam van den afzender?
+Sudah sâya sâlin sûrat ini         Ik heb deze brieven reeds alle
+semua, tuan; kûrang tanda-tangan   overgeschreven, mijnheer; er
+tuan sâja.                         ontbreekt alleen uw handteekening
+                                   aan.
+Sudah. Sekârang sûruh bâwa ke      Goed (afgedaan). Laat ze nu naar ’t
+kantor-pos. Ambil kartu-pos ini    postkantoor brengen. Neem meteen
+sa kâli.                           deze brief kaart mee.
+Sudah kah kaw timbang sûrat yang   Heb je dien dikken brief al gewogen?
+tebăl itu? Berâpa berat-ña?        Hoeveel weegt hij? (Hoeveel is de
+Kâlaw lebih deri lima-belas        zwaarte ervan?) Als ’t meer dan 15
+gram, mâu pakay dua lay            gram is, moet je twee postzegels
+kepâla-râja.                       gebruiken.
+Daftar ini mâu dijidâri            Dit register moet geliniëerd worden,
+(digâris), jûru-tulis. Mâna        schrijver. Waar is de liniaal?
+jidâran (mistar)?
+Itu lah, tuan, dekăt               Daar, mijnheer, bij den inktkoker.
+tempat-tinta.
+Nah, bagini, gâris yang bujur      Kijk, zoo, rechte en duidelijke
+lâgi terang. Tulis dăngăn potlot   lijnen. Trek (schrijf) ze maar met
+sâja.                              potlood.
+Angkat kertas-kertas ini           Neem al deze papieren weg,
+semua, masuqkan di tempat-sûrat,   doe ze in de portefeuille, daarna
+kemudian simpăn di kôtaq di        berg je ze op in de schrijftafel.
+mêja-tulis.
+
+
+
+
+
+
+
+19. GESPREK MET EEN SCHOENMAKER.
+
+
+Sepâtu (kasut) ini sudah bûruq,     Deze schoenen zijn al versleten. Ik
+ta bôleh pakay lâgi.                kan ze niet meer gebruiken.
+Âda kah tukang-sepâtu (-kasut) di   Is er een schoenmaker hier?
+sini?
+Kâlaw âda tukang yang bâik,         Als er een goede is, roep hem dan,
+panggil dia, aku endaq sûruh buat   ik wil hem schoenen laten maken.
+sepâtu.
+Sepâtu sâya tâu buat, tuan,         Schoenen kan ik maken (weet ik te
+tetapi setiwăl (but) sâya kûrang    maken) mijnheer; maar laarzen
+panday.                             minder (ik minder bekwaam).
+Buat sepâtu sâtu pasang dulu;       Maak eerst een paar schoenen; dan
+nanti sâya liat, kâlaw bâik âtaw    zal ik ’s zien, of ze goed zijn of
+tidaq; kemudian kâlaw bâik, bôleh   niet; als ze goed zijn, kan ik
+sâya pesăn lâgi.                    later nog meer bestellen.
+Âda kah kaw bâwa conto              Heb je staaltjes van schoenleder
+kulit-sepâtu?                       meegebracht?
+Kulit ini ta bâik, nipis (tipis)    Dit leder is niet goed, ’t is zeer
+sekâli.                             dun.
+Kulit kilat sâya mâu.               Ik wil verlakt (glanzend) leder.
+Côba buat setiwăl (but) sa          Maak ’s een paar laarzen, ik zal je
+pasang, nanti sâya beri conto.      een model geven.
+Sepâtu ini ta bôleh pakay, pèndèq   Deze schoenen kan ik niet
+sangăt (âmat), lâgi sempit, kaki    gebruiken, ze zijn te kort en
+ta bôleh masuq.                     bovendien nauw, de voeten kunnen er
+                                    niet in.
+Côba, buat lâgi sa pasang, besar    Maak nog ’s een paar, een beetje
+sedikit deri ini, lâgi pañjang.     grooter dan deze, en ook wat
+                                    langer.
+Kulit ini keras sekâli. Âda kah     Dit leder is zeer hard. Is er geen
+lâin yang lebih lembut?             ander, dat zachter is?
+Bôleh kah kaw buat setiwăl (but)    Kan je hooge (lett. lange) laarzen
+pañjang, pakay nâik kuda, kâlaw     maken, om bij ’t paardrijden te
+sâya beri contô-ña?                 dragen, als ik ’t model er van
+                                    geef?
+Bôleh sâya côba, tuan.              Ik kan ’t probeeren, mijnheer.
+Sâya mâu sepâtu putih               Ik wil witte schoenen hebben
+(sepâtu-kâin), tâli-ña saperti      (doeken schoenen), de bandjes
+ini.                                (touwtjes) als deze.
+Tidaq dăngăn tâli, dăngăn getah     Zonder bandjes, met elastiek aan
+sabelah-meñabelah.                  weerskanten.
+Kûlit mêrah itu sâya ta suka, ta    Dat roode leder bevalt mij niet, ’t
+éloq, lâgi lekas rusaq. Sâya        is niet mooi, en ook (nog) is ’t
+endaq menanti sampay kaw dapăt      gauw kapot. Ik zal wachten tot je
+kulit Êrôpah.                       Europeesch leder ontvangt.
+Tâpaq-ña buat tebăl (nipis)         Maak de zolen een beetje dikker
+sedikit.                            (dunner).
+Tumit-ña tinggi âmat (rendah        De hielen zijn te hoog (te laag).
+âmat).
+Âda kah jual cinêla (slop)?         Verkoop je muiltjes (sloffen)?
+Cinêla (slop) macăm âpa tuan        Wat voor soort muiltjes (sloffen)
+suka? Macăm Cina ini âlus sekâli.   verlangt u? Deze Chineesche zijn
+                                    zeer fijn.
+Cerpu (slop) ini mûrah, tetapi      Deze sloffen zijn goedkoop, maar
+kasar sâja. Yang deri rumput ini    grof (slechts). Deze van matwerk
+cuma lima-belas sèn sa pasang.      (lett. gras) kosten slechts
+                                    vijftien cent het paar.
+Bôleh ambil enăm pasang sa kâli,    U kan zes paar tegelijk nemen, want
+sebab tidaq tâhan lâma: dipakay     ze houden niet lang; als ze een
+sa bulan sudah rusaq.               maand gebruikt zijn (gebruikt een
+                                    maand) gaan ze al stuk.
+
+
+
+
+
+
+
+20. GESPREK MET EEN KLEERMAKER.
+
+
+Aku mâu tukang-meñjâit, sûruh      Ik moet een kleermaker hebben, laat
+dia datăng lusa pâgi pukul tujuh   hem overmorgen om zeven uur precies
+betul.                             komen.
+Bâba [15], sâya mâu sûruh buat     Bâba, ik wil een jas laten maken.
+jas (kôt). Âda kah bâba bâwa       Heb je staaltjes van stoffen
+conto kâin-kâin?                   meegebracht?
+Bukan kâin putih, kâin tebăl       Geen wit goed, dik goed (laken) wil
+(sengkelat, lakăn) sâya mâu.       ik hebben.
+Âda kah conto lâin deri ini?       Zijn er ook andere staaltjes?
+Di rumah âda, tuan, tetapi t’âda   Thuis wel (zijn er), mijnheer, maar
+sâya bâwa.                         ik heb ze niet bij me (niet
+                                   meegebracht).
+Tuan bôleh dapăt bâñaq lâin-lâin   U kan veel andere soorten van
+macăm kâin di gedong (di tôko).    stoffen in den winkel krijgen.
+Tidaq âpa, bôleh sâya beri         ’t Doet er niet toe, ik kan je de
+kâin-ña. Berâpa êlo cukup buat     stof geven. Hoeveel el is genoeg om
+celâna (seluar) sa lay?            een broek te maken?
+Ambil ini. Kâlaw tidaq cukup,      Neem dit. Als ’t niet genoeg is, kan
+bôleh sâya beli lâgi.              ik nog meer koopen.
+Kâin ini tebăl âmat (sangăt),      Dit goed is te dik, breng wat dunner
+bâwa yang lebih nipis (tipis).     is.
+Kâin ini terlâlu ităm, sâya suka   Deze stof is te donker, ik wilde het
+putih sedikit deri ini. Côba       wat lichter (witter) dan dit hebben.
+carikăn.                           Zoek dat ’s.
+Susah dapăt, tuan, tetapi bôleh    Dat ’s lastig te krijgen, mijnheer,
+sâya carikăn.                      maar ik kan er wel naar zoeken.
+Kâlaw sâya beri kâin-ña, maka      Als ik de stof geef, hoeveel
+berâpa sâya bâyar upah meñjâit     naailoon betaal ik dan voor een
+seluar sa lay?                     broek (hoeveel loon om te naaien een
+                                   broek)?
+Kâlaw tuan ambil sa lôsin sa       Als u een dozijn tegelijk neemt, kan
+kâli, bôleh sâya jual dua          ik ze voor twee rijksdaalders
+ringgit sa lay.                    (dollar) per stuk geven (verkoopen).
+Mâhal sangăt itu, sâya pikir       Dat ’s erg duur, ’t komt me
+lebih deri pâtut-ña.               onbehoorlijk voor (ik denk meer dan
+                                   ’t behoorlijke).
+Dalăm berâpa âri bôleh sudahkăn    In hoeveel dagen kan je dezen broek
+(âbiskăn) seluar ini?              afmaken?
+Côba, bâwa ésoq petăng, sâya       Zie dat je ’m morgennamiddag brengt,
+berkaendak sangăt pâda âri itu.    ik woû ’m heel graag dien dag
+Kâlaw kerjâ râjin-râjin, tentu     hebben. Als je er ijverig aan werkt,
+bôleh diâbiskăn.                   kan ’t zeker klaar komen (afgemaakt
+                                   worden).
+Nanti sâya côba, tuan.             Ik zal ’t probeeren, mijnheer.
+Kâlaw bâba beli sendîri kâin-ña,   Als jij zelf goed koopt, hoeveel is
+berâpa arga sa lôsin? Sâya mâu     dan ’t dozijn? Ik wil anderhalf
+tengah dua lôsin.                  dozijn.
+Jas (kôt) ini terlâlu besar        Deze jas is te groot (ruim,
+(longgar) lâgi lengăn-ña tidaq     slobberig), bovendien zijn de mouwen
+sâma, sâtu pañjang sâtu pèndèq.    niet gelijk, de eene is lang, de
+Bâwa pulang, betulkăn.             andere kort. Neem ’t mee naar huis
+                                   en maak ’t in orde.
+Lâpisan ini sudah rusaq ketéaq     Deze voering is kapot aan den oksel
+dan siku-ña, ganti kâin bâru       en den elleboog, doe er nieuw goed
+(tampal), lâgi betulkăn            in (vervang door nieuw goed) (lap
+kelim-ña.                          het), maak bovendien de zoom in
+                                   orde.
+Mâu kâin setrâ (sutra), tuan?      Wil u zijde, mijnheer?
+Kâin yang sa-rupa ini mêmang.      Natuurlijk goed als dit.
+Kâlaw berlâpis setrâ (sutra)       Als ’t met zijde gevoerd is, is het
+lebih mâhal argâ-ña.               duurder (de prijs ervan).
+Saku bâju ini tidaq sampay         De zakken van dit buis zijn niet
+dalăm-ña.                          diep genoeg.
+Bagimâna kaw buat ini, pakay       Hoe heb je dit gemaakt, met een
+mâsin-meñjâit âtaw pakay jârum     naaimachine (gebruikt een naaim.) of
+sâja?                              maar uit de hand (gebruikt een
+                                   naald)?
+Minta wang sedikit, endaq          Ik vraag wat geld, om een schaar,
+membeli gunting, jârum, benang,    naalden, garen, spelden en een
+peniti, didal (sârung-jâri).       vingerhoed te koopen.
+[16]
+
+
+
+
+
+
+
+21. GESPREK MET EEN TIMMERMAN EN MET EEN WAGENMAKER.
+
+
+Panggil tukang-kâyu.               Roep den timmerman.
+Mêja ini sudah rusaq, kaki-ña      Deze tafel is kapot (al kapot), de
+sudah pâtah, côba betulkăn.        poot is gebroken, maak ze ’s in
+                                   orde.
+Bôleh kah tukang buat krusi        Kan je stoelen maken als deze?
+saperti ini (sa-rupa ini)?
+Berâpa sâtu?                       Hoeveel komen ze per stuk (Hoeveel
+                                   éen)?
+Kâlaw kaw buat sâtu lôsin sâma     Als je een dozijn voor me maakt, kan
+sâya, bôleh kah kûrang argâ-ña?    ’t dan goedkooper (kan ’t minder de
+                                   prijs ervan)?
+Bôleh kah dapăt kâyu sa-rupa ini   Kan men hout als dit te Singapoer
+di Singapûra?                      krijgen?
+Sebârang kâyu yang liat jâdi       Alle mogelijke taai hout is goed.
+lah.
+Buat dăngăn yang bâik saperti      Maak ze van (lett. met) goed hout,
+merbaw âtaw belian.                zooals merbaw of belian (ijzerhout).
+Târoh cèt-sampang.                 Doe er politoer (vernis) op.
+Jangan pakay kâyu mêrah.           Gebruik geen rood hout.
+Kaki mêja ini pañjang sedikit.     Deze tafelpoot is wat lang.
+Côba potong, sâmakăn pañjang-ña    Snij ’m af, maak hem even lang als
+dăngăn lâin kaki (temăn-ña).       de andere pooten (zijn gezellen,
+                                   kameraden).
+Ta bôleh sâya buat di sini,        Ik kan ’t hier niet doen, mijnheer:
+tuan: t’âda bâwa pekâkas. Nanti    ik heb geen gereedschap meegebracht.
+sâya pulang dulu, mengambil        Ik zal eerst naar huis gaan, om de
+pekâkas yang cukup.                noodige gereedschappen te halen
+                                   (gereedschappen die voldoende zijn).
+Bâik lah, tetapi lekas bâlik,      Goed, maar kom gauw terug, dit werk
+kerjâ ini mâu diâbiskan âri ini    moet van daag nog af.
+juga.
+Mêja ini bâik diketamkăn           Deze tafel moet (lett. is goed) een
+sedikit, âtas-ña sudah kotor,      beetje afgeschaafd worden, ze is van
+lâgi tidaq râta.                   boven smerig en ook niet effen.
+Téngoq, sudah renggang, côba       Kijk ’s, er is een reet in, laat ’t
+rapătkăn pula.                     weer aansluiten.
+Bôleh kah buat itu? Senăng kah     Kan je dat doen? Is ’t gemakkelijk
+susah? (Gampang kah, susah?)       of moeilijk?
+Sâya mâu mêja buntăr sa buah       Ik wil een ronde tafel voor de
+pakay di dapur, jangan kâyu        keuken (gebruikt in de keuken),
+mâhal-mâhal, pañjang lima kaki,    gebruik geen erg duur hout, de
+lébar dua kaki sa tengah, tinggi   lengte moet zijn vijf voet, de
+bârang tiga kaki. Itu berâpa       breedte twee en een half, de hoogte
+argâ-ña?                           zoowat drie. Hoeveel kost zoo een
+                                   (die)?
+Krusi kaw bâwa semalăm itu         Van de stoelen, die je gisteren
+sampang-ña (pulitur-ña) belom      gebracht hebt, is ’t politoersel nog
+kering, jâdi sudah lekang. Bâwa    niet geheel droog, zoodat ’t
+pulang krusi itu, târoh sampang    opgebold (losgeschilferd) is. Neem
+lâgi sa kâli; bila sudah sampay    die stoelen mee naar huis, doe er
+kering, bâwa bâlik (kembâli).      nog eens politoer op; als ze al
+                                   voldoende droog zijn, breng je ze
+                                   terug.
+Krêta sudah pecah, bâik pegi       ’t Rijtuig is (reeds) stuk, je moet
+meliat, kemudian bâlik kemâri      er eens naar gaan kijken (lett. goed
+memberi tâu pâda sâya berâpa       te gaan zien), kom daarna hier
+upah kaw minta membetulkăn-ña.     terug, om mij mee te deelen hoeveel
+                                   loon je vraagt om ’t te repareeren.
+Dua tiga bâtang kâyu-rôda mâu      Twee of drie spaken van een rad
+diganti, lâgi bom kânan sudah      moeten vervangen worden, bovendien
+pâtah dan cèt (cat) dua tiga       is de rechterboom (reeds) kapot, en
+tempat sudah ilang.                de verf is op twee of drie plaatsen
+                                   eraf (verdwenen).
+Jangan léngah membuat krêta itu,   Treuzel niet met het maken van het
+sâya mâu pakay lekas.              rijtuig, ik wil ’t spoedig
+                                   gebruiken.
+Bôleh kah buat kăn sâva krêta      Kan je een nieuw rijtuig maken, een
+bâru, băgi (buggi) empat-rôda      buggy op vier wielen, zooals die
+saperti yang dipakay tuan Ânu?     mijnheer N. N. gebruikt?
+Kâlaw buat krêta bâru, berâpa      Als je een nieuw rijtuig maakt, in
+âri bôleh âbis?                    hoeveel dagen kan dat dan klaar
+                                   zijn?
+Kap-ña buat dăngăn kulit ităm      Maak de kap van zeer goed zwart
+yang bâik sekâli, âlaskăn dăngăn   leder, bekleed het met donkerblauwe
+kâin bîru-tua dalăm-ña, tilăm-ña   stof van binnen, de kussens moet je
+buat dăngăn kulit bîru-tua yang    maken van donkerblauw leder in
+sa-rupa dăngăn kâin tâdi, krêta    overeenstemming met die stof (van
+semua târoh cèt ităm dăngăn        zooeven) ’t heele rijtuig moet je
+gâris bîru; sampang-ña sapu tiga   zwart verven met blauwe lijnen; ’t
+kâli di âtas-ña. Bok-ña beri       politoersel (vernis) moet je er
+lantêra dua buah; kâcâ-ña mêrah.   driemaal overheen strijken. Aan den
+                                   bok maak je (geef je) twee lantarens
+                                   met rood glas.
+
+
+
+
+
+
+
+22. AAN HET STATION.
+
+
+Krêta api sudah sampay. Panggil    De trein is al aangekomen. Roep een
+kuli, sûruh angkat peti-peti       koeli, laat hem deze kisten opnemen.
+ini.
+Tuan sudah pesăn krêta?            Heeft u al een rijtuig besteld?
+Belom, câri kăn sâtu.              Nog niet, zoek er een.
+Ay, kuli, angkat bârang ini,       Zeg ’s, koeli, neem dit goed op,
+bâwa ke krêta.                     breng ’t naar ’t rijtuig.
+Tidaq mampu (kuat) sâya            Ik ben alleen daartoe niet in staat;
+sa-ôrang, nanti sâya panggil       ik zal een paar kameraden roepen.
+temăn sâya dua ôrang.
+Kopor ini terlâlu berat.           Deze koffer is zeer zwaar.
+Bâik-bâik jâtohkăn, isi-ña         Pas op, dat je ’m niet laat vallen;
+bârang pecah-belah.                er is breekbare waar in (de inhoud
+                                   is br. w.)
+Jangan banting-banting bagitu.     Je moet niet zoo smakken en smijten.
+Mâu pakay tâli, tidaq bôleh kâmi   We moeten een touw gebruiken, we
+angkat bagini.                     kunnen hem zoo niet optillen.
+Berâpa upah-mu?                    Hoeveel is je loon?
+Tuan ’pu-ña suka (suka tuan        Dat laat ik aan mijnheer (lett. uw
+lah).                              genoegen).
+Ini lah.                           Hier is ’t.
+Minta tambah sedikit, tuan.        Ik vraag er wat bij, mijnheer.
+Bârang tuan itu bâñaq, lâgi        U heeft veel goed (uw goed is veel)
+berat sekâli.                      en ’t is bovendien erg zwaar.
+Biar sabagini sâja.                Laat ’t maar zooveel wezen.
+Sampay lah.                        Dat ’s genoeg.
+Terima kâsih, tuan.                Dank u, mijnheer.
+Kusir, jâlan lah. Bâwa aku ke      Koetsier, vooruit. Breng me in ’t
+rumah-makan Wiese. Kaw tâu         hotel Wiese. Weet je den weg?
+jâlan-ña?
+Tâu, tuan, tidaq berâpa jâuh       Jawel, mijnheer, ’t is niet erg ver
+deri sini.                         van hier (niet bizonder ver van
+                                   hier).
+Itu dia. Tuan tûrun dulu, nanti    Daar is ’t. Stap u eerst uit, dan
+sâya tûrunkăn bârang-bârang        zal ik de bagage stuk voor stuk eraf
+sâtu-sâtu.                         halen (neerlaten).
+Sûruh bâwa masuq.                  Laat ’t binnen brengen.
+Berâpa sêwa-krêta (-sâdo)? [17]    Hoeveel is de vrachtprijs (huur) van
+                                   ’t rijtuig (de dos-à-dos)?
+Ini lah.                           Hier.
+Minta wang-sîrih sedikit, tuan.    Ik vraag een fooitje (geld voor
+                                   „sîrih”) mijnheer.
+
+
+
+
+
+23. GESPREK MET EEN ZIEKE, OVER ZIEKTEN EN GENEESMIDDELEN.
+
+
+Tuq Bandar minta maäf, tuan, dia   Tuq Bandar (verk. van Dâtuq B.) laat
+ta bôleh datăng âri ini: sakit.    zich excuseeren (vraagt excuus), hij
+                                   kan vandaag niet komen, hij is ziek.
+Âpa sakit-ña?                      Wat scheelt hem? (Wat is zijn
+                                   ziekte?)
+Ta tâu, tuan, bâik tuan pegi       Ik weet ’t niet, mijnheer, u moest
+meliat sendîri. Sakit-ña sudah     maar eens zelf naar hem gaan kijken.
+teruq: kâlaw tidaq diôbati         Zijn ziekte heeft al diep
+(diôbatkăn), bârang-kâli mati.     ingegrepen: als hij niet behandeld
+                                   (gemedicineerd) wordt, sterft hij
+                                   misschien.
+Sâya terlâlu susah-ati mendăngăr   ’t Spijt me zeer (ik ben zeer
+Dâtuq sakit.                       bezorgd van hart) te hooren dat u
+                                   ziek is.
+Di mâna Dâtuq merâsa sakit itu?    Waar voelt u pijn?
+Sakit-kepâla, tuan.                Pijn in ’t hoofd, mijnheer. Scheele
+Pening-kepâla. Sakit-perut.        hoofdpijn. Buikpijn. Pijn aan de
+Sakit-kaki. Sakit-dâda.            voeten. Pijn aan de borst.
+Âpa mâcăm râsa sakit itu?          Hoe is die pijn (gevoel van die
+                                   pijn)?
+Râsa angus, tuan, saperti api.     Ik heb een brandend (heet) gevoel,
+                                   mijnheer, als vuur.
+Susah bernâpas, tuan.              Ik adem moeilijk, mijnheer.
+Tuñjuqkăn lidah. Dâtuq ke-sungay   Laat de tong ’s zien. Gaat u aldoor
+(membuang-âir) selâlu, âtaw        naar achteren, of is ’t als
+saperti âdat kah (saperti biâsa    gewoonlijk?
+kah)?
+Berâpa âri Dâtuq sudah sakit       Hoeveel dagen is u al zoo ziek?
+bagini?
+Lâma, tuan, tetapi dua tiga âri    Lang, mijnheer, maar ik ben twee of
+sakit, kemudian bâik sedikit       drie dagen ziek, en dan weer wat
+pula, ta tentu hal-ña.             beter, ’t is ongeregeld (niet vast
+                                   de toestand ervan).
+Bôleh kah Dâtuq bediri?            Kan u staan?
+Bôleh juga, tuan; tetapi bâwa      Jawel (kan), mijnheer; maar ’t doet
+sakit; bâring sâja yang senăng     pijn (brengt pijn); ’t liggen alleen
+sedikit.                           is eenigszins gemakkelijk.
+Côba bangkit sekârang.             Sta nu ’s op. (Probeer op te staan
+                                   nu).
+Ta bôleh, tuan, t’âda kuat.        Ik kan niet, mijnheer, ik ben er
+                                   niet sterk genoeg voor (lett. niet
+                                   sterk).
+Malăm-malăm bôleh kah Dâtuq        Kan u ’s nachts slapen?
+tidur?
+Bôleh, tuan; tetapi waktu tidur    Jawel, mijnheer; maar wanneer ik
+bâdan sâya keluar peluh sâja.      slaap, transpireer ik gedurig (lett.
+[18]                               komt er maar zweet uit mijn
+                                   lichaam).
+Kâlaw bagitu, Dâtuq sakit-demăm    Dan heeft u koorts; typheuse,
+(ook enkel: demăm);                moeraskoorts (malaria, lett.
+demăm-kepiâlu, demăm-kûraq,        miltkoorts), binnenkoorts.
+demăm-ûrat.
+Sâya pikir bagitu, tuan, sebab     Dat denk ik ook, mijnheer (lett. ik
+makan ta bôleh, merâsa saperti     denk zoo, m.), want ik kan niet
+mâu muntah selâlu.                 eten, ik voel mij den heelen tijd
+                                   misselijk (lett. voel alsof wil
+                                   braken steeds).
+Bâdan sâya pânas sekârang, tâdi,   Nu is mijn lichaam warm, zooeven,
+sa belom tuan datăng (kemâri),     voordat u kwam (hierheen), was ’t
+sejuq sekâli.                      erg koud.
+Mâri, côba sâya râsa nâdi Dâtuq.   Kom, laat me ’s even uw pols voelen.
+Dâtuq mengisăp kah?                Schuift u opium? (lett. zuigt u)
+S’ikit-s’ikit, tuan.               Zoo nu en dan een beetje, mijnheer.
+Berâpa kâli sa âri Dâtuq           Hoeveel maal per dag schuift u?
+mengisăp?
+Pâgi sa kâli, malăm sa kâli.       ’s Morgens en ’s avonds eens.
+Lebih bâik jangan mengisăp dulu.   ’t Is beter, dat u eerst niet meer
+                                   schuift.
+Nanti ésoq bôleh kita cakăp        Morgen kunnen we wel daarover (die
+fasal itu.                         zaak) praten.
+Sâya endaq pulang ke rumah         Ik wil nu naar huis teruggaan; ik
+sekârang; bôleh sâya kîrim         kan u medicijn zenden (laten
+(antărkăn) ôbat kepâda Dâtuq.      aanreiken.)
+Âpa macâm ôbat, tuan?              Wat voor soort medicijn, mijnheer?
+Ôbat dalăm bâlang itu, endaq lah   Die medicijn in een flesch, die moet
+Dâtuq minum tiga kâli sa âri;      u drie maal daags innemen (drinken);
+sukat dăngăn sĕndoq besar, sâtu    meet het af met een groote lepel,
+sĕndoq sa kâli minum [19].         telkens éen lepel (éen lepel éen
+                                   keer drinken).
+Bila sudah âbis, kîrim bâlik       Wanneer ’t al op is, zend dan de
+bâlang-ña, bôleh sâya isi (-kăn)   flesch terug, dan kan ik ze weer
+lâgi.                              vullen.
+Âri ini bâik sedikit râsa bâdan    Vandaag voel ik me wat beter,
+sâya, tuan.                        mijnheer (een beetje goed ’t gevoel
+                                   van mijn lichaam, m.)
+Sukur lah. Bâdan sêhat kah?        Gelukkig (dank, d. i. God dank).
+                                   Voelt u zich wel? (Lichaam gezond).
+Belom sêhat betul; belom sêhat     Nog niet heelemaal wel; idem; reeds
+sekâli; sudah sembuh.              genezen.
+Belom bôleh berjâlan.              Ik kan nog niet loopen.
+Sâya ta bôleh begeraq.             Ik kan me niet bewegen.
+Côba, geraqkăn kaki.               Kom, beweeg uw voeten ’s.
+Ta bôleh, tuan, tulang-ña pâtah.   ’t Kan niet, mijnheer. ’t Been is
+                                   gebroken.
+Tulang mâna?                       Welk been (bot)?
+Tulang di sini, tuan.              ’t Been hier, mijnheer.
+Ia, sungguh, tulang sudah pâtah,   Ja, inderdaad, ’t been is (al)
+nanti sâya târik kaki sedikit,     gebroken, ik zal je been wat
+kemudian târoh dua keping kâyu     trekken, en dan twee stukken hout
+sabelah-meñabelah, bôleh bâlut     aan weerskanten zetten, dan kan het
+dăngăn kâin.                       met doek omwonden worden.
+Kaki kîri tergeliat, tuan.         ’t Linker been is verstuikt,
+                                   mijnheer.
+Ânaq sâya bâñaq kudis-buta,        Mijn kind heeft erge last van roode
+tuan; lâgi kelemumur di            hond (lett. blinde schurft); en
+kepâlâ-ña.                         bovendien roos op ’t hoofd.
+Kepâlâ-ña mâu dilangîri            ’t Hoofd moet goed „geshampood”
+bâik-bâik, nanti ilang kelemumur   worden, dan verdwijnt de roos op den
+itu lâma-lâma.                     langen duur.
+Kudis-buta itu tidaq mengâpa.      Die roode hond maakt niets uit.
+Tetapi gatăl sangăt, tuan.         Maar ’t jeukt erg, mijnheer.
+Baîk lah, sâya beri ôbat-ña        Goed. Ik zal wat medicijn ervoor
+sedikit.                           (lett. ervan) geven.
+Bini sâya sakit-gigi. Gigi-ña      Mijn vrouw heeft kiespijn. Een kies
+yang sâtu sudah dicâbut,           van haar is al getrokken, nu doet
+sekârang sakit pula yang lâin.     weer een andere pijn. Ik geloof, dat
+Sâya kîra bâñaq yang rongga.       er veel hol zijn.
+Ini lah ôbat-ña. Sûruh dia         Hier is een geneesmiddel ervoor.
+berkumur-kumur bâik-bâik pakay     Laat haar goed den mond spoelen met
+âir ini, tiap-tiap malăm sabelom   dit water (gebruikt dit water),
+tidur.                             iederen nacht vóor ’t slapen.
+Ini lah ôbat-kûrap:                Hier heb je medicijn tegen ringworm:
+dâun-gelinggang diañcurkăn, lâlu   glinggang-blâren fijngemaakt en
+dicampur dăngăn belîrang dan       daarna vermengd met zwavel en
+sendâwa.                           salpeter.
+Bôleh dapăt di rumah-ôbat (sâma    Men kan het in de apotheek (bij den
+tukang-ôbat).                      apotheker) krijgen.
+Bâñaq angin di bâdan, tuan.        Er is veel wind in ’t lichaam,
+                                   mijnheer.
+Ini lah ôbat-ña, miñaq-pi-permin   Hier is de medicijn ervoor,
+nâmâ-ña; ambil sa titiq dalăm      pepermunt olie heet het (is de naam
+âir sâtu gelas kecil.              ervan); neem een druppel in een
+                                   klein glaasje water.
+Ôrang sakit-cîrit endaq lah        Menschen, die diarrhee hebben,
+makan bubur-ubi-Benggâla           moeten dagelijks pap van arrowroot
+(-ketêla-pohon) sa-âri-âri.        eten.
+Luka itu sudah bekeruping, tanda   Die wond heeft al een roof, een
+sudah mâu bâik.                    teeken, dat ze gaat (wil) genezen.
+Pûru dan bisul bôleh diôbati       Waarmee kunnen zweren en puisten
+dăngăn âpa?                        gemedicineerd worden?
+Bôleh diôbati dăngăn ôbat busuq    Ze kunnen behandeld worden met die
+itu (karbol); dăngăn bubur         karbol (stinkende medicijn), met
+pânas.                             warme pappen.
+Âda kah kaw bâñaq belâhaq          Laat je veel boeren, veel winden?
+(serdâwa), bânaq kentut? Bâñaq     Fluim je veel?
+berdâhaq?
+Ânaq sâya kenâ câcar               Mijn kind heeft de pokken (getroffen
+(ketumbuhan).                      door de p.)
+Sudah kah ditanăm câcar âtaw       Is ’t al ingeënt of nog niet?
+belom?
+Ôrang Melâyu takut ditanăm         De Maleiers zijn er bang voor
+câcar, kâdang-kâdang sudah         ingeënt te worden, soms zijn hun
+ditanăm, ânaq-ña mati langsung.    kinderen op eens gestorven, nadat ze
+                                   ingeënt waren.
+Kâlaw ditanăm câcar ôleh           Als ze ingeënt waren door een
+mantri-câcar Gupermèn, tentu       gouvernements-vaccinateur, zouden ze
+tidaq mati.                        zeker niet gestorven zijn.
+Peñakit âwar (kolêra) itu yang     De cholera is erg kwaadaardig, als
+jâhat sekâli, sudah kenâ jârang    men die heeft (getroffen is), wordt
+yang sembuh.                       men zelden beter (zeldzaam die
+                                   genezen).
+T’âda ôbat-ña.                     Er is geen medicijn voor.
+Kaw kûrang âpa?                    Wat scheelt je?
+Luka, tuan.                        Ik ben gewond, mijnheer.
+Luka kenâ âpa: pisaw kah,          Hoe ben je gewond (getroffen door
+pedang, pârang ataw bedil          wat): met een mes, een sabel, een
+(senâpang)?                        hakmes of een geweer?
+Kenâ lembing, kenâ tumbaq, tuan.   Met een werpspies, met een piek,
+                                   mijnheer.
+Bâik bâsuh dăngăn âir, kemudian    Je moet ’t met water afwasschen,
+bôleh dijâit.                      daarna kan ’t genaaid worden.
+Kâlaw t’âda kenâ kotor âpa-âpa,    Als er heelemaal geen vuil in komt
+lekas bôleh bâik.                  (getroffen door vuil) kan ’t spoedig
+                                   beter zijn.
+Kâlaw pelûru âda lâgi di dalăm,    Als de kogel er nog in zit, kan ik
+bôleh sâya câbutkăn.               hem eruit halen.
+Bagi-mâna bôleh dicâbutkăn?        Hoe kan hij eruit gehaald worden?
+Dăngăn pekâkas besi ini, sudah     Met dit ijzeren instrument, als je
+pegang pelûru itu, târik sâja,     den kogel al beet hebt, trek dan
+nanti keluar.                      maar, dan komt hij eruit.
+Âpa kûrang (kenâ âpa) ôrang itu?   Wat mankeert die man?
+Kenâ tetaq, tuan. Urat-ña          Heeft een houw gekregen, mijnheer.
+terbuka di pâhâ-ña kânan.          De ader is open aan de rechterdij.
+Ini lah ôbat-penâwar. Sudah        Dit is een stelpmiddel. Als ’t
+berenti bedârah, nanti bubuh       opgehouden heeft te bloeden, dan leg
+tampal (plèstèr).                  je er een pleister op.
+Kenâ di perut lâgi, keluar         Hij is ook nog aan den buik
+tâli-perut-ña [20]. Lekas          getroffen, de darmen komen eruit.
+masuqkăn, bôleh disungkup dăngăn   Doe ze snel erin, we kunnen er eerst
+tempûrung dulu.                    een klapperdop opzetten.
+Âbis itu, lekas bâwa dia ke        Daarna moet je hem gauw naar ’t
+rumah-sakit, bôleh diôbati         ziekenhuis brengen, daar kan hij
+bâik-bâik di sâna.                 goed verpleegd worden.
+Âda kah rumah-ôrang-sakit-kusta    Is hier een leprozen-huis, (huis
+di sâna?                           voor melaatschen)?
+Tidaq, peñakit-kusta itu jârang    Neen, lepra is hier zeldzaam, twee
+di sini, dua tiga ôrang yang       of drie menschen hebben de ziekte
+kenâ, tetapi tidaq dilâinkăn di    (die getroffen zijn), maar ze worden
+rumah sendîri.                     niet in een eigen huis afgezonderd.
+Sâya pikir perlu dilâinkăn,        Ik geloof, dat het noodzakelijk is,
+supâya jâuh deri ôrang; sebab      ze af te zonderen, opdat ze ver van
+peñakit itu kâbar-ña berjangkit.   de andere menschen af zijn; want die
+                                   ziekte is naar men zegt (’t bericht
+                                   ervan) aanstekelijk.
+Ôrang ini kenâ peñakit-dâda.       Deze man heeft ’n borstziekte. Hij
+Selâlu bâtuq sâja.                 hoest voortdurend.
+Kering kah bâtuq-ña itu?           Is die hoest van hem droog?
+Kering, tuan.                      Jawel (droog), mijnheer.
+Sâya minta ôbat-peñcâhar.          Ik vraag om een purgeermiddel.
+Ôbat ini diminumkăn tiga kâli sa   Deze medicijn wordt ingegeven
+âri, tetapi endaq lah di-kocoq     driemaal daags, maar ’t moet eerst
+dulu; bôleh juga dikacaw dăngăn    omgeschud worden; ’t mag ook met een
+sendoq.                            lepel geroerd worden.
+Ôbat-lumat (serbuq, puyăr) ini     Deze poeders worden telkens op de
+ditelăn tiap-tiap waktu makan.     etenstijden geslikt (telkens tijd
+                                   van ’t eten).
+Sabelom-ña makan, ataw             Vóor ’t eten of daarna, mijnheer?
+sasudah-ña, tuan?
+Sasudah-ña. Mengarti?              Daarna. Begrepen?
+Mengarti, tuan.                    Jawel (begrepen), mijnheer.
+
+
+
+
+
+
+
+24. BIJ DEN MAGISTRAAT.
+
+
+Perkâra âpa yang diperkârakăn      Welk zaak wordt heden afgedaan? Een
+sekârang? Perkâra-apiun kah?       opiumzaak?
+Tidaq, itu sudah putus.            Neen, die is al beslist.
+Perkâra peñcûrian yang belom.      De diefstalzaak nog niet (is ’t
+                                   welke nog niet).
+Siâpa yang didaqwa?                Wie is aangeklaagd?
+Si Umar, dipanggil ôrang Paq       Zekere Umar, bijgenaamd Paq Idris
+Idris.                             (genoemd door de menschen P. I.).
+Berâpa ôrang saksi-ña?             Hoeveel getuigen zijn er?
+Yang sâya tâu, tuan: tiga ôrang    Die ik weet, mijnheer, zijn drie
+nâik saksi dalăm perkâri itu.      getuigen in de zaak (drie menschen
+                                   stijgen, komen „op” als g.).
+Sâya arăp bôleh sampay             Ik hoop, dat er genoeg bewijzen
+katerangan-ña. Terlâlu susah       zijn. ’t Zou erg lastig zijn, als
+kâlaw kûrang terang perkâra ini    deze zaak weer niet bewezen kon
+pula, karena Si Umar itu cerediq   worden (niet voldoende helder was);
+sekâli: sudah berâpa kâli          want die Umar is erg leep: hoeveel
+didaqwa, kemudian lepas pula       maal is hij reeds aangeklaagd, en
+dia, sebab t’âda katerangan!       dan kwam hij weer vrij, omdat er
+                                   geen bewijzen waren.
+Kâtâ-ña dia ditekăn ôrang sâja;    Hij zegt, dat hij alleen maar valsch
+tetapi sabetul ña dia bangsat      beschuldigd is (gedrukt door de
+benăr.                             menschen); maar inderdaad is hij een
+                                   rechte schelm.
+Kâlaw ñâta sâlah-ña sekârang,      Als nu zijn schuld gebleken
+sâya kenakăn hukuman kerjâ tiga    (duidelijk) is, zal ik drie maanden
+bulan.                             tenarbeidstelling geven (treffen met
+                                   drie m. t.)
+Itu âda ôrang endaq mengadăp       Daar is iemand, die vóor u wil
+tuan Pètor [21] bârang-kâli        verschijnen (of: u wil spreken),
+membâwa katerangan.                misschien brengt hij aanwijzingen
+                                   (inlichtingen).
+Sûruh masuq, upas.                 Laat hem binnenkomen, oppasser.
+Tâbiq, tuan, bagitu bâñaq deri     Ik vraag u wel excuus, mijnheer
+kaki tuan sampay kepâla, sâya      (lett. excuus zooveel van uw voeten
+endaq nâik saksi dalăm perkâra     tot uw hoofd), ik wil als getuige
+Paq Idris, tuan.                   optreden in de zaak van Paq Idris,
+                                   mijnheer.
+Bâik lah. Siâpa nâmâ-mu?           Goed. Hoe heet je?
+Nâma sâya Unus, tuan.              Ik heet Unus, mijnheer.
+Berumah di mâna, pekerjâänmu       Waar woon je, wat doe je voor de
+âpa?                               kost (wat is je werk)?
+Sâya berumah di Kampung Limaw,     Ik woon in Kampung-Limaw, mijnheer,
+tuan; pekerjâän sâya berlâdang.    mijn beroep is landbouwer (mijn werk
+                                   landbouwen).
+Berâpa umur-mu?                    Hoe oud ben je (Hoeveel is je
+                                   leeftijd)?
+Kîra-kîra tiga-puluh tâun, tuan.   Zoo wat dertig jaar, mijnheer.
+Mâna bôleh! Umur-mu empat puluh    Hoe kan dat? Je bent op zijn minst
+sekûrang-kûrang-ña. Sudah.         veertig jaar. Goed (afgeloopen).
+Kaw tâu âpa kah tentang perkâra    Wat weet je aangaande die zaak?
+itu?
+Paq Idris mengaku sâma sâya dia    Paq Idris bekende mij, dat hij
+bermalăm di luar rumah-ña pâda     buitenshuis geslapen had op den
+malăm jumaät yang sudah ini. Ta    nacht voor afgeloopen Vrijdag. Hij
+bôleh bersangkal lâgi: dia         kan ’t niet meer ontkennen, hij is
+sapekat dăngăn Berâhim.            ’t met Brahim eens.
+Sungguh kah itu?                   Is dat stellig?
+Sungguh mati, tuan. Berâni         Zoo waar als ik leef (ik mag sterven
+betâroh.                           als ’t niet waar is), mijnheer. Ik
+                                   durf er om te wedden.
+Berâni bersumpah kah?              Durf je te zweren.
+Berâni, tuan.                      Jawel (durf), mijnheer.
+Jûru-tulis, sûruh dia bersumpah.   Schrijver, laat hem zweren. Heb je
+Sudah kah terima sumpah-ña?        zijn eed afgenomen (ontvangen)?
+Sudah, tuan. Pengakuan-ña sâya     Jawel (reeds), mijnheer. Zijn
+tulis di daftar.                   bekentenis heb ik in ’t register
+                                   geschreven.
+Daftar-perkâra-pulisi sudah kah?   Is het register der politiezaken af?
+Sudah, tuan. Sudah sâya sâlin.     Jawel (reeds) mijnheer. Ik heb het
+Bôleh tuan priksa: bersâmâän       al overgeschreven. U kan het nazien:
+semuâ-ña, t’âda yang bersâlâhan.   alles komt (komt overeen, d. w. z.
+                                   met het origineel), niets wijkt af.
+Perkâra yang ditangguhkăn itu      Die uitgestelde zaak moet je niet in
+jangan masuqkăn di daftar.         ’t register opnemen (indoen).
+Itu endaq lah dimasuqkăn pâda      Die moet komende maand ingeschreven
+bulan di muka ini, bila sudah      worden, als er al een beslissing
+âda keputusan-ña.                  genomen is.
+Perkâra-dendâ itu jangan lupa,     Vergeet die boetezaak niet, ter zake
+hal perkelâjan; maki-maki.         van een vechtpartij; beleedigingen
+                                   (schelden).
+Ingăt: dendâ yang bôleh sâya       Denk er aan: de boete die ik op mag
+kenakăn itu salebih-lebih-ña       leggen is hoogstens (op zijn meest)
+sa-râtus rupiah ganti-ña tutup     honderd gulden, te vervangen door
+tiga-puluh-dua âri lâmâ-ña;        twee en dertig dagen gevangenis; en
+hukuman kerjâ pun sampay tiga      tenarbeidsstelling tot drie maanden.
+bulan.
+Mêmang, tuan, âtûran-ña bagitu:    Natuurlijk, mijnheer, het reglement
+sâya hafalkăn semuâ-ña.            is zoo: ik heb alles van buiten
+                                   geleerd.
+Sudah kah kaw sita segâla ôrang    Heb je al de menschen al opgeroepen,
+yang termasuq dalăm perkâra        die betrokken zijn in die
+peñcûrian itu?                     diefstalzaak?
+Sudah tuan, sâya beri tâu dăngăn   Jawel (reeds), mijnheer, ik heb
+sûrat, saperti biâsa.              schriftelijk (met een brief) kennis
+                                   gegeven, zooals gewoonlijk.
+Âda kah kaw ingăt nâma segâla      Herinner je je soms de namen van al
+permâinan-judi yang dilârang?      de dobbelspelen, die verboden zijn?
+Bârang-siâpa melanggar ătûran      Al wie dat reglement overschrijdt
+itu kenâ dendâ; kâlaw tidaq        krijgt (wordt getroffen) een boete;
+bâyar, mâka masuq peñjâra (buï).   als hij die niet betaalt, gaat hij
+                                   in de gevangenis.
+Hukuman sapu-pantat sudah          De rotan-straf (lett het achterste
+ditidaqkăn (ditiâdakăn),           strijken) is afgeschaft, alleen die
+melâinkăn ôrang yang sudah kenâ    reeds veroordeeld zijn (getroffen
+hukuman itu bôleh disapu           door vonnis) mogen de rotan-straf
+pantat-ña, jâdi tambâhan           ondergaan, als (wordt) vermeerdering
+hukuman-ña.                        van straf.
+Perkâra-bunuh tidaq bôleh          Zaken van doodslag (moord) mogen
+diputuskăn di sini; hukuman-ña     hier niet afgedaan worden; de straf
+kerjâ-paksa dăngăn buang deri      ervoor is dwangarbeid met verbanning
+negri.                             (wegwerpen uit het land).
+Bunuh dăngăn sehâja.               Manslag met opzet.
+Bunuh dăngăn tersâlah.             Doodslag bij ongeluk.
+Keñâtâän yang sah.                 Geldige (wettige) bewijzen.
+Kâbar-angin.                       Losse geruchten.
+Katerangan.                        Bewijzen, aanwijzingen.
+Kerjâ-paksa dăngăn rantay.         Dwangarbeid in (lett. met) de
+                                   ketting.
+Tidaq dăngăn rantay [22].          Dwangarbeid buiten (zonder) de
+                                   ketting.
+Ôrang-rantay.                      Dwangarbeider in de ketting,
+                                   kettingganger.
+Perkâra-utang itu sudah            Die schuldzaak is al beslecht, in
+diselesaykăn, dimaslahatkăn.       der minne geschikt.
+
+
+
+
+
+
+
+25. OP SCHOOL.
+
+
+Sekôla terbuka pukul tujuh pâgi.   De school begint (is geopend) om
+                                   zeven uur ’s morgens.
+Âpa yang diâjarkăn di sekôla       Wat wordt op deze school onderwezen?
+ini?
+Tulis dan bâca, kîra-kîra dan      Lezen en schrijven, rekenen en wat
+ilmu-bumi sedikit.                 aardrijkskunde.
+Berâpa pengâjar-ña (gûru-ña)?      Hoeveel onderwijzers zijn er?
+Berâpa mûrid-ña (pelâjar-ña)?      Hoeveel leerlingen?
+Âda lima pangkat, mâsing-mâsing    Er zijn vijf klassen, elk heeft vijf
+dua-puluh-lima ôrang budaq-ña;     en twintig leerlingen; er zijn maar
+pengâjar-ña tiga ôrang sâja.       drie onderwijzers.
+Umur berâpa bôleh masuq?           Op welken leeftijd mag men
+                                   toegelaten worden (ingaan)?
+Masuq umur enăm tujuh tâun,        Men komt er op op zesjarigen
+tuan; keluar umur dua-belas.       leeftijd, mijnheer; en verlaat de
+                                   school (gaat eruit) op twaalfjarigen
+                                   leeftijd.
+Rumah-ña dan segâla pekâkas-ña,    Het gebouw (huis) en al ’t huisraad,
+saperti bangku-bangku dan          als de banken, het bord, het krijt,
+pâpan-tulis dan kapur-ôlanda dan   de sponzen enz. worden alle door het
+bunga-kârang dan sebâgay-ña itu    Gouvernement bekostigd, maar de
+semua-ña dibiâyakăn ôleh           onderwijzers krijgen geen
+pemeréntâhan (gupermèn), tetapi    traktement, alleen ontvangen zij
+pengâjar-ña tidaq dapat gâji,      schoolgeld en verdeelen het
+melâinkăn wang-sekôla              gelijkelijk.
+diterimâ-ña, dibâgi-ña
+sâma-râta.
+Âtûran-ña pengâjâran itu menûrut   Het reglement van ’t onderwijs is
+sekôla-pemaréntâhan juga.          als dat van de Gouvernementsscholen
+                                   (volgt de gouvernementsscholen).
+Tuan suka bertâña âpa-âpa?         Wenscht u wat te vragen?
+Suka juga. Panggil budaq yang      Jawel. Roep een jongen, die heel
+cerediq sekâli, sûruh keluar.      schrander is, laat hem eruit komen.
+Côba ambil petâ-bumi. Tuñjuqkăn    Neem ’s de wereldkaart. Wijs al de
+segâla semudra.                    oceanen.
+Bagi-mâna luas-ña dârat            Hoe is de oppervlakte
+tertimbang dăngăn luas-ña lâut     (uitgestrektheid) van het vasteland
+di bumi ini?                       vergeleken met de uitgestrektheid
+                                   van de zee op deze aarde?
+Sâtu bâgian deri empat, tuan.      Als een tot vier, mijnheer (éen deel
+                                   van vier, m.)
+Bâik lah. Sûruh keluar lâin        Goed. Laat een anderen jongen
+budaq.                             voorkomen (uitkomen).
+Côba kaw tuñjuqkăn lah             Toon jij me ’s je bekwaamheid in ’t
+kepandâyan-mu tentang kîra-kîra.   rekenen (betreffende het rekenen).
+Berâpa jumlah-ña tujuh dan         Hoeveel is de som van zeven en
+tiga-puluh dan lima-belas?         dertig en vijftien?
+Tulis angka itu yang sâtu di       Schrijf die cijfers onder elkaar;
+bâwah yang lâin; sekârang          tel nu op.
+jumlahkăn.
+Sekârang tôlaq sa-belas, sudah.    Trek nu elf af, goed (afgedaan).
+Pukul lima. Jâdi berâpa?           Vermenigvuldig met vijf. Hoeveel is
+                                   ’t (wordt ’t) dan?
+Sekârang bâgi tiga.                Deel nu door drie.
+Âpa nâmâ-ña bilangan ini?          Wat is de naam van dit getal?
+Ini penôlaq, ini yang ditôlaq      Dit is de aftrekker, dit het
+deripâdâ-ña, ini pembâgi, ini      aftrektal, dit de deeler, dit het
+yang dibâgi, ini bâgian, ini       deeltal, dit het quotiënt, dit de
+pemukul, ini yang dipukul, ini     vermenigvuldiger, dit het
+hâsil; ini pecâhan.                vermenigvuldigtal, dit het product;
+                                   dit een breuk.
+Nâmâ-ña ini kebâñâkan, bilangan.   De naam hiervan is een grootheid,
+Ini bilangan gasal (of gañjil),    een getal. Dit is een oneven getal,
+ini pun bilangan-geñăp.            dit echter een even getal.
+Bilangan ini bôleh kah kaw         Kan je dit getal in het twaalftallig
+pindahkăn ke dalam                 stelsel overbrengen?
+perbilangan-perduabelâsan?
+Sâlah sifar itu. Betulkăn.         Die nul is fout. Verbeter het.
+Segi-tiga ini bâgi dua segi-ña.    Deel van dezen driehoek de zijden in
+Sekârang pasang gâris-tepat deri   tweeën. Trek nu een loodlijn van ’t
+pertemuan ketiga gâris itu ka      snij (ontmoetings)punt der drie
+segi AB [23].                      lijnen naar de zijde AB.
+Itu segi-tiga yang sâma kaki-ña;   Dit is een gelijkbeenige driehoek;
+segi-tiga yang ber-siku-siku;      dit een rechthoekige driehoek;
+gâris-pertengâhan, gâris           middellijn, deellijn,
+pembâgi, gâris peñambung, gâris    verbindingslijn, kromme lijn;
+bujur, gâris béngkoq; buntâran.    cirkel.
+Ilmu-handasah sudah lah            Nu hebben we genoeg meetkunde gehad
+sekârang. Âpa kah artiña           (meetkunde afgedaan nu). Wat is de
+perkâtâän ilmu-saraf? Âpa          beteekenis van ’t woord ilmu-saraf
+kalimat?                           (spraakkunst, behalve woordvoeging)?
+                                   Wat is een volzin?
+Sekârang sâya endaq bertâña hal    Nu wil ik ’s vragen doen over (al)
+segâla ukûran dan timbangan dan    de lengtematen, gewichten en
+takâran.                           inhoudsmaten?
+Sâtu pal berâpa métăr?             Hoeveel M. is een paal?
+Sâtu asta berâpa jengkal?          Hoeveel jengkal is een asta? (Antw.
+                                   2).
+Sâtu depâ berâpa asta (setâ)?      Hoeveel asta is een depâ? (Antw. 4
+                                   vadem).
+Sâtu êla berâpa asta?              Hoeveel asta is een êla? (Antw. 2).
+Sâtu kôyan berâpa pikul?           Hoeveel pikul is een kôyan? (Antw.
+                                   40 en 30). [24]
+Sâtu pikul berâpa kati?            Hoeveel kati is een pikul? (Antw.
+                                   100).
+Sâtu kati berâpa pon?              Hoeveel pond is een kati? (Antw. ¼).
+Sâtu pikul berâpa pâra?            Hoeveel pâra is een pikul? (Antw.
+                                   2).
+Sâtu pâra berâpa gantang?          Hoeveel gantang is een pâra? (Antw.
+                                   10).
+Sâtu gantang berâpa cupaq?         Hoeveel cupaq is een gantang? (Antw.
+                                   14).
+Sâtu cupaq berâpa pâu?             Hoeveel pâu is een cupaq? (Antw. 4).
+Sâtu ringgit dua rupiah sa         Een rijksdaalder is twee en een
+tengah (empat suku).               halve gulden (vier halve gld.)
+Sâtu rupiah dua suku; sâtu suku    Een gulden is twee halve, een halve
+dua tâli; sâtu tâli dua picis      gld. twee kwartjes; een kwartje twee
+lima sèn.                          dubbeltjes en vijf cent.
+
+
+
+
+
+
+
+26. ONLUSTEN IN EEN INLANDSCHEN STAAT.
+
+
+Âda kah tuan dăngăr kâbar?         Heeft u ’t bericht gehoord?
+Kâta ôrang sudah jâdi pergâduhan   Men zegt, dat er in de bovenlanden
+besar di Ulu-Pêraq.                van Pérak ernstige (groote) onlusten
+                                   uitgebroken (lett. ontstaan) zijn.
+Âda kunun bagitu.                  Dat wordt zoo beweerd. (Er zijn naar
+                                   men zegt zoo).
+Âpa sebab jâdi pergâduhan itu?     Waardoor zijn die onlusten ontstaan?
+Asal-ña bagini, tuan:              De oorzaak is aldus, mijnheer:
+Âda sâtu ôrang dalăm dâirah itu    Er was iemand in dat gebied pengulu,
+meñjâdi pengulu-ña, tetapi         maar de nieuwe sultan hield niet van
+Yam-Tuan bâru ini tidaq suka       hem; hij heeft hem ontslagen en een
+akăn dia; dipecatkăn, dia          ander in de plaats van hem den titel
+gelarkăn lâin ôrang mengganti      van pengulu gegeven. Om die reden
+dia jâdi pengulu di situ. Sebab    vecht de nieuwe met den ouden
+itu berkelay lah pengulu bâru      pengulu.
+dăngăn pengulu lâma.
+Âda kah yang mati luka?            Zijn er dooden of gewonden?
+Belom âda, tuan. Âda juga dua      Nog niet, mijnheer. Er zijn er
+tiga.                              enkelen (toch twee of drie).
+Sabelah mâna yang mati itu?        Aan welke zijde zijn die dooden?
+Sabelah pengulu bâru, tuan.        Aan de zijde van het nieuwe hoofd.
+Âda bârang dua-puluh ôrang dia,    Er zijn een twintigtal van zijn
+berjâlan dalăm utan, jumpa sâtu    lieden ’t bosch in gegaan, en een
+kubu musuh, berkelay lah di        vijandelijke versterking
+situ. Yang di dalăm kubu itu âda   tegengekomen, en daar hebben ze
+berse-nâpang bâñaq, yang lâin      gevochten. De lui in de versterking
+dua tiga pucuq sâja. Undur lah     hadden veel geweren, de anderen maar
+ôrang sabelah pengulu bâru itu,    twee of drie stuks. De lui van het
+diambat oleh musuh-ña, mati tiga   nieuwe hoofd weken, en werden door
+ôrang sabelah pengulu bâru,        hun vijanden achterna gezet; drie
+kâwan-ña yang lâin-lâin lâri       man aan de zijde van den nieuwen
+dalăm utan, lintang-pukang         pengulu zijn gesneuveld, de overige
+ceray-beray.                       kameraden zijn in ’t bosch gevlucht,
+                                   hals over kop in alle richtingen.
+Pâda âri ini pun ta tentu          Zelfs heden is hun verblijf (plaats)
+tempat-ña.                         niet bekend (vast).
+Siâpa ambil mâit ôrang tiga yang   Wie heeft de lijken van de drie
+mati itu?                          gesneuvelden gehaald?
+Tinggal dalăm utan, tiâda          Ze zijn in ’t bosch achterbleven, er
+(t’âda) ôrang berâni               was niemand die ze durfde halen.
+mengambil-ña.
+Kâlaw bagitu, mâlu benăr pengulu   Dan is ’t een erge schande voor den
+bâru itu, mâit kâwan-ña            nieuwen pengulu (is de nieuwe p. erg
+tertinggal.                        beschaamd) dat de lijken zijner
+                                   gezellen achtergebleven zijn.
+Pâda kîra kâmi ôrang Melâyu mâlu   Naar de opvatting van ons Maleiers
+sekâli, tuan.                      is ’t een heele schande, mijnheer.
+Di mâna musuh sekârang?            Waar zijn de vijanden nu?
+Ta tentu tempat-ña, tuan.          ’t Is niet bekend waar ze zijn,
+                                   mijnheer (niet vastgesteld hun
+                                   plaats).
+Kâlaw bagitu, bâik kita pegi       Dan moeten wij (is ’t goed, dat wij)
+mengâkap.                          gaan spionneeren.
+Bôleh antăr (sûruh)                We kunnen ’t hoofd der spionnen met
+penglima-kâkap dăngăn dua ôrang.   twee man sturen.
+Bâik lah, malăm sekârang bulan     Goed, van avond is ’t heldere maan,
+terang, sûruh dia-ôrang jâlan      laat ze op weg gaan en de
+meñcâri tempat musuh, di mâna      verblijfplaats der vijanden
+kubu-ña, berâpa buah kubu,         opzoeken, waar hun versterkingen
+berâpa ôrang musuh, berâpa         zijn, hoeveel stuks versterkingen er
+meriăm-ña, dan âpa-âpa macăm-ña.   zijn, hoeveel man de vijand sterk
+                                   is, hoeveel kanonnen ze hebben, en
+                                   welke soorten daarvan.
+Penglima-kâkap sudah bâlik,        Het hoofd der spionnen is al terug,
+tuan. Musuh âda di Pâpan, sudah    mijnheer. De vijand is te Pâpan, ze
+berkukuh di situ Penglimâ-ña       hebben zich daar versterkt. Ze
+tiga ôrang, kubu-ña dua buah,      hebben drie hoofden, twee
+sabelah kânan sa buah, sabelah     versterkingen, (palissadeeringen),
+kîri sa buah, dăngăn kôta sa       rechts een, links een, met een fort
+buah di âtas bukit, di belâkang    op een heuvel, achter die twee
+kubu yang dua buah itu. Ôrang-ña   versterkingen. Hun volk bedraagt
+tengah dua râtus lebih-kûrang,     ongeveer honderdvijftig man,
+meriăm tidaq âda, tetapi lila      kanonnen hebben ze niet, maar ze
+âda tiga pucuq dalăm kôta itu.     hebben drie lila’s (soort mortieren)
+                                   in dat fort.
+Bâik lah. Kâlaw bagitu, kita       Goed. Dan (als ’t zoo is), dan
+masuq mengâmuq kôtâ-ña deri        zullen we hun fort van achteren
+belâkang, kemudian mudah           bestormen (lett. stormende ingaan),
+mengambil kubu-ña.                 daarna is ’t gemakkelijk hun
+                                   versterkingen te nemen.
+Kâlaw sudah diambil kôtâ-ña,       Als hun fort al genomen is, leveren
+kubu ta susah lâgi.                de versterkingen geen last meer op
+                                   (zijn de versterkingen niet lastig
+                                   meer).
+Lantaq betul-betul, jangan         Pak ze flink aan, niet wankelmoedig
+ôlo-ôlo, jangan undur              zijn, en volstrekt niet wijken
+sekâli-kâli.                       (teruggaan).
+Sudah dekăt kôta, nampaq musuh     We zijn al dicht bij ’t fort, de
+di dalăm, pasang senâpang sâtu     vijand erin is reeds te zien, vuur
+dăs, kemudian mengâmuq dăngăn      een geweerschot af (schiet af een
+keris sâja.                        geweer éen „paf”), daarna maar
+                                   aanvallen met de kris.
+Kôtâ-ña terpagăr keliling, lâgi    Hun fort is rondom gepalissadeerd,
+âda pârit dan rañjaw.              bovendien is er een gracht en
+                                   ranjaws [25].
+Tid’âpa, bôleh kita mengâkap       Dat doet er niet toe, wij kunnen
+meñcâri pintu kôta, di situ lah    spionneeren en naar de deur van ’t
+masuq.                             fort zoeken, daar gaan we binnen.
+Tentu dua pintu-ña,                Zeker er twee deuren aan, ’t is ’t
+pintu-belâkang bâik masuq, nanti   beste de achterdeur in te gaan, dan
+musuh lâri deri pintu-adăp;        vlucht de vijand door de voordeur,
+bôleh ôrang kita meñjâga di situ   onze lui kunnen daar de wacht houden
+menâhan dia.                       en ze tegenhouden.
+Sediakăn ôbat dăngăn pelûru        Maak kruit en kogels klaar genoeg om
+cukup isikăn empat-puluh petrum    veertig patronen voor ieder man te
+pâda tiap-tiap ôrang.              vullen.
+Kâlaw datăng ujan, tudungkăn       Als er regen komt, moet je de
+petrum bâik-bâik.                  patronen goed toedekken.
+Mâsing-mâsing âda kerpay, tuan:    Ieder heeft een patroontasch,
+petrum ta bôleh bâsah.             mijnheer: de patronen kunnen niet
+                                   nat worden.
+Siâpa pasang senâpang tâdi?        Wie heeft zooeven een geweerschot
+                                   afgeschoten?
+Musuh, tuan.                       De vijand, mijnheer.
+Dăngăr bâik-bâik.                  Luister ’s goed.
+Dipasang-ña tiga dăs, tentu lah    Ze hebben driemaal gevuurd, zeker is
+alâmat musuh itu.                  dat een signaal (teeken) van den
+                                   vijand.
+Tuan pakay prisay kah?             Draagt (gebruikt) u een schild?
+Tidaq, ta guna beperisay, kâlaw    Neen, ’t is onnut een schild te
+musuh bedil dăngăn pemûras,        dragen, als de vijand met
+bârang-kâli sa butir pelûru        donderbussen schiet, raakt misschien
+dalăm sa râtus yang kenâ.          éen kogel op de honderd.
+
+
+
+
+
+
+
+27. GESPREK MET EEN KOOPMAN EN OVER KOOPMANSAANGELEGENHEDEN.
+
+
+Eñciq Mahmud âda di rumah? [26]     Is Eñciq Mahmûd thuis?
+Âda, tuan, sila kăn tuan masuq,     Jawel, mijnheer (is er, m.); wees
+bôleh duduq di sini dulu. Nanti     zoo goed binnen te komen, u kan
+sâya beri tâu. Sâya kîra Eñciq      hier eerst zitten. Ik zal kennis
+lâgi berpakay-pakay.                geven. Ik geloof, dat de E. nog
+                                    bezig is zich aan te kleeden.
+Tâbik, Eñciq, âpa kâbar?            Goedendag, E., hoe gaat het?
+Kâbar bâik, tuan. Tuan suka âpa?    Goed, mijnheer (goed bericht, m.).
+                                    Wat verlangt u?
+Sâya ôrang bâru di kôta ini.        Ik ben een nieuweling in deze stad.
+Kâlaw bôleh, sâya endaq meliat      Als ’t mag, wil ik den winkel zien,
+tôko, lâgi endaq bercakăp-cakăp     en bovendien wat praten; want ik
+sedikit; sebab sâya dăngăr kâbar    heb gehoord (tijding gehoord), dat
+Eñciq ini sudâgar besar, bâñaq      u een groot koopman is, dat u veel
+bârang-bârang-ña yang âlus dan      fijne en mooie goederen heeft.
+éloq.
+Âda juga, tuan. Dăngăn suka-ati     Jawel, mijnheer. Met genoegen (des
+sâya tuñjuqkan âpa-âpa yang âda.    harten) laat ik u alles zien wat er
+                                    is.
+Âda kah Eñciq berpesăn bânaq        Bestelt u veel goederen (artikelen)
+bârang deri Êrôpah?                 uit Europa?
+Bâñaq, tuan. Sâya selâlu bekîrim    Veel, mijnheer. Ik correspondeer
+sûrat dăngăn sudâgar-sudâgar        voortdurend met groote kooplui te
+besar di Amsterdam dan di           Amsterdam en Rotterdam; ik bestel
+Rotterdam; âda juga sâya pesăn      ook wel uit Londen.
+deri London.
+Di Tânah India-Ôlanda ini bêa       Hier in Nederlandsch-Indië is het
+bârang-bârang yang dibâwa masuq     invoerrecht van ingevoerde goederen
+itu bâñaq, tuan. Tambâhan pula      hoog (veel), mijnheer. Bovendien
+bârang Êrôpah itu bâñaq             kosten de Europeesche goederen veel
+belañjâ-ña kapal; jâdi argâ-ña di   aan scheepsvracht, zoodat de prijs
+sini mâhal tertimbang dăngăn        hier hoog (duur) is vergeleken met
+Êrôpah.                             (opgewogen tegen) Europa.
+Bârang macăm âpa Eñciq terima       Welke soort artikelen ontvangt u ’t
+terlebih bâñaq deri Êrôpah?         meest uit Europa?
+Kâlèng isi bârang-makânan, tuan,    Blikjes met eetwaren, mijnheer, die
+itu yang terlebih bâñaq. Pesânan    ’t allermeest. Mijn bestellingen
+sâya itu berpuluh-puluh peti sa     gaan bij tientallen kisten
+kâli.                               tegelijk.
+Minuman pun Eñciq pesăn deri        Bestelt u ook dranken uit Europa?
+Êrôpah juga?
+Ia, bâñaq, tuan, semuâ-ña sâya      Ja, veel, mijnheer; alles ontvang
+terima deri negeri Ôlanda.          ik uit Holland.
+Kâlaw sopi dan sopi-mânis, bâik     Wat jenever en likeuren aangaat, is
+dipesăn deri Ôlanda; tetapi         ’t goed uit Holland te bestellen;
+anggur lebih bâik deri negeri       maar wijn is beter uit Frankrijk;
+Frañcis; tentu lebih mûrah.         dat ’s zeker goedkooper.
+Sungguh, tuan, tetapi mâna bôleh    Zeker, mijnheer, maar hoe zou ik
+sâya pesăn deri sâna?               dat daarvan kunnen bestellen?
+Saya tidaq tâu bâsa Frañcis,        Ik ken geen Fransch, en de
+sudâgar sâna pun tidaq tâu bâsa     kooplieden daar geen Maleisch.
+Melâyu.
+Eñciq bôleh câri wakil di Ôlanda,   U kan een gemachtigde in Holland
+yang tâu bâsa Melâyu, maka dia      zoeken, die Maleisch kent, dan kan
+bôleh bekîrim-sûrat dăngăn          die correspondeeren met een
+sudâgar-anggur di Frañcis.          wijnhandelaar in Frankrijk.
+Nanti sâya pikirkăn, tuan,          Ik zal er ’s over denken, mijnheer,
+bârang-kâli jâdi bagitu.            misschien gaat het (lukt het) zoo.
+Bagi-mâna hal bayâran, Eñciq,       Hoe gaat het met het betalen (de
+kâlaw sâya bôleh tâna? Âda kah      betaling), Eñciq als ik vragen mag?
+Eñciq kîrim wang dăngăn             Zendt u het geld per postwissel?
+sûrat-tukâran-pos?
+Tidaq, tuan. Biâsâ-ña sâya kîrim    Neen, mijnheer. Gewoonlijk zend ik
+sûrat-tukâran sâja. Sâya selâlu     maar een wissel. Ik ben steeds in
+berutang-piutang dăngăn             rekening-courant met een bankhuis
+rumah-wang di Amsterdam.            (geldhuis) te Amsterdam.
+Bôleh kah ôrang berutang di sini,   Kan men hier crediet krijgen, Eñciq
+Eñciq?                              (schuld hebben, schuldig zijn)?
+Bôleh juga, tuan, asal sâya kenal   Jawel, mijnheer, mits ik de
+sâma ôrang-ña.                      menschen ken.
+Bôleh dâpăt krêta-angin sâma        Kan men rijwielen bij u krijgen?
+Eñciq?
+Bôleh, tuan. Âda rupa-rupa          Jawel, mijnheer. Ik heb er van alle
+(macăm-macăm), nanti sâya           soorten, ik zal ze u laten zien.
+tuñjuqkăn.
+Macăm Crescent pun âda?             Heeft u ook Crescent-cycles (soort
+                                    Cr. is er ook)?
+Tidaq, tuan, macăm itu tidaq laku   Neen, mijnheer, dat soort is hier
+di sini.                            niet gewild.
+Kâlaw bôleh, sâya minta             Als u ’t goed vindt (als ’t mag),
+daftar-arga (katerangan-arga)       vraag ik een prijs-courant.
+segâla bârang dalăm tôko.
+Bôleh, tuan; tetapi endaq lah       Goed, mijnheer; maar denk u eraan:
+tuan ingăt: âda bârang yang tidaq   er zijn artikelen, die niet vast
+tetăp argâ-ña; bôleh nâik, bôleh    van prijs zijn; ze kunnen opslaan
+tûrun argâ-ña.                      en afslaan.
+Bârang ini sâya beli borong pâda    Deze goederen heb ik bij elkaar (in
+sudâgar Cina yang jâtoh itu.        éen partij) gekocht van den
+[27].                               Chineeschen koopman, die failliet
+                                    is gegaan.
+Berâpa percent di bâyar-ña pâda     Hoeveel percent heeft hij aan zijne
+segâla ôrang yang berpiutang        crediteurs betaald?
+kepâdâ-ña?
+Sâya dăngăr kâbar tiga puluh âtas   Ik heb hooren zeggen (ik heb ’t
+sa râtus; sâya pun dapăt            bericht gehoord) dertig percent.
+tiga-puluh-lima.
+Dia berutang pâda sâya sa ribu      Hij was mij duizend dollar
+ringgit; sâya piñjămkăn dulu,       schuldig; ik heb hem dat vroeger
+dăngăn jañji bâyar bunga delâpan    geleend, met de bepaling dat hij
+percent sa tâun. Biar dia pegang    acht percent rente jaarlijks zou
+pokoq-ña sa-puluh tâun, asal sâya   betalen. Hij mocht het kapitaal
+makan bungâ-ña sâja. Maka           desnoods tien jaar houden, mits ik
+sekârang sudah dua tâun, bungâ-ña   maar de rente trok. En nu is ’t
+pun tidaq sâya terima, melâinkăn    reeds twee jaar, de rente heb ik
+dapăt kembâli tiga-râtus            zelfs niet ontvangen, alleen maar
+lima-puluh ringgit sâja.            heb ik drie honderd vijftig dollar
+                                    terug gekregen.
+Ah, tuan, Cina itu bâñaq yang       Och, mijnheer, onder die Chineezen
+tidaq teguh!                        zijn er velen niet solied (stevig)!
+Sâya beli ini, Eñciq.               Ik koop dit, Eñciq.
+Umar, bungkus ini; nanti bâwa ke    Omar, pak dit in; bezorg het straks
+rumah tuan.                         bij mijnheer.
+Tâbiq, tuan.                        Dag, mijnheer.
+
+
+
+
+
+
+
+28. OPENBARE VERKOOPING (VENDUTIE).
+
+
+Âpa ôrang memukul cânang itu?     Wat slaat die man daar op een
+[28]                              bekken?
+Tanda âda di lêlang, tuan.        Dat ’s een teeken, dat er vendutie
+                                  is, mijnheer.
+Di mâna lêlang-ña? Besar kah      Waar is de vendutie? Is ze groot of
+tidaq?                            klein?
+Di rumah di sabelah grêja itu,    In dat huis naast de kerk, mijnheer.
+tuan. Lêlang-ña besar,            De vendutie is groot, er zijn veel,
+bârang-bârang-ña pun bâñaq lâgi   ook mooie goederen.
+bâgus.
+Sudah mulâi?                      Is ze al begonnen?
+Sudah. Mulâi pukul sembilan       Jawel (reeds). ’t Is zooeven om
+tâdi. Pekâkas rumah sudah mulâi   negen uur begonnen. De meubels is
+dijual.                           men reeds begonnen te verkoopen.
+Sâya tâwar dua rupiah sa tâli;    Ik bied twee gulden en een kwartje;
+dua tâli, tiga tâli, tiga         twee, drie kwartjes, drie gulden.
+rupiah.
+Siâpa tâwar lâgi? Tidaq lâgi?     Wie biedt nog meer? Niemand meer
+Tuan Jansen!                      (lett. niet meer)? Mijnheer Jansen.
+Bârang ini ditâhan.               Dit goed wordt opgehouden.
+Jual lâgi sa kâli.                Nog eens op nieuw inzetten
+                                  (verkoopen).
+Dapăt?                            Heb ik ’t gekregen? (lett.
+                                  gekregen?)
+Dapăt, tuan.                      U heeft ’t gekregen, mijnheer.
+Kuli, angkat, bâwa pulang ke      Koeli, neem weg, breng dit bij me
+rumah-ku.                         thuis.
+Mâna tuan tukang-lêlang?          Waar is de vendumeester?
+Sâya tidaq kenal sâma engkaw.     Ik ken je niet. Heb je hier soms
+Âda kah engkaw berkenal-kenâlan   kennissen?
+di sini?
+Âda, tuan. Tuan Ânu bôleh         Jawel, mijnheer. Mijnheer N. N. kan
+tanggung.                         voor me instaan.
+Kâlaw tidaq, semuâ-ña mâu         Als dat niet zoo was, moest alles
+dibâyar tunay sâja.               maar contant betaald worden.
+Âpa yang dijual sekârang?         Wat wordt er nu verkocht? Glaswerk?
+Bârang-kâca kah?
+Bârang-kâca (bârang-pecah         Glaswerk (breekbare waar); kleeren;
+belah); bârang pakâyan;           lampen; eetwaren; dranken;
+lampu-lampu; bârang-makânan;      vloerkleeden en kleedjes; martavanen
+bârang-minuman; perme-dâni;       (hooge aarden potten, gewoonlijk om
+tempâyan; pasu-bunga              water in te bewaren); bloempotten;
+(jambang-bunga); pigûra-pigûra;   schilderijen; kookgerij; matten;
+pekâkas-masaq; tikăr-tikăr;       goud- en zilverwerk; lint, kant;
+bârang-mas dan pêraq; pita,       klokken; vuurwerk; voetzoekers;
+rènda; loñcèng; bunga-api;        filtreertoestellen.
+mercon; tâpisan. [29]
+
+
+
+
+
+
+
+AANTEEKENINGEN
+
+
+[1] Op Sumatra en Riouw ook kelmâri of kelmârin voor eergisteren en
+semalăm voor gisteren.
+
+[2] In de Straits zegt men âir-câ naar ’t Portugeesche cha-thee; op
+Java is koffie kopi of âir-kopi.
+
+[3] bah op Java bandjir, een Javaansch woord.
+
+[4] Cupaq = ¼ gantang (1 gantang = 5 kati) = 3.12 K.G. gewicht.
+
+[5] Op Java meñjangan (Jav.)
+
+[6] Op Java kañcil (Jav.)
+
+[7] Op Java piring wat in zuiver Maleisch schoteltje, klein bordje
+beteekent.
+
+[8] In de straits ubi of ubi Benggâla.
+
+[9] te Batavia: gerètan, te Samarang en Soerabaja: rèq, ’t eerste
+Soendaneesch, ’t laatste Javaansch.
+
+[10] Wij schrijven hier x voor den klank van ch in ons kracht, och enz.
+
+[11] Op Java porskot (Holl. voorschot.)
+
+[12] kahwa-susu te Batavia coklat (verb. van chocolaad).
+
+[13] Voor cuti te Batavia: permisi (Holl. permissie).
+
+[14] dobi te Batavia pinâtu of minâtu.
+
+[15] Woord om in de kolonie geboren Chineezen (Cina perânâkan) toe te
+spreken.
+
+[16] te Batavia noemt men een vingerhoed ciñcin-meñjâit, lett.
+naai-ring.
+
+[17] Te Batavia. Huurrijtuigen (victoria’s) heeten te Soerabaya
+„kosong”.
+
+[18] Voor peluh op Java steeds kringet, het Jav. woord.
+
+[19] Op Java voor sendoq steeds sèndoq.
+
+[20] Op Java usus-ña (Javaansch.)
+
+[21] „Pètor” op Borneo de assistent-resident, op Sumatra vaak de
+controleur. Het is het Portugeesche „feitor” (hoofd eener „factorij”).
+
+[22] „di luar rantay” is een al te letterlijke vertaling van „buiten de
+ketting,” die men wel eens hoort bezigen.
+
+[23] ’t Woord bâris op Java wel voor gâris gezegd is hier foutief; want
+’t eerste beteekent gelid, rij.
+
+[24] De gouvernements-kôyan is in N. I. 30 pikul.
+
+[25] Scherpe bamboestokken in den grond om de voeten te verwonden.
+
+[26] Eñciq, titel van niet adellijke, aanzienlijke Maleiers.
+
+[27] Op Java zegt men voor failliet, bangkrut.
+
+[28] Op Java heet een omroepbekken, ook bij venduties brèng-brèng.
+
+[29] Op Java sâringan.
+

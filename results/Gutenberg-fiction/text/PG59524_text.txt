@@ -1,0 +1,2119 @@
+Online Distributed Proofreading Team at http://www.pgdp.net
+(This file was produced from images generously made
+available by The Internet Archive)
+
+
+
+
+
+
+
+                       A GUIDE FOR THE DISSECTION
+                             OF THE DOGFISH
+                          (SQUALUS ACANTHIAS)
+
+                                   ❦
+
+
+                                   By
+
+                          LAWRENCE E. GRIFFIN
+                  Professor of Biology in Reed College
+
+                             THIRD EDITION
+
+                            Portland, Oregon
+                                  1922
+
+
+------------------------------------------------------------------------
+
+
+
+
+                            Copyright, 1922
+                                   by
+                          LAWRENCE E. GRIFFIN
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+                       A Guide for the Dissection
+                             of the Dogfish
+
+The small sharks which abound along the coasts of the United States are
+commonly called “dogfish” by fishermen and others. The “dogfish” of
+inland waters belongs to an entirely different group. Two species of
+sharks are caught in numbers and used in laboratory work, the “spiny
+dogfish” (Squalus acanthias) and the “smooth dogfish” (Eugaleus galeus).
+The first is easily distinguished by the sharp spine in front of each
+dorsal fin. Squalus acanthias is often referred to under the synonym
+Acanthias vulgaris, while Eugaleus galeus is more frequently named
+either Mustelus canis or Galeus canis. The histories of these names and
+systematic descriptions of the species are contained in Samuel Garman’s
+Monograph on the Elasmobranchs.
+
+Several sizes of dogfish are furnished by dealers. We consider it best
+to purchase large, fully developed specimens. The small specimens may be
+a little more convenient to handle, but the large ones have the
+important advantage of being sexually mature, while blood vessels and
+nerves are dissected better in large than in small specimens. Also, a
+number of structures are very different in mature animals from their
+condition in young ones. Dealers should be requested to furnish fish
+with fins and tails complete instead of trimmed. It is an advantage to
+issue to the class equal numbers of both sexes.
+
+An entire specimen and an extra head may be required by each student for
+a thorough dissection. It would be better if the head were cut off just
+behind the pectoral fins, instead of in front of them as is usually
+done, so that the vagus and hypobranchial nerves may be dissected more
+completely.
+
+The spiny dogfish, which is the particular subject of this guide, is the
+species most frequently supplied to laboratories. However, the spiny and
+smooth dogfishes are so much alike that the latter may be easily
+dissected with these directions. Where marked differences between the
+forms exist the structure of Eugaleus is described separately.
+
+The student of anatomy should realize that dissection is for the purpose
+of enabling him to see for himself the structures which exist, and that
+no dissection is satisfactory until the anatomical arrangements
+mentioned in the text can be completely demonstrated in his specimen.
+
+The importance of knowing the structure of the elasmobranch is so great
+in comparative anatomy and embryology that it is worth while to make a
+thorough dissection of one of this class. As the dogfish is frequently
+the first major vertebrate form to be studied in detail, these
+directions have been written to conform to the needs of the student who
+is beginning comparative anatomy. The arrangement of sections in this
+guide is intended to permit the omission of some which it may not be
+considered desirable to include in the work of a class.
+
+
+                          EXTERNAL CHARACTERS
+
+The spindle-shaped body tapers from near the middle toward both head and
+tail; the head is flattened on both the dorsal and ventral sides, while
+the remainder of the body is nearly round, with a lateral compression
+which is not pronounced except in the caudal portion.
+
+The general color of the back and sides is gray; darkest above, where
+the skin is spotted with scattered, small, round, light spots. The color
+of the upper parts shades into the yellow white of the ventral surface.
+
+Can head, trunk, and tail regions be distinguished? If so, what
+characters determine the extent of each?
+
+A little above the middle of the side of the body is the _lateral line_,
+(distinguished partly by color, partly by being slightly elevated),
+which extends from the back of the head to the tail. Cut through the
+skin across the lateral line at several points along the body and notice
+the canal which lies in the dermis under the lateral line. This is the
+_lateral line canal_, which opens to the surface by numerous pores (too
+minute to be seen), and contains a series of special sense organs along
+its dorsal and inner surfaces. Near the base of the caudal fin the
+lateral line canal passes into a groove which continues the lateral line
+to within a short distance of the edge of the fin. The lateral line
+canal in its development begins as a groove along the side of the body
+which becomes closed by the fusion of its edge except in this terminal
+portion.
+
+The open groove does not appear in Eugaleus.
+
+In the midline of the body are two triangular _dorsal fins_, each
+attached to the body for about half its length. The basal portion of
+each is thick and muscular, and contains supporting cartilages embedded
+in the muscles. The remainder of the fin is flexible and
+semi-transparent, horny fin-rays being faintly visible between the
+layers of skin. In front of each fin is a strong spine which seems to
+serve both as a cutwater and a weapon of defense. (Eugaleus has no
+spines.)
+
+The broad, paired, _pectoral fins_, having the general characteristics
+of the dorsals, spring from the ventral edges of the body just back of
+the head. A hard bar of cartilage connecting the bases of the pectoral
+fins can be felt through the skin of the ventral surface of the body.
+This is the ventral part of the _pectoral girdle_.
+
+Farther back, and also on the ventral surface, are the paired _pelvic
+fins_. The pelvic girdle can be felt through the skin between the bases
+of these fins. If the specimen is a male, it will have a fingerlike
+process projecting backward from the base and along the inner side of
+each pelvic fin. These organs, which attain a considerable size in
+adults, are modified portions of the pelvic fin used as copulatory
+organs. They are named variously _claspers_, myxopterygia, or
+pterygopodia. A groove runs along the dorsal side of the clasper from
+the tip to near the base, where it opens into a long sac (_glandula
+pterygopodia_) extending some distance in front of the pelvic fins just
+within the skin of the ventral surface. By feeling a cartilaginous axis
+of the clasper can be discovered, which extends to the tip of the organ.
+On the dorsal surface and near the end of the clasper is a sharp grooved
+spine on the outer side, and a strongly recurved hook on the inner side,
+both almost hidden by a flap projecting from the inner edge of the
+groove. This flap is stiffened by a series of small cartilages similar
+to the radial cartilages in the bases of the fins.
+
+The _caudal fin_ is asymmetrical, extending along the dorsal and ventral
+edges of the posterior end of the body. Observe the upward bend of the
+vertebral column which occurs in the tail; it is this character which
+marks the heterocercal type of tail.
+
+Eugaleus has a median ventral, or _anal_, fin a short distance anterior
+to the caudal fin.
+
+The _mouth_ is a broad transverse slit upon the ventral surface of the
+head. The cartilaginous jaws can be seen and felt just within the mouth.
+Both upper and lower jaws are armed with rows of flat, sharply pointed
+teeth. Study their arrangement and approximate number. Jaws of
+previously dissected specimens should be examined under a dissection
+microscope. The exact form and arrangement of the functional teeth can
+then be ascertained easily, and an examination of the inner surface of
+either jaw will disclose several rows of developing teeth. As the young
+teeth develop they move, a row at a time, into position on the edge of
+the jaw; the oldest teeth, occupying the outer row, are shed at about
+the same time.
+
+The upper jaw is partly overhung by a lip-like fold of skin. At each
+side of the mouth is a pocket, directed obliquely, having no
+communication with the mouth. These _labial pockets_ provide places for
+the _labial cartilages_ (which can be felt along the medial edges) when
+the mouth is closed, and also afford freedom of motion to the mandible.
+Cut along the inner edge of the labial pocket and expose the cartilages
+for examination. (The labial pocket of Eugaleus is much smaller, and in
+front of the corner of the mouth rather than lateral to it. The two
+cartilages are completely separated from each other, the posterior one
+scarcely reaching the pocket.)
+
+In front of the mouth are the _nostrils_, their apertures apparently
+divided by projecting flaps of the anterior margin. Explore the cavity
+of the nostril with a probe to get a good idea of its size and form.
+
+Between the pelvic fins is the _cloaca_, a large depression into which
+open the alimentary canal, the excretory and genital ducts, and the
+abdominal pores. The opening of the alimentary canal, the _anus_, is at
+the anterior end of the cloaca. In preserved specimens part of the
+intestine is frequently everted through the anus. A large fleshy
+process, bearing a pore at its tip, projects from the dorsal wall of the
+cloaca. In the male this is the _uro-genital papilla_; in the female the
+_urinary papilla_. In the female a _genital pore_, the opening of the
+oviduct, is found on either side of the papilla. An _abdominal pore_,
+leading into the abdominal cavity, is found on each side of the cloaca
+at the posterior margin. These are frequently closed in young specimens.
+
+The cloaca of Eugaleus has a comparatively small opening upon the
+ventral surface, which must be enlarged before the parts described can
+be seen well.
+
+The laterally placed _eyes_ are without lids; observe the considerable
+difference in the amount of curvature of the dorsal and ventral margins
+of the eye.
+
+In Eugaleus there is a fold of skin stretched across the lower part of
+the eye which serves as an eye-lid, and corresponds to the so-called
+“third eye-lid” or nictitating membrane of other vertebrates.
+
+On each side of the neck are five vertical _gill-clefts_, each leading
+into a large _gill pouch_ which communicates with the pharynx by an
+internal opening. Pass a probe through a gill-cleft into the mouth.
+
+Back of each eye is a small aperture, the _spiracle_; explore this
+cavity with a probe. The spiracle is to be considered a gill-cleft moved
+forward upon the head and largely, though not entirely, deprived of its
+respiratory functions.
+
+In the center of the dorsal surface of the head, between the spiracles,
+are two pores, the _external openings of the endolymphatic ducts_ which
+communicate with the internal ear. Large numbers of smaller pores can be
+found on all surfaces of the head, some in groups, some arranged
+linearly, many scattered. Most of those arranged in lines lead into the
+sensory canal system which continues from the lateral line canal upon
+the head, while the majority of the others belong to a separate type of
+sense organs, the _ampullae of Lorenzini_.
+
+Make a cut encircling the pores of the endolymphatic ducts and close to
+them. Do not remove this piece of skin. From it make a median incision
+forward to the tip of the snout and back as far as the level of the
+first gill slit. Starting at this incision work the skin off from the
+tissues beneath it. This must be a careful, close dissection. When the
+lateral line is reached it will be seen that the lateral line canal is
+continued upon the head and is joined by several others. By looking
+through the loosened skin toward the light the pores can be seen which
+lead from the canals to the surface. In the hollow of the skull in front
+of and above the eye is a large group of tubules which open through the
+pores so conspicuous at this point. At the internal end of each tubule
+is a slight enlargement, of denser tissue, with which a delicate nerve
+strand can often be seen connected. The nerve strands can be traced to a
+large nerve passing above the eye and distributed to the snout. These
+tubules are the _ampullae of Lorenzini_. This group of ampullae, which
+may be called the dorsal group, is quite definitely demarked. It will be
+noted that the inner ends of the ampullae are grouped in a much smaller
+area than their pores.
+
+Between the spiracle and the first gill slit will be found a lateral
+group of similar organs. Notice the arrangement of their tubules and
+pores. Under the snout are two groups of ampullae on each side of the
+midline. The inner ventral group is separated from the outer ventral
+group by the lateral bar of the rostral cartilage. Some of the tubules
+of the outer ventral group will be found to extend to pores situated at
+the sides of and behind the mouth.
+
+An adult fish possesses from 1200 to 1900 ampullae of Lorenzini. Their
+function is not well understood, but it has been suggested that they are
+organs responsive to stimuli of pressure, either of currents or water,
+or resulting from depth, or even of deep tones.
+
+The _system of sensory canals_ consists of the following members on each
+side of the head:—
+
+A _supra-orbital_, passing above the eye to the end of the snout and
+bending back on the ventral surface to join the infra-orbital.
+
+An _infra-orbital_, which branches off from the supra-orbital and passes
+ventrad between the eye and the spiracle, then turns forward along the
+ventral margin of the orbit, and finally bends toward the midline and
+extends to the tip of the snout.
+
+A _hyomandibular_, which leaves the infra-orbital below the eye and runs
+back beyond the angle of the mouth.
+
+A short _mandibular_, on the mandible close to the angle of the mouth,
+which is not connected with the other canals.
+
+The canal systems of the right and left sides are connected by a
+_supratemporal_ canal just behind the endolymphatic pores, and often by
+an anastomosis of the infra-orbital canals in front of the mouth.
+
+On some specimens two crescentic rows of pores can be found between the
+bases of the pectoral fins, which represent a third type of sensory
+organ, the _pit organs_, closely related genetically to the sensory
+canals. Two longer lines of pit organs, (the _mandibular pit organs_),
+will be found a short distance behind the mouth. Similar pit organs are
+found in front of the endolymphatic pores, and above the anterior part
+of the lateral line.
+
+Except for a few small areas the entire surface of the body is covered
+with small, sharp-pointed denticles (_placoid scales_). Each consists of
+a diamond-shaped basal plate embedded in the dermis, from which projects
+a leaf-like, backward directed spine. A piece of skin should be removed
+and examined under a low magnification. The dermis is so dense and
+pigmented that the basal plate is not easily studied without further
+manipulation. For this purpose boil a piece of skin in 5% caustic potash
+solution until it is softened, but not till it disintegrates. Then clear
+it in glycerine. Examine the individual denticles under a higher
+magnification. The denticle consists of dentine, the spine being of a
+much denser structure than the base. The teeth and the large spines of
+the fins and claspers are also composed of dentine and may be considered
+as modified placoid scales. Denticles, teeth, and spines are covered
+with a shiny, enamel-like layer which, however, does not appear to be
+true enamel such as covers the teeth of higher vertebrates. The shape of
+the scales and their closeness vary on different regions of the body,
+and there are certain regions entirely free from them, namely, back of
+the dorsal, pectoral and pelvic fins, the medio-dorsal surfaces of the
+claspers, inside the upper lip and the labial pockets.
+
+
+                  DISSECTION OF THE ABDOMINAL VISCERA
+
+Place the dogfish on its back and, commencing at the middle of the
+abdomen, make an incision through the body wall a quarter of an inch to
+one side of the midline. Carry this forward to the pectoral girdle and
+backward through the pelvic girdle to the cloaca; not, however, cutting
+the wall of the cloaca.
+
+A large vein, the _lateral vein_, runs along the inner surface of each
+lateral wall of the abdomen. After identifying these, cut through the
+body wall transversely on both sides of the abdomen at the level of the
+posterior attachment of the pectoral fin as far as the lateral vein.
+Turn the flaps outward and fasten.
+
+The _coelom or body-cavity_ consists of two portions, the abdominal and
+pericardial cavities. The _abdominal cavity_, which has now been opened,
+extends from the pectoral girdle to the cloaca and along the sides of
+the latter; it communicates with the exterior through the abdominal
+pores on either side of the cloaca. Pass a bristle or probe through each
+abdominal pore into the cloaca.
+
+Without dissecting, identify the following parts and observe their
+relations:
+
+The _peritoneum_, the smooth lining of the body wall, which is reflected
+over the viscera.
+
+The _liver_, a large, gray organ attached anteriorly and almost
+completely divided into two lobes which extend well back along the sides
+of the abdominal cavity.
+
+The _stomach_, lying between the lobes of the liver. Its posterior end
+is bent forward upon itself in the form of a U. The two limbs of the
+stomach are known as the cardiac (proximal) and pyloric (distal),
+respectively. With a second turn to the right and backward it enters the
+intestine.
+
+The _intestine_, a large, thin-walled tube extending from the stomach to
+the cloaca.
+
+The _spleen_, a dark, triangular mass attached to the posterior border
+of the curve of the stomach.
+
+The spleen of Eugaleus is a long, slender body extending from the middle
+of the proximal limb of the stomach around the posterior end of that
+organ and forward again along the distal limb for two-thirds of the
+length of the latter.
+
+The _pancreas_, a firm white mass the larger part of which lies dorsal
+to the posterior end of the stomach. One extremity lies on the ventral
+surface of the junction of the stomach and intestine.
+
+The _reproductive glands_, (ovaries or testes), lying on either side of
+the midline dorsal to the anterior portion of the liver; they may be
+mistaken for small lobes of the liver.
+
+The reproductive glands of Eugaleus are long bodies lying above the
+stomach and intestine. They are fused to each other for almost their
+entire length.
+
+The _kidneys_, two long, slender, brownish bodies extending along the
+dorsal wall of the abdominal cavity outside the peritoneum, on either
+side of the midline.
+
+The dogfish usually furnished for dissection are immature, having the
+genital glands and ducts only partly developed. In mature females the
+_oviducts_ are conspicuous tubes ventral to the kidneys. In young
+specimens they appear as slender, white tubes extending along the inner
+borders of the kidneys. Anteriorly, the oviducts pass ventrad over the
+front of the liver to the ventral wall of the body; at the same time
+they unite to form a funnel, the _ostium tubae_, which opens into the
+coelom. Vestigial oviducts opening into the coelom are found in the same
+position in males.
+
+In males, the _vasa deferentia_ appear as slender, irregularly coiled
+white tubules lying near the medial border of the kidneys; they are much
+less conspicuous than the oviducts, especially in young males.
+
+THE ALIMENTARY SYSTEM. In dissecting the following organs, care should
+be taken not to break the connections of the organs with each other or
+with other parts, or to cut blood vessels. Organs should not be removed
+until such procedure is directed.
+
+The mouth and pharynx can be studied to better advantage later with the
+dissection of portions of the vascular system.
+
+The _oesophagus_ can be seen above the liver, by pressing that organ
+aside, as a somewhat constricted tube entering the anterior end of the
+abdominal cavity. It immediately joins the stomach, which is more or
+less expanded according to the amount of food contained in it.
+
+The _stomach_ passes directly back for more than half of the length of
+the abdominal cavity, then turns abruptly forward, forming a distal limb
+about a third as long as the proximal. (Two-thirds to three-quarters as
+long in Eugaleus.) The distal limb ends with a sharp turn to the right,
+where it is constricted by the _pyloric sphincter_, which marks the end
+of the stomach.
+
+The narrow beginning of the intestine forming the turn to the right and
+backward is frequently distinguished as the _duodenum_. It leads from
+the stomach directly into the _large intestine_, a wide, straight tube
+marked externally by a spiral line of several turns. The large intestine
+narrows posteriorly, forming a region somewhat arbitrarily termed the
+_rectum_, which opens into the cloaca through the anus.
+
+Dorsal to the rectum and attached to that body is a narrow
+spindle-shaped body, the _rectal_ or _digitiform gland_.
+
+The liver is attached to the anterior wall by a broad base, the
+peritoneum being reflected over the entire remaining surface. The
+attaching fold of the peritoneum is frequently called the _suspensory
+ligament_. The peritoneum, or coelomic epithelium, can be dissected
+easily from the surface of the liver or the kidney and its extreme
+thinness and delicacy noted. It consists of a single layer of cells.
+
+Most of the abdominal organs are suspended from the dorsal wall of the
+body cavity by delicate membraneous sheets, or _mesenteries_. Similar
+sheets between the organs are the _omenta_. The stomach is suspended by
+a _mesogaster_, which extends as a free fold along the body as far as
+the anterior mesenteric and lienogastric arteries. It encloses these,
+and is attached to the spleen, pancreas, stomach, and anterior end of
+the intestine.
+
+The spleen is connected with the stomach by the _gastro-splenic
+omentum_, formed by an extension of the peritoneal coat of the stomach
+around the spleen. The liver is connected to the loop of the stomach by
+the _gastro-hepatic omentum_ in which are the hepatic duct, portal vein,
+and hepatic artery. Near the stomach it is joined by a fold of the
+peritoneum from the duodenum, the _duodeno-hepatic omentum_, which also
+unites with the mesogaster.
+
+The rectum and rectal gland are supported by a second median mesentery,
+the _mesorectum_.
+
+In Eugaleus the mesentery extends the entire length of the abdominal
+cavity. It forms a broad sheet attached to the anterior end of the
+proximal limb of the stomach (mesogaster), to the anterior end of the
+intestine (mesentery proper), and to the rectum (mesorectum). There is
+not the reduction of the mesentery which there is in Squalus. The gonads
+are suspended from the lateral faces of the mesentery above the stomach
+and intestine. The gastro-hepatic omentum forms a broad sheet between
+the limbs of the stomach, joining the mesogaster dorsal to the stomach
+and the mesentery above the intestine.
+
+A small division of the right lobe of the liver stands out between the
+main lobes. In this is located a long, narrow _gall-bladder_. Open the
+bladder by a longitudinal ventral incision. The opening into the _bile
+duct_ will be found near the anterior end of the bladder.
+
+In Eugaleus, which does not possess such a median lobe, the gall-bladder
+lies hidden in the right lobe of the liver. It can be opened and
+explored, but the connection with the duct can usually be demonstrated
+only by scraping. Do this later.
+
+The bile duct passes along the dorsal side of the gall-bladder and the
+edge of the gastro-hepatic and duodeno-hepatic omenta to the junction of
+the duodenum and large intestine, where it opens into the alimentary
+canal. Trace its oblique course through the wall of the intestine. The
+bile duct and the collecting (hepatic) ducts of the liver will be traced
+in the liver at a later stage of the dissection.
+
+The _pancreas_ consists of two lobes; a slender lobe lying dorsal to and
+parallel with the stomach, and a flattened oval lobe lying upon the
+ventral surface of the duodenum, connected with the dorsal lobe by a
+slender bar of glandular tissue.
+
+The _pancreatic duct_ passes from the extreme right end of the duodenal
+lobe obliquely through the wall of the intestine, opening into the
+anterior end of the large intestine. Free the edge of the lobe from the
+peritoneum and follow the duct.
+
+Open the proximal limb of the stomach by a ventral incision which shall
+not cut any large blood vessels. Wash out the interior. Observe the
+three coats of the stomach; the outer peritoneal, the middle muscular,
+and the inner mucous coats. In the anterior portion of the stomach the
+mucous coat projects in the form of large papillae (absent in Eugaleus).
+Posterior to these, observe the irregular folding of the mucous coat,
+depending upon the degree of contraction of the muscular coat.
+
+The muscular coat consists of an outer circular and an inner
+longitudinal layer of muscle fibres. Separate the two layers from each
+other and from the mucous coat; observe the network of blood vessels
+between the longitudinal muscles and the mucosa.
+
+Open the pyloric end of the stomach, continuing the cut through the
+pylorus into the intestine. Examine the coats as before, observing
+especially that an outer layer of longitudinal muscle fibres is
+frequently developed, and that the pyloric valve is formed by an
+increase in the thickness of the coat of circular fibres.
+
+Cut through the wall of the large intestine along the right side from
+its anterior end to the rectum. Do not cut deeper than the thickness of
+the wall. Corresponding to the external markings, the mucous membrane
+projects internally in a spiral fold, known as the _spiral valve_.
+Separate the wall of the intestine from the edge of the spiral fold upon
+both sides of the longitudinal incision, exposing a considerable surface
+of the valve. Wash well, and observe the character of the valve, the
+direction of the folds, and the manner of the reversal of their
+direction which usually takes place in the posterior half of the valve.
+
+Cut across the _rectal gland_ at its middle. Observe the character of
+its tissues, and then insert a bristle into the central cavity of the
+gland and pass it into the rectum. Open the rectum and note the point of
+communication of the two organs.
+
+URINARY AND REPRODUCTIVE ORGANS. The _kidneys_ (_mesonephri, Wolffian
+bodies_), are slender bodies extending along the entire length of the
+dorsal wall of the abdomen. The posterior moiety of each is thicker and
+wider than the anterior, which appears to have largely lost the
+functions of excretion in adult dogfish. Notice the position of the
+kidneys outside the peritoneum.
+
+THE MALE. The _testes_ are white bodies lying to the right and left of
+the oesophagus, dorsal to the anterior portion of the liver. Each is
+suspended by a fold of the peritoneum, the _mesorchium_. (The testes of
+Galeus are long bodies attached to the sides of the mesentery.)
+
+Showing through the peritoneum, a much convoluted, white tube can be
+seen on the ventral surface of the kidney. This is the _mesonephric_ or
+_Wolffian duct_. In young specimens it may be nearly straight, lying
+near the medial border of the kidney. In adult specimens it can be
+followed forward as far as the anterior end of the testis. While the
+Wolffian duct is the duct of the kidney, and is joined by tubules of the
+anterior part of the kidney, it is so modified in the male that its
+principal function is to serve as the duct of the testis, a _vas
+deferens_. The collecting tubules of the posterior part of the kidney
+join to form a _urinary duct_ which is independent of the Wolffian duct.
+The posterior end of the Wolffian duct is straight and considerably
+expanded, forming a large _seminal vesicle_. The duct becomes more and
+more closely convoluted as it passes forward, and the kidney tissue
+overlying it diminishes. At the anterior end of the mesonephros the
+Wolffian duct forms a mass of tubules, the _epididymis_. Very small
+tubules, the _vasa efferentia_, pass from the anterior end of the testis
+to the epididymis. These are difficult for the student to distinguish.
+
+Cut through the peritoneum along the outer side of one kidney. Then
+strip the peritoneum toward the inner border of the kidney. The urinary
+duct will usually be closely attached to the peritoneum and parallel
+with the Wolffian duct, but nearer the midline of the body. The urinary
+duct can be separated from the peritoneum by a little careful work.
+Numerous small ducts pass from the kidney into the urinary duct.
+
+Open the uro-genital papilla near its tip and extend the incision
+forward so as to open the sac connected with the base of the papilla.
+The pore at the tip of the papilla leads into a space within the papilla
+itself, the _uro-genital sinus_, which branches to the left and right in
+pouches which extend beyond the posterior ends of the vasa deferentia.
+These cornua of the uro-genital sinus are of variable length, and are
+often named sperm-sacs. In a mature male they may be found to be filled
+with sperm, as may also the seminal vesicles and the convoluted portion
+of the Wolffian duct. The openings of the vasa deferentia into the sinus
+are large and easily located. The urinary duct opens into the sinus by a
+separate pore just behind the opening of the vas deferens.
+
+Cut open the seminal vesicle and part of the convoluted vas deferens.
+The space within is subdivided by transverse folds or lamellae extending
+from a longitudinal ridge.
+
+No vasa efferentia can be distinguished in Eugaleus. The anterior
+extremities of the kidney and testis of each side come into close
+contact with each other and here the vasa efferentia pass from the
+testis to the vas deferens. The sperm-sac is a large blind pouch, one or
+two inches in length, leading out of the posterior end of the vas
+deferens, and directed forward along its side. The vas deferens of
+Eugaleus is not convoluted.
+
+In the young specimens usually supplied to laboratories the vas deferens
+is straight and no seminal vesicle is developed. The vasa efferentia are
+more difficult to see; otherwise the relations of the urinary and
+genital organs are as in the adult.
+
+The suspensory ligament of the liver is continued posteriorly along the
+midline of the ventral body wall; the dorsal edge supports a funnel
+which opens into the abdominal cavity by a long, narrow mouth. From the
+anterior end of the funnel two narrow tubes pass to the right and left
+over the anterior surface of the liver. They end blindly in the tissues
+dorsal to the anterior end of the liver. These are vestiges of the
+Muellerian ducts (pronephric ducts) which form the oviducts of the
+females.
+
+THE FEMALE. The ovaries are large, white bodies lying at the sides of
+the stomach, dorsal to the lobes of the liver. Each is covered by the
+peritoneum and suspended by a fold of the same, the _mesovarium_. Ova of
+various sizes may be felt in the tissue of the ovary, which should be
+exposed by dissection.
+
+The ovaries of Eugaleus are long slender bodies lying on either side of
+the mesogaster, dorsal to the stomach and intestine. Their posterior
+portions are fused.
+
+The _oviducts_ (_Muellerian ducts_) are large tubes suspended from
+between the kidneys by a narrow peritoneal band. The posterior portion
+of the oviduct, where development of the eggs takes place, is
+considerably enlarged. Each oviduct opens separately into the cloaca by
+a pore at the side of the urinary papilla. Followed forward, the
+oviducts pass over the anterior surface of the liver and following a
+continuation of the suspensory ligament, bend around posteriorly and
+unite. At the point of union they open into the coelom by a common,
+large, funnel-shaped aperture, the _ostium tubae_.
+
+Cut through the peritoneum along the outer side of one kidney. Then
+strip the peritoneum toward the inner side of the kidney. Numerous small
+excretory ducts will be seen joining the main _urinary duct_ (_Wolffian
+duct, mesonephric duct_), which runs along the inner margin of the
+kidney. Make an incision in the side of the urinary papilla to open the
+cavity within it, the _urinary sinus_. The connection of this with the
+pore at the tip of the papilla should be demonstrated. Extend the
+incision forward. The urinary sinus divides into right and left cornua
+which are of considerable size and lie dorsal to the oviducts. Trace the
+Wolffian duct to the urinary sinus and demonstrate its opening into the
+cornu anterior to the point where the two cornua unite.
+
+In young specimens the ovaries are small, and the oviducts are narrow,
+white tubes lying along the medial margins of the kidneys.
+
+_Nephrostomes_, short, segmentally arranged kidney tubules which open to
+the coelom by a funicular aperture, are found by a close examination
+along the medial border of each kidney. They should be observed
+carefully with the aid of a good dissecting lens. Learn the significance
+of these structures.
+
+In the course of development two sets of nephridia (kidneys) are formed.
+The first (pronephros) develops just back of the head of the embryo, but
+does not persist in the adult. Its duct, known commonly as the
+Muellerian duct, develops into the functional oviduct of the female, but
+forms an apparently useless vestige in the male. The second kidney
+(mesonephros) develops behind the first and is the excretory organ of
+the adult. Its duct (frequently given the name of Wolffian duct) is the
+urinary duct in the female, but functions in the male chiefly as a sperm
+duct, and therefore is called the vas deferens. The collecting tubules
+of the posterior portion of the kidney of the male unite to form a
+urinary duct which opens into the Wolffian duct or the uro-genital
+sinus.
+
+
+                           RESPIRATORY ORGANS
+
+Open the anterior gill pouch of the left side by dorsal and ventral cuts
+extending from the angles of the cleft, but cutting only as far as is
+necessary to see the structures within the pouch. Upon the medial side
+the gill pouch opens into the pharynx by a dorso-ventral slit, guarded
+by projecting cartilagineous _gill rakers_, which prevent particles of
+food from passing into the gill pouch with the respiratory current. On
+both the anterior and posterior wall of the pouch is a _demibranch_. If
+the specimen is injected a large blood vessel can be seen through the
+skin in the inner border of the demibranch, and small vessels passing
+from this into the leaflets, where the interchange of gases between the
+water and blood takes place.
+
+Open similarly each pouch of the same side, observing the number of the
+demibranchs and their relation to the pouches.
+
+Upon the anterior wall of the spiracle demonstrate a row of small
+vestigial gills; being supplied with arterial instead of venous blood
+they form what is termed a _pseudobranch_.
+
+
+                            VASCULAR SYSTEM
+
+HEART AND VENTRAL AORTA. Continue the longitudinal incision through the
+skin as far as the mandible.[1] Dissect away the sheet of muscles
+between the gill pouches and the mandible, exposing a slender muscle
+which extends from the pectoral girdle to the middle of the mandible.
+The _thyroid gland_ lies dorsal to the anterior end of this muscle,
+close against the mandible. (The thyroid of Eugaleus is a broad,
+flattened structure covering the anterior ends of the coracohyoideus
+muscles.) Carefully dissect out the muscles lying between the branchial
+pouches of the right and left sides.
+
+Footnote 1:
+
+  See footnote, p. 31.
+
+In front of the pectoral girdle lies a thin-walled sac, the _pericardial
+sac_. Open it by a median ventral incision. Remove about one-half inch
+of the middle of the pectoral girdle, being careful not to cut the
+thin-walled part of the heart lying dorsal to it. The _pericardial
+cavity_ is a pear-shaped chamber containing the heart, and lined by the
+smooth _pericardium_ which is morphologically equivalent to the
+peritoneum. At the anterior extremity of the chamber the pericardium is
+seen to be reflected backward over the surface of the heart, thus
+forming its smooth outer coat.
+
+The _heart_ may be considered as a bent tube, enlarged in certain
+regions to form the chambers. Anteriorly and ventrally is a short,
+thick-walled tube, the _conus arteriosus_; this leads out of the
+pericardial sac anteriorly, while posteriorly it opens into a large
+muscular chamber, the _ventricle_. Dorsal to the ventricle, and
+projecting on either side of it is the thin-walled _auricle_. Dorsal to
+both ventricle and auricle is the extremely thin-walled _sinus venosus_.
+This is triangular in shape, the apex opening into the posterior side of
+the auricle, the base attached to the posterior wall of the pericardial
+cavity; the lateral angles are drawn out into the _ducti cuvierii_,
+which receive veins from the anterior and posterior parts of the body.
+From the conus arteriosus springs a smaller vessel, the _ventral aorta_,
+which passes forward between the gill pouches. Take note of the small
+arteries passing over the surface of the conus and along the inner ends
+of the gill pouches, and take care not to cut them or their branches in
+the subsequent dissection.
+
+Two pairs of arteries leave the ventral aorta as it emerges from the
+pericardial sac. The aorta then passes forward some distance and finally
+divides into two branches which pass to either side. Follow the branches
+of the aorta outward on the left side and demonstrate their courses. The
+anterior branch quickly divides into two, the anterior of these passing
+along the base of the first demibranch. The posterior enters the septum
+between the first and second pouches, and supplies the second and third
+demibranchs. The middle branch of the aorta passes directly to the
+fourth and fifth demibranchs. The posterior branch divides almost as it
+leaves the aorta, its branches supplying the remaining demibranchs.
+There is considerable variation in this branch of the aorta. It usually
+divides as stated, but it frequently passes some distance toward the
+gills before dividing, and in a considerable number of cases two vessels
+arise directly from the aorta instead of one.
+
+The arteries carrying blood from the ventral aorta to the gills are
+named the _afferent branchial arteries_. Observe the relation of these
+vessels to the gills.
+
+VENOUS SYSTEM. All the blood of the body is conveyed to the sinus
+venosus. The sides of the sinus venosus are extended as large vessels,
+already referred to as the ducti cuvierii. Open the sinus and ducti by a
+transverse ventral incision. The ducti pass directly into the lateral
+veins. Near the middle of the posterior wall of the sinus is an aperture
+of varying size, the opening of the _hepatic sinus_; there are rarely
+two openings in Squalus, always two in Eugaleus. A large opening on the
+posterior wall of each ductus leads into the _posterior cardinal vein_.
+On the anterior wall of the ductus, near the sinus venosus, is a small
+aperture, that of the _inferior jugular vein_. Lateral to this is
+frequently a somewhat larger opening of the _anterior cardinal vein_.
+This is absent, however, in the majority of specimens; the anterior
+cardinals opening into the anterior ends of the posterior cardinals in
+about six out of ten cases.
+
+A large cavity, the _hepatic sinus_, exists in the anterior end of the
+liver just posterior to the suspensory ligament. Cut into the liver at
+this point until the sinus is found, open it, and observe the large
+_hepatic veins_ bringing blood into it from the liver, as well as its
+communication with the sinus venosus.
+
+Trace all veins by passing a flexible probe or guarded bristle along
+them and then opening the vein with the probe as a guide. All smaller
+vessels emptying into those described should be noted.
+
+The _lateral veins_ pass forward to the posterior edge of the pectoral
+girdle, bend sharply dorsad, and enter the lateral extremities of the
+ducti cuvierii. Open a lateral vein near the anterior end and trace it
+toward the heart. The right and left lateral veins are joined by a vein
+passing along the ventral bar of the pectoral girdle. Open the lateral
+veins at a point about two inches in front of the pelvic girdle and
+trace the veins backward as far as they can be followed. The blood from
+the pelvic fins enters the lateral vein through the _femoral vein_. The
+lateral veins finally unite back of the cloaca.
+
+Just before the lateral vein enters the ductus cuvierius it is joined by
+a large _coracoid vein_ which runs dorsad and posteriorly along the
+posterior edge of the pectoral arch. Follow its course. It receives a
+good-sized _pectoral vein_ from the pectoral fin, and sometimes several
+smaller veins from the same region. Traced dorsad it is found to open
+into a large blood sinus above the liver and oesophagus, the _cardinal
+sinus_.
+
+In Eugaleus this connecting vein between the lateral vein and the
+cardinal sinus is wanting, the pectoral vein opening directly into the
+lateral.
+
+The _ventral cutaneous vein_, which runs along the ventral midline of
+the body wall, should be followed; anteriorly it joins the vessel
+uniting the two laterals; posteriorly it divides at the pelvic arch and
+anastomoses with the laterals.
+
+Pass a bristle from the sinus venosus into one of the _posterior
+cardinal veins_ and trace the vein backward between the kidneys as far
+as possible. Open both posterior cardinals in this way, washing them out
+and observing that they receive blood from the kidneys by a series of
+_renal veins_, and that they are separate in their posterior parts, but
+communicate with each other anteriorly, where they are greatly expanded;
+the communicating portions and coincident enlargement forming the
+_cardinal sinus_. The anterior portion of the cardinal vein receives
+_ovarian_ or _spermatic veins_ from the female or male gonad, _anterior
+oviducal veins_ from the anterior part of the oviduct, and segmental
+veins from the corresponding region of the body wall. There sometimes is
+more than a single opening from the posterior cardinal vein into the
+cuvierian duct.
+
+Cut across the tail an inch behind the cloaca. Two vessels lie in the
+cartilaginous arch below the centra of the vertebrae; the dorsal of the
+two is the _caudal artery_, the ventral one is the _caudal vein_. Follow
+the vein forward. Dorsal to the cloaca it divides into two, which should
+be followed along the dorsal surfaces of the kidneys. These are the
+_renal portal veins_, conveying blood to the kidneys. Besides collecting
+the blood of the tail the renal portals also receive the _posterior
+oviducal_ and _segmental veins_. They pass into the capillaries of the
+kidneys.
+
+The _inferior jugular vein_ opens into the medial end of the cuvierian
+duct. Trace it forward along the ventral ends of the gill pouches; it
+receives vessels from the arches and finally joins the _hyoidean_
+_veins_ which follow the hyoid arch. At the outer end of the cuvierian
+duct there is often a small opening on the anterior wall opposite the
+mouth of the posterior cardinal vein. This leads into the _anterior
+cardinal vein_. As mentioned before, in a slight majority of the cases
+examined, the anterior cardinal vein opens into the posterior cardinal
+vein, not directly into the cuvierian duct. If possible, pass a bristle
+into the anterior cardinal. To follow the vein, and usually this is the
+best way to find it, make a vertical longitudinal incision upon the
+dorsal side of the neck, between the gill pouches and the mass of muscle
+lying beside the vertebral column. This will open the anterior cardinal,
+which is considerably expanded in this region, and it may be traced from
+this point toward the heart and the head. The anterior cardinal narrows
+suddenly in front of the anterior gill pouch, and leads downward to the
+orbit, where it expands into the _orbital sinus_ surrounding the eyeball
+and its muscles. Trace the anterior cardinal only as far as the opening
+into the orbital sinus at this time. Veins from the anterior portion of
+the head and from the brain can be followed when the dissection of the
+eye is undertaken.
+
+Just back of the spiracle the anterior cardinal receives the _hyoidean
+vein_, which passes ventrad along the base of the first demibranch and
+unites with the hyoidean of the opposite side. Ventrally, it also
+communicates with the inferior jugular vein.
+
+The principal veins of the body have now been dissected with the
+exception of the _hepatic portal vein_, which it is better to trace
+after the arteries of the digestive tract have been studied.
+
+THE EFFERENT BRANCHIAL ARTERIES AND DORSAL AORTA. Commencing at the
+mouth, cut through the floor of the pharynx close to the left side of
+the ventral aorta and the heart. The cut should leave the gill arches
+uninjured, and may be continued into the oesophagus.
+
+Examine the interior of the mouth and pharynx, observing particularly
+the form and arrangement of the teeth, the spiracular and branchial
+clefts, the gill rakers, and the character of the mucous coat of the
+pharynx.
+
+Remove the skin from the roof of the pharynx. This exposes four pairs of
+_efferent branchial arteries_ bringing blood from the gills and uniting
+in pairs to form the _dorsal aorta_. Follow each vessel of the left side
+out to its gill-cleft. At the dorsal end of the gill-cleft it divides
+into a large posterior and small anterior branch. These respectively
+pass along the posterior and anterior demibranchs of the gill pouch,
+receiving fine branches from the gill lamellae, and finally unite again
+at the ventral end of the gill pouch. Thus a complete loop is formed
+around the branchial cleft. The posterior branch of each efferent artery
+and the anterior branch of the succeeding one are united by several
+short vessels. The efferent artery of the last demibranch possesses only
+these connections with the branch next anterior to it, and none with the
+aorta directly. From the ventral ends of the efferent loops small
+vessels pass toward the midline to unite with a longitudinal artery, the
+_hypobranchial artery_, which will be traced farther a little later in
+the dissection.
+
+In Eugaleus the dorsal aorta extends forward beyond the union of the
+first pair of efferent branchials and then divides into small right and
+left branches which pass forward and outward to unite with the common
+carotid arteries.
+
+A _common carotid artery_ leaves the dorsal end of each anterior
+efferent branchial loop, passing forward and inward. At the level of the
+spiracles it divides into _external_ and _internal carotids_; the
+internal carotid unites with its fellow of the opposite side and enters
+the skull. The external carotid arteries run outward and forward around
+the eyes and are distributed to the regions of the mandible and snout.
+Do not, at present, trace them beyond the posterior edge of the eye.
+
+Another vessel arises from the middle of the anterior side of the first
+efferent branchial loop and runs forward to the spiracle, where it ends
+in the capillaries of the pseudobranch. This is the _afferent hyoidean
+artery_. The term pseudobranch is used for the branchial lamellae of the
+spiracle rather than demibranch because of the arterial blood supply of
+this organ.
+
+Immediately after uniting the internal carotids divide and diverge,
+forming an X-shaped figure. Each anterior limb of the X again divides
+into two branches. The lateral branch passes to the ventral surface of
+the skull; it presently gives off an anterior twig (_ophthalmic artery_)
+which enters the eye. It then passes on as the _efferent hyoidean
+artery_ to the pseudobranch. The inner of the two branchs mentioned
+above passes on as the _internal carotid, sensu strictu_, and is
+distributed to the brain.
+
+If the dissection is made with care, the branches of the internal
+carotid can all be found without cutting any important nerves. The
+branches passing to the eye and brain are best traced to their
+terminations in connection with the dissection of the nervous system.
+
+Near the union of the first pair of efferent branchial arteries a small
+_posterior vertebral artery_ arises from each, and runs anteriorly along
+the vertebral column.
+
+Near the divisions of the common carotids two _anterior vertebral
+arteries_ arise from these vessels and pass posteriorly, often
+anastomosing with the posterior vertebral arteries. These vertebral
+arteries are vestiges of the former anterior part of the dorsal aorta
+(compare with Eugaleus, in which the dorsal aorta sends forward two
+vessels which join the common carotids).
+
+An _oesophageal artery_ springs from the second efferent branchial, and
+passes back until it enters the wall of the oesophagus. It also gives
+off nutrient branches to the second, third, and fourth gill pouches. The
+nutrient artery of the first gill pouch arises directly from the first
+efferent branchial.
+
+Near the point at which the fourth pair of efferent branchials join the
+aorta, two small _subclavian arteries_ leave the aorta and pass into the
+pectoral fins. There is some variation in regard to the point of origin
+of these vessels; it may be either in front of or behind the junction of
+the fourth efferent branchials with the aorta.
+
+The _hypobranchial artery_ passes along the ventral ends of the gill
+pouches. It is either connected with the efferent branchial loops by
+short branches, or is formed, in part at least, by short vessels
+connecting these loops. The hypobranchials are important nutrient
+vessels, supplying the gill pouches and the muscles of the throat and
+the oesophagus by means of numerous small arteries; from the
+hypobranchials also arise small _posterior coronary arteries_ which pass
+to the ventral and posterior walls of the pericardium and the sinus
+venosus, and larger _anterior coronary arteries_ supplying the ventricle
+and conus arteriosus. The hypobranchials can frequently he followed
+along the dorsal side of the pericardium and then outward to junctions
+with the subclavian arteries.
+
+The _coeliac artery_ (_coeliac axis_) arises from the aorta just back of
+the subclavians. Passing posteriorly and ventrad close to the right side
+of the stomach and reaching the gastro-hepatic omentum, it divides into
+two branches, the _gastro-hepatic_ and _anterior intestinal arteries_.
+The first gives off a small _hepatic artery_ to the liver and a large
+_gastric artery_ to the cardiac limb of the stomach. The _anterior
+intestinal artery_ supplies the pyloric limb of the stomach, the
+pancreas, duodenum, and right side of the large intestine.
+
+Small _genital arteries_, supplying the reproductive glands, arise from
+the coeliac near its origin. (In Eugaleus the genital arteries arise
+from the anterior and posterior mesenteric arteries.)
+
+At about the middle of the abdominal cavity two arteries arise close
+together from the aorta. The anterior of the two is the _anterior
+mesenteric artery_; it passes to the left side of the large intestine
+and its branches anastomose more or less with those of the anterior
+intestinal artery. The posterior vessel is the _lienogastric_; it goes
+to the spleen, pancreas, and loop of the stomach.
+
+The _posterior mesenteric artery_ leaves the aorta a little distance
+back of the lienogastric and passes to the rectal gland, rectum, and
+cloaca.
+
+Free the kidney from the body wall along its outer edge and turn it up
+so as to expose its dorsal surface. Observe the numerous _parietal
+arteries_ (going to the body wall) and _renal arteries_ (to the kidney),
+which spring from the dorsal aorta. Branches of the parietals also pass
+into the kidney.
+
+A pair of small _iliac arteries_ pass into the pelvic fins.
+
+_Oviducal arteries_, one or several on each side, arise from the aorta
+behind the coeliac artery and pass to the oviduct. Their size varies
+largely with the development and physiological condition of the oviduct.
+
+The aorta is continued in the tail as the _caudal artery_.
+
+DISSECTION OF THE HEART. Remove the heart together with the ventral
+aorta from the body and fasten it, dorsal side up, under water. Open the
+sinus venosus with scissors, wash it out, and observe the vertical
+slit-like opening into the auricle and the two membraneous valves which
+guard it.
+
+Continue the cut through the _sinu-auricular aperture_ along the median
+dorsal line of the auricle; observe the thin walls of the auricle and
+their strengthening by an irregular mesh of muscles, the _musculi
+pectinati_; the shape and position of the _auriculo-ventricular
+aperture_; the flaps of the _auriculo-ventricular valve_. Press upon the
+sides of the ventricle and, if possible, observe the mode of action of
+the valve.
+
+Cut across the ventricle from the auriculo-ventricular aperture. Carry
+another incision from this along the dorsal side of the conus
+arteriosus. Observe the small size of the cavity of the ventricle, the
+thickness of its walls, and the projecting network of muscles, the
+_columnae carneae_, some of which are attached to the edges of the
+auriculo-ventricular valves.
+
+In the conus arteriosus observe the rows of three pocket-like valves
+each around the proximal end (_semilunar valves_), and a single row of
+three similar but larger valves at the junction of the conus and ventral
+aorta. There is some variability in the number of rows of valves in the
+conus of Squalus; there are always three rows of three valves each in
+that of Eugaleus.
+
+In the aorta notice the apertures without valves which lead into the
+afferent branchial vessels.
+
+HEPATIC PORTAL SYSTEM. The _hepatic portal vein_ is the large vein
+entering the liver alongside the hepatic artery and bile duct. It
+receives branches from the stomach, pancreas, spleen, intestine, and
+rectal gland.
+
+At the surface of the liver it divides into two branches, which enter
+the two lobes of this organ. Within the liver the hepatic portal veins
+branch until a capillary system is formed from which the blood is
+collected by the hepatic veins and carried into the sinus venosus.
+
+In general, the branches of origin of the hepatic portal vein follow
+closely the arteries of the digestive organs. Trace the following parts
+of the system: A _posterior intestinal vein_, from the rectal gland and
+rectum, the large intestine and spiral valve, across to the end of the
+pancreas, along the pancreas to the hepatic portal vein; an _anterior
+intestinal vein_, from the large intestine and spiral valve, along the
+duodenal lobe of the pancreas; _gastric_, _duodenal_, and _pyloric
+veins_ joining the veins already traced; a _splenic vein_ joining the
+posterior intestinal vein.
+
+The liver, with the bile duct, may now be removed from the body if it is
+desired to trace the bile duct into the bladder or to trace the hepatic
+ducts. This can be done best by gently scraping away the soft liver
+tissue until the bladder and ducts are exposed.
+
+
+                          THE NERVOUS SYSTEM.
+
+Only the head and anterior part of the trunk will be required for the
+dissection of the nervous system. Cut across the body back of the
+pectoral fins; the posterior part of the body will not be required
+further unless it is desired to study the muscles and skeleton.
+
+The manner of dissecting the brain depends somewhat upon the specimens
+at the disposal of the student. If a large head is to be used especially
+for the dissection of the cranial nerves, only the brain, eye and ear
+need be studied in the present specimen. But in most cases it will be
+found best for the student to dissect the first dogfish as thoroughly as
+possible, working out the cranial nerves as well as the brain, and
+reserving the second head for a thorough review of the entire nervous
+system. Chapter III of Herrick and Crosby’s “Laboratory Outline of
+Neurology” should be used in connection with such a review.
+
+If a line be drawn over the dorsal surface of the head connecting the
+two spiracles, two small pores will be found near the middle. These are
+the external apertures of the ducti lymphatici. Cut carefully through
+the skin in a small circle around the pores, and remove the skin from
+the remainder of the dorsal surface of the skull without disturbing the
+small section containing the pores. The latter part should now be lifted
+gently; beneath it will be seen two delicate tubes passing from the
+pores to apertures in a depression of the skull below them. These tubes
+are the _ducti endolymphatici_, through which a passage exists between
+the internal ear and the exterior. As they cannot be preserved in the
+subsequent dissection, the pores by which they pass through the skull to
+the internal ear should be found now, and a memorandum-sketch made of
+the ducts themselves.
+
+DORSAL SURFACE OF THE BRAIN. The roof of the skull should be removed
+from over the brain. Use a sharp scalpel and take very thin slices of
+cartilage. Do not cut beyond the brain at the sides. No attempt should
+be made at this time to expose more than the dorsal surface of the
+brain.
+
+Above the anterior end of the brain there is a small median foramen
+through the skull, the _epiphysial foramen_. A strand of tissue, the
+_epiphysis_, leading from this to the surface of the brain, should be
+carefully observed and retained. The cartilage should also be cut away
+from above the portion of the spinal cord next the skull. Gently wash
+away any coagulated lymph.
+
+The brain and spinal cord are invested by two membranes (_meninges_).
+The tough _dura mater_ lines the cavity in which they lie, clinging
+closely to the cartilage; in fact it forms the perichondrium of the
+internal surface of the cranium. The _pia mater_ envelops closely the
+brain and cord, and contains numerous blood vessels. Between the two is
+the _arachnoid space_, traversed by occasional fine threads of
+connective tissue and filled with lymph.
+
+As the spinal cord passes forward into the skull it enlarges and merges
+with the posterior portion of the brain, the _medulla oblongata_
+(_myelencephalon_). The roof of the medulla is extremely thin, and is
+broken if the cartilage has not been removed with extreme care, exposing
+a cavity within, the _fourth ventricle_.
+
+In front of the medulla, and overlapping its anterior extremity, is a
+large oval organ, the _cerebellum_ (_metencephalon_). Ventral to the
+cerebellum, each side of the medulla is expanded in an ear-shaped lobe,
+the _corpus restiformis_. Anteriorly, the cerebellum overlaps a pair of
+rounded lobes, the _optic lobes_, which together form the dorsal portion
+of the _midbrain_ (_mesencephalon_).
+
+In front of the optic lobes are two slightly larger lobes united in
+their posterior portions but separated anteriorly, the _cerebral lobes_
+or _hemispheres_. Together they constitute the _prosencephalon_. (The
+prosencephalon is not divided in Eugaleus.) Between the mesencephalon
+and the prosencephalon is a depressed region belonging to the
+brain-stem, the _diencephalon_ (_thalamencephalon_), from which the
+epiphysis arises. The roof of the diencephalon also is very thin and is
+frequently broken during the exposure of the brain. The cavity seen
+within the diencephalon is the _third ventricle_.
+
+Stalked bodies arising from the antero-lateral angles of the cerebral
+hemispheres are the _olfactory lobes_. The portion of the brain
+including the cerebral hemispheres and the olfactory lobes constitutes
+the _telencephalon_.
+
+DISSECTION OF THE INTERNAL EAR. The structures composing this organ
+lie in the projecting cartilage at the side of the medulla (auditory
+capsule). Remove the cartilage of the auditory capsule in thin slices
+and bit by bit, following the ductus endolymphaticus to the
+membraneous labyrinth. Dissect away the surrounding cartilage leaving
+the membraneous canals in place, until the entire labyrinth is
+exposed. The _membraneous labyrinth_ consists of a large central sac
+(_utriculo-saccular chamber_) into which the endolymphatic duct opens,
+and three membraneous tubes (_semicircular canals_) external to the
+chamber but communicating with it in various ways. Two, one anterior
+and the other posterior to the sacculus, lie in a nearly vertical
+plane (_anterior and posterior semicircular canals_); one is external
+to the sacculus and lies in a nearly horizontal plane (_horizontal or
+external semicircular canal_). At the ventral ends of the vertical
+canals are nearly spherical enlargements called _ampullae_. The
+ampulla of the horizontal canal is at its anterior end. The dorsal
+ends of the vertical canals open near each other into the upper part
+of the utriculo-sacculus. The ventral extremity of the anterior
+vertical canal and the anterior extremity of the horizontal canal open
+beside each other into an anterior projection of the sacculus. The
+ventral extremity of the posterior vertical canal opens into the
+posterior and lower part of the sacculus. The posterior extremity of
+the horizontal canal opens into the posterior side of the sacculus.
+During life the utriculo-sacculus and the semicircular canals are
+filled with a lymphatic fluid, and the sacculus contains a large
+calcareous ear-stone (_otolith_), which is usually dissolved by the
+formalin used in preserving the dogfish.
+
+Whitish patches of thickened sensory epithelium may be seen in the
+ampullae (_cristate acusticae_) and in the utriculo-saccular chamber
+(_maculae acusticae_). Branches of the eighth nerve can be followed to
+all these areas.
+
+A projection of the ventral wall of the utriculo-sacculus is the
+_lagena_, the rudiment from which the cochlea of higher animals
+developed. It also contains a macula acustica.
+
+EXTERNAL FEATURES OF THE EYE. Observe the transparent cornea covering
+the external surface of the eye; the dark ring of the iris; the central
+opening in the iris, the pupil; the conjunctival sac surrounding the
+external half of the eyeball. Cut away sufficient of the upper wall of
+the cartilaginous orbit to expose the eyeball and its muscles. Note the
+considerable amount of soft connective tissue around the eye and explore
+the orbital sinus (p. 13). Take notice of the following nerves, in order
+to ensure their preservation until the time comes to trace them more
+completely. A large nerve crossing the medial side of the orbit, the
+superficial ophthalmic; a nerve leaving the cranium opposite the optic
+lobe, passing under the superficial ophthalmic to the anterior muscle of
+the eyeball, the trochlear; several long ciliary nerves passing to the
+eyeball; several other nerves visible in the deep angle of the orbit.
+
+Six muscles move the eye. Four of these arise close together at the deep
+postero-medial angle of the orbit. Diverging, they are inserted upon
+four sides of the eyeball, and from the position of their insertions are
+named the _superior_, _posterior_, _inferior_, and _anterior recti_. Two
+muscles arise from the antero-medial angle of the orbit, the _superior
+and inferior oblique muscles_.
+
+Between the recti muscles can be seen a mushroom-shaped stalk of
+cartilage, the _ophthalmic peduncle_; the eyeball rests against its
+expanded end. (There is no peduncle in Eugaleus.)
+
+THE CRANIAL NERVES. The cranial nerves are twelve pairs of nerves
+arising from the brain, and thus distinguished from the spinal nerves
+which arise from the sides of the spinal cord. They are distributed
+chiefly to the head and neck, though branches of the vagus nerve go to
+the viscera and to the sense organs of the lateral line. Since the
+nerves are all paired, the distribution of both nerves of a pair being
+alike, the descriptions will mention but one nerve of a pair. As the
+cranial nerves are traced dissect away the sides of the cranium down to
+the foramina penetrated by the nerves, and follow each nerve from its
+origin on the brain to the parts innervated by it. Features of the
+dissection which are not found in tracing the nerve of one side should
+be sought on the other side.
+
+The _olfactory nerve_. The anterior surface of the olfactory lobe fills
+a large foramen in the anterior wall of the cranium and is pressed
+closely against the posterior surface of the nasal sac. Numerous small
+nerves, collectively forming the olfactory nerve, arise from the
+anterior face of the lobe, penetrate the membraneous wall of the
+olfactory organ, and are distributed to its highly folded surface.
+
+The _terminal nerve, Nervus terminalis_, is a slender nerve running
+along the medial surface of the stalk of the olfactory lobe. Follow it
+backward to its origin on the anterior surface of the cerebral
+hemisphere, deep in the median fissure (in Eugaleus on the ventral
+surface). Trace it forward over the dorsal surface of the olfactory lobe
+to where it enters the nasal sac. The terminal nerve is a true cranial
+nerve which has escaped notice until recent years. It is associated with
+the olfactory nerve in vertebrates generally from fishes to men. The
+fibres of the terminal nerve remain distinct from those of the olfactory
+nerve, both in the olfactory organ and in the brain. Its function is
+unknown. There is still a division of opinion among authorities as to
+whether the terminal nerve should be considered to be a distinct cranial
+nerve, or a portion of the olfactory nerve.
+
+The _optic nerve_ can be seen at the bottom of the orbit between the eye
+and the skull, nearly under the superior oblique muscle. It arises from
+the ventral side of the diencephalon, passes outward, penetrates the
+orbit at its infero-medial angle, and continues directly outward to the
+eyeball.
+
+The _trochlear nerve_, or _patheticus_, penetrates the wall of the orbit
+opposite the optic lobe. Follow it back to its origin from the dorsal
+surface of the brain in the depression between the optic lobes and the
+cerebellum. Then follow it from the skull to the superior oblique
+muscle, which it innervates.
+
+The _oculo-motor nerve_ arises from the ventral surface of the midbrain,
+passes outward, and penetrates the orbit on a level with and just
+anterior to the origins of the recti muscles. It divides immediately
+into three parts; two pass to the anterior and superior recti
+respectively, while the third passes downward along the posterior
+surface of the eyeball to the inferior rectus and inferior oblique
+muscles. In tracing this nerve the palatine process of the upper jaw
+will be seen projecting from below into the orbit.
+
+The _trigeminal_, _facial_, and _auditory nerves_ spring from the side
+of the medulla below the corpus restiformis. The roots, and some of the
+branches, of the trigeminal and facial nerves are so mingled as to be
+indistinguishable except by special neurological technique. The common
+root of the trigeminal and facial nerves shows a partial division into a
+dorsal and a ventral portion; the dorsal portion belongs to the facial
+nerve, while the ventral root is mixed. The root of the auditory nerve
+lies close behind the trigeminal-facial root, but can be distinguished
+fairly well. Both the trigeminal and facial nerves divide into several
+trunks, namely:
+
+                    Trigeminal      Facial
+
+                    superficial     superficial
+                      ophthalmic      ophthalmic
+
+                    deep ophthalmic buccal
+
+                    maxillary       otic
+
+                    mandibular      hyomandibular
+
+The _superficial ophthalmic_ trunks of the two unite in a single nerve
+which passes along the inner wall of the orbit above the muscles of the
+eye to a foramen in the antero-medial angle of the orbit, through which
+it passes to the dorsal surface of the snout. The superficial ophthalmic
+nerve of Squalus is composed almost entirely of fibres of the facial
+nerve. The superficial ophthalmic trunk of the trigeminal gives rise to
+several small nerves leaving the common trunk near its origin and
+passing to the skin above the eye. The superficial ophthalmic trunk of
+the facial, nearly the whole of the common nerve, branches profusely to
+supply the sensory organs of the dorsal and lateral surfaces of the
+snout.
+
+The superficial ophthalmic of Eugaleus rises from the dorsal part of the
+trigemino-facial root and leaves the cranium by a separate foramen above
+and anterior to the roots of the recti muscles.
+
+Directly under the origin of the superficial ophthalmic will be found a
+comparatively slender nerve, which passes between the superior and
+posterior rectus muscles, and forward along the medial surface of the
+eyeball; it penetrates the anterior wall of the orbit by a separate
+foramen, and emerges under the superficial ophthalmic. It is distributed
+to the skin of the dorsal and lateral surfaces of the snout. This is the
+_deep ophthalmic_ (_ophthalmicus profundus_) of the trigeminal nerve. A
+slender branch (_posterior ciliary nerve_) passes from the deep
+ophthalmic near its origin to the posterior surface of the eyeball.
+Farther forward the same trunk gives off an _anterior ciliary nerve_ to
+the anterior part of the eyeball.
+
+A large nerve which crosses the floor of the orbit, beneath the eyeball,
+consists of the _maxillary_ trunk of the trigeminal and the _buccal_
+trunk of the facial nerve. These remain associated, even into the small
+branches. Near the anterior margin of the orbit the maxillary-buccal
+trunk divides into three parts; the smallest and outer one passes to the
+surface lateral and anterior to the eye. The other two dip downward and
+pass in front of the jaw to the ventral surface of the snout. Reflect
+the skin of the ventral surface of the snout, and by dissection expose
+these nerves as they emerge from the orbit. The larger branch runs
+forward close to the median line of the snout, giving off numerous
+twigs; the other, which appears to be a pure trigeminal branch, is
+distributed near the angle of the mouth. The fibres of the maxillary
+trunk supply the skin, while those of the buccal go to the canal organs
+and ampullae of Lorenzini.
+
+The _mandibular_ trunk of the trigeminal nerve arises beneath and behind
+the maxillary. It passes outward in front of the levator maxillae
+superioris muscle, sending a few twigs into this muscle, and turns
+downward over the palato-quadrate cartilage. It divides here, one part
+entering the adductor mandibularis muscle, the other passing downward
+along the edge of the mandible, innervating the skin of the lower jaw
+and the first ventral superficial constrictor muscle.
+
+The mandibular and maxillary-buccal trunks of Eugaleus are united until
+they approach the edge of the orbit, and the palatine branch is much
+larger; otherwise the trigemino-facial branches are much as in Squalus.
+
+The _hyomandibular_ trunk of the facial nerve can be found just beneath
+the skin behind and close to the spiracle. From here it can be followed
+back to the brain. It arises from the ventral part of the
+trigemino-facial root, emerging from the cranium through the
+hyomandibular canal. It divides into a number of branches just beyond
+the spiracle:
+
+1. The _external mandibular_ branch consists of two portions, a small
+anterior nerve extending antero-ventrally to the canals above and below
+the angle of the mouth, and a larger nerve which passes laterally and
+suddenly breaks up into a brush of twigs which innervate the hyoidean
+group of ampullae.
+
+2. The _internal mandibular_ branch arises at about the same level as
+the external mandibular, but under it, passes inward around the edge of
+the hyoid cartilage, under the adductor mandibularis muscle, and then
+forward along the mandibular cartilage.
+
+3. The _hyoid_ branch separates from the hyomandibular trunk at about
+the same level as the preceding nerves, and then passes, deep in the
+tissues, around the angle of the jaw to the ventral side where it is
+distributed to the superficial constrictor muscles. Several nerves pass
+from the hyomandibular trunk and the hyoid branch to the dorsal
+superficial constrictors.
+
+4. The _palatine_ branch springs from the base of the hyomandibular
+trunk inside the hyomandibular canal. It passes outward and forward,
+dividing into numerous branches which innervate the mucous membranes of
+the mouth. It can be traced completely later.
+
+One or more small nerves proceeding to the pseudobranch and anterior
+wall of the spiracle arise near the point of origin of the palatine
+branch.
+
+The _otic nerve_, passing from the root of the facial nerve to the
+postorbital canal, is not likely to be found in this dissection.
+
+Observe the enlargement near the base of the hyomandibular trunk, and
+within the cartilaginous canal, the _geniculate ganglion_. The
+_gasserian ganglion_, a component of the trigeminal nerve, lies in the
+ventral portion of the trigeminal-facial root, and can now be located.
+
+The _auditory nerve_ arises close behind the ventral division of the
+trigemino-facial root. The root of the auditory nerve encloses a large
+_auditory ganglion_. A _vestibular nerve_ arises from the anterior end
+of the auditory ganglion and passes into the ear capsule, innervating
+the upper part of the utriculo-sacculus and the ampullae of the anterior
+and horizontal canals. From the posterior part of the ganglion nerves
+pass to the ventral part of the sacculus and the ampulla of the
+posterior canal. Trace these branches as thoroughly as possible.
+
+The _abducens nerve_ emerges from the cranium under and close to the
+origin of the posterior rectus muscle, into which muscle it enters. To
+expose this nerve the trigeminal, facial and auditory nerves must be
+lifted and cut as they pass through the wall of the cranium. It can be
+traced obliquely backward and inward, through a long canal, to its
+origin near the midline of the ventral surface of the medulla.
+
+The _glossopharyngeal nerve_ passes through the base of the ear capsule
+from the side of the medulla to the upper end of the first branchial
+pouch. A ganglionic enlargement is found near where it emerges from the
+cartilage. Outside the cranium the glossopharyngeal divides into a
+_pretrematic branch_, passing down in front of the first gill pouch, and
+a _posttrematic branch_ running behind the pouch. The pretrematic branch
+quickly sends off a _pharyngeal nerve_ which runs antero-ventrally to
+the roof of the pharynx. The pretrematic and posttrematic branches can
+be followed along the gill arch to the ventral side of the pharynx. A
+fourth branch of the glossopharyngeal, the _supratemporal_, springs from
+the dorsal side of the ganglion; passing through the ear capsule it runs
+to the dorsal surface of the head, where it is distributed to the sense
+organs of a short section of the lateral line canal. This small nerve
+can be demonstrated by carefully separating the muscles and
+perichondrium from the posterior surface of the auditory capsule.
+
+The _vagus nerve_ (or _pneumogastric_) arises by an extensive series of
+roots from the side of the medulla. An easily distinguished ribbon-like
+portion of the root, the _lateral line root_, runs forward as far as the
+root of the glossopharyngeal. Note the canal by which the vagus leaves
+the cranium, and trace the nerve along the inner side of the anterior
+cardinal vein.
+
+The principal branches of the vagus are:
+
+1. The _supratemporal_ branch, a small nerve running dorsal through the
+posterior part of the ear capsule to the lateral line canal and other
+sense organs of the head. It will be found near the supratemporal branch
+of the glossopharyngeal.
+
+2. The _lateral line branch_, a large nerve which separates from the
+trunk of the vagus just outside the cranium and runs backward through
+the muscles, parallel to the vertebral column on a level with the
+lateral line. It sends off numerous small twigs to the sense organs of
+the lateral line canal.
+
+3. Four _branchial_ nerves, which can be seen through the floor of the
+anterior cardinal vein, leave the outer side of the vagus trunk. Each
+divides into a pretrematic and posttrematic branch; a pharyngeal branch,
+the last of which is the largest, arises from each posttrematic.
+
+4. Beyond the branchial nerves the remainder of the vagus passes
+backward as the _intestinal_ or _visceral_ trunk, to the end of the
+pharynx, where it divides into a number of branches which are
+distributed chiefly to the wall of the stomach. Near the point of this
+last division the vagus is crossed by the hypobranchial nerve, which
+should be noted and preserved.
+
+The _occipital nerve_ penetrates the lateral wall of the cranium close
+behind the root of the vagus and enters the canal of the vagus, along
+which it passes. On emerging, it sends small branches to the nearby
+muscle, while the principal portion runs on to join the hypobranchial
+nerve. The occipital nerve will be found to arise from the ventral
+surface of the medulla, below and behind the root of the vagus, by two
+or more distinctly separated roots, which may represent distinct nerves.
+
+SPINAL NERVES. The spinal nerves are those nerves which arise from the
+sides of the spinal cord. They differ from the cranial nerves not only
+in their origin outside the cranium, but also in that each spinal nerve
+arises by two roots which spring from the spinal cord near the dorsal
+and ventral surfaces. Each root passes through a foramen in the
+cartilaginous wall of the neural canal, the ventral a little anterior to
+the dorsal, after which they unite to form the spinal nerve. Between the
+junction of the roots and its foramen the dorsal root contains a mass of
+ganglion cells, which cause an enlargement known as the _dorsal root
+ganglion_. The typical course of a spinal nerve is around the body to
+the ventral surface, giving off branches to the muscles and skin of its
+segment. A short distance from the vertebral column the spinal nerves
+lie just outside the peritoneum, through which many of them can be seen
+and followed to about the level of the lateral vein. At this point they
+pass outward into the muscles of the body wall. To dissect any of the
+spinal nerves make a longitudinal incision along the lateral line and
+separate the dorsal muscle mass from the lateral muscles for some
+distance. The dorsal muscles can then be pressed toward the vertebral
+column and dissected away from the peritoneum. The spinal nerves, lying
+against the peritoneum, will be exposed and can be followed easily,
+first to their roots, next ventrally.
+
+The _hypobranchial nerve_, to which attention was called at the point
+where it crosses the vagus, is formed by the union of the principal
+branches of the occipital and first two spinal nerves. The third spinal
+nerve receives a branch from the second, and itself accompanies the
+hypobranchial nerve closely without actually becoming a part of it. The
+union of nerves thus formed is known as a plexus. After crossing the
+vagus the hypobranchial nerve forks, one division passing medial to, the
+other lateral to the anterior cardinal vein; both run ventrally,
+following the last gill arch, and reunite on the lateral wall of the
+pericardium, forming a trunk which runs forward. At the anterior end of
+the pericardium this divides into a dorsal and a ventral branch which
+innervate the surrounding muscles. The hypobranchial nerve innervates
+the skin of the region immediately in front of the pectoral girdle, and
+the coraco-arcualis communis, coraco-mandibularis, coracohyoideus, and
+coraco-branchialis muscles.
+
+The third, fourth, fifth and sixth spinal nerves pass backward and
+ventrad till they reach the level of the articulation of the pectoral
+fin with the girdle. Here they join to form a simple _brachial plexus_,
+from which arise branches proceeding to the musculature of the dorsal
+and ventral faces of the fin. The seventh to eleventh spinal nerves pass
+downward to the level of the fin, and then branch, one portion entering
+the muscles of the ventral body wall, while the other passes into the
+depressor muscles of the fin.
+
+The pelvic fin is innervated by eight or nine spinal nerves which pass
+backward and downward along the medial edge of the septum between the
+myomeres, entering the dorsal side of the fin along its axis. No plexus
+is formed.
+
+OLFACTORY ORGAN (NASAL SAC). Dissect away the skin and other tissues
+around the nostril so as to expose completely the olfactory organ; this
+will be found to be a dark-colored, nearly spherical mass, of half the
+diameter of the eye, firmly attached at its base. By cutting away the
+cartilage dorsal to the nasal sac its base will be exposed, and the
+olfactory bulb will be shown to be closely adherent to a considerable
+part of the postero-dorsal surface of the organ. Numerous short nerves
+can be demonstrated to pass from the olfactory bulb into the olfactory
+organ; all these nerves together are considered as the first cranial or
+olfactory nerve. Remove the olfactory organ from the head; divide it by
+a median longitudinal cut; observe the arrangement and structure of its
+double series of internal folds (lamellae), and the complete median
+septum.
+
+VENTRAL SURFACE OF THE BRAIN. Cut the cord in two some distance back of
+the brain. Cut all cranial nerves just inside the cranium and carefully
+lift the brain out. Parts of the ventral portion of the brain lie in a
+recess beneath the mesencephalon and must be disengaged very gently.
+
+Identify and examine the ventral parts of the brain. Note the
+considerable lateral compression of the mesencephalon. The optic nerves
+cross beneath the diencephalon, forming the _optic chiasma_. From the
+sides of the chiasma slightly elevated _optic tracts_, formed by the
+fibres of the optic nerves, can be traced into the optic lobes.
+
+Back of the optic chiasma the projecting ventral portion of the
+diencephalon forms the _hypothalamus_. The posterior lobe of this
+structure is the _hypophysis_ or _pituitary body_.
+
+The oculo-motor nerves emerge over the posterior end of the
+hypothalamus.
+
+The ventral portion of the mesencephalon is formed by the _cerebral
+peduncles_ (_crura cerebri_), columns of fibres passing between the
+myelencephalon and telencephalon.
+
+The abducens nerves arise on the ventral surface of the myelencephalon
+near the midline and just back of a line connecting the roots of the
+auditory nerves.
+
+The _internal carotid arteries_ reach the brain at the sides of the
+hypothalamus. Branches are sent upward and forward over the surface of
+the brain. Anastomoses between the vessels of the opposite sides are
+formed anterior to the optic chiasma. The main branches of the carotids
+pass backward along the sides of the hypothalamus and unite behind this
+organ. The median artery thus formed runs along the ventral surface of
+the myelencephalon and the spinal cord. Numerous transverse vessels are
+given off to the myelencephalon.
+
+Identify the roots of the remaining cranial nerves.
+
+CAVITIES OF THE BRAIN. Divide the brain into exactly equal halves by a
+vertical longitudinal cut.
+
+Each lobe of the prosencephalon contains a large cavity. These are the
+_prosocoels_. They are commonly known either as the lateral ventricles,
+or the left cavity as the first ventricle and the right as the second
+ventricle. The prosocoels are continued into the olfactory lobes, these
+portions being known as rhinocoels.
+
+The _thalamocoel_ is the cavity within the diencephalon, often called
+the third ventricle. The prosocoels communicate with the thalamocoel by
+lateral openings, the _foramina of Monro_. The roof of the thalamocoel
+is very thin and is non-nervous; it is frequently torn during the early
+dissection. Where the lobes of the prosencephalon meet the dorsal wall
+of the diencephalon this thin roof is pushed into the prosocoels,
+carrying with it the pia mater and its blood vessels, and thus forms
+vascular ingrowths known as the _choroid plexi_. The thalamocoel
+continues above into the epiphysis and below into the hypothalamus.
+
+The _myelocoel_ is the large cavity of the myelencephalon. It also is
+frequently apparently open to the exterior at the posterior end by the
+accidental breaking of the thin, non-nervous dorsal wall of this region.
+The myelocoel is also known as the fourth ventricle.
+
+The thalamocoel and myelocoel are connected by a narrow passage through
+the mesencephalon, the _aqueduct of Sylvius_ (_iter, mesocoel_).
+
+The optocoels are large cavities within the optic lobes which open into
+the aqueduct of Sylvius.
+
+A large metacoel in the metencephalon opens into the myelocoel. The
+myelocoel is also continued into the corpora restiforma; posteriorly it
+joins the _central canal_ which extends down the center of the spinal
+cord.
+
+DISSECTION OF THE EYE. Remove one of the eyes from its orbit, and divide
+it into inner and outer halves by an equatorial cut around the eyeball
+(not directly through it, as this tears the lens from its fastenings).
+Place the halves under water and observe:
+
+In the inner half:
+
+The _posterior chamber_, the cavity of the eyeball which has been
+opened. During life it is filled by a gelatinous substance, the
+_vitreous humor_.
+
+The _retina_, a delicate yellowish-white membrane lining the interior of
+the eye, loosely attached to the outer coats except at the point of
+entrance of the optic nerve.
+
+The _choroid coat_, a thin, black membrane outside the retina. It can be
+pulled away from the outer coat quite easily except near the optic
+nerve.
+
+The _sclerotic coat_, the outer coat of the eye. This is composed of
+connective tissue having an almost cartilaginous consistency, is only
+slightly pigmented, and is somewhat translucent. The muscles of the eye
+are inserted upon the sclerotic.
+
+In the outer half:
+
+The _ora serrata_, an irregular line along which the retina ends.
+
+The _iris_, a fold of the choroid extending inward like a shelf, and
+perforated centrally to form the pupil. Around the iris the choroid is
+folded radially into the _ciliary processes_.
+
+The _lens_, a spherical body, transparent and elastic during life, but
+opaque and hard in preserved specimens. It projects into the pupil and
+is suspended from the ciliary processes by a delicate membrane, the
+_suspensory ligament_.
+
+The _anterior chamber_, in front of the iris and lens, filled with a
+watery fluid, the _aqueous humor_.
+
+The transparent _cornea_, forming the outer side of the eyeball,
+continuous with the sclerotic.
+
+Take out the other eye and cut it in two by a section through the pupil
+and optic nerve. Review the relation of the parts.
+
+
+                              THE SKELETON
+
+There seems to be no easy way of cleaning the skeleton of dogfish which
+have been preserved in formalin or alcohol, the only procedure being to
+cut, pick, and scrape the flesh away from the skeleton. Time and
+patience are required, but if these are allowed there is no reason why
+all the parts of the skeleton cannot be thoroughly studied. Specimens
+which have been preserved in brine are more easily skeletonized.
+
+The skeleton is entirely composed of cartilage which, in large species
+of elasmobranchs and in old individuals of small species, becomes
+impregnated with lime salts, in some cases to such an extent as to
+resemble soft bone.
+
+The parts of the skeleton are frequently grouped under two heads: the
+_axial skeleton_, comprising the skull and vertebral column; and the
+_appendicular skeleton_, including the pectoral and pelvic girdles and
+the skeleton of the fins.
+
+VERTEBRAL COLUMN. The vertebral column is divided into two regions,
+thoracic and caudal, distinguished by the slightly different character
+of the vertebrae. Remove the muscle and connective tissue from the
+vertebral column for a short distance anterior to the first dorsal fin.
+Care is required not to cut away small cartilages occupying the
+positions of ribs. Now remove from the body about two inches of the
+portion of the column exposed with any cartilaginous parts which may be
+attached to the vertebrae. The vertical column is made up of segments,
+called _vertebrae_. Each vertebra consists of a large ventral mass, the
+centrum, and an arch, the neural arch, roofing over the dorsal surface
+of the centrum; the arch is composed of several small plates of
+cartilage. The opening enclosed by each centrum and its neutral arch is
+the vertebral foramen; the joined vertebral foramina form the neural
+canal, which is occupied by the spinal cord.
+
+Separate one of the vertebrae from the rest. The centrum is deeply
+concave at each end; such a centrum is termed amphicoelous. At the
+middle of the centrum the concavities meet and thus a canal is formed
+through it. This canal and the spaces between the ends of adjoining
+vertebrae are filled by the remains of the notochord, a rather pulpy
+structure extending from end to end of the vertebral column.
+
+The concave faces of the vertebrae consist of much firmer cartilage than
+the remaining portions, sometimes even calcified. Make a transverse
+section through the middle of a centrum and observe the relations of the
+parts.
+
+On each side of the centrum, near the ventral edge, is a plate-like
+projection, the transverse process. Attached to the extremity of this is
+a slender cartilaginous _rib_.
+
+Each _neural arch_ is made up of two distinguishable sets of plates. The
+first consists of a pair of broad _neural plates_ extending upward from
+each side of the centrum and uniting with each other dorsally. Between
+the neural plates of two successive vertebrae is a pair (one on each
+side) of _intercalary plates_ which also unite over the neural canal.
+The intercalary plates are over the joint between the centra. Neural and
+intercalary plates together make the lateral and dorsal walls of the
+neural canal. The relations of these plates can sometimes be seen best
+when the neural arch is cleaned, then cut away from the centrum, and
+looked through toward the light.
+
+In the lower part of each neural plate is a small foramen which allows
+the passage of the ventral root of the spinal nerve. A foramen for the
+dorsal root is found at about the middle of the intercalary plate.
+
+Clean and remove some of the caudal vertebrae from the region just back
+of the cloaca. In general they have nearly the same structure and
+relations as the thoracic vertebrae, but have no transverse processes
+and the plates of the neural arches are not so distinct. There is also
+added a ventral arch similar in form to the neural arch. This is the
+_haemal arch_, in which lie the caudal aorta and vein. Its roof is the
+surface of the centrum, the sides are formed by pairs of plates which
+correspond in number to the centra, and unite with each other ventrally.
+Between the successive plates are openings for the passage of branches
+of the artery and vein.
+
+In this region foramina for the roots of the spinal nerves are found
+only in every other pair of neural and intercalary plates. Toward the
+tip of the vertebral column the relation of the neural and intercalary
+plates to the centra becomes very irregular.
+
+In Eugaleus the roof of the neural arch is formed by a row of small,
+diamond-shaped plates which fit in between the other two sets. As these
+plates correspond morphologically to the neural spines of higher
+vertebrates, they may receive that name here. It is probable that the
+dorsal portion of the arch in Squalus is composed of similar neural
+spine elements which have become fused with the neural and intercalary
+plates of each side.
+
+SKULL. The skull is entirely cartilaginous, and comprises three
+principal divisions: (1) the _cranium_, an undivided mass of cartilage
+lodging the brain and the organs of smell, sight, and hearing; (2) the
+_jaws_; (3) the _visceral arches_, or skeletons of the gill arches.
+
+(1) The cranium. A blunt prolongation of the anterior extremity of the
+cranium forms the _rostrum_, which supports the soft tissues of the
+snout. At each side of the base of the rostrum the cranium widens
+abruptly. On the anterior face of the widened portion and below the
+posterior angles of the rostrum is a pair of protruding _olfactory
+capsules_, in which the olfactory sacs are enclosed. An oval aperture in
+the posterior wall of each capsule opens into the braincase and permits
+the passage of the olfactory nerve through the cranium.
+
+Back of the olfactory capsules are large lateral cavities, the _orbits_.
+The dorsal edge of the orbit makes an overhanging ledge, known as the
+_supra-orbital crest_. The projecting anterior and posterior angles of
+the orbit are distinguished as the prae- and postorbital processes.
+
+The portions of the cranium back of the orbit and at the sides of the
+braincase form large lateral projections (_auditory capsules_)
+containing the organs of hearing.
+
+At the center of the nearly vertical posterior surface of the cranium is
+a large opening, the _foramen magnum_, through which the spinal cord
+passes.
+
+At either side of and below the foramen magnum is a smooth articulatory
+surface (_occipital condyle_) articulating with the centrum of the first
+vertebra.
+
+The flattened ventral surface of the posterior part of the cranium forms
+the roof of the mouth, or palate.
+
+In the mid-dorsal line of the cranium, between the prae-orbital
+processes, is a small aperture opening into the brain cavity, the
+_epiphysial foramen_. It is closed during life by a tough, fibrous
+membrane. The stalk of the epiphysis extends to the under surface of
+this membrane.
+
+Between the auditory capsules is a deep depression in the roof of the
+cranium in the floor of which can be seen the two small pores through
+which the ducti endolymphatici pass into the capsules. Close behind them
+are two larger openings for the perilymph ducts.
+
+A pair of foramina passes through the inner edge of the prae-orbital
+process; these permit the passage of the ophthalmic branches of the
+trigeminal and facial nerves to the dorsal surface of the snout. Near
+the bottom of the inner wall of the orbit is the foramen of the optic
+nerve. In the postero-ventral angle of the orbit is the large
+trigemino-facial foramen for the exit of branches of the trigeminal and
+facial nerves; in front of it is the small oculo-motor foramen. The
+extremely small foramen of the trochlear nerve is almost directly above
+the optic foramen, near the top of the inner wall of the orbit. Close
+below the trigemino-facial foramen is the small passage for the abducens
+nerve. Below the abducens foramen is the transbasal canal. Behind and
+below the trigemino-facial foramen are two foramina, through which pass
+the hyomandibular branches of the facial nerve. The foramen of the vagus
+nerve is close to the foramen magnum, upon the posterior surface of the
+cranium. The foramen of the glossopharyngeal nerve is lateral to that of
+the vagus, near the postero-lateral angle of the cranium.
+
+The cranium of Eugaleus is much like that of Squalus, except that the
+rostrum is formed by three rods, two dorsal and one ventral, which arise
+from the front of the braincase and converge anteriorally until they
+meet and fuse. The olfactory capsules are much larger and of heavier
+cartilage than in Squalus. The auditory region similarly is more
+prominent.
+
+(2) The jaws. The jaws in reality are the first pair of visceral or gill
+arches, and in spite of the modification which has taken place this
+relation can be seen easily in the adult shark. The upper jaw consists
+of a pair of _palato-quadrate_ cartilages, united medially by ligament,
+and bearing the upper series of teeth. A large hooked palatine process
+extends from each palato-quadrate cartilage upward along the inner wall
+of the orbit. The lower jaw likewise consists of a pair of _Meckel’s
+cartilages_, united medially (the union is called the symphysis), and
+bearing the lower series of teeth. A pair of small labial cartilages,
+which support the edges of the labial pockets, lie at each corner of the
+mouth.
+
+(3) Visceral arches. The first of the visceral arches is much larger and
+heavier than the rest. It is known as the _hyoid arch_. Each side of the
+arch consists of two rods of cartilage: (1) the _hyomandibular
+cartilage_, which articulates with a distinct facet on the lateral
+surface of the auditory capsule, and extends from here downward,
+outward, and backward; (2) the _ceratohyal_ cartilage, which is movably
+articulated to the hyomandibular and extends downward, forward and
+inward. The ventral ends of the ceratohyals are united by a median,
+plate-like _basihyal_.
+
+The palato-quadrate and Meckelian cartilages are suspended from the
+hyomandibular by several strong ligaments, the direct attachments of the
+jaws to the cranium being of soft connective tissue only. Both the
+hyomandibular and ceratohyal cartilages bear slender rods (_branchial
+rays_) on their posterior edges, which support the anterior wall of the
+first gill pouch. Note the position of the spiracle between the
+mandibular and hyoid arches. The anterior wall of the spiracle is
+strengthened by two small, flat, vertical cartilages, probably
+homologous with the branchial rays of the gill arches.
+
+The remaining five visceral arches differ little in their construction.
+Dorsally, each has a flat, sickle-shaped _pharyngo-branchial_
+cartilage attached to the vertebral column by fibrous bands. The
+pharyngo-branchials of the last two arches are fused. Ventrad to each
+pharyngo-branchial is an _epibranchial_ cartilage. The next segment of
+each arch is formed by the _ceratobranchial_ cartilage. All the
+epibranchials and ceratobranchials except those of the fifth arch bear
+slender branchial rays. The ventral ends of the ceratobranchials
+articulate with each other, the first being attached to the ceratohyal
+by ligament. The second, third, and fourth arches have another more
+ventral series of cartilages, the _hypobranchials_. The lower ends of
+the hypobranchials are attached to a large median plate, the
+_basibranchial_. The fourth ceratobranchial joins the third
+hypobranchial, while the ceratobranchials of the fifth arch are attached
+to the basibranchial directly. The basibranchial is composed of two
+segments closely united by ligament; the anterior one narrow, the
+posterior broad and flat in front, tapering to a sharp point behind.
+
+Short teeth of cartilage, called gill rakers, project into the pharynx
+from the inner edges of the arches.
+
+A dorsal and a ventral series of _extra-branchial_ cartilages, thin,
+slender plates, lie on the external side of each gill arch.
+
+PECTORAL GIRDLE AND FIN. Remove from the body the pectoral girdle, with
+the fins attached, and carefully scrape off the muscles from the
+cartilaginous parts. It will be found that the support of the fin is
+partly of cartilaginous plates and rods, partly of horny fibres (_dermal
+fin-rays_) which overlie the extremities of the cartilages and extend to
+the edges of the fin. These fibres are in two layers, one beneath the
+skin of each side. They are formed in the dermis. A similar arrangement
+of horny fibres is found in all the other fins.
+
+The pectoral girdle passes across the ventral surface of the body and
+upward on each side to the level of the vertebral column. The stout
+ventral bar presents numerous facets for the origin and insertion of
+muscles. The articular surfaces for the pectoral fins are well up on the
+sides of the girdle. The slender dorsal end of each side of the girdle
+consists of a separate bar of cartilage, movably articulated to the
+lower portion. The ascending limb of the girdle, from the fin
+articulations to the base of the cartilage just mentioned, is called the
+_scapular portion_; the small bar is the _supra-scapular_; the ventral
+bar between the fin articulations is the _coracoid portion_.
+
+The cartilaginous skeleton of the pectoral fin consists primarily of a
+row of three _basal_ cartilages, all articulating proximally with the
+girdle. The middle basal is much the largest. Distal to the basals are
+three rows of rod-like _radial_ cartilages, the proximal row being
+articulated to the basals.
+
+PELVIC GIRDLE AND FIN. Remove the pelvic girdle from the body with the
+pelvic fins attached, and clean away the muscles.
+
+The pelvic girdle consists of an almost straight bar of cartilage,
+slightly thicker at its middle than at its ends, which lies transversely
+in the ventral wall of the abdomen. To each end is attached a long
+_basal_ cartilage which lies in the fin, close to and parallel with its
+inner margin. A proximal series of slender _radial_ cartilages is
+attached to the lateral side of the basal; a distal series of very short
+radials lies outside of the first series, while the portion of the fin
+beyond these is supported by the dermal fin-rays.
+
+FIRST DORSAL FIN. Remove the mass of muscles on both sides of the base
+of the fin down to the vertebral column. The principal cartilages of the
+fin lie in the median connective tissue septum which separates the
+dorsal musculature of the two sides of the body. The basal cartilages of
+the fin are attached to the vertebral column by means of this septum. It
+is best to remove the underlying portion of the column with the fin. The
+cartilages can then be scraped perfectly clean. The skeleton of the fin
+is composed of three rows of cartilages: (1) a basal row consisting of
+one very large, flat plate and two or three smaller ones posterior to
+it; (2) an intermediate row of several plates of nearly equal size; and
+(3) a distal row of several very small plates. The intermediate and
+distal rows extend beyond the body musculature into the base of the fin.
+The remainder of the fin is supported by the dermal rays. In front of
+the cartilages which have been mentioned is the strong spine of dentine
+(see p. 5), with its free portion sheathed by an enamel-like covering.
+
+SECOND DORSAL FIN. Remove this from the body in the same manner as the
+first dorsal. Its structure follows the same general plan, the
+differences being minor ones of shape, size, and number of plates.
+Several thin cartilaginous plates are sometimes formed in the median
+septum in front of the spine.
+
+CAUDAL FIN. Only one side of the caudal fin should be cleaned, as when
+both sides are cleaned there is danger of breaking the delicate
+cartilages. The cartilaginous skeleton of the caudal fin consists of a
+row of slender rods along the dorsal side of the vertebral column,
+extending to its tip. There are no cartilaginous elements in the fin
+ventral to the vertebral column. By far the greater part of the caudal
+fin is supported by the two layers of horny fin-rays only.
+
+
+                              MUSCULATURE
+
+Dissect the skin off the head, neck, and body to back of the pectoral
+fins. Observe first the musculature of the dorsal side of the neck and
+of the body back of the bases of the pectoral fins, noticing that it is
+composed of narrow, zigzag bands, called _myomeres_. Where these are
+fully developed they extend from the mid-dorsal to the mid-ventral line.
+Note carefully the relation of corresponding myomeres of the two sides,
+the exact course of a single myomere, and the direction of the muscle
+fibres in a typical myomere. Observe also that the muscles above the
+level of the vertebral column form a thick mass, which is frequently
+referred to as the dorsal musculature; the muscle below this level may
+be correspondingly referred to as the ventral musculature. As the
+muscles described below are dissected the mechanical effect of each
+should be determined.
+
+MUSCULATURE OF THE HEAD AND NECK. On the lateral and ventral surfaces of
+the neck the primary relations of the myomeres are much modified by the
+development of numerous special muscles, yet here and there traces of
+the metameric arrangement still show. Immediately beneath the skin is a
+thin sheet of muscle covering most of the ventral and lateral surfaces
+of the throat as far back as the pectoral girdle. On the ventral surface
+a triangular space is left in front of the pectoral bar; on the sides of
+the neck the sheet extends back to the last gill-cleft; dorsally, it
+reaches to the upper extremities of the gill pouches. This is the
+_constrictor superficialis_ muscle. It is attached to fasciae dorsally
+and ventrally, and to the extra-branchial cartilages.
+
+The constrictor superficialis consists of six metameric segments. The
+four posterior ones are distinctly limited by the gill-slits and
+extra-branchial cartilages. The second is anterior to the first gill
+slit, the largest of all, with distinct dorsal and ventral portions
+extending forward above and below the jaws. The first is recognized as
+consisting of two distinct parts, on the dorsal and ventral surfaces of
+the head. The dorsal portion is a small curved muscle on the anterior
+wall of the spiracle, extending from the external surface of the
+auditory capsule to the inner surface of the lower jaw. It lies close
+against the levator marillae superioris (see below). On the ventral
+surface of the throat the posterior constrictor muscles of the two sides
+are separated by a large triangular area. In front of this the ventral
+portions of the first and second constrictors meet in a median
+aponeurosis, from which their fibres extend transversely, those of the
+first to the mandibular cartilage, those of the second to the hyoidean
+cartilage. The first constrictor lies ventral or superficially to, and
+largely covers the second. Reflect the first constrictor from the
+aponeurosis outward, and demonstrate the two layers of muscle. It will
+be noted that the second to sixth constrictors consist of united dorsal,
+lateral and ventral portions, while the first is reduced to widely
+separated dorsal and ventral parts.
+
+On each side of the head, just outside the angle of the mouth, is a
+large, thick muscle arising from the lateral surface of the cranium, and
+inserted upon the outer surface of the mandible, the _adductor
+mandibularis_.
+
+In front of the small dorsal constrictor superficialis 1, and scarcely
+separated from it, is the strong _levator maxillae superioris_, which
+extends from the lateral surface of the auditory capsule to the dorsal
+edge of the palato-quadrate cartilage.
+
+Eugaleus. The dorsal portion of the _constrictor superficialis 2_
+reaches above the spiracle to the postorbital process. Reflecting it,
+the _adductor hyomandibulae_ is seen behind the spiracle, arising from
+the upper part of the side of the auditory capsule and inserted on the
+end of the hyomandibular cartilage. The _levator palpebrae inferioris_
+arises under the origin of the levator hyomandibulae, and passes forward
+and downward between the spiracle and postorbital process, to insert in
+the posterior end of the lower eyelid. The _depressor palpebrae
+superioris_ arises from the fascia dorsal to the spiracle, passes mediad
+to the levator palpebrae inferioris, upward and forward, to insert in
+the posterior end of the upper eyelid. Remove these muscles. The
+infra-orbital canal passes mediad to the muscles of the eyelids. The
+_levator maxillae superioris_ lies between the spiracle and the orbit.
+Behind it is a small slip of muscle extending from the anterior wall of
+the spiracle to the lateral surface of the auditory capsule which seems
+to represent the _constrictor superficialis dorsalis 1_.
+
+A thin sheet of muscle covers the anterior face of each inter-branchial
+septum. At the surface these pass into the constrictor superficialis,
+and are evidently portions of the latter muscle, though they are named
+the _musculi interbranchiales_.
+
+Above the constrictor superficialis, lying on the side of the neck
+between it and the dorsal musculature, is a broad _trapezius_ muscle. It
+arises from the fascia covering the lateral surface of the dorsal
+musculature. Its fibres pass obliquely downward and backward, mediad to
+the posterior gill pouches, to insert upon the anterior edge of the
+scapular portion of the pectoral girdle. The anterior portion of the
+trapezius is also inserted upon the epibranchial of the fifth gill arch.
+
+Just in front of the mouth is a pair of strong muscles (_levator
+labialis superioris_), each arising from the ventral surface of the
+cranium close to the median line. They pass into strong tendons which
+are inserted among the fibres of the ventral portion of the adductor
+mandibulae. The muscle mass in front of the mouth and the lower part of
+the adductor mandibularis thus form the two bellies of a digastric
+muscle, with the tendon between them.
+
+[2]Remove the ventral portions of the first and second superficial
+constrictors and clear the mass of muscles lying between the coracoid
+portion of the pectoral girdle and the mandible. Immediately in front of
+the girdle are two large muscles, the _coraco-arcuales communes_, whose
+fibres run inward and forward. These muscles cover the ventral surface
+of the pericardium, to the wall of which their median fibres are
+attached, while the lateral fibres are attached around the ventral ends
+of the gill arches.
+
+Footnote 2:
+
+  The coraco-mandibularis, coraco-hyodeus, coraco-arcualis communis, and
+  coraco-branchialis muscles should be dissected as a preliminary
+  operation to following the ventral aorta and its branches.
+
+In front of the coraco-arcuales communes are three large longitudinal
+muscles. The median, unpaired one, arising from the fascia between the
+coraco-arcuales communes and inserted upon the posterior surface of the
+lower jaw, is the _coraco-mandibularis_. The other two, which lie dorsal
+to and outside of the coraco-mandibularis, are the _coraco-hyoidei_.
+They arise from the fasciae covering the anterior ends of the
+coraco-arcuales communes and posterior parts of the coraco-branchiales,
+and insert upon the basihyal.
+
+Dissect out the coraco-mandibularis and coraco-hyoidei, noting
+particularly the form and place of origin of the latter. Dorsal to the
+coraco-hyoidei are the first divisions of the right and left
+_coraco-branchialis_ muscles, which arise from fascia covering the
+anterior ends of the coraco-arcuales communes, and are inserted upon the
+ventral extremity of the ceratohyal cartilage. Notice that they pass
+dorsad to the anterior branches of the aorta, and that the aorta itself
+can be exposed between them.
+
+Remove the coraco-arcualis communis by dissecting it from the pectoral
+girdle and reflecting it forward. The other four divisions of the
+coraco-branchialis are now revealed, attached to the lateral surface of
+the pericardium and the lateral portion of the coracoid. The divisions
+of the muscle are clearly separated only near their insertions. The
+second, third, and fourth coraco-branchials are attached to the
+hypobranchial cartilages of the second, third and fourth visceral
+arches. The fifth division is inserted upon the lateral portion of the
+basibranchial and the expanded medial end of the fifth ceratobranchial.
+
+_The first_ aortic branch passes ventral to the first coraco-branchial.
+_The second_ aortic branch passes between the first and second
+coraco-branchials. _The third_ aortic branch passes between the second
+and third coraco-branchials. _The fourth_ aortic branch passes between
+the third and fourth coraco-branchials.
+
+Expose the dorsal ends of the gill arches by clearing away muscles and
+other tissues between the gill pouches and the spinal column. Two sets
+of four small muscles (interarcuales) will be found connected with the
+branchial cartilages. The second, third and fourth _medial
+interarcuales_ extend from the posterior surfaces of pharyngo-branchial
+cartilages 1, 2, and 3, to the dorsal surfaces of pharyngo-branchials 2,
+3, 4, and 5. The first medial interarcuale arises from the under surface
+of the cranium and inserts on the upper end of the first
+pharyngo-branchial.
+
+The _lateral interarcuales_ lie immediately below the medials. The first
+has a double origin, most of the fibres arising from the lower part of
+the posterior edge of the first pharyngo-branchial; a smaller bundle
+from the anterior edge of the second pharyngo-branchial. Its insertion
+is along the dorsal surface of the first epibranchial cartilage. The
+second and third lateral interarcuales are like the first, but since the
+fourth and fifth pharyngo-branchials are fused, the origin of the fourth
+lateral interarcuale is not divided.
+
+The circular muscles of the oesophagus are strongly attached to the last
+pharyngo-branchial.
+
+MUSCULATURE OF THE PECTORAL FIN. The dorsal muscle of the fin
+(_levator-retractor_) arises mostly from the scapular portion of the
+girdle, with a small part arising from the fascia covering the
+lateral musculature of the body. It is attached in fasciculi to the
+dorsal surfaces of the cartilaginous rays. The ventral muscle
+(_depressor-protractor_) arises from the median portion of the
+girdle and is inserted upon the cartilaginous rays in similar
+fasciculi. A portion of the lateral body muscles is inserted upon
+the scapular portion of the girdle.
+
+MUSCULATURE OF THE PELVIC FIN. Ventral surface: An _adductor_ muscle has
+origin upon the postero-lateral edge of the girdle; it is inserted upon
+the antero-medial surface of the basal cartilage of the fin. The
+_depressor_ muscle consists of small fasciculi, each corresponding to a
+cartilaginous ray. They arise from the postero-lateral surface of the
+basal cartilage and are inserted upon the distal extremities of the
+rays.
+
+Dorsal surface: The _abductor_ arises from the fascia covering the trunk
+muscles, and inserts upon the fascia covering the intrinsic muscles of
+the dorsal side of the fin. These latter (_levatores_) are arranged in
+exactly the same manner as the fasciculi of the depressor.
+
+MUSCULATURE OF THE DORSAL FINS. A sheet of muscle is attached to each
+side of the anterior dorsal fin, extending nearly up to the bases of the
+dermal fin-rays. This muscle passes downward between the dorsal body
+musculature of the two sides. Part of the fibres arise from the fasciae
+covering the medial surfaces of the body muscles, part from the basal
+cartilage of the fin itself. They are inserted upon the lateral surfaces
+of the broad cartilaginous fin-rays. The muscles of the posterior dorsal
+fin are exactly similar in arrangement.
+
+MUSCULATURE OF THE CAUDAL FIN. There is no special musculature for the
+dorsal portion. A narrow, band-like muscle is found on each side of the
+ventral portion, widest above the triangular ventral lobe. The fibres of
+this muscle arise upon the flattened, expanded ends of the haemal
+spines. They pass obliquely backward and upward to be inserted in the
+fascia underlying the skin.
+
+
+------------------------------------------------------------------------
+
+
+
+
+ ● Transcriber’s Notes:
+    ○ Missing or obscured punctuation was silently corrected.
+    ○ Typographical errors were silently corrected.
+    ○ Inconsistent spelling and hyphenation were made consistent only
+      when a predominant form was found in this book.
+    ○ Text that was in italics is enclosed by underscores (_italics_).
+
+
+
+
+
+

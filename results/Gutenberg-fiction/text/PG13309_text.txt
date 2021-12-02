@@ -1,0 +1,7 @@
+﻿ERRATA REPORT: Last Updated: April 27, 2018
+
+
+An error reported on page 9 of the book or page 11 of the .pdf file.
+
+Current text reads "8x=90"
+Text should read "8x=96"

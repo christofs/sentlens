@@ -1,0 +1,2243 @@
+the USDA through The Internet Archive and placed in the
+Public Domain.
+
+
+
+
+
+
+
+
+
+
+Transcriber Note
+
+Text emphasis is denoted as _Italics_.
+
+
+
+
+                UNITED STATES DEPARTMENT OF AGRICULTURE
+
+                           BULLETIN No. 844
+
+            Contribution from the Bureau of Plant Industry
+
+                         WM. A. TAYLOR, Chief
+
+
+     Washington, D. C.     PROFESSIONAL PAPER      August 11, 1920
+
+
+                           SWEET-CLOVER SEED
+
+Part I.--Pollination Studies of Seed Production
+
+Part II.--Structure and Chemical Nature of the Seed Coat and its
+Relation to Impermeable Seeds of Sweet Clover
+
+By
+
+H. S. COE, formerly Assistant Agronomist, Office of Forage-Crop
+Investigations, and J. N. MARTIN, Professor of Morphology and Cytology,
+Iowa State College
+
+CONTENTS
+
+                                                                  Page
+  Part I.--Pollination Studies of Seed Production.
+    Unsatisfactory yields of sweet-clover seed                       1
+    Previous investigations of the pollination of sweet clover       2
+    Outline of pollinating experiments                               3
+    Structure of the flowers of Melilotus alba                       4
+    Development of the floral organs of sweet clover                 5
+    Fertilization in Melilotus alba                                  8
+    Development of the seed                                          8
+    Mature pollen of sweet clover                                    9
+    Germination of the pollen                                        9
+    Cross-pollination and self-pollination of sweet clover          10
+    Artificial manipulation of sweet-clover flowers                 10
+    Seed production of Melilotus alba under  ordinary field
+        conditions                                                  13
+    Efficiency of certain kinds of insects as pollinators of
+        sweet clover                                                14
+    Relation of the position of the flowers on Melilotus alba
+        plants to seed production                                   19
+    Influence of the weather at blossoming time upon seed
+        production                                                  20
+    Insect pollinators of sweet clover                              21
+    Effect of moisture upon the production of Melilotus alba seed   22
+
+  Part II.--Structure and Chemical Nature of the Seed Coat
+      and its Relation to Impermeable Seeds of Sweet Clover.
+    Historical summary                                              26
+    Material and methods                                            30
+    Structure of the seed coat                                      31
+    Microchemistry of the seed coat                                 33
+    The seed coat in relation to the absorption of water            34
+    A comparison of permeable and impermeable seed coats            34
+    The action of sulphuric acid on the coats of impermeable seeds  35
+
+  Literature Cited                                                  36
+
+[Illustration]
+
+
+WASHINGTON GOVERNMENT PRINTING OFFICE
+
+1920
+
+                UNITED STATES DEPARTMENT OF AGRICULTURE
+
+                           BULLETIN No. 844
+
+            Contribution from the Bureau of Plant Industry
+
+                         WM. A. TAYLOR, Chief
+
+
+     Washington, D. C.     PROFESSIONAL PAPER      August 11, 1920
+
+
+
+
+                           SWEET-CLOVER SEED
+
+Part I.--Pollination Studies of Seed Production
+
+Part II.--Structure and Chemical Nature of the Seed Coat and its
+Relation to Impermeable Seeds of Sweet Clover
+
+
+By H. S. Coe, _formerly Assistant Agronomist, Office of
+Forage-Crop Investigations_, and J. N. Martin, _Professor of
+Morphology and Cytology, Iowa State College_.
+
+
+
+
+CONTENTS
+
+
+                                                                  Page
+  Part I.--Pollination Studies of Seed Production.
+    Unsatisfactory yields of sweet-clover seed                       1
+    Previous investigations of the pollination of sweet clover       2
+    Outline of pollinating experiments                               3
+    Structure of the flowers of Melilotus alba                       4
+    Development of the floral organs of sweet clover                 5
+    Fertilization in Melilotus alba                                  8
+    Development of the seed                                          8
+    Mature pollen of sweet clover                                    9
+    Germination of the pollen                                        9
+    Cross-pollination and self-pollination of sweet clover          10
+    Artificial manipulation of sweet-clover flowers                 10
+    Seed production of Melilotus alba under  ordinary field
+        conditions                                                  13
+    Efficiency of certain kinds of insects as pollinators of
+        sweet clover                                                14
+    Relation of the position of the flowers on Melilotus alba
+        plants to seed production                                   19
+    Influence of the weather at blossoming time upon seed
+        production                                                  20
+    Insect pollinators of sweet clover                              21
+    Effect of moisture upon the production of Melilotus alba seed   22
+
+  Part II.--Structure and Chemical Nature of the Seed Coat
+      and its Relation to Impermeable Seeds of Sweet Clover.
+    Historical summary                                              26
+    Material and methods                                            30
+    Structure of the seed coat                                      31
+    Microchemistry of the seed coat                                 33
+    The seed coat in relation to the absorption of water            34
+    A comparison of permeable and impermeable seed coats            34
+    The action of sulphuric acid on the coats of impermeable seeds  35
+
+  Literature Cited                                                  36
+
+
+
+
+Part I.--POLLINATION STUDIES OF SEED PRODUCTION.
+
+
+UNSATISFACTORY YIELDS OF SWEET-CLOVER SEED.
+
+In some sections of the country much trouble has been experienced for
+a few years past in obtaining satisfactory yields of sweet-clover
+seed. This difficulty has been due for the most part to the following
+causes: (1) To cutting the plants at an improper stage of development,
+(2) to the use of machinery not adapted to the handling of the crop,
+(3) to the shedding of immature pods, and (4) possibly to the lack of
+pollination. As the first two have been overcome, mainly because of a
+better understanding of the requirements for handling this crop, the
+subject matter of this bulletin is concerned primarily with the factors
+which produce the third and fourth causes.
+
+Where the production of seed was disappointing although the plants
+produced an abundance of flowers, it has been observed that many
+apparently were not fertilized, or if fertilized the pods aborted. In
+order to obtain data in regard to the causes of the failure of sweet
+clover to produce a normal seed yield, a study was made of the insects
+which were most active in pollinating the flowers, the source of the
+pollen necessary to effect fertilization, and the conditions under
+which the flowers must be pollinated in order to become fertilized.
+The relation of environmental conditions to the shedding of immature
+pods was also investigated. In order to overcome local environmental
+factors as much as possible, the experiments were conducted on the
+Government Experiment Farm at Arlington, Va., and in cooperation with
+the botanical department of the Iowa State College at Ames, Iowa.
+
+
+PREVIOUS INVESTIGATIONS OF THE POLLINATION OF SWEET CLOVER.
+
+Since Darwin (4, p. 360)[1] published the statement that a plant of
+_Melilotus officinalis_ protected from insect visitation produced but
+a very few seeds, while an unprotected plant produced many, other
+scientists have investigated this subject. Knuth (19, v. 1, p. 37),
+in giving a list of the best known cases of self-sterility in plants,
+mentions _Melilotus officinalis_. The same author (19, v. 2, p. 282)
+states that since the stigma projects beyond the anthers, automatic
+self-pollination is difficult, and for the same reasons Müller (29, p.
+180) believes that self-fertilization is not apt to occur.
+
+[1] The serial numbers in parentheses refer to "Literature cited,"
+pages 36-38.
+
+In 1901 Kirchner (18, p. 7) covered a number of _Melilotus alba_
+racemes with nets. On one of the plants 12 protected racemes produced
+187 seeds and on another plant only one seed was obtained from
+10 covered racemes. This experiment was duplicated in 1904, with
+the result that 40 netted racemes produced an average of 38 seeds
+each. Kirchner concluded from this experiment that spontaneous
+self-pollination occurs regularly even though the stigma projects above
+the anthers. He (18, p. 8) also performed an experiment with _Melilotus
+officinalis_ in 1901. At this time 16 isolated racemes produced a total
+of 11 seeds. This experiment was repeated in 1904, with the result
+that 16 protected racemes produced an average of 14 seeds each. As
+the racemes on one of the plants that was protected in 1904 died,
+Kirchner concluded that the flowers of _M. officinalis_ were especially
+sensitive to inclosure in nets and that the failures to obtain more
+than a very few seeds on protected racemes in Darwin's experiment and
+in his first experiment were due to this cause.
+
+According to Kerner (17, v. 2, p. 399) the peas and lentils (Pisum and
+Ervum) and the different species of horned clover and stone clover
+(Lotus and Melilotus) as well as the numerous species of the genus
+Trifolium and also many others produce seeds when insects are excluded
+from the plants, and only isolated species of these genera gave poor
+yields without insect visitation.
+
+
+OUTLINE OF POLLINATING EXPERIMENTS.
+
+The yield of sweet-clover seed varies greatly from year to year in many
+parts of the United States. It has been assumed that this variation
+was due to climatic conditions, as excellent seed crops were seldom
+harvested in seasons of excessive rainfall or of prolonged drought just
+preceding or during the flowering period. The lack of a sufficient
+number of suitable pollinating insects also was thought to be an
+important factor in reducing seed production. This was especially true
+where the acreage of sweet clover was large and where few, if any,
+honeybees were kept.
+
+In order to obtain data upon the factors influencing the yield of
+seed, a series of experiments was outlined to determine (1) whether
+the flowers are able to set seed without the assistance of outside
+agencies, (2) whether cross-pollination is necessary, (3) the different
+kinds of insects which are active agents in pollinating sweet clover,
+and (4) whether a relation exists between the quantity of moisture in
+the soil and the production of seed.
+
+The racemes containing the flowers which were to be pollinated by hand
+were covered with tarlatan before any of the flowers opened and were
+kept covered except while being pollinated until the seeds were nearly
+mature. This cloth has about twice as many meshes to the linear inch as
+ordinary mosquito netting and served to exclude all insects that are
+able to pollinate the flowers. When entire plants were to be protected
+from all outside agencies, cages covered with cheesecloth, glass
+frames, or wire netting were used.
+
+A preliminary study of the pollination of _Melilotus alba_ and _M.
+officinalis_ showed that both were visited by the same kinds of insects
+and that both required the same methods of pollination in order to set
+seed. On this account _M. alba_ was used in most of the experiments
+reported in this bulletin. Where _M. officinalis_ was employed it is so
+stated.
+
+
+STRUCTURE OF THE FLOWERS OF MELILOTUS ALBA.
+
+[Illustration: Fig. 1.--Different parts of the flower of
+_Melilotus alba_: 1, Side view of the flower; 2, side view of the
+flower with the carina and alæ slightly depressed; 3, side view of the
+flower, showing the carina and alæ depressed sufficiently to expose
+the staminal tube and the tenth free stamen; 4, ala; 5, ate and carina
+spread apart to show their relative position and shape; 6, flower after
+the petals have been removed, showing in detail the calyx and staminal
+tube; 7, the staminal tube split open to show the relative size and
+position of the pistil, _a_, Alæ; _b_, vexillum; _c_, carina; _d_,
+calyx; _c_, stigma; _b_, anthers: _g_, tenth free stamen; _h_, digitate
+process of the superior basal angle of an ala; _i_, depressions in the
+ala; _j_, staminal tube; _k_, pistil.]
+
+The racemes of _Melilotus alba_ contain from 10 to 120 flowers with
+an average of approximately 50 per raceme for all of the racemes of a
+plant growing under cultivation in a field containing a good stand.
+
+The flower consists of a green, smooth, or slightly pubescent calyx
+with 5-pointed lobes and with an irregular white corolla of five
+petals. (Fig. 1.) The claws of the petals are not united nor are they
+attached to the staminal tube which is formed by the union of the
+filaments of the nine inferior stamens. As the claws of the alæ and
+carina are not attacked to the staminal tube; the petals may be bent
+downward sufficiently far so that many different kinds of insects may
+secure without difficulty the nectar secreted around the base of the
+ovary.
+
+The fingerlike processes of the alæ are appressed closely to the
+carina, therefore the alæ are bent downward with the carina by insects.
+These processes grasp the staminal tube superiorly and tightly when
+the carina and alæ are in their natural positions, but when the carina
+is pressed downward by insects the fingerlike processes open slightly
+but not so far that they do not spring back to their original position
+when the pressure is removed. The staminal tube splits superiorly to
+admit the tenth free stamen. The filament of this superior stamen lies
+along the side of this staminal tube. The filaments of the nine stamens
+which compose the staminal tube separate in the hollow of the carina.
+All stamens bear fertile anthers. The pistil is in the staminal tube,
+the upper part of the style and stigma of which is inclosed with the
+anthers in the carina. The stigma is slightly above the stamens.
+
+An insect inserts its head into a sweet-clover flower between the
+vexillum and carina, the stigma, therefore, comes into direct contact
+with the head of the insect and cross-pollination is effected. At the
+same time the anthers brush against the insect, so that its head is
+dusted with pollen, to be carried to other flowers.
+
+
+DEVELOPMENT OF THE FLORAL ORGANS OF SWEET CLOVER.
+
+[Illustration: Fig. 2.--Lengthwise sectional view of a very
+young flower of _Melilotus alba_, showing the relative development of
+the stamens and pistil. In the upper set of stamens the divisions of
+the mother cells are completed, while division is just beginning in
+the lower set of stamens. In the ovules the outer integuments are well
+started on their development, _a_, Anther; _o_, ovule; _p_, pistil. ×
+38.]
+
+The stamens of _Melilotus alba_ and _M. officinalis_ may be divided
+into two sets, according to their length and time of development.
+(Fig. 2.) The longer set extends about the length of the anthers
+above the shorter set, and the pollen mother cells in the longer set
+divide to form pollen grains at least two days earlier than those
+in the shorter set. At the time the pollen mother cells divide, the
+longer set of stamens is approximately three-eighths of a millimeter
+in length and the pistil about half a millimeter long. The stigma and
+a portion of the style project beyond the stamens, and this relative
+position is maintained to maturity. The pollen mother cells undergo the
+reduction division while the megaspore mother cells are just being
+differentiated and while the outer integuments are barely prominent at
+the base of the nucellus. The pollen grains are formed while the embryo
+sac is beginning to develop. The division of the megaspore mother cell
+does not occur until a number of days later, and the embryo sac is
+not mature until the flower is nearly ready to open. Thus, the pollen
+grains are formed a week to 10 days before the embryo sac is ready for
+fertilization. The pollen grains increase in size and undergo internal
+changes after their formation. These changes, which are not completed
+until the flower is one-half or more of its mature length, may be
+regarded as the ripening processes, and they are undoubtedly necessary
+before the pollen is capable of functioning. For this reason it is
+probable that the pollen grains are not able to function much before
+the embryo sac is mature.
+
+[Illustration: Fig. 3.--Stigma at the time of pollination,
+showing its papillate character and the position of the pollen in
+reference to the papillæ in pollination. × 175.]
+
+The pistils of _Melilotus alba_ and _M. officinalis_ are straight for
+the greater part of their length, but curve rather abruptly toward
+the keel just below the capitate stigma. The surface of the stigma is
+papillate. (Fig. 3.) In their reaction with Sudan III, alkanin, and
+safranin the Walls of the papillæ of the stigma show that some fatlike
+substances are present. Aside from water, the contents of the papillæ
+consist chiefly of a fine emulsion of oil.
+
+
+DEVELOPMENT OF THE OVULES.
+
+The number of ovules in the ovary of _Melilotus alba_ varies from
+two to five; however, most commonly, three or four ovules occur. In
+_Melilotus officinalis_ the number in each ovary ranges from three to
+six. In both species the ovules are campylotropous at maturity with the
+micropylar end turned toward the base of the ovary.
+
+Mature ovules contain two integuments, but the inner one does not close
+entirely around the end of the nucellus. The outer integument develops
+considerably ahead of the inner one. The outer integument is much
+thickened at the micropylar end, the seed coat is formed from it, and
+the inner integument is used as nourishment by the endosperm and embryo.
+
+The number of megaspore mother cells in an ovule varies from one to
+many. Two or more embryo sacs often start to develop in the same ovule,
+but seldom more than one matures. (Pl. I, figs. 1, 2, and 3.) In
+general, the development of the embryo sac proceeds in the ordinary
+way, as described by Young (44, p. 133), with the inner megaspore
+functioning. (Text fig. 4 and Pl. II, fig. 1.) In its development
+the nucellus is destroyed rapidly, the destruction being most rapid
+first at the micropylar end proceeding backward. The nucellus is
+completely destroyed at the micropylar end by the time the embryo sac
+is mature, and consequently the embryo sac comes in contact with the
+outer integument in this region. (Pl. II, fig. 1.) As the destruction
+of the nucellus extends toward the chalazal end the embryo sac becomes
+much elongated and tubelike. The antipodals disappear early, so that
+a mature embryo sac consists of the egg, the synergids, and the two
+polars. The two polars lie in contact in the micropylar end of the sac
+near the egg until fertilization.
+
+
+STERILITY OF THE OVULES.
+
+In _Melilotus alba_ and _M. officinalis_ there is very little tendency
+toward sterility of ovules. In an extended study of ovules developing
+under normal and under excessive moisture conditions only an occasional
+one was found in which no reproductive cells were differentiated, and
+no ovaries were found in which all of the ovules were sterile.
+
+[Illustration: Fig. 4.--Median section through an ovule,
+showing the embryo sac with four nuclei and the position of the
+integuments. × 150.]
+
+
+DEVELOPMENT OF THE POLLEN.
+
+The pollen mother cells do not separate, but previous to the reduction
+division the protoplasm shrinks from the walls, thus forming a dense
+globular mass which often occupies less than half the lumen of the
+mother cell. (Pl. I, fig. 4.) Nuclear division occurs while they are
+in this contracted condition, and four nuclei are formed from two
+successive divisions. The cytoplasm is equally distributed around each
+nucleus. The four masses of protoplasm separate, and as they enlarge
+a number of times and develop into mature pollen grains they become
+binucleate, and a wall is gradually formed around each. (Pl. I, figs. 5
+and 6.) At first the cytoplasm is quite dense and contains some starch
+but no fatty oils. However, the cytoplasm of mature pollen grains is
+vacuolate, and it contains a fatty oil in the form of an emulsion.
+Soon after the pollen grains are formed, the walls of the mother cells
+disappear, thus permitting the pollen grains to lie loose in the anther.
+
+
+FERTILIZATION IN MELILOTUS ALBA.
+
+The time intervening between pollination and fertilization was
+investigated with both self-pollinated and cross-pollinated flowers.
+In cross-pollination the parents were separate plants. This point was
+investigated with plants out of doors during the summer of 1916 and
+with plants in the greenhouse during the following winter. The time
+elapsing between pollination and fertilization ranged from 50 to 55
+hours and was not longer in the case of self-pollinated than with
+cross-pollinated flowers. Furthermore, the rate of the development of
+the embryo in each kind of pollination was studied and was found to
+be as rapid in self-pollination as in cross-pollination. Therefore,
+self-pollination is apparently as effective as cross-pollination in
+_Melilotus alba_ so far as the vigor of pollen tubes and the rate at
+which embryos develop are concerned. _Melilotus officinalis_ was not
+studied in reference to this point.
+
+Considerable difference often exists in the size of the young embryos
+in the ovules of the same pod. This is due in part to a difference in
+the time of fertilization, although some of it is due to a difference
+in nourishment. It was observed that the ovule first fertilized might
+be an upper one, lower one, or any one between these. Occasionally one
+or more ovules are not fertilized.
+
+
+DEVELOPMENT OF THE SEED.
+
+A proembryo with a rather long suspensor is developed from the
+fertilized egg. (Pl. II, fig. 2). The endosperm, which quite early
+forms a peripheral layer around the entire embryo sac, develops most
+rapidly about the embryo, which soon becomes thoroughly embedded in it.
+(Pl. III, figs. 1 and 2.) After the embryo has used up the endosperm in
+the micropylar end and has enlarged so much as to occupy nearly all of
+the space in this region, the development of the endosperm becomes more
+active in the chalazal end, and when the embryo is mature there is very
+little endosperm left.
+
+The seed coat begins to form about the time of fertilization,
+although it apparently does not depend upon it, for in ovules where
+fertilization is prevented the outer integument undergoes the early
+modifications in the development of the seed coat before the ovule
+breaks down. The development of the seed coat is apparent first at
+the micropylar and chalazal ends, where the outer cells of the outer
+integument become much elongated and their outer walls thicken very
+soon after fertilization. The modifications in the development of
+the seed coat extend around the ovule from these points, involving
+at first only the outer or epidermal layer of cells which form the
+malpighian layer. Later, the cells just beneath the malpighian layer
+form the osteosclerid layer. Accompanying or closely following the
+formation of the osteosclerid cells, the remaining cell layers of the
+outer integument become modified into the nutritive and aleurone layer,
+and the seed coat is fully formed. Meantime the inner integument is
+practically all used as food.
+
+Plate I.
+
+[Illustration]
+
+Development of the Ovules and Pollen in Sweet Clover.
+
+Fig. 1.--Section through the nucellus of an ovule of
+_Melilotus alba_, showing two megaspore mother cells. × 360. Fig.
+2.--Median section through an ovule of _Melilotus alba_, showing the
+two cells resulting from the first division of the megaspore mother
+cell, and the relative development of the different parts of the ovule.
+× 300. Fig. 3.--Section through the nucellus of an ovule of _Melilotus
+alba_, showing two embryo sacs, one being more advanced than the other.
+× 360. Fig. 4.--Protoplasm of the pollen mother cell of _Melilotus
+alba_ contracted and ready to undergo division. × 560. Fig. 5.--Pollen
+grains of _Melilotus alba_ just formed, showing their dense cytoplasm
+and the presence of the mother-cell wall. × 560. Fig. 6.--_a_, Mature
+pollen grain of _Melilotus alba_, showing the binucleate condition at
+the time of shedding; _b_, surface view. × 560.
+
+
+Plate II.
+
+[Illustration]
+
+Fig. 1.--Median Section through an Ovule of Melilotus alba.
+
+The embryo sac is shown ready for fertilization. The egg and synergids
+are in contact with the outer integument at the micropylar end. The
+remains of the antipodals may be seen at the chalazal end. × 180.
+
+[Illustration]
+
+Fig. 2.--Section through an Ovule of Melilotus alba, about Three
+Days After Fertilization.
+
+The proembryo, the endosperm, and modifications of the integuments are
+shown. At this stage the suspensor prominent part of the proembryo, and
+the endosperm is most abundant around the embryo. The inner integument
+is being rapidly destroyed, and the outer integument is beginning to
+form the seed coat, as is indicated by the modifications in the outer
+layer of its cells, which are elongating and thickening their outer
+walls. × 33.
+
+
+Plate III.
+
+[Illustration]
+
+Fig. 1.--Section of an Ovule of Melilotus alba after
+Fertilization.
+
+The stage of development is a little later than that shown in Plate II,
+figure 2. The embryo is embedded deeply in endosperm tissue. × 45.
+
+[Illustration]
+
+Fig. 2.--Section through an Ovule of Melilotus alba after the
+Embryo is Nearly Half Mature.
+
+But little endosperm remains except in the chalazal end, and very
+little remains of either the nucellus or inner integument. The
+modifications which transform the outer integument into a seed coat are
+well under way. Not only the outer layer of cells which becomes the
+Malpighian layer is quite well modified, but also the layer beneath is
+being transformed into the osteosclerid layer. × 30.
+
+
+Plate IV.
+
+[Illustration]
+
+Stubble of Melilotus alba.
+
+These plants, which were cut 12 inches above the ground during rainy
+weather, had made a 40 to 42 inch growth. The stubble became infected
+at the top and the light-colored portions of them were killed by
+disease, thus checking the water supply to the growing branches above
+the infection.
+
+
+MATURE POLLEN OF SWEET CLOVER.
+
+The pollen grains of _Melilotus alba_ and of _M. officinalis_ are quite
+similar. Each grain contains three germ pores, and when viewed so
+that the pores are visible they present a slightly angled appearance.
+The average dimensions of the pollen of _Melilotus alba_ and of _M.
+officinalis_ are 26 by 32 microns and 24 by 30 microns, respectively,
+when measured in the positions shown in _b_ in Plate I, figure 6.
+
+The walls of the pollen grains have cutin deposited in them, as shown
+by their reactions with Sudan III, alkanin, safranin, and chloriodid of
+zinc. The contents of the pollen grains give a distinct reaction when
+tested for fat, and Millon's reagent shows that also some protein is
+present. Tests for sugars and starch showed that these substances are
+not present in perceptible quantities in mature pollen grains, although
+some starch is present in immature pollen.
+
+
+GERMINATION OF THE POLLEN.
+
+The germination of the pollen of _Melilotus alba_ permits considerable
+variation in moisture, as is illustrated in Table I.
+
+Table I.--_Germination of the pollen of Melilotus alba in water and in
+solutions of cane sugar of different strengths._
+
+  ---------------+--------+---------------------------------------
+                 |        | Cane sugar in solution (per cent).
+                 | Pure   +----+----+----+----+----+----+----+----
+  Melilotus alba.| water. |  8 | 12 | 18 | 24 | 30 | 35 | 45 | 55
+  ---------------+--------+----+----+----+----+----+----+----+----
+  Germination    |        |    |    |    |    |    |    |    |
+    of pollen    |   33   | 23 | 64 | 46 | 60 | 46 | 31 | 22 |  0
+      per cent   |        |    |    |    |    |    |    |    |
+  ---------------+--------+----+----+----+----+----+----+----+----
+
+The results given in Table I represent the average of 12 tests. Some
+of the pollen grains burst in pure water and in the weak cane sugar
+solutions, the percentage of bursting being greatest in pure water and
+decreasing as the percentage of sugar in the solution was increased.
+There was considerable variation in the percentages of germination in
+both water and in the solutions of different strengths, and at times
+there was very little bursting which was not accompanied by a high
+percentage of germination. The pollen tubes grew as rapidly in water as
+in any of the sugar solutions, some reaching a length of 100 microns
+in six hours. As the pollen tubes made no more growth in the solutions
+of sugar than in water, it is evident that the sugar is not used as
+food, but helps in germination by reducing the rate at which water is
+absorbed.
+
+To judge from Table I, the pollen of sweet clover can be effective not
+only under ordinary conditions but also when the flowers are wet with
+rain or dew or when the stigma is so dry that in order to obtain water
+from the papillæ the pollen must overcome a high resistance offered by
+the sap of the papillæ, a resistance that may be equal to the osmotic
+pressure of a 45 per cent solution of cane sugar. This is in accord
+with results obtained under field conditions; as flowers that were
+pollinated while rain was falling set seed satisfactorily, indicating
+that a high percentage of humidity in the atmosphere does not check the
+germination of the pollen sufficiently to interfere with fertilization.
+Neither was the setting of seed affected when the soil about the roots
+of plants was kept saturated with water, showing that the excessive
+quantity of water in the stigmas resulting from an abundance of water
+in the soil did not interfere with the fertilization of the flowers.
+
+No definite counts were made of the germination of the pollen of
+_Melilotus officinalis_ in the solutions of cane sugar of different
+strengths, but observations show that the moisture requirement of the
+pollen of this species is approximately the same as that of _Melilotus
+alba_.
+
+
+CROSS-POLLINATION AND SELF-POLLINATION OF SWEET CLOVER.
+
+Results published by previous investigators on the cross-pollination
+and self-pollination of sweet clover do not agree. The experiments of
+Darwin (4) show that the flowers are self-pollinated to only a small
+extent. On the other hand, Kirchner (18) and Kerner (17) find that
+self-pollination occurs generally and that cross-pollination is not
+necessary for the production of seed. However, all investigators agree
+that many different kinds of insects are able to pollinate sweet clover.
+
+Because of the diverse opinions as to the pollination of sweet clover,
+a number of experiments were conducted to determine (1) whether insect
+visitation was necessary to pollinate the flowers, (2) if necessary,
+whether the flowers must be cross-pollinated, and (3) what insects are
+active agents as pollinators of sweet clover.
+
+ARTIFICIAL MANIPULATION OF SWEET-CLOVER FLOWERS.[2]
+
+[2] The writers wish to acknowledge their indebtedness to Mr. Carl
+Kurtzweil for assistance in conducting part of the field experiments at
+Ames.
+
+Experiments were conducted to determine, if possible, the effect of
+various types of artificial manipulation of sweet-clover flowers when
+in full bloom on the production of seed. Only healthy, vigorous plants
+growing on well-drained soil were selected for these experiments.
+Before any of the flowers were open, the individual racemes were
+covered with tarlatan and labeled. (Fig. 5.) As soon as part of the
+flowers opened, the racemes were uncovered and after removing all
+flowers that were not open the open flowers were pollinated and the
+racemes re-covered. If the flowers of sweet clover are not fertilized
+they will remain open for two to three days, then wither, and in a
+short time drop. But after being fertilized the ovules enlarge very
+rapidly, and the corollas usually drop in about seven or eight days.
+Therefore, all fertilized flowers can be distinguished a few days after
+fertilization has taken place. Counts were made of the number of pods
+which formed in 10 to 12 days after pollination. An outline of the
+experiments is given in Table II.
+
+[Illustration: Fig. 5.--Individual racemes of white sweet
+clover covered with cheesecloth to protect them from insect visitation.]
+
+Table II.--_Treatment of sweet-clover flowers in the
+artificial-manipulation experiments._
+
+  ------------+---------------------------------------------------------
+  Experiment. |          Method of pollinating the flowers.
+  ------------+---------------------------------------------------------
+    A         | Check--covered.
+              |
+    B         | Check--open to insect visitation at all times.
+              |
+    C         | A separate toothpick was used to spring the keel of each
+              |   flower on the raceme.
+              |
+    D         | One toothpick was used to spring the keels of all the
+              |   flowers on a raceme.
+              |
+    E         | Cross-pollinated.
+              |
+    F         | Raceme rolled several times between thumb and finger.
+  ------------+---------------------------------------------------------
+
+As insects, and especially honeybees, usually visit all recently
+opened flowers on a raceme, experiments C and D were conducted to
+determine whether more seed would be produced when pollen from other
+flowers on the same raceme was placed on the stigmas of the flowers
+than when only the pollen produced by each flower was placed on its
+own stigma. The effect of pollination when only the pollen produced by
+an individual flower was placed on its own stigmas was also obtained
+in experiment F, as by this method of pollination no pollen was
+transferred from one flower to another. It can not be stated definitely
+that the seed produced by the cross-pollinated flowers was the result
+of fertilization with foreign pollen, as the anthers were not removed
+from the flowers pollinated because it would be necessary to remove
+the anthers when the flowers were not more than two-thirds mature, and
+in doing this the flowers would be so mutilated that only occasionally
+would pollination at this time or at a later date be effective. The
+flowers listed in experiment E were pollinated a short time before they
+opened, and in each case pollen taken from flowers of other plants
+was placed on the stigmas. The petals of the cross-pollinated flowers
+were not mutilated, and in each case they returned to their original
+positions soon after pollination. The results obtained in experiment B,
+where the racemes were simply labeled and left open to the action of
+insects at all times, serve for comparison with other experiments where
+the flowers were protected from insect visitation and were artificially
+manipulated.
+
+Martin (25) found the setting of alfalfa seed and Westgate (40)
+found the setting of red-clover seed to be affected by an excessive
+quantity of moisture in the soil or atmosphere. In order to overcome
+the possible effect of this or of other detrimental factors, in each
+experiment only the flowers on a certain number of racemes were
+pollinated at one time. All of the experiments were repeated a number
+of times during the months of July and August, 1916, and the results
+given in Table III show the total number of flowers pollinated and the
+number of pods that formed during the two months.
+
+The results presented in Table III show that flowers fertilized with
+pollen transferred from another plant produced a higher percentage
+of pods than any of the other treatments. The results obtained in
+experiment D, where the same toothpick was used to spring the keels
+of all the flowers on a raceme, show that this method of pollination
+produced an average of 7.24 pods per raceme more than the racemes in
+experiment C. where a separate toothpick was used for each flower.
+These results indicate that pollen transferred from one flower to
+another on the same raceme is more effective than when the pollen
+produced by an individual flower is used to fertilize its own stigma.
+However, the results of experiment C prove that self-pollination
+is effective in _Melilotus alba_. In experiment B. which was the
+open check, 4.3 per cent more flowers set seed than on the racemes
+where the same toothpick was used to spring all the keels, but 11.57
+per cent more seed was obtained than in experiment C. Spontaneous
+self-pollination occurs to only a very small extent, as will be seen
+from the results of experiment A, in which an average of only 2.9 per
+cent of the flowers set seed.
+
+Table III.--_Effect of different types of artificial
+manipulation on the seed production of sweet clover at Arlington, Va.,
+and at Ames, Iowa, in 1916._
+
+  ----------+--------+---------------------------+-------------------
+            |        |    Total number of--      | Flowers that set
+            |        |                           |  seed (per cent).
+            | Experi-+--------+--------+---------+---------+---------
+  Location. |  ment. |Racemes.|Flowers.|Pods set.| At each |
+            |        |        |        |         | station.| Average.
+  ----------+--------+--------+--------+---------+---------+---------
+            |        |        |        |         |         |
+  Arlington |    A   |    49  | 3,510  |    144  |     4.1 |}     2.9
+  Ames      |    A   |    84  | 4,536  |     92  |     2.0 |}
+            |        |        |        |         |         |
+  Arlington |    B   |   100  | 5,599  |  3,973  |   70.95 |}   66.51
+  Ames      |    B   |   196  | 1,276  |    600  |   47.02 |}
+            |        |        |        |         |         |
+  Arlington |    C   |    50  | 1,229  |    701  |   57.03 |}   54.94
+  Ames      |    C   |    75  |   289  |    133  |   46.02 |}
+            |        |        |        |         |         |
+  Arlington |    D   |    50  | 1,480  |    936  |   63.24 |}   62.18
+  Ames      |    D   |    88  |   575  |    342  |   59.47 |}
+            |        |        |        |         |         |
+  Arlington |    E   |    31  |   377  |    307  |   81.43 |}   70.10
+  Ames      |    E   |    48  |   175  |     80  |   45.71 |}
+            |        |        |        |         |         |
+  Arlington |    F   |    30  |   933  |    524  |   56.16 |.........
+  ----------+--------+--------+--------+---------+---------+---------
+
+
+SEED PRODUCTION OF MELILOTUS ALBA UNDER ORDINARY FIELD CONDITIONS.
+
+The production of seed of _Melilotus alba_ under ordinary field
+conditions varies considerably, not only in different parts of the
+country but also on different fields in the same region. A number
+of factors contribute to this variation, one of the most important
+of which appears to be the inability of the plant to supply all the
+developing seed with sufficient moisture, causing some of them to
+abort. As pointed out on page 22 this condition was very marked in
+certain parts of the country in 1916. However, poor seed production
+is not always correlated with lack of moisture, for the seed crop
+was a failure in 1915, where cloudy and rainy weather prevailed much
+of the time the plants were in bloom. It is believed that the lack
+of pollination by insects was the principal cause for the failure of
+seed to set, as very few insects visit sweet-clover flowers when such
+conditions prevail. As sweet-clover pollen will germinate in pure
+water and as plants which have their roots submerged in water set seed
+abundantly when pollinated, the failure of the seed crop in 1915 was
+not due to excessive moisture.
+
+As a rule, thin stands of sweet clover produce more seed to the acre
+than thick stands and isolated plants more seed than those growing
+in either a thick or thin stand. The correlation of seed production
+with the thickness of stand is probably due to the shading and partial
+prevention of insect visitation to part of the racemes on the lower
+branches. Most of the flowers upon the lower branches of isolated
+plants are directly exposed to sunlight and to insect visits: therefore
+the racemes on these branches produce as large a percentage of seed as
+the racemes on the upper branches. In a thick stand, little seed is
+produced by racemes on the lower branches.
+
+A plant approximately 3 feet high growing close to the center of
+a field at Arlington. Va., in which was an average stand of four
+sweet-clover plants to the square foot was selected in order to
+determine the number of racemes produced and the average number of
+seeds to the raceme. This plant produced 196 racemes, which contained
+an average of 20.4 pods each. The racemes varied from 2 to 10 cm. in
+length, and the number of pods to the raceme ranged from to 75. The
+racemes on the upper and most exposed portions of the plants were
+larger and the flowers produced a much higher percentage of pods than
+the racemes close to the bases of the larger branches. Many of the
+small racemes on the lower branches produced less than five pods each.
+
+The data obtained from the two plants at Arlington that were protected
+from night-flying insects may also be cited here, as the results of
+that experiment show that night-flying insects are not an important
+factor in the production of sweet-clover seed, and, further. because
+they were growing under the same conditions, in the same plat, and were
+approximately of the same size. These two plants produced a total of
+544 racemes, with an average of 20.9 pods each. The number of pods to
+the raceme varied from to 86.
+
+
+EFFICIENCY OF CERTAIN KINDS OF INSECTS AS POLLINATORS OF SWEET CLOVER.
+
+In order further to test the self-sterility of sweet clover and to
+determine the relative efficiency of night-flying and of different
+kinds of day-flying insects as pollinators of the flowers, a number
+of cages covered with cheesecloth, glass, or wire screen having 14
+meshes to the linear inch were placed over plants at Arlington. Va.,
+and at Ames. Iowa, in July and August. 1916. The bases of the cages
+were buried several inches in the ground, so that insects could not
+pass under them. Cheesecloth was used to cover most of the cages and
+was made into sacks of such a size that they could be put on or removed
+from the frames of the cages without difficulty. It was stretched
+tightly over the frames and fastened to their bases with laths.
+
+A cage having two sides and the top of glass but with ends covered with
+cheesecloth to permit ventilation was used at Ames to protect a number
+of plants from insect visitation at all times. The purpose of this
+cage was to determine whether the partial shading of the plants in the
+cages covered with cheesecloth would have any effect upon the setting
+of seed.
+
+The cage covered with wire netting having 14 meshes to the linear inch
+was used to determine the efficiency as pollinators of sweet clover of
+insects so small that they could pass through openings of this size.
+
+The plants used in the experiments at Arlington were growing close to
+the center of a field of sweet clover. Volunteer plants in a field
+that contained only a scattering stand were used at Ames. The cages
+were placed over the plants in all of these experiments before any of
+the flowers opened, and the work was continued until they were through
+blooming.
+
+PLANTS SUBJECT TO INSECT VISITATION AT ALL TIMES.
+
+A plant subject to insect visits at all times and growing in the same
+plat as those inclosed in the cages at Arlington was selected as a
+check to those inclosed in the cages during their entire flowering
+period or for only a portion of it. This plant, which was in bloom at
+the same time as those inclosed in the cages, produced 196 racemes with
+an average of 20.4 pods each. As all of the racemes were collected and
+as those on the lower portions of the plant were smaller than those
+on the upper branches, the average number of seeds per raceme is much
+lower than it would have been if only the larger racemes had been
+collected.
+
+An isolated plant that was subject to insect visits at all times was
+selected for a check to the cage work conducted at Ames. This was
+necessary in order to get results that would be comparable with those
+obtained from the plants inclosed in the cages, as the cage experiments
+at Ames were conducted with isolated plants. The plant produced 239
+racemes, with an average of 41.6 pods.
+
+PLANTS PROTECTED FROM INSECT VISITATION DURING THEIR ENTIRE FLOWERING
+PERIOD.
+
+On July 3, 1916, a cage 3 feet square and 3½ feet high, covered with
+cheesecloth, was placed over three sweet-clover plants at Arlington.
+(Fig. 6.) This cage was not opened until August 3, when practically
+all of the racemes had passed the flowering stage and the few seeds
+that formed on some of them were practically mature. The three plants
+inclosed in the cage produced 904 racemes, with an average of 0.63 pod
+each. No pods were produced on 594 racemes, while 150 produced but one
+each. None of the racemes produced more than five pods.
+
+This experiment was duplicated at Ames in August, 1916, with the result
+that the three protected plants produced a total of 776 racemes, with
+an average of 0.19 pod each.
+
+[Illustration: Fig. 6.--Cage covered with cheesecloth to
+protect plants from insect visitation.]
+
+The plants inclosed at Arlington produced 0.44 pod to the raceme more
+than the plants inclosed at Ames, and the average for the six plants
+at Arlington and at Ames is only 0.42 pod to the raceme. Results given
+below for nine plants inclosed in the glass-covered cage show that the
+pods produced per raceme by different plants varied from 0.1 to 0.45,
+which is slightly less than the variation in the two cages covered with
+cheese-cloth.
+
+In order to determine whether the shading of the plants in the
+cheesecloth-covered cages had caused the production of seed to be
+reduced, a cage 4 feet wide, 4 feet high, and 10 feet long, having
+glass sides and top, but with ends covered with cheesecloth to permit
+ventilation, was placed over nine plants at Ames in August, 1916. The
+results obtained in this experiment are presented in Table IV.
+
+Table IV.--_Production of sweet-clover seed by plants
+protected from insect visitation during their entire flowering period
+at Ames, Iowa, in 1916._
+
+
+
+            |  Racemes  | Pods produced   | Average number of
+  Plant.    | per plant.| by all racemes. | pods to the raceme.
+  ----------+-----------+-----------------+-------------------
+            |           |                 |
+  No. 1     |      84   |         17      |       0.20
+  No. 2     |     130   |         58      |        .44
+  No. 3     |     166   |         30      |        .18
+  No. 4     |     199   |         88      |        .44
+  No. 5     |     243   |         35      |        .27
+  No. 6     |     131   |         36      |        .27
+  No. 7     |     119   |         13      |        .10
+  No. 8     |     182   |         83      |        .45
+  No. 9     |     340   |        142      |        .41
+            +-----------+-----------------+-------------------
+    Total   |   1,594   |        592      |      .......
+  Average   |           |                 |        .31
+  ----------+-----------+-----------------+-------------------
+
+
+The results given in Table IV show that an average of 0.31 of a pod
+to the raceme was obtained from 1,594 racemes and that the variation
+in seed production of the different plants was from 0.1 to 0.45 to
+the raceme. The average seed production for the nine plants is 0.11
+seed to the raceme less than the average results obtained from the six
+plants that were covered with cheesecloth. As this difference is well
+within the limit of variation for individual plants, it may be stated
+that the shading of the plants in the cheesecloth-covered cages did not
+reduce the production of seed. The results of this experiment show that
+spontaneous self-pollination does not occur regularly, as stated by
+Kirchner.
+
+FLOWERS POLLINATED ONLY BY NIGHT-FLYING INSECTS.
+
+In order to determine the importance of night-flying insects as
+pollinators, two cheesecloth-covered cages 3 feet square and 3½
+feet high were placed over sweet-clover plants at Arlington on July
+10, 1916. The covers of the cages were removed each evening at 7:30
+and replaced each morning at 4:30 o'clock. Practically all the flowers
+on these plants had bloomed by August 2, and the seed produced was
+nearly mature. The few racemes that contained opened flowers or buds
+were discarded. The three plants in one cage produced 723 racemes,
+with an average of 3.76 pods each, while the one plant in the other
+cage produced 227 racemes, with an average of 3.58 pods to the raceme.
+The four plants, therefore, produced a total of 950 racemes, with an
+average of 3.71 pods each. The only night-flying insect found working
+on sweet clover while these plants were in bloom was _Diacrisia
+virginica_ Fabr.
+
+This experiment was duplicated at Ames in August, 1916, with the result
+that one plant subject to visitation only by night-flying insects
+produced 486 racemes, with an average of 16.5 pods each.
+
+The results obtained in these experiments show that night-flying
+insects were much more active in pollinating sweet clover at Ames than
+at Arlington. However, as the results obtained from the plants subject
+to visitation by day-flying insects only were practically the same as
+those obtained from plants which were subject to insect visitation at
+all times, it is concluded that night-flying insects were not a factor
+in the pollination of sweet clover at Arlington or at Ames in 1916.
+
+FLOWERS POLLINATED ONLY BY DAY-FLYING INSECTS.
+
+A cheesecloth-covered cage, 3 feet square and 3½ feet high, was
+placed on July 7, 1916, over two sweet-clover plants at Arlington,
+before any of the flowers opened. As the cover of this cage was
+removed at 7.30 a. m. and replaced at 4.30 p. m. each day during the
+experiment, the plants were subject to visitation by day-flying insects
+only. As soon as all of the flowers on most of the racemes had bloomed,
+and before any mature pods shattered, the racemes were removed from the
+plants and the pods produced by each raceme counted. The two plants
+produced a total of 544 racemes, with an average of 20.9 pods each.
+
+This experiment was also conducted at Ames. One plant was protected
+from insect visitation at night in August, 1916, with the result that
+it produced 418 racemes, with an average of 41.11 pods each.
+
+PLANTS PROTECTED FROM ALL INSECTS THAT COULD NOT PASS THROUGH A WIRE
+SCREEN HAVING 14 MESHES TO THE LINEAR INCH.
+
+It is well known that many small insects, and especially those
+belonging to the family Syrphidæ and to the genus Halictus, frequent
+sweet-clover flowers, but no records have been noted that show how
+important these insects are as pollinators of this plant. In order to
+obtain data on this subject a cage 12 feet square and 6½ feet high,
+made of wire screen having 14 meshes to the linear inch, was placed
+over a few plants at Ames, in July, 1916, before they began to bloom.
+The base of the cage was buried several inches in the soil, so that
+no insects could get into it. As these plants were growing in a field
+where there was a sufficient supply of moisture at all times, they
+made a growth of 5 to 6 feet. For this reason all the racemes were
+collected from only a portion of one of the plants instead of from
+the entire plant, as was done with the smaller ones inclosed in the
+cheesecloth-covered cages. The branches selected contained 224 racemes,
+with an average of 24.53 pods each. Many insects that were able to pass
+through the wire netting were observed working on the flowers of the
+inclosed plants.
+
+A check plant, subject to visitation by all insects and growing within
+a few yards of the cage, contained 264 racemes, with an average of
+28.23 pods each.
+
+This experiment shows that small insects are efficient pollinators
+of sweet clover and that the plant to which all insects had access
+produced an average of only 3.7 pods to the raceme more than the
+one inclosed in the cage. As these plants were growing close to a
+strip of timber and some distance from a field of sweet clover, it
+is probable that more small insects worked on the flowers than would
+have been the case if the cage had been located in the center of a
+field of sweet clover. Though these results show that small insects
+are able to pollinate sweet-clover flowers freely, it is very doubtful
+whether insects of this kind would be numerous enough to pollinate
+sufficient flowers in a large field of sweet clover for profitable
+seed production. The honeybee is the most efficient pollinator of this
+plant, and it is believed that in many sections it is responsible for
+the pollination of more than half of the flowers.
+
+SUMMARY OF INSECT-POLLINATION STUDIES.
+
+The data secured in the different experiments where sweet-clover
+flowers were subject to insect visitation at one time or another are
+presented in detail in Table V.
+
+Table V.--_Summary of the insect pollination studies conducted
+at Arlington, Va., and Ames, Iowa, in 1916._
+
+  ----------+-------+-------------------------+----------------------------
+            |       |                         |        Number of--
+            |Number |                         +--------+---------+---------
+  Location. |  of   |  Method of treatment.   |Racemes.|  Pods   |Pods per
+            |plants.|                         |        |produced.| raceme,
+            |       |                         |        |         | average.
+  ----------+-------+-------------------------+--------+---------+---------
+  Arlington.|   1   |Check--subject to insect |   196  |  4,013  |  20.47
+            |       | visitation at all times.|        |         |
+  Ames.     |   1   |     do.                 |   239  |  9,943  |  41.60
+  Arlington.|   3   |Protected from all       |   904  |    577  |    .63
+            |       | insects.                |        |         |
+  Ames.     |  12   |     do.                 | 2,370  |    653  |    .27
+  Arlington.|   3   |Visited by night-flying  |   723  |  2,720  |   3.76
+            |       | insects only (cage 1).  |        |         |
+     Do.    |   1   |Visited by night-flying  |   227  |    152  |    .67
+            |       | insects only (cage 2).  |        |         |
+  Ames.     |   1   |Visited by night-flying  |   486  |  8,024  |  16.51
+            |       | insects only.           |        |         |
+  Arlington.|   2   |Visited by day-flying    |   544  | 11,397  |  20.95
+            |       | insects only.           |        |         |
+  Ames.     |   1   |     do.                 |   418  | 17,186  |  41.11
+     Do.    |   9   |Protected from all       | 1,594  |    502  |    .31
+            |       | insects.                |        |         |
+  ----------+-------+-------------------------+--------+---------+---------
+
+The results in Table V show that an average of 0.37 pod to the raceme
+was obtained from the plants protected from visitation by all insects
+during the flowering period. As the racemes of _Melilotus alba_ will
+average approximately 50 flowers each, less than 1 per cent of them
+set seed without being pollinated by insects. The results obtained in
+the cages in which only night-flying insects had access to the flowers
+show that these insects pollinate sweet clover to a slight extent,
+but that the number of pods produced by them is so few that it may be
+assumed that these flowers would have been pollinated by day-flying
+insects. This assumption is borne out by the results obtained in the
+cages where only day-flying insects had access to the flowers, as the
+results obtained in these cages at Arlington and Ames, respectively,
+are approximately the same as those obtained on the plants subject
+to insect visitation at all times. It will be noted that the yield
+of seed on the plants visited by insects at Ames is much higher than
+that of the plants subjected to insect visits during the same period
+at Arlington. This difference in seed yield may be attributed to the
+fact that isolated plants were used in the experiments at Ames, and
+at Arlington the experiments were conducted with plants growing under
+field conditions.
+
+
+RELATION OF THE POSITION OF THE FLOWERS ON MELILOTUS ALBA PLANTS TO
+SEED PRODUCTION.
+
+Observations of sweet-clover plants grown under cultivation, and
+especially when the stands were thick, showed that the flowers of the
+racemes on the upper and exposed branches produced a larger percentage
+of seed than those on the lower branches which were less exposed. It is
+thought by some that the failure of the flowers on the lower racemes
+to be fertilized is due to shading; but the results obtained in the
+cheesecloth and glass covered cages do not warrant this belief, as it
+is doubtful whether the shading of the flowers on the lower racemes is
+more than that caused by the cheesecloth. It is probably the lack of
+pollination that causes this decrease in seed production on the lower
+branches of plants growing close together, as a vast number of flowers
+open each day on portions of the plants which are exposed directly to
+visitation by insects and are therefore more accessible to them.
+
+In order to obtain information upon the number of flowers that produce
+seed on the upper and lower portions, respectively, of sweet-clover
+plants when grown under field conditions and where the stand contained
+four to five plants to the square foot, a number of racemes were
+labeled on different portions of the plants at Ames in 1915 and 1916.
+When the pods were partly mature, records were made of the number of
+flowers that produced pods. The results obtained are given in Table VI.
+
+Table VI.--_Relation of the position of sweet-clover flowers
+on the plants to seed production, at Ames, Iowa, in 1915 and 1916._
+
+  -----+------------------------+---------+------------------------------
+       |                        |         |       Pods formed.
+       |                        |Number of+--------+------------+--------
+  Year.|Position of the flowers.| flowers.| Number.| Percentage.|  Average.
+  -----+------------------------+---------+--------+------------+--------
+       |                        |         |        |            |
+  1915 | Upper half of plants   |   812   |   357  |    43.9 }  |
+  1916 |   do                   |   261   |   101  |    38.7 }  |  42.6
+       |                        |         |        |            |
+  1915 | Lower half of plants   |   344   |    44  |    12.7 }  |
+  1916 |   do                   |   216   |    59  |    27.3 }  |  18.3
+  -----+------------------------+---------+--------+------------+--------
+
+The flowers on the upper racemes of the plants produced 31.2 per cent
+more pods than those on the lower racemes in 1915. and 11.4 per cent
+more in 1916. These results prove that insects more frequently visit
+the flowers that are directly exposed and are therefore more accessible.
+
+INFLUENCE OF THE WEATHER AT BLOSSOMING TIME UPON SEED PRODUCTION.
+
+The seed production of sweet clover is seldom satisfactory when rainy
+or muggy weather prevails during the flowering period. In order to
+obtain data as to the relation existing between the visits of insects
+and the prevailing weather conditions, a record of insect visits and
+of the number of flowers that opened each day was kept for a period of
+nine days at Ames in August, 1915.
+
+In this experiment the racemes were marked early each morning just
+above the last flowers which had opened the previous day, and early
+the following morning the number of flowers which had opened the
+previous day was noted. The number of flowers that were pollinated was
+determined by the number of pods that formed. Table VII gives in detail
+the results obtained.
+
+Table VII.--_Influence of the weather at blossoming time upon
+the yield of sweet -clover seed, at Ames. Iowa, in 1915._
+
+  -------+-------------------------+---------+-------+-------+-----------
+         |                         |         |Number |       |
+         |                         |         |  of   |       | Percentage
+  Date,  |   Weather conditions.   | Insect  |flowers| Pods  | of flowers
+  1915.  |                         |visitors.| that  |formed.|   that
+         |                         |         |opened.|       |  matured.
+  -------+-------------------------+---------+-------+-------+-----------
+  Aug. 16|Cloudy and showery       | Very few|  102  |   18  |    17.6
+  Aug. 17|Rain all day             | None    |   69  |    4  |     5.7
+  Aug. 18|Cloudy most of the day   | Very few|   60  |   20  |    33.3
+  Aug. 19|Clear and cool           | Numerous|   94  |   53  |    56.3
+  Aug. 20|Mostly clear and warm    |    do   |   61  |   38  |    62.2
+  Aug. 21|Clear and warm           |    do   |   81  |   44  |    54.3
+  Aug. 22|Partly cloudy and warm   |}        |       |       |
+  Aug. 23|    do                   |}   do   |  181  |  100  |    55.2
+  Aug. 24|Cloudy till mid-afternoon| Few     |   37  |   12  |    32.4
+  -------+-------------------------+---------+-------+-------+-----------
+
+The data given in Table VII show that the percentage of effective
+pollination is much higher in clear weather, when insects are active,
+than in cloudy or rainy weather, when but few insects visit the flowers.
+
+
+INSECT POLLINATORS OF SWEET CLOVER.
+
+On account of the ease with which the heavy flow of nectar of
+sweet-clover flowers may be obtained many insects visit the flowers,
+thereby pollinating them. While the useful insect visitors of flowers
+of red clover are limited to a few species of Hymenoptera, those
+pollinating sweet-clover blossoms are many and belong to such orders as
+Coleoptera, Lepidoptera, and Diptera, as well as to the Hymenoptera.
+However, in the United States the honeybee is the most important
+pollinator of sweet clover. In many parts of the country the different
+species of Halictus, commonly known as sweat bees, rank next in
+importance. The margined soldier beetles (_Chauliognathus marginatus_
+Fabr.) were very active pollinators at Arlington, Va., in the latter
+part of June and first part of July, 1916, but the woolly bear
+(_Diacrisia virginica_ Fabr.) was the only night-flying insect found
+working on sweet clover at Arlington.
+
+Insects belonging to the genera Halictus, Syritta, and Paragus were
+very active pollinators at Ames, Iowa, in 1916, and ranked next in
+importance to the honeybee. In fact, the results obtained in the
+cage where the plants were protected from visitation by insects that
+could not pass through a screen having 14 meshes to the linear inch
+showed that these small insects were able under the conditions of that
+experiment to pollinate practically as many flowers as larger insects.
+
+The insects listed below were collected while visiting _Melilotus alba_
+and _M. officinalis_ flowers in 1916.
+
+
+AT ARLINGTON, VA.
+
+ _Neuroptera._--_Perithemis domitia_ Dru., _Enallagma_ sp.
+
+ _Hemiptera._--_Adelphocoris rapidus_ Say, _Lygus pratensis_ Linn,
+ (tarnished plant bug).
+
+ _Coleoptera._--_Chauliognathus marginatus_ Fabr. (margined soldier
+ beetle), _Diabrotica 12-punctata_ Oliv. (southern corn rootworm).
+
+ _Lepidoptera._--_Pieris protodice_ Bd. (imported cabbage butterfly),
+ _Heodes hypophleas_ Bd., _Lycaena comyntas_ Gdt., _Hylephila
+ campestris_ Bd., _Scepsis fulvicollis_ Hubn., _Ancyloxypha numitor_
+ Fabr., _Pholisora catullus_ Fabr., _Pyraustid_ sp., _Loxostege
+ similalis_ Gn. (garden webworm), _Thecla melinus_ Hubn., _Colias
+ philodice_ Gdt. (the common sulphur butterfly), _Tarachidia
+ caudefactor_ Hubn., _Pyrameis atalanta_ Linn., Drasteria (2 species),
+ _Diacrisia virginica_ Fabr. (the woolly bear).
+
+ _Hymenoptera._--_Halictus lerouxi_ Lep., _H. provancheri_ (sweat
+ bee), _H. pectoralis_ Sm. (sweat bee), Halictus (3 unidentified
+ species), _H. legatus_ Say, _Bombus affinis_ Cr., _B. impatiens_
+ Harris (bumblebee), _Melissodes bimaculata_ Lep., _Polistes pallipes_
+ Lep. (paper wasp), _Megachile_ sp. (leaf-cutter bee), _Coelioxys
+ octodentata_ Say, _Xylocopa virginica_ Drury (common carpenter bee),
+ _Pompiloides_ sp., _Apis mellifica_ Linn, (honeybee), _Philanthus
+ punctatus_ Say, _Sphex nigricans_ Dahlb. (caterpillar hawk), _S.
+ pictipennis_ Walsh (caterpillar hawk).
+
+ _Diptera._--_Archytas analis_ Fabr., _Chrysomyia macellaria_ Fabr.
+ (screw-worm fly),. _Pollenia rudis_ Fabr. (cluster fly), _Ocyptera
+ carolinae_ Desv., _Trichophora ruficauda_ V. D. W., _Eristalis
+ arbustorum_ Linn., _Physocephala tibialis_ Say.
+
+
+AT AMES, IOWA.
+
+ _Hemiptera._--_Lygus pratensis_ Linn., _Adelphocoris rapidus_ Say,
+
+ _Coleoptera._--_Coccinella transversoguttata_ Fabr.
+
+ _Lepidoptera._--_Eurymus eurytheme_ Bdv., _Chrysophanus_ sp., Lycaena
+ (2 species),. _Libythea bachmani_ Kirtland, _Pieris rapae_ Linn.
+
+ _Hymenoptera._--_Angochlora_ sp., _Apis mellifica_ Linn., _Colletes_
+ sp., _Halictus lerouxi_ Lep., _H. provancheri_ D. J., _Halictus_ sp.,
+ _Elis_ sp., _Calliopsis andreniformis_ Smith, _Polistes_ sp., _Sphex_
+ sp., _Eumenes fraterna_ Say, _Sceliphron_ sp., _Isodontia harrisi_,
+ Fern., _Cerceris_ sp., _Oxybelus_ sp.
+
+ _Diptera._--_Syritta_ sp., _Paragus_ sp., _Chrysomyia macellaria_
+ Desv., Syrphidæ (2 unidentified specimens).
+
+
+EFFECT OF MOISTURE UPON THE PRODUCTION OF MELILOTUS ALBA SEED.
+
+Careful inspection of a number of sweet-clover fields in Iowa and
+Illinois in the autumn of 1916 indicated that many plants were unable
+to obtain sufficient moisture for the proper development of their
+flowers. Examination of flowers that aborted shortly after reaching
+their mature size showed that the anther sacs had not burst, even
+though the pollen grains were mature. Apparently for the same reason
+many immature pods aborted. The precipitation for July, 1916, in
+Livingston County, Ill., where the sweet-clover seed crop suffered
+materially for lack of moisture, was 3.2 inches less than normal, while
+the temperature was 4.5° F. above normal. In August the precipitation
+was 0.96 of an inch below normal and the temperature 4.2° F. above
+normal. At Ames, Iowa, the precipitation was 3.54 inches below
+normal and the temperature 5.4° F. above normal in July. Both the
+precipitation and temperature were about normal at Ames in August, but
+most of the precipitation fell before the experiments were commenced.
+
+In north-central Illinois the seed production of sweet clover was
+very irregular. Some fields produced an abundance of seed, while a
+large percentage of the pods on the plants in other fields near by,
+where the thickness of the stand, size of the plants, and conditions
+in general were approximately the same, aborted. It was evident that
+all stands producing a good seed crop were growing on well-drained
+soil and that those which were not yielding satisfactorily were on
+poorly drained land. It is well known that sweet clover will produce
+deep taproots only when the plants are growing in well-drained soil
+and that a much-branched surface root system will be formed on poorly
+drained land, and especially when there is an excess of moisture or a
+high water table during the first season's growth. During this droughty
+period in 1916 the upper layer of soil became so depleted of moisture
+that the plants with surface root systems were unable to obtain
+sufficient water to mature their seed. On the other hand, the lack of
+precipitation and the high temperatures did not affect the moisture
+content of the subsoil sufficiently to interfere with the normal seed
+production of deep-rooted plants. According to Lutts (22, p. 47) this
+same condition was found to be true in Ohio in 1916.
+
+As a rule, under droughty conditions the second crop of sweet clover
+will produce a higher yield of seed than the first crop, as the second
+growth of the plants is seldom more than half as much as the first,
+thereby requiring less moisture. However, if showery hot weather
+prevails when the first crop is cut, the end of each stub is very apt
+to become infected, usually with a species of Fusarium, which kills all
+the cortex as far back as the upper bud or young shoot and that part
+of it on the opposite side of this bud to the bud below. If the second
+bud from the top of a stub is not directly opposite the upper one the
+decay may extend nearly to the ground. (Pl. IV.) The destruction of
+half to two-thirds of the cortex from 2 to 4 inches below the upper bud
+materially reduces the quantity of water that can be conveyed to the
+branch above the base of the dead area. Plants thus infected obtain
+sufficient moisture for seed production only under the most favorable
+conditions. When the first crop is cut during warm dry weather, and
+especially when the first crop has not been permitted to make more than
+a 30 to 32 inch growth, the stubble seldom decays, and in no instance
+have the plants been observed to decay as far back as the upper buds.
+
+An experiment was conducted at Ames in the latter part of August and
+first part of September, 1916, to determine the effect of watering
+plants that were aborting a large percentage of their flowers and
+immature pods. For this purpose several volunteer plants growing in
+a meadow were selected. A hole 12 inches square and 14 inches deep
+was dug 8 inches from the crown of one plant, and each evening during
+the experiment 2 gallons of water were poured into the hole. The top
+of the hole was kept covered, so as to check evaporation from it as
+much as possible. Another plant of the same size and growing about 15
+yards from the watered plant served as a check. On both plants many
+of the flowers and immature buds were aborting at the beginning of
+the experiment. The soil in this field was so depleted of moisture
+that the leaves of the plants wilted during the hottest part of the
+days preceding the experiment. The foliage on the check plant wilted
+each day for the first five days of the experiment. On the sixth day
+0.96 of an inch of rain fell and four days later 0.23 of an inch
+more. The dropping of the flowers was temporarily checked by these
+precipitations, but owing to the dry, compact condition of the soil
+the rain was not sufficient to check entirely the fall of flowers and
+immature pods. At the beginning of the experiment the racemes on both
+plants were divided into three classes, according to the development of
+the flowers, and labeled. They were collected and the seeds counted as
+soon as the pods at the bases of the racemes commenced to turn brown.
+Table VIII presents the results obtained.
+
+Table VIII.--_Effect of water upon the seed production of
+sweet clover when growing under droughty conditions at Ames, Iowa, in
+1916._
+
+  ------------------------+-------------------------------------+---------
+                          |Plant not watered.|  Plant watered.  |
+                          +--------+---------+--------+---------+
+                          |        | Average |        | Average |
+  Stage of development    | Number |number of| Number |number of|Increase
+     when labeled.        |   of   |pods per |   of   |pods per |  from
+                          |racemes | raceme  |racemes | raceme  |watering.
+                          |labeled.|  that   |labeled.|  that   |
+                          |        | matured.|        | matured.|
+  ------------------------+--------+---------+--------+---------+---------
+  Flowers at the base of  |        |         |        |         |
+    the racemes just ready|   49   |  27.39  |   110  |  55.63  |  28.24
+    to open.              |        |         |        |         |
+                          |        |         |        |         |
+  Pods 3 to 6 days old    |   30   |  21.13  |   112  |  39.81  |  18.68
+                          |        |         |        |         |
+  Pods 9 to 12 days old   |   35   |  15.23  |    50  |  29.86  |  14.63
+                          |        |         |        |         |
+  ------------------------+--------+---------+--------+---------+---------
+
+
+The effect of the water was noticeable soon after the first
+application, as the leaves and flowers on this plant became turgid and
+the anther sacs burst at the proper stage of their development. Very
+few flowers fell after the second day. The water decidedly checked
+the aborting of immature pods, as is shown by the results obtained on
+the racemes which were labeled after the pods had formed. The racemes
+which contained pods 3 to 6 days old when labeled matured 9.95 pods to
+the raceme more than those which contained older pods at the beginning
+of the experiment, but this was expected, as most of the aborting
+which caused this difference had taken place before the racemes were
+labeled. As very few pods aborted before they were 3 to 6 days old, the
+difference of 9.95 pods to the raceme in favor of the ones labeled
+when the flowers at their bases were just ready to open was largely
+due to the dropping of the flowers on the older racemes before the
+experiment was begun.
+
+It will be seen that the production of mature pods on the plant not
+watered was much greater on the racemes that were labeled before
+the flowers opened than on the older racemes. This difference is
+undoubtedly due to the precipitation which fell on the sixth and tenth
+days of the experiment. It is believed that the yield of 15.23 pods
+to the raceme on the ones labeled when the pods were 9 to 12 days old
+is representative of the production of pods per raceme previous to
+the precipitation and that the other racemes on this plant would have
+yielded proportionately if conditions had remained the same.
+
+In the early spring of 1916, _Melilotus alba_ was planted in several
+large pots in the greenhouse of the Department of Agriculture at
+Washington, D. C. These pots were placed outside the greenhouse in
+the late spring, where they remained until the following January,
+when they were taken into the greenhouse. The plants grew rapidly and
+began to flower during the latter part of April, 1917. At this time
+two pots were placed in a large cage made of screen having 20 meshes
+to the linear inch. One pot was submerged in a tub of water, so that
+the soil was saturated at all times, while the plant in the other pot
+was given only sufficient water to keep it from wilting. The pods on a
+few racemes were self-pollinated and the results obtained are given in
+Table IX.
+
+Table IX.--_Effect of moisture on the seed production of
+Melilotus alba at Washington, D. C, in 1917._
+
+  -------------------------+------------------+---------+--------+--------
+                           |Total number of-- | Flowers that matured
+                           |                  |      (per cent).
+                           +--------+---------+---------+--------+--------
+  Soil treatment.          |        |         |  Pods   |        |
+                           |Racemes.| Flowers.| formed. | Total. |Increase.
+  -------------------------+--------+---------+---------+--------+--------
+                           |        |         |         |        |
+  Soil given only a limited|   12   |   227   |    65   | 28.63  | ......
+    quantity of water.     |        |         |         |        |
+  Soil saturated.          |   17   |   425   |   235   | 55.03  |  26.22
+  -------------------------+--------+---------+---------+--------+--------
+
+The results of this experiment compare favorably with those obtained
+under field conditions at Ames in 1916.
+
+
+
+
+Part II.--STRUCTURE AND CHEMICAL NATURE OF THE SEED COAT AND ITS
+RELATION TO IMPERMEABLE SEEDS OF SWEET CLOVER.[3]
+
+[3] The writers wish to acknowledge the service rendered by Mr. H.
+S. Doty, Instructor in Botany, Iowa State College, Ames, Iowa, in
+assisting in the preparation of this article.
+
+
+HISTORICAL SUMMARY.
+
+When agriculturists first began to cultivate wild legumes they observed
+that many seeds would not germinate within a comparatively short time
+after planting. Thus the problem of impermeable seeds began to demand
+attention many years ago. However, impermeable seeds are not confined
+to the Leguminosæ, as they occur also in the Malvaceæ, Chenopodiaceæ,
+Convolvulaceæ, Cannaceæ, and other families.
+
+Since the first account of the structure of legume seed coats by
+Malpighi (23 v. 1) in 1687, many investigators have contributed to our
+knowledge of the structure of the coats of seeds belonging to this
+family.
+
+Pammel (31) made an extensive study of legume seeds, including all the
+genera in the sixth edition of Gray's Manual, as well as genera not
+included in that publication. He found that the seed coat uniformly
+consisted of three layers, namely, the outer layer of Malpighian cells,
+the osteosclerid layer, and the inner layer of nutrient cells. Pammel's
+work included a study of the seed coats of _Melilotus alba_ and _M.
+officinalis_, and the descriptions and illustrations in his publication
+agree for the most part with the results obtained in the investigations
+reported in this article. However, more variation was noticed in the
+different layers of the seed coat than he describes.
+
+The cause of impermeability in seeds has been investigated by many.
+It has been found to be due to the embryos in some seeds, such as the
+hawthorns, but in most cases to the structure of the seed coat, and
+especially so in the Leguminosæ. Crocker (3) states that, exactly
+opposite to the common view, the cause of delayed germination generally
+lies in the seed coats rather than in the embryos. Nobbe (29) thought
+that the hardness of leguminous seeds was due to the Malpighian layer,
+and in a later publication Nobbe and Haenlein (30, p. 81) state that
+the absorbent power of many seeds is inhibited or entirely arrested
+by the cones of the Malpighian cells and the shields built up between
+them, which consist principally of cutin. Huss (15) agrees with Nobbe
+and Haenlein. Verschaffelt (39) found that the impermeability of the
+seeds of Cæsalpiniaceæ and Mimosaceæ investigated was due to, the
+inability of water to pass through the canals of the seed coat. By
+soaking the seeds in alcohol or other substances which change the
+capillarity of the pores, the seed coats were made readily permeable
+to water. Gola (6) states that the cause of the impermeability of seeds
+is the peculiar character of the Malpighian cells, which prevents their
+infiltration and consequent increase in volume, while Bergtheil and Day
+(2) found that the hardness of the seeds of _Indigofera arrecta_ was
+due to their possession of a very thin outer covering of a substance
+resistant to water. Ewart (5, p. 185) believes that in most impermeable
+seeds the cuticle prohibits the absorption of water, but gives as an
+exception _Adansonia digitata_, in which the whole integument seems to
+be permeable to water with difficulty. The following is quoted from
+White (42, p. 205):
+
+ As a general rule in small and medium-sized seeds the cuticle is well
+ developed and represents the impermeable part of the seed coat, while
+ in the cases of large seeds, such as those of _Adansonia gregorii_,
+ _Mucuna gigantea_, _Wistaria maideniana_, and _Guilandina bonducella_,
+ the cuticle is relatively unimportant and inconspicuous. In these
+ seeds the extreme resistance which they exhibit appears to be located
+ in the palisade cells.
+
+In discussing the seed coat of _Melilotus alba_, Rees (33, p. 404)
+states that the outer layer consists of palisade cells covered,
+externally by a structureless membrane, which, however, did not
+appear to be cuticle but hemicellulose, as it stained magenta with
+chloriodid of zinc. The greater part of the walls of the palisade
+cells also appears to be composed of hemicellulose and the outer ends
+only were cuticularized. In order to find whether the outer membrane
+was in itself impermeable to water, this author treated seeds for
+short intervals in sulphuric acid to dissolve the outside covering
+without directly affecting the palisade cells. Seeds treated in this
+manner swelled in water and microscopic examination showed that the
+ends of the palisade cells were quite intact, but had separated from
+each other. From this it was concluded that the outer membrane is
+instrumental in conferring impermeability on the seed, although not
+directly responsible for it, as is the case with a true cuticle. It
+is further believed that it probably served as a cement substance
+by means of which the cuticularized ends of the cells were held
+together closely, thus forming a barrier through which water could not
+penetrate, but that as soon as this barrier was removed the ends of the
+palisade cells separated and water passed in between them.
+
+More than 20 years ago machines were devised by Kuntze, Michalowski
+(27, p. 86), Huss (15), and later by Hughes (14), to scarify
+impermeable seeds. Other methods have been recommended and employed to
+some extent for hastening the germination of seeds. Hiltner (13, p.
+44) treated seeds of red clover, white clover, and alfalfa 10, 30, and
+60 minutes with concentrated sulphuric acid and found that the best
+germination resulted from the 60-minute treatment. Love and Leighty
+(21) also treated the seeds of various legumes with concentrated
+sulphuric acid and obtained a better germination in all cases. In
+their investigations with _Melilotus alba_ it was found that a 2-hour
+treatment resulted in some injury to the seed, but that a treatment
+varying from 25 minutes to 1 hour gave good results. In most cases in
+our investigations the seed coats of sweet clover became permeable
+to water after a treatment of 15 minutes in concentrated sulphuric
+acid, and within 5 minutes all of the Malpighian cells were destroyed
+down to the light line. Harrington (10) found that the soil, season,
+climate, color, or size of red-clover seeds had no influence upon
+the percentage of impermeable seeds and that the good germination
+ordinarily obtained with red clover was due to the scarifying of the
+seed coats by the rasps of hulling machines. Harrington (11) also
+studied the agricultural value of impermeable seeds and found that
+alternations of temperature cause the softening and germinating of
+many impermeable clover seeds when a temperature of 10° C. or cooler
+is used in alternation with a temperature of 20° C. or warmer and that
+the effect of such an alternation of temperature is greatly increased
+by previously exposing the seeds to germinating conditions at a
+temperature of 10° C. or cooler and is decreased by previously exposing
+the seeds to germinating conditions at a temperature of 30° C. It is a
+well-known fact that impermeable seeds which remain in the field over
+winter germinate readily the following spring.
+
+The light line is the most important and interesting feature of
+the Malpighian cell, at least so far as _Melilotus alba_ and _M.
+officinalis_ are concerned. But one light line occurs in the
+Malpighian cells in most Leguminosæ, although Pammel (32) reports two
+well-developed light lines in _Gymnocladus canadensis_, Junowicz (16)
+found three in _Lupinus varius_, and Sempolowski (36) two in _Lupinus
+angustifolius_.
+
+Many investigators have studied the light line, and different theories
+have been advanced as to its function, physical properties, and
+chemical nature. Schleiden and Vogel (35, p. 26) in describing the
+mature testa of _Schizolobium excelsum_ in 1838 undoubtedly referred to
+the light line when they stated that the walls of the Malpighian cells
+were not equally thickened. Mettenius (26), in 1846, was probably the
+first definitely to describe the light line. This author believed it
+was composed of pore canals, all appearing at the same height in the
+cells, but he was unable to prove this by cross sections. Lohde (20)
+studied the light line in seeds of _Hibiscus trionum_ and found it
+cutinized. Hanstein (8) states that the Malpighian cells are composed
+of two cell layers and the light line is produced by the adjoining
+walls of the ends of the cells. Later, this same author (9), according
+to Harz (12), refers to the light line as a perforated disk composed of
+tissue of strong refracting power.
+
+Russow (34) concludes that the light line is produced by neither
+chemical nor mechanical changes but is caused by a modified molecular
+structure containing less water than the remainder of the cell wall.
+Hiltner (13) agrees with Russow's explanation. Harz (12, p. 561) also
+agrees with Russow and adds that he has observed that the light line
+disappeared in a number of cases after applications of nitric acid.
+Wigand and Dennert (43) suggested that the light line is due to a
+series of erect fissures, while Tietz (37, p. 32) believes it is due
+to a chemical modification and that the phenomenon results from the
+exceptionally extreme density of parts of the cellulose membrane.
+Junowicz (16) found evidence of cellulose material. The cell wall
+at this point was strongly refractive and had a different molecular
+structure. After studying _Phaseolus vulgaris_, Haberlandt (7, p.
+38) agrees with the Russow explanation. In the seed of this plant
+the light line colored blue after being treated with chloriodid of
+zinc. Sempolowski (36), who investigated the light line in _Lupinus
+angustifolius_, states that there is not only a difference in the
+molecular structure but also a chemical modification of the cell wall
+at this point, since with iodin and sulphuric acid the cell wall
+colored blue, whereas the light line colored yellow. Wettstein (41),
+who studied seeds of Nelumbo, agrees with Russow (34) and Sempolowski
+(36) that chemical and physical modifications occur. He found that
+iodin and sulphuric acid colored the Malpighian cells intensely blue,
+the light line at first yellowish, and then later it gradually became
+blue. This reaction may be accelerated by heat. Iodin produced the same
+effect, and the light line colored blue more rapidly. When treated with
+a water-withdrawing medium the light line was not altered for some
+time, but finally disappeared with continued application. Cooking for a
+long time in caustic potash or standing in cold caustic potash caused
+the cells to swell, while the light line remained uninjured at first
+but finally disappeared. He also believed that the absence of pore
+canals in the region of the light line caused it to be more dense.
+
+Nobbe and Haenlein (30) treated sections of seed coats of _Trifolium
+pratense_ with iodin and sulphuric acid and found that the light line
+colored blue as readily as the thickened ridges that radiate inward
+from it, but that the outer processes of the palisade cells projecting
+from the light line toward the cuticle stained dark brown. They also
+state that various causes work to produce such unusual lusters in
+the light line, the principle one of which is the thickened ridges
+which radiate inward, reach their greatest development at this point,
+and coalesce in the lumen of the cell. The result is that the light
+line falls upon a continuously homogeneous medium, while in the inner
+portions of the ridges the light passes through media of varying
+opacity, such as cellulose, water, and protoplasm, whereby it is
+progressively subdued in varying degrees by partial reflection. Pammel
+(31, p. 147) studied the light line in _Melilotus alba_ and found that
+it consisted of a narrow but distinct refractive zone below the conical
+layer. The refractive zone colored blue with chloriodid of zinc. The
+whole upper part was, however, more or less refractive, while the
+remainder of the cell wall contained pigment and colored blue with
+chloriodid of zinc. Small canals project into the walls, in some cases
+extending beyond the light line.
+
+Beck (1) found that the light-refracting power of the light line was
+much greater than that of the undifferentiated membrane and stated that
+there may be in addition to this a chemical difference which can not be
+detected with the present microchemical methods. He does not believe
+that it is cuticularized or that it contains less water than the rest
+of the cell.
+
+Marlière (24, p. 11) gives a physical explanation and states that
+the true cause of the light line lies in the peculiar structure
+of the secondary membrane of the Malpighian cell. Tunmann (38, p.
+559) observed that it did not hydrolize in weak acids and therefore
+decided that it was not hemicellulose. He found that it dissolved in
+concentrated sulphuric acid more readily than the regions surrounding
+it and that it was composed of pectin or callose. In our investigations
+the main portion of the light line of _Melilotus alba_ and _M.
+officinalis_ was very resistant to concentrated sulphuric acid, only
+the narrow outer portion being attacked. It showed evidence of callose.
+
+
+MATERIAL AND METHODS.
+
+Permeable and impermeable seeds[4] of _Melilotus alba_ and _M.
+officinalis_ were obtained from commercial samples and also from
+samples collected in the field. Those selected for sectioning were
+allowed to dry after being removed from the germinator and then
+embedded on the ends of pine blocks in glycerin gum, which was made by
+dissolving 10 grams of powdered gum arabic in 10 c. c. of water and
+adding 40 drops of glycerin. After the glycerin gum had dried for 24
+hours, the seeds were easily sectioned. This method of embedding causes
+no change in the seed coat. It is more satisfactory than the paraffin
+method for holding the seeds firmly. The glycerin gum dissolved readily
+when the sections were mounted in water.
+
+[4] The term "permeable" is used in this paper to designate seeds whose
+coats are permeable to water in two weeks or less at temperatures
+favorable for germination, while the term "impermeable" is used to
+designate seeds whose seed coats are impermeable to water for this
+length of time when temperatures are favorable for germination.
+Impermeable seeds are commonly referred to as "hard seeds," and they
+may become permeable in time.
+
+In the microchemical studies Sudan III, alcanin, chlorophyll solution,
+and phosphoric acid iodin were used to test for cutin or suberin;
+sulphuric acid and iodin, chloriodid of zinc, and chloriodid of
+calcium for cellulose; phloroglucin and hydrochloric acid for lignin;
+ruthenium red for pectic substances; and sulphuric acid, Congo red, and
+aniline blue for callose.
+
+Where very thin sections were necessary for detailed study of the
+structure of the seed coat, pods in various stages of development were
+collected, and after the usual preliminary treatment they were embedded
+in paraffin and sectioned with the microtome. Microchemical tests were
+made with these sections by using various specific stains. Safranin was
+used to test for cutin, suberin, and lignin; haematoxylin and methyl
+blue for cellulose ; methylene blue, methyl violet B, mauvein, and
+ruthenium red for pectic substances; and aniline blue and Congo red for
+callose. In studying some points with reference to the pore system of
+the seed coat, it was necessary to use free-hand sections of fresh pods.
+
+In studying the seed coat in relation to the absorption of water,
+both permeable and impermeable seeds were soaked in water solutions
+of safranin, gentian violet, eosin, and haematoxylin, then dried and
+embedded in glycerin gum for sectioning. Seeds were soaked in stains
+dissolved in 95 per cent alcohol to test the penetration of alcohol. It
+was evident that the seed coats did not act as a filter, as the stains
+passed through them with the water or alcohol.
+
+
+STRUCTURE OF THE SEED COAT.
+
+There is very little endosperm present in mature seeds of _Melilotus
+alba_ or _M. officinalis_. That which is present is quite permeable to
+water and therefore bears no relation to the impermeable seeds of these
+plants.
+
+The outer layer of the seed coat, which is the modified epidermal layer
+of the ovule, is known as the Malpighian layer. (Pl. V, figs. 1 and
+2.) The cells constituting this layer, commonly called palisade cells,
+are the most highly modified cells of the seed coat. They are very
+much elongated, their length varying in the different regions of the
+coat, and their outer tangential walls and the outer portions of their
+radial walls are so much thickened that their lumina are confined to
+the inner portion of the cells, sometimes occupying less than half the
+length of the cells. The inner tangential walls and inner portions of
+the radial walls are thickened just previous to the death of the cells,
+the thickening sometimes being only slight and sometimes so much as to
+leave only very narrow lumina.
+
+There is a very thin layer on the outer surface of the Malpighian
+cells which has been called cuticle by previous investigators, but
+the chemical composition of this layer and its perviousness to water
+indicate that there is very little cutin present. This layer is
+probably the primary epidermal cell wall rather than a deposit on the
+outer surface of the wall. To determine this a study of the development
+of the Malpighian cells is necessary.
+
+Beneath the so-called cuticle there is the much thickened outer portion
+of the Malpighian cells in which there are two rather distinct regions,
+one constituting the conelike structures and the other forming a
+continuous layer over the conelike structures, separating them from
+the cuticle and filling in between them. These two regions separate
+easily, and in cutting sections the outer region, called by some the
+cuticularized portion, often breaks away, leaving the entire surface of
+the cones exposed.
+
+The term "cuticularized layer" will be used to designate all of the
+thickening covering the cones, including that around the cones as well
+as the portion between the cones and the cuticle. This term is not
+entirely appropriate, for the region is practically free from cutin,
+but for the want of a better term it will be used. There are canals
+in the cuticularized layer and cones, which are easily seen when the
+sections are treated with chloriodid of zinc or sulphuric acid. A
+surface view of a section showing the cones and cuticularized layer
+when mounted in glycerin shows the canals as dark lines due to the
+air inclosed. The canals are most abundant along the lines where the
+lateral walls of the cells join, but many are within the cones and in
+the cuticularized substance between the cones. (Pl. V, fig. 5.)
+
+The well-developed light line in _Melilotus alba_ and _M. officinalis_
+is found just below the bases of the cones. In some seed coats only
+a few and in others none of the canals which are common in the cones
+and cuticularized region cross the light line. A very distinct line of
+small canals filled with air and thus forming a dark band is present
+just above the fight line, thus making the light line more conspicuous.
+(Pl. V, fig. 3.) When the lumina of the cells extend across the light
+line, they are exceedingly small. The light line is the most compact
+region of the Malpighian layer and is conspicuous because it refracts
+the light much more than the regions above and below it.
+
+Just below the Malpighian is a layer of cells variously modified and
+known as the osteosclerid. The cells of this layer are often referred
+to as the hourglass cells on account of their shape. In some regions
+of the seed coat they are expanded at both ends and their walls are
+much thickened, the thickenings forming ridges on the radial walls,
+while in other regions only the upper tangential wall and a portion of
+the radial walls are thickened and the cells are expanded only at the
+inner end, thus having the shape of the frustum of a cone. Beneath the
+osteosclerid layer is the nutrient layer.
+
+The nutrient layer contains chloroplasts. It varies not only in the
+number of layers of cells composing it, but also in the modifications
+of these cells. This layer ranges from four to seven cells in thickness
+in the different parts of the seed coat.
+
+
+PLATE V.
+
+[Illustration]
+
+Structure of the Seed Coat of Sweet Clover.
+
+Fig. 1.--Section of the seed coat of _Melilotus officinalis_. × 450.
+Fig. 2.--Another section of the seed coat of _Melilotus officinalis_,
+showing the variation in size and modifications that occur in the
+three layers. × 450. Fig. 3.--Section of the Malpighian layer of a
+_Melilotus alba_ seed, showing a line of canals just above the light
+zone. × 450. Fig. 4.--Section of the Malpighian layer of a permeable
+_Melilotus alba_ seed. × 450. Fig. 5.--Tangential section of the
+Malpighian cells cut between the cuticle and tops of the cones, showing
+pores. × 530. Fig. 6.--Section through the Malpighian layer of an
+impermeable _Melilotus alba_ seed. × 450. Fig. 7.--Section through
+the Malpighian layer of an impermeable _Melilotus alba_ seed, showing
+the region through which water and stains readily passed. × 450. Fig.
+8.--Cross section of a Malpighian cell of a permeable _Melilotus alba_
+seed through the region of the light zone, showing the lumen not
+entirely closed. × 530. Fig. 9.--Section through the Malpighian layer
+of a _Melilotus alba_ seed shaded to show the portions which react to
+the cellulose and pectose tests. × 450. Fig. 10.--Section through the
+Malpighian layer of a _Melilotus alba_ seed which shows the condition
+of the seed coat after 60 minutes' treatment of concentrated sulphuric
+acid. That portion above the light zone was destroyed, and the lumina
+as small pores through which much of the stain now passed were seen
+extending across the light line. The lines between the cells were much
+more distinct, appearing as small intercellular spaces through which
+some stain passed. × 450. _a_, Cuticle; _b_, cuticularized layer; _c_,
+conelike portion of the thickening of the Malpighian cells; _d_, light
+line; _e_, region of a hard seed coat through which water and stains
+readily passed; _l_, lumen; _M_, Malpighian cells; _N_, nutrient cells;
+_O_, osteosclerid cells; _p_, canals just above light zone.
+
+
+MICROCHEMISTRY OF THE SEED COAT.
+
+Tests for cutin showed that there was very little present in the seed
+coat. Slight reactions for cutin were observed in the cuticle, in the
+outer margin of the cuticularized layer, and in the basal portion of
+the cones. These reactions were so slight as to be almost negligible.
+It is evident that the cuticle and cuticularized layer are not well
+named in _Melilotus alba_ and _M. officinalis_. Tests for cellulose
+showed that it was present in the cuticle, cuticularized layer, cones,
+the walls of the Malpighian cells below the light line, and the walls
+of the cells of the osteosclerid and nutrient layers. (Pl. V, fig. 9.)
+The reaction for cellulose in the Malpighian cells was quite distinct
+in the walls below the light line, less distinct in the cones and
+cuticle, and least distinct in the cuticularized layer.
+
+Tests for lignin occasionally showed slight traces in the Malpighian
+cells below the light line. When treated with reagents for pectic
+substances, the cuticle, cuticularized layer, cones, and all cell walls
+below the light line gave a definite reaction. The reaction of the
+cones and cuticle was more pronounced than the cuticularized layer.
+Tests for callose gave no reaction except in the upper part of the
+light line. This part of the light line stained slightly blue with
+aniline blue and was easily dissolved with sulphuric acid. In cutting
+free-hand sections of fresh material the Malpighian layer sometimes
+broke along this line. The greater part of the light line reacted to
+none of the tests, and its chemical nature was not determined.
+
+When microtome sections of seeds in different stages of development
+were treated with various stains, the results were in accord with those
+obtained with free-hand sections. Thus with safranin the periphery and
+cones of the Malpighian cells were slightly stained, while haematoxylin
+and methyl blue stained all the seed coat except the light line. The
+cones and cuticle stained more readily than the cuticularized layer,
+but neither stained as deeply as the cell walls below the light line.
+Methylene blue, methyl violet B, and mauvein stained all above the
+light line, indicating the presence of pectic substances; however, the
+staining was more prominent in the cones and cuticle.
+
+The difference in reaction of the cones and cuticularized layer to
+the cellulose and pectose tests probably indicates a difference in
+density rather than a difference in chemical composition. Since the
+cuticularized layer separates readily from the cones, there may be a
+difference in physical properties.
+
+With Congo red the upper part of the light line was only very slightly
+stained, but aniline blue had a more pronounced effect.
+
+The microchemical tests applied to the seed coat show that in the
+region above the light line there is only a slight trace of cutin
+or suberin, but a considerable amount of cellulose and pectose. All
+cell walls below the light line are mainly cellulose but contain some
+pectose. The upper portion of the light line contains callose, but the
+remainder of the light line appears to be chemically different from all
+other parts of the seed coat or else so dense as to resist the attack
+of the reagents.
+
+
+THE SEED COAT IN RELATION TO THE ABSORPTION OF WATER.
+
+A study of permeable seeds soaked in water containing stains showed
+that there were no local regions through which the water passed.
+The stains passed through all regions of the seed coat. Coating the
+micropylar region with vaseline retarded germination, but had no
+effect upon the percentage of germination at the end of three days. In
+seed coats through which the stain had passed, the light line was not
+stained. Some stain was found in the canals which crossed the light
+line, and much more in the cell cavities. There was no evidence that
+the stain had permeated the substance of the light line. It was able to
+cross the light line only when pores were present.
+
+In impermeable seeds the stains passed readily to the light line.
+(Pl. V, fig. 7.) It was evident that the absorption of water was
+not prevented by either the cuticularized layer or the cone-shaped
+structures of the Malpighian layer, but by the light line. The region
+outside of the light line became stained in a few hours, but there
+was no trace of the stain within the light line after the seeds had
+remained a week in the stains. Alcohol did not penetrate the seed coat
+more readily than water.
+
+
+A COMPARISON OF PERMEABLE AND IMPERMEABLE SEED COATS.
+
+No difference in chemical structure was found between the coats of
+permeable and impermeable seeds. The principal differences were in the
+character and amount of thickening of the cell walls.
+
+In many of the permeable seeds some of the canals were found to extend
+across the light line, but this was not true for all permeable seeds.
+(Pl. V, fig. 8.) Oblique sections of permeable seed coats showed that
+the cell cavities, although reduced to mere pores by the thickening of
+their radial walls, extended across the light line into the base of the
+cones, thus forming a passageway through which the stains passed to the
+larger portions of the cell cavities below the light line. (Pl. V, fig.
+4.)
+
+In the coats of the impermeable seeds the light line was usually
+broader, the Malpighian cells thickened more below the light line,
+and the main cavities of the Malpighian cells were more reduced and
+farther below the light line than in the coats of permeable seeds. (Pl.
+V, fig. 6.) No canals except occasionally a few very small ones were
+seen crossing the light line in impermeable seeds. Cross and oblique
+sections showed that the lumina of the Malpighian cells were closed
+in the region of the light line. Thus it was found that permeable and
+impermeable seeds differ mainly in the amount of thickening which
+occurs in the walls of the Malpighian cells. In the impermeable seeds
+the thickening which begins at the outer tangential wall of the
+Malpighian cell extends farther toward the inner tangential wall,
+leaving the cell lumina smaller and farther below the light line than
+in permeable seeds. The thickening is also more complete in impermeable
+seeds, leaving fewer and smaller canals across the light line as well
+as closing the cell lumina in the region of the light line.
+
+
+THE ACTION OF SULPHURIC ACID ON THE COATS OF IMPERMEABLE SEEDS.
+
+Impermeable seeds were soaked in concentrated sulphuric acid (sp. gr.
+1.84) for 15, 30, and 60 minutes; then washed and put in the staining
+solutions. After they had swollen, they were removed from the staining
+solutions, dried, and embedded in glycerin gum. A study of these seeds
+showed that the acid had eaten away all of the material outside of the
+light line and that the stain had passed through all regions of the
+seed coat. (Pl. V, fig. 10.) When observed under the microscope, it was
+seen that the action of the acid was rapid, destroying the cuticle,
+cuticularized layer, and cones in about 5 minutes. After 15 minutes
+treatment with acid the light line, aside from the presence of canals
+and pores not previously visible, seemed to be very little affected.
+The division lines along which the lateral walls of the Malpighian
+cells were joined now became much more distinct across the light line,
+thus indicating that there was some swelling in this region. When a
+close examination of the path of the stain was made the cell lumina,
+and occasionally very small pores, were found to extend across the
+light line. The presence of the stain in the pores indicated that
+they were paths of the stain across the light line. Some of the stain
+passed along the lines between cells and through the occasional canals
+crossing the light line, but judging from the intensity of the stain in
+the lumina the canals appeared to be the principal passageways.
+
+The action of the acid in opening the cell cavities across the light
+line was not determined. It may be due to the swelling of the light
+line or to the removal of substances closing the pores.
+
+No seeds were exposed to the acid for longer than an hour, but at the
+end of this period the light line was still intact. As compared with
+other portions of the Malpighian layer, it is extremely resistant to
+concentrated sulphuric acid. Since all cell walls below the light line
+are mainly cellulose, the resistance of the light line prevents the
+acid from destroying the entire seed coat and reaching the embryo.
+
+
+
+
+LITERATURE CITED.
+
+
+(1) Beck, Gunther.
+
+
+    1878. Vergleichende Anatomie der Samen von Vicia und Ervum. _In_
+       Sitzber. K. Akad. Wiss. [Vienna], Math. Naturw. Kl., Bd. 77,
+       Abt. 1, p. 545-579, 2 pl.
+
+(2) Bergtheil, C, and Day, D. L.
+
+    1907. On the cause of "hardness" in the seeds of Indigofera
+       arrecta. _In_ Ann. Bot., v. 21, no. 81, p. 57-60, pl. 7.
+
+(3) Crocker, William.
+
+    1906. Role of seed coats in delayed germination. _In_ Bot. Gaz., v.
+       42, no. 4, p. 265-291, 4 fig. Literature cited, p. 290-291.
+
+(4) Darwin, Charles.
+
+    1885. The effects of cross and self fertilisation in the vegetable
+       kingdom. 482 p. New York.
+
+(5) Ewart, Alfred J.
+
+    1908. On the longevity of seeds. _In_ Proc. Roy. Soc. Victoria, v.
+       21, pt. 1, p. 1-203. Literature, p. 3-4.
+
+(6) Gola, Guiseppe.
+
+    1905. Ricerche sulla biologia e sulla fisiologia dei semi a
+       tegumento impermeabile. _In_ Mem. R. Accad. Sci. Torino, s. 2,
+       t. 55, p. 237-270, 1 pl.
+
+(7) Haberlandt, G.
+
+    1877. Ueber die Entwickelungsgeschichte und den Bau der Samenschale
+       bei der Gattung Phaseolus. _In_ Sitzber. K. Akad. Wiss.
+       [Vienna], Math. Naturw. Kl., Bd. 75, Abt. 1, p. 33-47, 2 pl.
+
+     Hanstein, [Johannes].
+
+(8) 1863. Erläuterung des Nardoo genannten Nahrungsmittels der
+       Urbewohner Australiens, einer Marsilea-Frucht, nebst Bemerkungen
+       zur Entwicklung dieser Gattung. _In_ Monatsber. K. Preuss. Akad.
+       Wiss. Berlin, 1862, p. 103-119, 1 pl.
+
+(9) 1866. Pilulariae globuliferae generatio cum Marsilia comparata.
+       16 p. Bonnae. Dissertation.
+
+     Harrington, George T.
+
+(10) 1915. Hard clover seed and its treatment in hulling. U. S.
+       Dept. Agr., Farmers' Bul. 676, 8 p.
+
+(11) 1916. Agricultural value of impermeable seeds. _In_ Jour. Agr.
+       Research, v. 6, no. 20, p. 761-796, 6 fig., pl. 106. Literature
+       cited, p. 796.
+
+(12) Harz, C. D.
+
+    1885. Landwirtschaftliche Samenkunde. 1362 p., 201 fig. Berlin.
+
+(13) Hiltner, L.
+
+    1902. Die Keimungsverhältnisse der Leguminosensamen und
+       ihre Beeinflussung durch Organismenwirkung. _In_ Arb. K.
+       Gesundheitsamte, Biol. Abt., Bd. 3, Heft 1, p. 1-102, 4 fig.
+
+(14) Hughes, H. D.
+
+    1915. Making legumes grow. _In_ Farm and Fireside, v. 38, no. 19,
+       p. 7, illus.
+
+(15) Huss, Mathias.
+
+    1890. Über Quellungsunfähigkeit von Leguminosensamen und Mittel zu
+       deren Abhilfe. 73 p. Halle. Dissertation.
+
+(16) Junowicz, R.
+
+    1878. Die Lichtlinie in den Prismenzellen der Samenschalen. _In_
+       Sitzber. K. Akad. Wiss. [Vienna], Math. Naturw. Kl., Bd. 76,
+       Abt. 1, p. 335-352, 2 pl.
+
+(17) Kerner von Marilaun, Anton.
+
+    1891. Pflanzenleben. 2 Bd. Leipzig.
+
+(18) Kirchner, O.
+
+    1905. Über die Wirkung der Selbstbestäubung bei den Papilionaceen.
+       _In_ Naturw. Ztschr. Land-u. Forstw., Jahrg. 3, Heft 1, p. 1-16;
+       Heft 2, p. 49-64; Heft 3, p. 97-111. Literatur-verzeichnis, p.
+       110-111.
+
+(19) Knuth, Paul.
+
+    1906-8. Handbook of flower pollination, based on Hermann Müller's
+       work upon "The fertilisation of flowers by insects," transl. by
+       J. R. Ainsworth Davis. 3 v., illus. Oxford. Bibliography, v. 1,
+       p. 212-380.
+
+(20) Lohde, Georg.
+
+    1874. Ueber die Entwicklungsgeschichte und den Bau einiger
+       Samenschalen. 42 p., 1 pl. Naumburg. Dissertation.
+
+(21) Love, Harry H., and Leighty, Clyde E.
+
+    1912. Germination of seed as affected by sulphuric acid treatment.
+       N. Y. Cornell Agr. Exp. Sta. Bul. 312, p. 293-336, fig. 78-85.
+
+(22) Lutts, F. M.
+
+    1917. Sweet clover, advantages of the crop for soil improvement.
+       _In_ Ohio Agr. Exp. Sta. Mo. Bul., v. 2, no. 2, p. 45-47, illus.
+
+(23) Malpighi, Marcello.
+
+    1687. Opera omnia, seu thesaurus locupletissimus
+       botanico-medico-anatomicus ... New ed. 2 v., pl. Lugduni
+       Batavorum.
+
+(24) Marlière, H.
+
+    1897. Sur la graine et spécialement sur l'endosperme du Ceratonia
+       siliqua. _In_ Cellule, t. 13, fasc. 1, p. 5-60, 2 pl.
+
+(25) Martin, J. N.
+
+    1915. Relation of moisture to seed production in alfalfa. Iowa Agr.
+       Exp. Sta. Research Bul. 23, p. 301-324, 2 fig.
+
+(26) Mettenius, Georg.
+
+    1846. Beitraege zur Kenntniss der Rhizocarpeen. 65 p., 3 pl.
+       Frankfurt am Main.
+
+(27) Die Hohenheimer Samenritzmachine.
+
+    1894. _In_ Braunschweig. Landw. Ztg., Jahrg. 62, Nr. 19, p. 86.
+       illus.
+
+(28) Müller, Hermann.
+
+    1883. The fertilisation of flowers, transl. by D'Arcy W. Thompson.
+       669 p., 186 fig. London. Bibliography, p. 599-630.
+
+(29) Nobbe, Friedrich.
+
+    1876. Handbuch der Samenkunde. 631 p., 339 fig., 1 pl. Berlin.
+
+(30) --------, and Haenlein, H.
+
+    1877. Ueber die Resistenz von Samen gegen die äusseren Factoren der
+       Keimung. _In_ Landw. Versuchs Sta., v. 20, p. 71-96, 13 fig.
+
+     Pammel, L. H.
+
+(31) 1899. Anatomical characters of the seeds of Leguminosae,
+       chiefly genera of Gray's Manual. _In_ Trans. Acad. Sci. St.
+       Louis, v. 9, p. 91-275, pl. 7-35. Bibliography, p. 224-257.
+
+(32) 1886. On the structure of the testa of several leguminous
+       seeds. _In_ Bul. Torrey Bot. Club, v. 13, no. 2, p. 17-24, pl.
+       52-53.
+
+(33) Rees, Bertha.
+
+    1911. Longevity of seeds and structure and nature of seed coat.
+       _In_ Proc. Roy. Soc. Victoria, n. s., V. 23, pt. 2, p. 293-414,
+       pl. 79-81.
+
+(34) Russow, Edmund.
+
+    1872. Vergleichende Untersuchungen betreffend die Histiologie
+       (Histiographie und Histiogenie) der vegetativen und
+       sporenbildenden Organe und die Entwickelung der Sporen der
+       Leitbündel-Kryptogamen, mit Berücksichtigung der Histiologie der
+       Phanerogamen, ausgehend von der Betrachtung der Marsiliaceen.
+       _In_ Mém. Acad. Sci. St. Petersb., s. 7, t. 19, no. 1, 207 p.,
+       11 pl.
+
+(35) Schleiden, M. J., and Vogel, J. R. Th.
+
+    1842. Über das Albumen, inbesondere der Leguminosen. _In_ Nova
+       Acta. Acad. Caes. Leop. Carol. Nat. Cur., v. 19, pt. [2], p.
+       51-96, pl. 40-45. Reprinted.
+
+(36) Sempolowski, Anton.
+
+    1874. Beitraege zur Kenntniss des Baues der Samenschale. 57 p., 3
+       pl. Leipzig. Dissertation.
+
+(37) Tietz, A. O. Q.
+
+    1876. Über die Keimung einiger Coniferen und Laubhölzer bei
+       verschiedenen aber constanten Temperaturen. 44 p., 8 pl.
+       Reudnitz-Leipzig. Dissertation.
+
+(38) Tunmann, O.
+
+    1913. Pflanzenmikrochemie. 631 p., 137 fig. Berlin.
+
+(39) Verschaffelt, E.
+
+    1912. Le traitement chimique des graines à imbibition tardive. _In_
+       Rec. Trav. Bot. Néerl., v. 9, livr. 4, p. 401-435.
+
+(40) Westgate, J. M., and Coe, H. S.
+
+    1915. Red clover seed production: Pollination studies. U. S. Dept.
+       Agr. Bul. 289, 31 p., 7 fig. Literature cited, p. 29-31.
+
+(41) Wettstein, Richard von.
+
+    1888. Beobachtungen über den Bau and die Keimung des Samens von
+       Nelumbo nucifera Gärtn. _In_ Verhandl. K. K. Zool.-Bot. Gesell.
+       Wien, Bd. 38, p. 41-48, pl. 1.
+
+(42) White, Jean.
+
+    1908. The occurrence of an impermeable cuticle on the exterior of
+       certain seeds. _In_ Proc. Roy. Soc. Victoria, v. 21, n. s. pt.
+       1, p. 203-210, 2 pl.
+
+(43) Wigand, Albert, and Dennert, E.
+
+    1888. Nelumbium speciosum W. Eine monographische Studie. 68 p., 6
+       pl. Cassel. (Bibliotheca Botanica, Heft 11.)
+
+(44) Young, W. J.
+
+    1906. The embryology of Melilotus alba. _In_ Proc. Ind. Acad. Sci.
+       1905, p. 133-141, 50 fig. Bibliography, p. 136.
+
+
+                     ================================
+
+                            ADDITIONAL COPIES
+
+                 OF THIS PUBLICATION MAY BE PROCURED FROM
+
+                     THE SUPERINTENDENT OF DOCUMENTS
+
+                        GOVERNMENT PRINTING OFFICE
+
+                            WASHINGTON, D. C.
+
+                                    AT
+
+                            15 CENTS PER COPY
+
+
+
+                    *       *       *       *       *
+
+
+Transcriber Note
+
+
+Minor typos may have been corrected. Illustrations were moved to
+prevent splitting of paragraphs. Content produced from files generously
+provided by the USDA through The Internet Archive and all resultant
+files are placed in the Public Domain.
+
+
+
+

@@ -1,0 +1,2346 @@
+book was produced from images made available by the
+HathiTrust Digital Library.)
+
+
+
+
+
+
+Transcriber's Notes:
+
+  Underscores "_" before and after a word or phrase indicate _italics_
+    in the original text.
+  Equal signs "=" before and after a word or phrase indicate =bold=
+    in the original text.
+  Small capitals have been converted to SOLID capitals.
+  Illustrations have been moved so they do not break up paragraphs.
+  Typographical errors have been silently corrected but other variations
+    in spelling and punctuation remain unaltered.
+
+
+
+
+                 Vol. I.      JULY, 1892        No. 1.
+
+                    THE KANSAS UNIVERSITY QUARTERLY
+
+
+                        COMMITTEE OF PUBLICATION
+              E. H. S. BAILEY              F. W. BLACKMAR
+               W. H. CARRUTH                C. G. DUNLAP
+              E. MILLER                    S. W. WILLISTON
+                    V. L. KELLOGG, _Managing Editor_
+
+
+                                CONTENTS
+
+    KANSAS PTERODACTYLS, PART I.                  _S. W. Williston_
+    KANSAS MOSASAURS, PART I.      _S. W. Williston and E. C. Case_
+    NOTES AND DESCRIPTIONS OF SYRPHIDAE,               _W. A. Snow_
+    NOTES ON MELITERA DENTATA GROTE,                _V. L. Kellogg_
+    DIPTERA BRASILIANA, PART II.                  _S. W. Williston_
+
+
+                      PUBLISHED BY THE UNIVERSITY
+
+                            LAWRENCE, KANSAS
+
+                    _Price of this number, 50 cents_
+
+     Entered at the Post-office in Lawrence as Second-class matter
+
+                       JOURNAL PUBLISHING HOUSE,
+                           LAWRENCE, KANSAS.
+                                 1892.
+
+
+
+
+KANSAS PTERODACTYLS.
+
+
+BY S. W. WILLISTON.
+
+PART I, WITH PLATE I.
+
+The first American species of the singular group of extinct Mesozoic
+reptiles variously know as Ornithosaurs, Pterosaurs or Pterodactyls was
+described by Marsh from a fragmentary specimen obtained in 1870, by the
+Yale College Expedition in Wallace County, Kansas. About a dozen other
+specimens were obtained by a similar expedition the following year in
+charge of Professor Marsh, or by Professor Cope, and were described by
+these authors shortly afterward. By far the largest number of known
+specimens, however, other than those in the Kansas University Museum,
+were obtained during the years 1874, ’75, ’76 and ’77 by parties of
+which Professor Mudge, Dr. H. A. Brous, E. W. Guild, George Cooper and
+myself were the members, and it was from these specimens that most
+of the published characters were derived. Many of these specimens
+are necessarily fragmentary ones, still the material now in the Yale
+College Museum is ample to elucidate everything of interest concerning
+these animals.
+
+During the past few years, the Museum of Kansas University has been
+enriched by a series of excellent specimens of these animals, obtained
+from the same regions, specimens that permit the solution of most of
+the doubtful characters and throw not a little light on the affinities
+of the Kansas forms.
+
+The species hitherto named are as follows:
+
+
+PTERANODON.
+
+     _Pteranodon_ Marsh, Amer. Journ. Sci. xi, p. 508,
+        June 1876; and xii, p. 479, Dec. 1876; xxiii, p. 253,
+        April, 1882; xxvii, p. 423, May, 1881; Williston,
+        Amer. Naturalist, xxv, p. 1174, Dec. 1891
+
+=Pteranodon occidentalis.=
+
+     _Pterodactylus Oweni_ Marsh, Amer. Journ. Sci. i, p.
+        472, June 1871, Sep. p. 16 (nom. preoc).
+
+     _Pterodactylus occidentalis_ Marsh, Amer. Journ. Sci.
+        iii, p. 242, April 1872, Sep. p. 1; Cope, Cretac.
+        Vert. p. 68, pl. vii, ff. 5, 6.
+
+     _Ornithocheirus harpyia_ Cope, Proc. Amer. Phil. Soc.
+        1872, p. 471 (Cope).
+
+This species was originally based upon the distal end of two
+wing-metacarpals, and teeth. In the following year, a fuller
+description was given of additional remains referred to the same
+species and renamed _P. occidentalis_.
+
+=Pteranodon ingens.=
+
+     _Pterodactylus ingens_ Marsh, Amer. Journ Sci. iii, p.
+        246, April 1872, Sep. p. 6.
+
+     _Pteranodon ingens_ Marsh, Amer. Journ. Sci. xi, p.
+        508, June 1876.
+
+This species is based upon various bones of the wing-finger of several
+individuals, and three teeth.
+
+=Pteranodon umbrosus.=
+
+     _Ornithocheirus umbrosus_ Cope, Proc. Amer. Phil. Soc.
+        1872, p. 471.
+
+     _Pterodactylus umbrosus_ Cope, Cret. Vert. p. 65, pl.
+        vii, ff. 1-4.
+
+Marsh (Amer. Journ. Sci. xii, p. 480, Dec. 1876) says this name is a
+synonym of _P. ingens_, published two days earlier. As this synonymy is
+not certain, and as Cope’s species has been figured, I am not ready to
+accept his views.
+
+=Pteranodon velox.=
+
+     _Pterodactylus velox_ Marsh, Amer. Journ. Sci. iii, p.
+        247, April 1872, Sep. p. 8.
+
+Based upon the distal end of the right metacarpal of the wing-finger,
+and the proximal extremity of the adjoining first phalanx, two
+uncharacteristic parts of the skeleton, Marsh to the contrary
+notwithstanding. It is doubtful whether the direct comparison of the
+types will suffice to determine the species with certainty. “Both of
+the bones are somewhat distorted by pressure.”
+
+=Pteranodon longiceps.=
+
+     _Pteranodon longiceps_ Marsh, Amer. Journ. Sci. xi,
+        p. 508, June 1875; xxvii, p. 424, pl. xv, May 1884.
+
+Based upon a somewhat defective skull, without other bones.
+There is no evidence whatever that the species is distinct from the
+preceding.
+
+=Pteranodon comptus.=
+
+     _Pteranodon comptus_ Marsh, Amer. Journ. Sci. xi, p.
+        509, June 1876.
+
+Based upon wing-bones of three individuals. The description is meagre.
+
+=Pteranodon nanus.=
+
+     _Pteranodon nanus_ Marsh, Amer. Journ. Sci. xxi, p.
+        343, April 1881.
+
+Based upon various remains of one individual; the humerus, alone, is
+recognizably described.
+
+
+NYCTODACTYLUS.
+
+_Nyctosaurus_ Marsh, Amer. Journ. Sci. xii, p. 480, Dec. 1876. (nomen
+preoc.[1]).
+
+_Nyctodactylus_ Marsh, Amer. Journ. Sci. xxi, p. 343, April 1881: ibid.
+xxvii, p. 423, May 1884.
+
+[1] This preoccupation rests, so far as I am aware, upon Marsh’s
+statement. I can find no evidence of the name having been previously
+used.
+
+=Nyctodactylus gracilis.=
+
+     _Pteranodon gracilis_ Marsh, Amer. Journ. Sci. xi, p.
+        508, June 1876.
+
+     _Nyctosaurus gracilis_ Marsh, Amer. Journ. Sci. xii,
+        p. 480, Dec. 1876.
+
+     _Nyctodactylus gracilis_ Marsh, Amer. Jour. Sci. xxi,
+        p. 343, April 1881.
+
+
+PTERANODON.
+
+
+=Skull.=
+
+Fragmentary portions of the skull of Pteranodon are not at all rare
+in the Kansas chalk; but it is exceedingly seldom that a complete,
+or even approximately complete specimen is found. Their great length
+and slenderness, together with the extensive pneumaticity of the
+bones, render their preservation, as a whole, a thing of great rarity.
+Probably the most nearly perfect one yet known is now in the Museum
+of Kansas University. It was discovered the past summer by Mr. E. C.
+Case, a member of the University Geological Expedition. The specimen
+was carefully cleaned on its upper surface, as it lay in the chalk, and
+then imbedded in plaster before removal. The surface now exposed was
+the under one, which surface is, almost invariably, better preserved
+and less distorted than the upper one in these animals. A figure of
+this specimen is given in Plate I. The only portion restored is that
+indicated by the line in the lower jaw; it is possible that this part
+of the symphysis may not be exactly as it is drawn. Other, incomplete,
+specimens in the Museum confirm the outlines, except in the occipital
+crest, which is not present. As stated by me in the American Naturalist
+(_l. c._), the type specimen of _Pteranodon_, also collected by myself,
+was incomplete, and the figures of it, as given by Marsh, are faulty.
+
+The elements of the skull are all so firmly united that they can
+not be distinguished. There are no indications whatever of a horny
+sheath enclosing the jaw, and it is improbable that the covering of
+these parts was essentially different from that in the slender jawed
+_Pterodactylidae_. In texture, the maxillaries are fine-grained, and
+wholly without the vascular foramina found in the corresponding bones
+of birds. The bones are composed of two thin and firm plates, separated
+by cavities which are bounded by irregular walls of bony tissue. In the
+compression from which all the Pterodactyl bones have suffered more or
+less, the greater resistance of these walls has caused irregularities
+upon both the outer and the inner surfaces. At the borders of the
+bones, where the thickness has been greater, the roughening is not
+observed.
+
+Seen from above, the skull is narrow, as stated by Marsh; but, contrary
+to his statement, there is not a sharp ridge extending along the
+upper border. This border is obtuse and rounded, and in the frontal
+region, flattened. The sagittal crest is large, but not nearly so
+large as it is figured by Marsh, the restored outline of whose figure
+is undoubtedly wrong. The texture of the bone forming the crest is
+materially different from that of the remaining bones of the skull.
+The bone is more roughened, and less firm. There is a well-developed
+ring of sclerotic ossifications. In the specimen figured, the separate
+plates measure from six to eight millimeters in diameter. They were
+not imbricated, as in the Pythonomorpha, but have a similar dense
+texture. There is a superior temporal arch, bridging over a small
+opening leading downward to the inferior temporal fossa. The following
+measurements will give the principal dimensions of this specimen.
+
+  Length from tip of premaxillary to occipital condyle    680 millim.
+  Extreme length of skull                                 780
+  Extent of crest beyond orbit                            145
+  Greatest diameter of orbit                               65
+  Antero-posterior diameter of nasal opening              135
+  Length of quadrate                                      120
+  Width of lower jaw at articulation                       22
+
+
+=Pubis.=
+
+In a previous paper on the anatomy of _Pteranodon_,[2] I stated that
+I had never seen the so-called “prepubic bones.” Since that time,
+however, an excellent specimen of them has been discovered among
+our material. The specimen of which they are a part consists of the
+larger portion of the skeleton, and is perhaps conspecific with the
+one to which the described pelvis belongs. The figure given herewith
+will convey a good idea of their shape. The bones of the two sides
+are firmly co-ossified, and have been pressed nearly flat; the figure
+represents them as they are spread out in one plane. The bone is
+very thin throughout, with a slight thickening at the ischial (_a_)
+attachment only. Lying contiguous with the anterior projection, is a
+slender ventral rib (_b_). It is possible that the curvature of this
+bone may be inward, rather than outward.
+
+[Illustration: FIG. 1.]
+
+[2] Amer. Naturalist, Dec. 1891, p. 1124. In this article the
+description of the foot-phalanges should read: “All are slender, except
+the second one in the third toe, and the second and third in the fourth
+toe, where they are scarcely longer than wide.”
+
+This peculiar structure of the pubis (I believe it represents the
+pubis, and not the prepubis), seems to be quite similar to that
+which obtains in the genus _Rhamphorhynchus_, and, perhaps also, in
+_Pterodactylus suevicus_ (_Cycnorhamphus_ Seeley), and very different
+from that found in other species of _Pterodactylus_.
+
+The principal measurements of the above described specimen are as
+follows:
+
+  Antero-posterior expansion                    40 millim.
+  Length of symphysis                           14
+  Expanse of the united bones, as flattened     90
+  Width of ischial process                      11
+
+
+NYCTODACTYLUS.
+
+The type species of this genus was described as follows by its author
+(loc. cit. supra):
+
+     “One of the smallest American species yet found is
+     represented in the Yale Museum by several bones of the
+     wing, a number of vertebrae and the nearly complete
+     pelvis. The wing-bones preserved are elongated and very
+     slender. The pelvis is unusually small, and there are five
+     vertebrae in the sacrum. The last of the series indicates
+     that the tail was short. The following are the principal
+     measurements of this specimen:
+
+  Length of ulna                                             187 millim.
+  Length of metacarpal of wing-finger                        300
+  Antero-posterior diameter of outer condyle at distal end    15
+  Transverse diameter of shaft, above condyles                13
+  Length of first phalanx of wing-finger                     347
+  Extent of five vertebrae of sacrum                          57
+
+This species, which may be called _Pteranodon gracilis_, was about
+two-thirds the size of _P. velox_ Marsh. It probably measured about ten
+feet between the tips of the expanded wings.”
+
+In the December number of the same volume of the American Journal of
+Science, he described the genus as follows:
+
+     “A second genus of American Pterodactyls is represented
+     in the Yale Museum by several well preserved specimens.
+     This genus is nearly related to _Pteranodon_, but may be
+     readily distinguished from it by the scapular arch, in
+     which the coracoid is not co-ossified with the scapula. The
+     latter bone, moreover, has no articulation at its distal
+     end, which is comparatively thin and expanded. The type of
+     this species is _Pteranodon gracilis_ Marsh, which may now
+     be called _Nyctosaurus gracilis_. It was a Pterodactyl of
+     medium size, measuring about eight to ten feet between the
+     tips of the expanded wings.”
+
+The specific description of this species rests solely upon the
+measurements; the other characters given are not only vague, but are
+also common to all the known species. The generic description, as it is
+seen, is based upon the structure of the coraco-scapula. It will also
+be observed that the characters are not drawn from the type specimen,
+as that did not include this part of the skeleton, according to the
+author’s statement. Of these two characters, the non-ossification
+of the coracoid and scapula is a somewhat doubtful one, as the same
+character may or may not occur in allied species, as, for example, in
+the species of _Rhamphorhyncus_ (_R. Muensteri_ Goldf.) described by
+the author himself. So incomplete and unsatisfactory are the characters
+thus given that Zittel, in his Handbuch, dismisses the genus with the
+brief remark, “noch unbeschrieben.”
+
+Nevertheless, from the peculiar form of the scapula, and from my
+recollection of the specimens upon which the genus was based, I
+believe I have determined with certainty an excellent specimen in the
+Snow Museum of Kansas University as a member of it, and here give a
+sufficiently complete description to place the genus on a more secure
+foundation.
+
+This specimen was collected by Professor E. E. Slosson, of Wyoming
+University, while a member of my party in western Kansas the past
+season. It was partly exposed upon a gently sloping surface of firm
+yellow chalk on the Smoky Hill river, in the vicinity of Monument
+Rocks. Originally, the nearly complete skeleton must have been
+preserved, but a number of the bones had been either wholly or
+partially washed away, in some cases leaving their imprint in the
+chalk. The bones uncovered, and now lying upon the chalk slab nearly
+in their natural relations, are a humerus, both radii and ulnae, a
+pteroid, the two carpals of one wrist, both wing metacarpals, a first
+and a last wing phalanx, both coraco-scapulae, the posterior part of
+the lower jaws, ilium, femur, sternum, numerous ribs and vertebrae. The
+two coraco-scapulae lie with their scapular ends nearly touching, and
+their coracoid ends separated by a space equivalent to the width of the
+sternal articulation. The two elements appear to have been imperfectly
+united and were probably not co-ossified. The inferior border of the
+coracoid, near the humeral articulation, has a greater expansion than
+is found in _Pteranodon_; its shaft is more rounded and less rugose,
+lacking especially the strong muscular markings upon the external
+surface. The articular surface does not appear to differ materially
+from that in _Pteranodon_. The scapula is of nearly the same length
+as the coracoid, but is much less stout. It is a thin, spatulate
+bone, slightly expanded at the distal extremity, where the margin is
+rounded, and without the characteristic oblique articular facet. It
+has no supra-glenoid expansion or process on the posterior proximal
+border, but has its margin nearly straight or gently concave from the
+articulation to its extremity. The space included between the bones
+of the two sides as they lie is a nearly regular, oval one, measuring
+ninety-five millimeters in its greater, forty-five in its lesser
+diameter.
+
+The sternum lies at a little distance from the coraco-scapulae. It is
+an extremely thin bone, with a stout anterior, styliform projection,
+at the base of which, on either side, looking upward and outward,
+is the articular, trochlea-like surface for the sternal end of the
+coracoid. The width between these articular surfaces measures fifteen
+millimeters; the length of the process in front of the articulations
+is twenty-five millimeters. Immediately posterior to the articular
+surfaces, the bone expands nearly at right angles to the longitudinal
+axis to a width of about sixty millimeters. The thin lateral margins
+are nearly parallel with the longitudinal axis, and show three shallow
+emarginations between the four costal articular projections. The
+hind angles are nearly rectangular. The bone, as preserved, is only
+shallowly concave, and shows no true keel, though a more pronounced
+median convexity towards the front doubtless subserved the function of
+a carina in part.
+
+The left humerus lies in position, and is especially characterized by
+its enormous deltoid crest (radial crest of Marsh), though otherwise
+slender. This crest is further removed from the head of the bone
+than is the case in species of _Pteranodon_. It is directed somewhat
+downward, and has its distal, gently convex, border about twenty-five
+millimeters in extent, while the width of the process midway between
+the extremity and the base measures but sixteen millimeters. The
+bicipital crest is also prominent. The bone is relatively shorter than
+in _Pteranodon_.
+
+The humerus, as will be seen from the above description, and from
+the measurements given below, is remarkably like the same bone in
+_Pteranodon nanus_, as described by Marsh (_l. c. supra_), and but
+a little larger. In _P. nanus_, however, the coracoid and scapula
+are said to be firmly co-ossified, and the scapula has of course a
+different structure.
+
+The skull has been, unfortunately, almost wholly washed away, a
+fragment of the cranial wall and the posterior part of the lower jaws
+alone remaining. It is impossible, hence, to say much concerning this
+part of the anatomy. The lower jaws show a different structure from
+that in _Pteranodon_. As they lie in their natural position, the width
+at the condyles is about twenty-four millimeters. The angular is less
+produced posterior to the articulation than in _Pteranodon_, indicating
+a less elongated and less powerful mandibular portion, an indication
+further borne out by the slenderness of the rami. The impression in
+the chalk shows the symphysis to begin ninety millimeters from the
+articulation. The width at this place could not have exceeded sixteen
+millimeters; and the entire length of the lower jaws could hardly
+have been more than one hundred and twenty-five millimeters. In the
+parts preserved, measuring seventy-five millimeters, there are no
+indications of teeth; yet it is not impossible that there may have been
+teeth in the anterior portion of the dentary, as in some species of
+_Pterodactylus_. I hardly think it probable, however.
+
+There are seven cervical vertebrae preserved, apparently the full
+complement, as in _Pteranodon_ and other members of the order. They
+differ in no especial respect from the corresponding vertebrae of
+_Pteranodon_, and, apparently, of _Pterodactylus_. The imperfectly
+anchylosed, possibly free, atlas shows three pieces, the odontoid
+process and the two slender lateral pieces. The lateral pieces are
+entirely free, with a thickened base and a slender, curved upper
+portion. The odontoid is gently concave in front, and seems to be
+imperfectly ossified with the axis; it occupies the lower part of the
+articulation, corresponding to the hypapophysis of the Pythonomorpha.
+The axis is the shortest of the remaining vertebrae, and has a well
+developed spine. The centrum is strongly convex behind, as are the
+remaining centra of the series. The following five vertebrae decrease
+gradually in length. The anterior ones have only a thin ridge or plate
+for the neural spine; the seventh, however, has a neurapophysis of
+some length. They are all, as is usually the case, somewhat distorted
+from pressure. The under side is flattened, apparently gently concave
+longitudinally, and with a lateral ridge terminating in an obtuse
+hypapophysis at each inferior hind angle.
+
+In his discussion of the Pterosauria, Zittel says concerning the
+vertebrae: “zwischen oberen Bogen und Centrum ist keine Sutur zu
+bemerken.” Handbuch, iii, p. 776. In this he is in error, so far as
+the American forms are concerned. It is usually the case in the Kansas
+specimens of both genera that the neural arch of the post-cervical
+vertebrae is wholly or in part detached from the centrum, showing a
+sutural, and not anchylosed union in life. The centra of twelve
+vertebrae are preserved, in the present specimen, from the region back
+of the neck; in only five of them are the neural arches in any way
+attached. Three of these are evidently anterior thoracic, judging from
+their structure and the position in which they lie. The shortest of
+them, to which was attached a very large rib, and which was lying in
+front of the scapulae, may represent the first thoracic vertebra (_a_).
+Its centrum is fully as wide as long, is flat on the under surface,
+and has a large, stout, horizontal parapophysis near the anterior end.
+Just above this process for the attachment of the head of the rib,
+and separated by a deep notch, is a much more elongated, horizontal
+diapophysis for the tuberculum. The cup of the centrum is shallowly
+concave; the transverse, shallowly U-shaped ball is only a little
+convex.
+
+Two other vertebrae (_b_), found close by the one just described, and
+possibly one or the other contiguous with it, differ remarkably in
+having no, or a rudimentary, parapophysial process, and in having the
+diapophyses much shorter. It is not impossible that a slight expansion
+at the lateral margins of the ball may represent small parapophyses.
+In _Pteranodon_ there are at least four vertebrae with dia- and
+parapophyses. In the other vertebrae from this region the diapophyses
+are yet shorter and the neural spine stouter and broader. The other
+centra preserved are all shaped somewhat like the half of a cylinder,
+and are a little longer than broad. They have no distinct cup or ball.
+In two of them there is a very long, recurved parapophysial process,
+as though formed by an anchylosed rib, on each side; they are probably
+lumbar vertebrae.
+
+Most of the ribs are very slender; a few are moderately thickened; one
+only is very stout; its measurements are given below.
+
+  Length of lateral pieces of the atlas                       7  millim.
+  Diameter of lateral pieces at the base                      3½
+  Width of odontoid                                           4½
+  Height of odontoid                                          3
+  Length of axis                                              8
+  Height of axis                                              15
+  Length of third cervical vertebra                           21
+  Length of fourth cervical vertebra                          20
+  Length of fifth cervical vertebra                           19
+  Length of sixth cervical vertebra                           18
+  Length of seventh cervical vertebra                         17
+  Height of seventh cervical (about)                          15
+  Length of centrum, anterior thoracic vertebra (_a_)          6
+  Width of ball (_a_)                                          8
+  Expanse of parapophyses (_a_)                               14
+  Expanse of diapophyses (_a_)                                26
+  Width of neural canal (_a_)                                  3
+  Length of centrum, anterior thoracic vertebra (_b_)          8
+  Width of ball (_b_)                                         10
+  Expanse of diapophyses (_b_)                                17
+  Height of neural spine (_b_)                                20
+  Width of neural spine (_b_)                                  5
+  Length of rib (_c_)                                         45
+  Width of shaft (_c_)                                         5
+  Distance from center of capitulum to center
+       of tubercle (_c_)                                      10
+  Length of coracoid                                          50
+  Antero-posterior diameter, sternal extremity                 9
+  Length of scapula                                           45
+  Width of scapula at distal end                              15
+  Length of humerus                                           80
+  Width through deltoid crest                                 24
+  Least diameter of shaft of humerus                          13
+  Length of ulna                                             133
+  Width of ulna at distal extremity                           22
+  Length of radius                                           130
+  Width of radius distally                                    15
+  Length of wing-finger metacarpal                           220
+  Width of same metacarpal at proximal end                    20
+  Diameter through condyles                                   15
+  Transverse diameter of shaft above condyles                 10
+  Length of first phalanx, wing-finger                       263
+  Width of same phalanx at proximal end                       24
+  Width of same phalanx at distal end                         15
+  Width of sternum                                            67
+  Length of rib borders                                       25
+  Length of femur                                             75
+  Diameter of head of femur                                    5
+  Diameter of femur through condyles                          12
+  Length of pteroid bone                                      88
+
+The principal dimensions of this species can be got at with
+considerable certainty. Although two of the wing-phalanges and the
+bones of the foot are wanting, yet the relative proportions of those
+present agree so closely with those of the corresponding bones in
+_Pteranodon_, that there can be but little possibility of error in
+assuming the same proportions for the missing ones. The position of the
+ilium and femur, as also the ribs, show that they hold their natural
+relations to the pectoral arch. The tail, alone, can not be got at.
+
+  Extreme expanse of wing-bones              2400 mm.   7 ft. 10 in.
+  Expanse of wings in life, approximated     2000       6      6
+  Length of head, estimated                   150              6
+  Length of neck                              128              5½
+  Length of trunk                             165              6½
+  Length of leg and foot, outstretched        275             11
+
+But one species has been described from the American Cretaceous smaller
+than the present one, _Pteranodon nanus_ Marsh, in which the expanse of
+wings is given as not more than three or four feet. In this estimate
+the author is certainly in error. The size of the humerus, as given,
+is rather more than three-fourths that of the present species, and the
+expanse, hence, must be nearly five feet in life, or six feet as the
+bones lie outstretched.
+
+As regards the specific determination of the present specimen, there
+must necessarily be some doubt until the species already named have
+been recognizably described. But three of the existing species can be
+taken into account, _N. gracilis_, _P. comptus_ and _P. nanus_. That it
+can not be the last, has already been shown. In size, it agrees well
+with _P. comptus_, but the other characters throw no light upon the
+identity.
+
+The measurements given of the type specimen of _N. gracilis_ show the
+size to be materially greater,—a character, however, of subordinate
+value—greater slenderness, and a relatively shorter first wing-phalanx.
+
+The relative lengths of wing-metacarpals, wing-phalanx and ulna in _N.
+gracilis_ and the present specimen may be expressed as follows:
+
+  Length of wing-metacarpal          100      100
+  Length of first wing-phalanx       115.6    119.5
+  Length of ulna                      62.3    60.4
+
+It will be seen that not a single character has yet been given to
+distinguish the genus from _Pterodactylus_, and it is not at all
+impossible that it may prove to be the same; its location among the
+_Pteranodontidae_ rests solely on the assumed absence of teeth, and
+that is a character yet wholly unknown.
+
+The material now in the museum permits a fuller discussion of the
+relations and characters of this group of reptiles than has been
+hitherto attempted. Originally, they were described as constituting a
+new order, a view still held by its author and no one else. Lydekker,
+in his Paleontology and Catalogue gives them a subordinal value; Zittel
+only a family value, though expressing doubt as to their subordinal
+rank.
+
+It seems very probable that the genus _Nyctodactylus_ has no teeth
+in the jaws; it agrees in _every other respect_ with the genus
+_Pterodactylus_, so far as known. If the genus has teeth it must be
+united with _Pterodactylus_. Now, in not a few species of this genus,
+the teeth are confined to the anterior end of the jaws, and their
+entire absence, unaccompanied by other structural differences, will
+hardly constitute an order, or even family.
+
+But, leaving aside _Nyctodactylus_, it is very much of a question
+whether the differences between _Pterodactylus_ and _Pteranodon_ are
+sufficient to locate them in different families, let alone different
+suborders.
+
+The two genera have the following in common: Tail short. Skull with
+more or less elongated, pointed jaws, and very small upper and lower
+temporal fossae. Narial opening large, confluent with the pre-orbital
+foramen. Cervical vertebrae elongated, with rudimentary spinous
+processes. Fore and hind extremities, quite alike.
+
+_Pteranodon_ differs from _Pterodactylus_, so far as that genus is
+known, in the united coracoscapulae and pubes, both of which characters
+are found in _Rhamphorhynchus_.
+
+The sole family characters remaining then, for _Pteranodon_, are,
+absence of teeth, a supra-occipital crest, and the articulation of
+the upper end of the scapula. Now it seems evident that to place
+the pteranodonts in a group equivalent to all the other pterosaurs
+is unwarranted, and any classification that will not show the more
+pronounced relationships with _Pterodactylus_ is faulty. I would,
+therefore, propose the following:
+
+Order Pterosauria.
+
+     Family Pterodactylidae, subfamilies Pteranodontinae,
+        Pterodactylinae.
+     Family Rhamphorhynchidae.
+     Family Ornithocheiridae.
+
+As regards the geographical distribution of the Pteranodonts, they
+have hitherto been recognized only from Kansas, but I am firmly of the
+opinion that they occur in Europe, and, if so, it is very probable that
+the name _Pteranodon_ must be eventually given up. In fact, a toothless
+form of Pterodactyl was described by Seeley as long ago as 1871,
+under the name of _Ornithostoma_. I cannot refer to his description
+at present, and can, therefore, give no opinion as to their identity.
+It seems certain that the peculiar form of the scapulae and their
+vertebral articulation[3] occur among some of the European forms, which
+would strengthen the belief that _Pteranodon_ is also an European genus.
+
+[3] The specimens in which I have seen the vertebral articulation show
+no co-ossification of the vertebrae: the facet for articulation being
+placed above the spines, and apparently formed by ossified ligaments.
+
+In view of the above, the practice of the American text-books in
+Geology in introducing generic names of characteristic fossils as names
+of the geological horizons whence they come, is very reprehensible, in
+my opinion. Even the late edition of Leconte’s Elements contains a long
+list of such names, the greater portion of which have been relegated to
+the limbo of synonymy by paleontologists. It is greatly to be desired
+that the name “Pteranodon Beds” shall not become established, so long
+as there is the least doubt of the validity of the name itself.
+
+
+
+
+KANSAS MOSASAURS.
+
+
+BY S. W. WILLISTON AND E. C. CASE.
+
+PART I, CLIDASTES, WITH PLATES II-VI.
+
+The group of extinct Cretaceous reptiles known as the Mosasaurs or
+Pythonomorpha was defined by Cope, “to whom Science is so largely
+indebted for its present knowledge of this interesting order of
+reptiles” (Marsh), in 1869.[4] Although some of the characters assigned
+by him to the order have since been shown to be inapplicable, and
+the group to have less value, yet his name, Pythonomorpha, has been
+generally retained. Lydekker and Zittel have assigned to the group a
+subordinal value, as has also Marsh, though under a different name.
+Owen rejected it entirely, and Baur, more recently,[5] has united it
+with the Varanidae to form a super-family, as follows:
+
+  Suborder Platynota.
+    Super-family Varanoidea.
+      Families Mosasauridae, Varanidae.
+    Super-family Helodermatoidea.
+      Family Helodermatidae.
+
+The group, whatever may be its rank or position, includes, so far, the
+following genera: _Mosasaurus_ Conyb., _Liodon_ Owen, _Platecarpus_
+Cope, _Clidastes_ Cope, _Baptosaurus_ Marsh, _Sironectes_ Cope,
+_Plioplatecarpus_ Dollo and _Hainosaurus_ Dollo. _Pterycollasaurus_
+Dollo, founded upon _Mosasaurus maximilianus_ Goldf., is omitted
+as doubtful. All of these genera, save _Plioplatecarpus_ and
+_Hainosaurus_, have been recorded from North America, _Clidastes_,
+_Baptosaurus_ and _Sironectes_ being peculiar to this country. Of these
+latter three genera, however, _Clidastes_ alone is well known; but this
+genus is suspected by Lydekker of being the same as the imperfectly
+known European _Geosaurus_ Cuvier. Thus it seems that the genera, or
+at least the most of them, have a wide distribution; _Platecarpus_, in
+fact, is said to occur in New Zealand.
+
+[4] Proc. Bost. Soc. Nat. Hist., p. 253.
+
+[5] Science, xvi, p. 262, Nov. 7, 1890.
+
+In America, members of the group have been discovered in the Cretaceous
+deposits of New Jersey, Alabama, North Carolina, the upper Missouri
+region, Nebraska, Kansas and New Mexico. Probably nineteen-twentieths
+of all the known specimens, however, have been obtained in western
+Kansas. The material now in the University Museum, all from Kansas,
+comprises several hundred specimens of these animals, including,
+probably, the best ones known. It is upon this material that the
+following preliminary studies are chiefly based.
+
+The genus _Clidastes_, as first described by Cope, was based upon
+two dorsal vertebrae of _C. iguanavus_, the type species, from New
+Jersey. Shortly afterward, however, he gave a full and careful generic
+description, as derived from an unusually good specimen of an allied
+species, _C. propython_, from Alabama. Only a little later, Marsh
+described a genus, which he called _Edestosaurus_, from Kansas, but
+without giving any real, distinctive differences from _Clidastes_,
+following the very reprehensible practice of naming supposed new forms
+in the hopes that future distinctive characters might be found. The
+genus _Edestosaurus_ has been rejected by nearly all save the authors
+of the American text-books in Geology. It seems hardly necessary to
+point out the identity. The only distinctive character the author
+gave for his genus was the insertion of the pterygoid teeth, and even
+this character he modified later—“Palatine (sic) teeth more or less
+pleurodont.”[6]
+
+[6] Amer. Journ. Sci. iii, June 1872.
+
+This character, even were it real, is of very slight value; indeed it
+cannot be used to distinguish the species even.
+
+_Clidastes_ is, without doubt, one of the most highly specialized
+genera in the group, and, what is very interesting, is one of the
+latest. It occurs in Kansas in the uppermost part of the Niobrara beds,
+in the horizon so markedly characterized by the toothed birds. Both
+_Platecarpus_ and _Liodon_ occur, though in diminished numbers, almost
+to the very lowest portion, but _Clidastes_ has never been found except
+towards the top. From measurements made the past season, the thickness
+of the beds in which these saurians occur cannot be less than six
+hundred feet.
+
+The following species have been found in Kansas: none of them are known
+to occur elsewhere.
+
+
+MOSASAURIDAE.
+
+     _Mosasauridae_ Conybeare, in Cuvier, Ossem. Foss., 2nd ed.,
+        p. 338, 1824.
+
+     _Clidastidae_ Cope, Extinct Batr. Rept. and Aves of N.
+        Amer., Trans. Amer. Phil. Soc. xiv, p. 50, 1870.
+
+     _Edestosauridae_ Marsh, Amer. Journ. Sci. xxi, p. 59, July
+        1878.
+
+
+CLIDASTES.
+
+     ? _Geosaurus_ Cuvier, Ossem. Foss. 2nd ed., 328, 1824,
+        (_fide_ Lydekker.)
+
+     _Clidastes_ Cope, Proc. Acad. Nat. Sci. Phil. 1868, p. 233;
+        Ext. Batr. etc., p. 21, 1870.
+
+     _Edestosaurus_ Marsh, Amer. Journ. Sci. i, p. 417, June,
+        1871.
+
+=C. cineriarum.=
+
+     _Clidastes cineriarum_ Cope, Proc. Amer. Phil. Soc., 1870,
+        p. 583; Cret. Vert. etc. pp. 137, 266, pl. xxi, ff.
+        14-17; Bullet. U. S. Geol. Surv. Hayden, iii, p. 583.
+
+=C. dispar.=
+
+     _Edestosaurus dispar_ Marsh, op. cit. i, p. 447, June 1871;
+        iii, pl. xi., June, 1872.
+
+=C. velox.=
+
+     _Edestosaurus velox_ Marsh, Amer. Journ. Sci. i.
+        p. 450, June, 1871.
+
+     _Edestosaurus pumilus_ Marsh, ibid. p. 452.
+
+     ? _Clidastes affinis_ Leidy, Proc. Acad. Nat. Sci., 1870,
+        p. 4; Rep. U. S. Geol. Surv., Hayden, vol. i, p.
+        283, 1873.
+
+     ? _Edestosaurus dispar_ Marsh, op. cit. xix, pl. i, f. 1,
+        Jan., 1880.
+
+=C. Wymani.=
+
+     _Clidastes Wymani_ Marsh, Amer. Journ. Sci. i, p. 451,
+        June, 1871; iii, p. 202, April, 1872.
+
+     _Edestosaurus Wymani_ Marsh, op. cit. iii, p. 464, June,
+        1872.
+
+=C. tortor.=
+
+     _Edestosaurus tortor_ Cope, Proc. Amer. Phil. Soc. Dec.,
+        1871; Marsh, op. cit. iii, p. 464, June, 1872.
+
+     _Clidastes tortor_ Cope, Cret. Vert. Rep. U. S. Geol.
+        Surv., Hayden, vol. ii, pp. 48, 131, 265, pls. iv, f.
+        i; xiv, f. i; xvi, ff. 2, 3; xvii, f. 1; xix, ff. 1-10;
+        xxxvi, f. 3; xxxvii, f. 2; Bullet. U. S. Geol. Surv.
+        Hayden, vol. iii, p. 583.
+
+=C. stenops.=
+
+     _Edestosaurus stenops_ Cope, Proc. Amer. Phil. Soc. p. 330,
+        1871: Marsh, Amer. Journ. Sci. iii, p. 464, June, 1872.
+
+     _Clidastes stenops_ Cope, Cret. Vert. etc. pp. 133, 266,
+        pls. xiv, ff. 4, 5; xvii, f. 7, 8; xviii, ff. 1-5;
+        xxxvi, f. 4; xxxvii, f. 3; xxxviii, f. 3.
+
+=C. rex.=
+
+_Edestosaurus rex_ Marsh, op. cit. iii, p. 462, pl. xxii, f. 1, June,
+1872.
+
+=C. planifrons.=
+
+     _Clidastes planifrons_ Cope, Bullet. U. S. Geol. Surv. No.
+        2, p. 31, 1874; Cret. Vert. etc. pp. 135, 265, pls.
+        xxii, xxiii.
+
+=C. Westii.=
+
+_C. Westii_ Williston, n. sp. infra.
+
+
+CLIDASTES VELOX.
+
+A remarkably complete specimen, referred with considerable certainty
+to this species, was obtained by ourselves in western Kansas, (Butte
+Creek) in the summer of 1891. A brief preliminary description of the
+specimen was given by the senior author in Science, December 8, 1891.
+A more complete description is here given, which, it is believed, will
+be of service. The specimen is an unusually perfect one, being very
+nearly complete, and, as now mounted, shows the bones nearly all in the
+position in which they were found. The vertebral column is continuous,
+except in one place, where the tail had been bent up over the back; and
+complete, save at the very tip of the tail. The skull is complete, or
+very nearly complete, and has been restored nearly to the condition in
+life. Figures have been made of this portion of the skeleton, and will
+be given in a future communication. At present, it may be mentioned
+that the lacrymals are small, roughly irregular bones, and pointed at
+either extremity. There are no indications of transverse bones, as
+there are none in any other skull in the collection.
+
+
+Cervical vertebrae.
+
+ATLAS. The intercentrum is a small bone with three sides of
+nearly equal extent. The two upper, articular surfaces are gently
+concave, and meet in a rounded margin; the inferior surface is convex,
+both antero-posteriorly and transversely, with a roughened prominence
+in the middle. The lateral pieces have indistinctly separated facets
+for articulation with the odontoid, the intercentrum and the occipital
+condyle. The rather short, flattened lamina extends upward, backward
+and inward, approaching, but not reaching its fellow of the opposite
+side; it is somewhat dilated distally. Directed outwards and forwards,
+there is a stout styliform process.
+
+AXIS. The neural spine of the axis is elongated
+antero-posteriorly. It is thin on the anterior portion, but stouter
+and longer at the posterior part. The large, stout odontoid process is
+united suturally, as is also the well-developed atlantar hypapophysis,
+which forms the anterior, inferior portion of the bone. The diapophyses
+are the smallest of the costiferous series, with only a small articular
+facet for the rib. The ball is strongly and evenly convex, with its
+greater diameter transversely. The hypapophysis is the largest of the
+series; it is suturally united with the stout, exogenous process of the
+centrum, and projects downward and backward; its distal extremity is
+roughened for ligamentous attachments.
+
+The third cervical vertebra shows a well-developed zygosphenal
+articulation, and stout articular processes. The transverse process is
+small, only a little larger than that of the axis, though, unlike that,
+it is strengthened by a ridge continued from the anterior zygapophyses.
+The hypapophysis is smaller than that of the axis, but, like that,
+is directed downward and backward. The spine may be distinguished
+from that of any other vertebra by its stout, trihedral shape; it is
+directed rather more obliquely backward than in the following vertebrae.
+
+The fourth cervical vertebra differs from the third in having stouter
+transverse processes; in the hypapophysis being directed more nearly
+downward, and in its smaller size; and in the spine being flattened
+antero-posteriorly toward the base.
+
+The fifth cervical vertebra differs from the fourth in the broader
+spine, in the stouter transverse processes, and the smaller
+hypapophysis.
+
+In the sixth cervical vertebra, the hypapophysis is reduced to a small
+ossification, scarcely longer than broad, directed downward. The spine
+has reached nearly the full width of those of the following vertebrae,
+though somewhat stouter above. The transverse processes are yet stouter.
+
+In the seventh, or last, cervical vertebra the hypapophysis is
+wanting, or very rudimentary. The under part of the centrum shows a
+rounded ridge or carina, with a slight projection corresponding to the
+hypapophysis.
+
+MEASUREMENTS OF THE CERVICAL VERTEBRAE.
+
+  1. Antero-posterior diameter of intercentrum of atlas  14 millim.
+     Transverse diameter of intercentrum                 25
+     Antero-posterior diameter of lateral piece          20
+     Vertical extent of articular surface                17
+     Extent of lateral piece                             35
+     Width of lamina above                               16
+  2. Length of axis                                      43
+     Transverse diameter of ball                         18
+     Vertical diameter of ball                           17
+     Expanse of transverse processes                     28
+     Elevation of spine above floor of neural canal      34
+     Antero-posterior extent of spine                    50
+  3. Length of third cervical vertebra                   37
+     Height of spine above floor of neural canal         36
+     Depth of hypapophysis below floor of neural canal   34
+  4. Length of fourth cervical vertebra                  37
+     Height of spine above floor of neural canal         39
+     Depth of hypapophysis below floor of neural canal   35
+  5. Length of fifth cervical vertebra                   37
+     Height of spine above floor of neural canal         42
+     Depth of hypapophysis below floor of neural canal   33
+     Transverse diameter of ball                         17
+     Vertical diameter of ball                           18
+  6. Length of sixth cervical vertebra                   37
+     Height of spine above floor of neural canal         42
+     Depth of hypapophysis below floor of neural canal   30
+     Width of spinous process                            26
+  7. Length of seventh cervical vertebra                 37
+     Height of spine above floor of neural canal         46
+     Transverse diameter of ball                         19
+     Vertical diameter of ball                           20
+     Width of spinous process                            27
+
+
+Dorsal vertebrae.
+
+There are thirty-five vertebrae between the cervicals and the first
+non-rib-bearing vertebra, to which the pelvis was, evidently, attached.
+The distinction between the cervicals and thoracics cannot be made from
+any characters they possess, as the seventh vertebra does not bear a
+distinct hypapophysis. Neither can it be said with certainty from this
+specimen which is the first thoracic vertebra, as the cervical ribs
+had, unfortunately, been displaced in the collection and preparation
+of the specimen. In another specimen, referred to _C. pumilus_, and
+which, as will be seen later, cannot be specifically distinguished
+from the present species, short cervical ribs were found attached to
+six vertebrae posterior to the atlas. That the eighth vertebra is a
+thoracic one is shown by the relation of the ribs in this specimen.
+Posteriorly there is no distinction, also, between the true thoracic
+vertebrae and those of the lumbar region. All the vertebrae anterior to
+the pelvis bear ribs, and will all be considered as dorsal vertebrae,
+the true thoracic vertebrae being restricted to those of which the ribs
+are elongated, and, probably, connected with the sternum.
+
+In the anterior vertebrae of the series, the centra are subcarinate
+below, the obtuse, rounded ridge becoming less and less apparent
+until no indications of the keel can be seen, before the middle
+of the series. The transverse processes are stoutest, with a more
+elongated, sigmoid articular surface, with little or no constriction,
+and projecting only slightly beyond the stout articulating processes,
+in the anterior vertebrae. In the tenth or eleventh, the articular
+surface has become markedly smaller, more vertical, and less sigmoid in
+outline. Thence to the last, the articular surface for the ribs remains
+nearly the same. The process itself, however, becomes gradually more
+prominent and constricted, as the zygapophyses becomes smaller. The
+spinous processes increase slightly in length and breadth, and are only
+slightly oblique throughout. In length, the centra increase gradually.
+The vertical diameter of the ball increases gradually, while the
+transverse diameter remains more nearly the same.
+
+MEASUREMENTS OF THE DORSAL VERTEBRAE.
+
+   1. Length of centrum to rim of ball                    38 millim.
+      Transverse diameter of ball                         20
+      Vertical diameter of ball                           19
+      Height of spine above floor of neural canal         48
+      Extent of articular surface of transverse process   30
+      Width of spine                                      28
+   4. Length of centrum to rim of ball                    41
+      Transverse diameter of ball                         20
+      Vertical diameter of ball                           20
+      Height of spine above floor of neural canal         48
+  11. Length of centrum to rim of ball                    41
+      Vertical diameter of ball                           22
+      Extent of articular surface of transverse process   16
+      Width of spine                                      32
+  15. Length of centrum to rim of ball                    41
+      Transverse diameter of ball                         21
+      Vertical diameter of ball                           24
+  20. Length of centrum to rim of ball                    42
+      Vertical diameter of ball                           25
+      Height of spine above floor of neural canal         58
+  24. Length to rim of ball                               41
+      Transverse diameter of ball                         22
+      Vertical diameter of ball                           23
+      Height of spine                                     49
+  28. Length to rim of ball                               40
+      Vertical diameter of ball                           24
+      Transverse diameter of ball                         23
+      Height of spine                                     54
+  32. Length to rim of ball                               38
+      Vertical diameter of ball                           25
+      Transverse diameter of ball                         24
+  35. Length to rim of ball                               37
+
+
+Caudal vertebrae.
+
+Immediately following the thirty-fifth rib-bearing vertebra there is
+an abrupt change, the tubercular process for the rib giving place to
+an elongated transverse process. From the position of the pelvis, it
+is evident that the ilia were attached to the first pair of these.
+Precisely this relation of pelvis to the vertebrae is found in such
+lizards as the Monitor and Iguana, and it is probable that such is the
+relation in all the Pythonomorpha. It will thus be seen that there
+are no distinctively lumbar vertebrae, if by such are meant free,
+non-costiferous, pre-sacral vertebrae. The vertebrae of these animals
+that have been so designated by writers are in reality basal caudal.
+A distinctive term for them—those with transverse, non-costiferous
+processes and without chevrons—is needed, and we propose,
+provisionally, the term _pygial_. There are seven in the present
+series, all characterized by elongated transverse processes, and not
+differing much from each other. The vertebrae lie in the matrix with
+the ventral aspect uppermost, concealing the spine and upper parts.
+The under surface is somewhat flattened, and, as in the preceding
+vertebrae, is gently concave antero-posteriorly. The transverse
+processes are elongate, stout towards the base, apparently all of
+nearly equal length, and directed gently backwards and downwards. In
+the anterior vertebrae the processes spring from near the front part:
+as the centra become shorter they arise from near the middle. In the
+last one of the series there are minute indications of chevrons.
+
+MEASUREMENTS OF THE PYGIAL CAUDAL VERTEBRAE.
+
+  1. Length to rim of ball                    36 millim.
+     Width of ball                            25
+     Expanse of transverse processes         130
+     Width of transverse process near base    17
+  2. Length to rim of ball                    33
+  3. Length to rim of ball                    31
+  4. Length to rim of ball                    29
+  5. Length to rim of ball                    28
+  6. Length to rim of ball                    27
+     Expanse of transverse processes         130
+     Width of ball                            24
+  7. Length to rim of ball                    27
+
+The centra of those caudal vertebrae which have chevrons do not differ
+much in shape. They become less constricted, and, back of the middle of
+the series, are smoothly cylindrical in shape. The transverse processes
+decrease gradually in length, disappearing entirely in the twenty-fifth
+or twenty-sixth. The spinous processes are more or less incompletely
+preserved in the anterior vertebrae. They increase only gradually in
+length for the first twenty of the series, and are markedly oblique,
+with the posterior border stout, and the anterior border alate. With
+the twenty-sixth they begin to increase more rapidly in length, and
+have become more nearly vertical in position, and are thinner at each
+margin. In the thirty-fifth or thirty-sixth they attain their greatest
+length, and are here directed slightly forwards. Thence to the end of
+the tail, the length decreases gradually, and, in position, they are
+directed more and more obliquely backward. The chevrons are strongly
+oblique throughout the series and are firmly co-ossified with the
+centrum.
+
+The tail, it is thus seen, has a broad, vertical, fin-like extremity,
+which, doubtless, aided much in the propulsion of the animal through
+the water.
+
+There are sixty-seven vertebrae with chevrons present in the specimen,
+all continuous, except in one place. The last one is less than
+one-fourth of an inch in diameter, and shows that there had been yet
+another, possibly several more. Toward the base of the series the tail
+has been bent forwards over the back, and it is possible that, where
+the break occurs, there has been a vertebra lost. The measurements,
+however, do not seem to indicate any loss. The entire series of
+vertebrae was not less than sixty-eight, and probably not more than
+seventy, making for the entire vertebral series one hundred and
+seventeen to twenty.
+
+MEASUREMENTS OF THE CHEVRON-BEARING CAUDAL VERTEBRAE.
+
+   1. Length to rim of ball                         26 millim.
+   5. Length to rim of ball                         24
+      Vertical diameter of ball                     21
+      Transverse diameter of ball                   24
+  10. Length to rim of ball                         24
+  15. Length to rim of ball                         24
+      Height of spine above floor of neural canal   40
+      Length of chevron                             45
+  20. Length to rim of ball                         23
+      Vertical diameter of ball                     21
+      Transverse diameter of ball                   22
+  25. Length to rim of ball                         20
+      Height of spine                               44
+      Width of spine at base                        19
+      Width of spine at distal end                  10
+      Length of chevron                             85
+      Altitude of tail                             112
+  30. Length to rim of ball                         18
+      Vertical diameter of ball                     17
+      Height of spine                               57
+      Width of spine at base                        19
+      Width of spine at distal end                   9
+      Length of chevron                             99
+      Altitude of tail                              20
+  35. Length to rim of ball                         16
+      Vertical diameter of ball                     16
+      Height of spine                               61
+      Length of chevron                             97
+      Altitude of tail                             122
+  40. Length to rim of ball                         15
+      Vertical diameter of ball                     15
+      Height of spine                               54
+      Length of chevron                             70
+      Altitude of tail                             110
+  45. Length to rim of ball                         14
+      Vertical diameter of ball                     14
+      Height of spine                               40
+      Length of spine                               50
+      Length of chevron                             58
+      Altitude of tail                              93
+  50. Length to rim of ball                         13
+      Length of spine                               43
+      Length of chevron                             55
+      Altitude of tail                              73
+  55. Length to rim of ball                         12
+      Length of spine                               38
+      Length of chevron                             42
+      Altitude of tail                              63
+  60. Length to rim of ball                          9
+      Length of spine                               46
+      Length of chevron                             25
+      Altitude of tail                              50
+  66. Length to rim of ball                          7
+      Length of chevron                             10
+      Altitude of tail                              20
+  67. Length                                         6
+
+
+Ribs.
+
+As has already been stated, the cervical ribs were displaced in the
+present specimen, and measurements of them cannot be given. In a
+smaller specimen, specifically indistinguishable from the present one,
+the entire cervical series is preserved with the ribs attached. The
+first, that articulating with the axis, is very short. The following
+ones are stouter, but increase only moderately in length, that of the
+sixth measuring only thirty-five millimeters, while that of the seventh
+is but a little longer. In the specimen of _C. velox_ described,
+there is a detached cervical rib sixty-five millimeters in length; it
+probably belongs with the seventh.
+
+The thoracic ribs are simple, somewhat flattened rods, moderately
+expanded at the proximal end. The greatest convexity is shown about the
+middle of the series, where the versedsine of the curvature is forty
+millimeters, the chord being one hundred and sixty. Posteriorly, the
+short ribs are only gently curved.
+
+Lying by the side of the vertebral column, and between the ribs,
+as they have been pressed down, are a number of flattened, soft,
+punctulate bones, which are evidently the costal cartilages.
+Posteriorly four rows of them are seen, lying closely side by side,
+some of them eight or ten inches in length. The sternum, composed
+of the same material, has been so crushed and crumpled that its
+shape cannot be made out. The whole structure here, whether of ribs,
+cartilages or sternum, reminds one very strongly of such lizards as the
+Iguana or Monitor. There is no indication, however, in any specimen, of
+an episternum.
+
+MEASUREMENTS OF RIBS.
+
+  Length, first thoracic rib,    (chord)    200 millim.
+  Length, eleventh thoracic rib, (chord)    145
+  Length, thirteenth dorsal rib              68
+  Length, eighteenth dorsal rib              64
+  Length, thirty-fourth dorsal rib           52
+
+The lengths of the different regions, as they lie in their natural
+relations, are as follows:
+
+  Skull          0.420 meters.
+  Neck           0.225
+  Trunk          1.360
+  Tail           1.460
+        Total    3.465       11 ft. 7 in.
+
+The measurements of an excellent specimen of _C. tortor_ are as follows:
+
+  Skull                                        0.630 meters.
+  Neck                                         0.360
+  Trunk, (thirty-three vertebrae preserved)    2.370
+
+A very complete specimen of a _Liodon_ in the Museum, in which the
+_complete_ vertebral column is present, numbering one hundred and
+seventeen vertebrae, gives the following measurements. The skull is
+complete, save the most anterior portion.
+
+  Skull (approximated within narrow limits)    0.700 meters.
+  Neck                                         0.430
+  Trunk                                        1.760
+  Tail                                         3.420
+           Total                               6.310  20 ft. 8 in.
+
+The vertebral series in this specimen is composed of seven cervicals,
+twenty-three dorsals, seven pygials, and eighty chevron-caudals.
+
+The relative proportions of the different regions in the two genera,
+as shown by the two specimens of _Clidastes_ and _Liodon_, may be
+represented as follows. The first column is for _Clidastes_.
+
+  Skull          12.1        11.1
+  Neck            6.5         6.8
+  Trunk          39.2        28.0
+  Tail           42.3        54.1
+
+
+Limbs.
+
+The figures in plates II and III will give a sufficiently good idea
+of the limbs in this specimen. They are figured as they were lying,
+showing the outer sides of the coracoid, scapula and pelvic bones, and
+the palmar or plantar surface of the remaining bones.
+
+
+Coracoid.
+
+It will be observed in plates II and IV that there are two very
+different types of coracoid, one with a deep emargination, the other
+without the slightest indication of such. The same non-emarginate
+form occurs in _C. tortor_, as specimens in our Museum show, in _C.
+propython_ Cope (Ext. Batr. etc. pl. xii, f. 16,) and in _C. dispar_,
+as figured by Marsh[7], and as stated by him in the same paper
+(“There is certainly no emargination in the coracoid of _Clidastes_,
+_Edestosaurus_ and _Baptosaurus_, as specimens in the Yale Museum
+conclusively prove.”) It is true that Marsh in a later paper[8] figured
+a specimen with emarginate coracoid under the name of _Edestosaurus
+dispar_, but it is certain that his identification of his own species
+was wrong, as will be seen by comparing his figures. From the senior
+author’s memory of the specimen with the emarginate coracoid figured,
+and from the figure itself he feels confident that the second specimen
+is _C. velox_.
+
+[7] Amer. Journ. Sci. iii, pl. xi, f. 1, June, 1872.
+
+[8] Amer. Journ. Sci. xix, pl. i, fig. 1, Jan., 1880.
+
+That the emargination was overlooked by the author seems strange, as
+in the same paper in which this figure is given occurs the description
+of _Holosaurus, founded upon that very character_. If the emargination
+is sufficiently important to base a genus in the one case, then it
+should be in the other, and the character could not be applied to
+_Edestosaurus_, based upon characters which it hardly seems possible
+that the author himself could seriously consider, for _E. dispar_ was
+the type of _Edestosaurus_.
+
+It will be observed, further, that the figured coracoids differ very
+materially in size, those with the emargination pertaining to a small
+species, while _C. dispar_ is one of the largest. In our Museum there
+are three specimens with the emarginate coracoid, all of them small or
+very small, the described specimen of _C. velox_ being the largest.
+
+The point of chief interest in this relation is the value that can be
+given to this character. Is it individual, specific or generic? Marsh
+has called it generic, but we think an examination of the two very
+complete specimens of _C. tortor_ and _C. velox_ in our Museum will
+convince any unprejudiced student that he is in error.
+
+A comparison of the figures herewith given of the paddles will show
+their great resemblance, and these two forms of paddles have been
+figured because the species are the most unlike of any that we know in
+the genus. As all the small specimens seem to possess this character,
+and as they cannot be called immature specimens, we believe the
+character is a specific one. As Marsh says, typically both _Clidastes_
+and _Edestosaurus_ have a non-emarginate coracoid, so that neither name
+could apply to the emarginate form, were it generically distinct.
+
+Our Museum also contains both forms of the coracoid pertaining to the
+genus _Platecarpus_, of which _Holosaurus_ is a synonym.
+
+While studying the specimen above described, a striking similarity was
+observed to several other specimens already determined with confidence
+as _C. pumilus_ Marsh. A more careful comparison failed to bring out
+any real differences beyond size, and even this was shown to be very
+inconstant.
+
+The following comparison of the descriptions given by Marsh will be of
+interest.
+
+ _C. pumilus._
+
+     TEETH. Nearly round at base somewhat curved
+     and with smooth enamel.
+
+     QUADRATE. The rugose knob near the distal
+     end of the quadrate is similar to that in _C.
+     Wymani_ (just below the posterior superior process
+     is a prominent rugose knob with a deep pit under
+     it), but has no articular pit under it. The hook
+     is comparatively short and has a free compressed
+     extremity. The articular margin is not deflected
+     toward the meatus.
+
+     CERVICAL VERTEBRAE. Articular face nearly
+     vertical, and having a broad transverse outline with
+     faint superior emargination. The hypapophysis stout
+     and transversely triangular.
+
+ _C. velox._
+
+     Premaxillary and maxillary teeth smooth and
+     subcompressed.
+
+     The great ala less curved than in _E. dispar_, concave
+     transversely on both surfaces. The alar process has
+     its articular process very narrow in its extension
+     over the great ala. No notch in posterior margin of
+     external angle. On the ridge below the angle and
+     nearly opposite the meatal pit is a strong rugosity
+     which is rudimentary or wanting in _C. dispar_. The
+     posterior margin of the hook is only a narrow tongue
+     projecting towards the meatal pit, instead of a broad
+     articular surface.
+
+     Articular face transverse.
+
+The description, otherwise, shows no discrepancies of importance. The
+chief difference given by the author is the size, and this character
+we think our specimens show to be of little specific value. “It
+is a question of some importance how far difference in size among
+the Mosasauroids may be a test of difference in species. Among the
+numerous remains of these animals which have been discovered I have
+never yet observed any which presented any evidence relative to age.
+* * * In this view of the case, some of the many described species of
+Mosasauroids may have been founded on different sizes of the same.”[9]
+
+[9] Leidy, Rep. U. S. Geol. Surv. Hayden, vol. i, p. 284.
+
+The length of the cervical vertebrae in the specimen above described
+is thirty-seven or thirty-eight millimeters. The cervical vertebrae in
+two specimens referred to _C. pumilus_ have lengths respectively of
+twenty-two and thirty millimeters. In the type specimen of _C. velox_
+they must have had a length of at least forty-two millimeters.
+
+It thus appears that, between the smallest specimen, which, in life,
+could have hardly exceeded eight feet in length, our specimens,
+indistinguishable anatomically, represent forms of ten and twelve feet,
+while the type itself was about fifteen feet in length.
+
+Of the material originally referred to _C. pumilus_, there are in the
+collection five or more specimens, which, altogether, furnish nearly
+every part of the skeleton. They present no tangible differences from
+the skeleton of _C. velox_ described above. There can be, hence, little
+or no doubt but that the name _C. pumilus_ is a synonym.
+
+It is hardly possible to say with certainty that _C. affinis_ Leidy
+is or is not the same as _C. velox_, but, so far as the description
+goes, we can find few differences. The type is of about the same size
+as the type of _C. velox_, and the figures agree well with the bones
+of the skeleton described. Although the description was not published
+till 1873, the author makes no mention of the species of Marsh’s. Leidy
+describes the back teeth as having the enamel strongly striated, with
+the surface presenting evidences of subdivision into narrow planes. In
+this respect, only, it disagrees with the specimen.
+
+_Plioplatecarpus_ Dollo is described by its author as having a sacrum
+of two conjoined vertebrae,[10] by reason of which it is placed in
+a separate family from the rest of the _Pythonomorpha_. It may be
+presumptuous to express a doubt of the genuineness of the sacrum, and
+yet, save from the fact that the author found two specimens quite
+alike, one might doubt it strongly. It is not very rare that two, or
+even three vertebrae are found united from injury in these animals,
+and such would readily account for the consolidation as figured and
+described by Dollo, except for the coincidence of the second specimen.
+A stronger reason for doubt is the statement that the consolidated
+vertebrae belong to the posterior “lumbar” region, and that the last
+vertebrae had small tubercles indicative of chevrons. In the reptiles
+which we have examined, the chevrons do not begin immediately behind
+the pelvis, but are separated by a longer or shorter region in which
+the vertebrae bear elongated diapophyses alone. If the conjoined
+vertebrae figured by Dollo are in reality sacral, it would appear
+that the animal is an exception to _Clidastes_ and such lizards as we
+have examined. Furthermore, the pelvis must have been of a different
+structure from that in the Kansas genera of the Pythonomorpha, for, in
+these, it is evident that the ilium had an oblique position, and could
+have been attached to but a single diapophysis.
+
+[10] Bull. Su. Mus. Roy. S. Hist. Nat. d. Belg. i, p. 8, 1882.
+
+
+CLIDASTES WESTII, N. SP.
+
+A specimen of much interest in the University collection differs so
+markedly from the other forms represented by specimens, as also from
+the descriptions of the known species, that we are constrained to
+regard it as new. It was collected by Mr. C. H. Sternberg from the
+uppermost of the Niobrara beds, in the vicinity of the old town of
+Sheridan. The character of the associated invertebrate fossils seems
+to indicate a different geological horizon, either the Fox Hills
+group, or transition beds to that group. The specimen consists of a
+complete lower jaw, quadrate, portions of the skull, the larger part
+of the vertebral column, and the incomplete hind and fore paddles. The
+vertebrae preserved are in two series, the one, numbering thirty-three,
+continuous with the skull; the other, sixty-three in number, all
+chevron caudals. The terminal caudals preserved indicate that there
+were several more in life, perhaps five or ten; the first of the series
+was evidently among the first of those which bore chevrons. Altogether
+the tail may have had seventy-five chevron caudals. The lengths of
+the two series are respectively seventy-one and seventy-two inches.
+Assuming that there was the same number of precaudal vertebrae as in
+_C. velox_, the entire vertebral column would have measured in life
+fifteen feet and four inches. The lower jaw shows the skull to have
+been very nearly twenty-four inches in length, making, for the animal
+when alive, a length of seventeen and one-half feet. This is one of
+the largest species, and it is interesting to observe that the real
+size here, as usually elsewhere among fossil vertebrates, is less than
+supposed. It is doubtful whether there is a _Clidastes_ known that
+exceeded twenty feet in length.
+
+While the skeleton was only about one half longer than the specimen
+of _C. velox_ described in the foregoing pages, or of about the same
+length as a very complete specimen of _C. tortor_ in the museum, the
+proportions of the animal were very much stouter. The figures given in
+plate VI of the twenty-fifth, or eighteenth dorsal, vertebra will show
+the relations between length and breadth: it is upon these remarkably
+stout proportions, and the shape of the articular faces, as indicated
+by the figures and by the measurements appended, that the species is
+chiefly based. The articular surfaces of the basal caudal vertebrae are
+remarkably triangular in shape, with the angles rounded, and the sides
+of nearly equal length. This triangular shape is persistent for the
+first twenty of the series as they are preserved. The paddles, as shown
+in plates IV and V, show much stouter proportions than in either _C.
+velox_ or _C. tortor_.
+
+The species comes nearest to _C. stenops_ Cope, but it seems hardly the
+same. It is, also, evidently allied to _C. dispar_ Marsh. From these
+and other described species, the following, extracted from the original
+descriptions, will serve to show the differences, in comparison with
+the specimen of _C. Westii_.
+
+=C. dispar.=
+
+The articular faces in the cervicals are a broad transverse oval,
+faintly emarginated above for the neural canal. In the dorsals and
+lumbars the cup continues transverse, and the emargination is deeper,
+but in the anterior caudals the outline becomes a vertical oval. There
+appears to have been thirteen mandibular teeth.
+
+  Length of axis with odontoid process          32 lines    100
+  Width between diapophyses                     26.8        103
+  Length from edge of cup to end of ball in
+      eleventh vertebra                         25          100
+  Width of ball                                 14           56
+  Depth of ball                                 12           43
+
+=C. Wymani.=
+
+In the cervical vertebrae, the outline of the articular faces is
+transversely cordate. The centra of the anterior dorsals are elongate,
+and much constricted behind the diapophyses. In the anterior caudals,
+the articular faces are a broad vertical oval.
+
+  Length of axis with odontoid process        19 lines     100
+  Width between diapophyses                   17            89.4
+  Width of ball                                8            42.1
+  Depth of ball                                7            36.7
+  Length of sixth cervical, without ball      13           100
+  Width of cup                                 9            69.1
+
+=C. rex.=
+
+The cervical vertebrae have very broad, transversely oval faces, with
+indications of emargination. The dorsals are elongated, with transverse
+faces, and a distinct superior excavation for neural canal. The
+articular ends of the anterior caudals are vertically oval.
+
+  Length of posterior cervical vertebrae      44 mm    100
+  Vertical diameter of ball                   24        54.5
+  Transverse diameter                         29.5      67
+  Length of a dorsal vertebra                 52
+
+=C. stenops.=
+
+The anterior caudals possess wide diapophyses. Their articular faces
+are a vertical oval, a little contracted above, sometimes a straight
+outline. They present a peculiarly elongate form.
+
+  Length of axis (alone)            60 mm    100
+  Vertical diameter of ball         27        45
+  Transverse diameter of ball       27        45
+  Length of the mandible           720       100
+  Depth at coronoid process        150        20.9
+
+MEASUREMENTS OF CLIDASTES WESTII.
+
+      Length of dentary                                   400 millim.
+      Depth opposite the first tooth                       20
+      Depth opposite last tooth                            62
+      Entire extent of mandible                           630
+      Greatest depth at coronoid process                   95
+   2. Length of axis with odontoid process                 80
+      Length of axis without odontoid process              70
+      Vertical diameter of ball                            24
+      Transverse diameter of ball                          33
+   4. Length of fourth cervical vertebra to rim of ball    49
+      Expanse of diapophyses                               82
+   5. Length of fifth cervical to rim of ball              49
+      Transverse diameter of ball                          35
+      Vertical diameter of ball                            28
+      Expanse of diapophyses                               90
+   8. Length of eighth vertebra to rim of ball             53
+      Expanse of diapophyses                               90
+  14. Length to rim of ball                                54
+      Transverse diameter of ball                          40
+      Vertical diameter of ball                            33
+      Expanse of diapophyses                              100
+  18. Length to rim of ball                                50
+      Transverse diameter of ball                          40
+      Vertical diameter of ball                            36
+      Expanse of diapophyses                              100
+  23. Length to rim of ball                                50
+      Transverse diameter of ball                          41
+      Expanse of diapophyses                              100
+  25. Length to rim of ball                                52
+      Transverse diameter of ball                          43
+      Vertical diameter of ball                            43
+      Expanse of diapophyses                              100
+  30. Length to rim of ball                                54
+      Transverse diameter of ball                          46
+
+This species is named in memory of Judge E. P. West, lately deceased,
+to whom our Museum owes so much for his long, diligent and faithful
+labors in the collection and preparation of the geological material.
+
+       *       *       *       *       *
+
+ERRATUM: P. 17, line 15, for “_Edestosaurus_,” read
+_Clidastes_, and in next line, strike out “Proc. Acad.” etc.
+
+
+
+
+Notes and Descriptions of Syrphidae.
+
+
+BY W. A. SNOW.
+
+WITH PLATE VII.
+
+Among the insects obtained by Prof. F. H. Snow in a recent trip to
+Colorado, is an excellent representative collection of the Diptera.
+The material for the following notes on Syrphidae is chiefly drawn
+from this collection. That such a collection affords so many points of
+interest in this, one of the best studied families of North American
+Diptera, is an evidence of the rich field that is presented by this
+important and little-studied order of insects.
+
+
+CALLICERA.
+
+_Callicera_ Panzer, Fauna Germanica, 1806.
+
+_Callicera_ is a small genus hitherto supposed to be peculiar to
+Europe. The species are found in the high mountains, where the males
+are often taken while hovering in the air. The present collection
+includes numerous specimens of a species taken near the summit of Mt.
+Deception, in Manitou Park, Colorado, at an altitude of nine thousand
+feet.
+
+The occurrence of members of this genus in the western part of the
+United States is a fact of especial interest and further substantiates
+the rule that American forms common to Europe are more apt to occur
+in the western regions. _Arctophila flagrans_ Osten Sacken, is a case
+precisely similar to the present one, belonging as it does to a small
+European genus of mountain flies, and described from Colorado.
+
+As the genus is a new one to our fauna, I here give an amended
+transcription of the generic characters from Schiner’s Fauna Austriaca,
+to include the new species, which differs only in unimportant details.
+
+=Callicera.=
+
+Rather large, stout, green or black species with metallic lustre and
+abundant, long pile. Head hemispherical, somewhat broader than the
+thorax. Antennae porrect, longer than the head, somewhat remote at
+their base, inserted upon a protuberance of the front; first joint
+sometimes elongate; second joint shorter than, or as long as, the first
+joint; third joint one to three times the length of the first two
+joints taken together, with a short, terminal style. Face broad, under
+the antennae concave in profile; an obtuse tubercle below the middle;
+on the sides thickly covered with pile. Proboscis rather prominent,
+with broad labella. Eyes hairy, holoptic in the male. Abdomen
+elliptical, as long or longer than the thorax. Legs moderately strong.
+Third longitudinal vein straight, first posterior cell distally short
+petiolate; marginal cell open; cross-vein situated near the middle of
+the discal cell, oblique.
+
+=Callicera montensis, n. sp.=, Plate vii, f. 4.
+
+MALE. Black, densely golden red pilose. Frontal triangle, face
+and cheeks deep black, shining, covered thickly with black pile, save
+a median facial stripe. Antennae black, basal third of third joint on
+the under side red; first joint short; second joint not more than half
+as long as the first; third joint three times as long as the first and
+second joints taken together; gradually broadened for a third of its
+length, and then attenuated; style white. Eyes thickly clothed with
+golden pile. Thorax and abdomen covered everywhere with long golden
+red pile. Legs black; tarsal joints below and at their articulations
+reddish. Wings nearly hyaline, brownish on the anterior basal portion;
+stigma yellow.
+
+Length 11 millimeters. Three specimens, Colorado.
+
+The genus may be distinguished from _Pelecocera_, in Williston’s
+dichotomic table of the genera of North American Syrphidae, by the
+pilose eyes.
+
+=Microdon megalogaster, n. sp.=, Plate vii, f. 1.
+
+MALE. Large, yellowish pilose species, in shape globose.
+Antennae reddish black, the first joint about as long as the following
+two together; second joint not one-third as long as the third. Face
+dark metallic green, shining, thickly covered with golden yellow
+pile. Front black, with similar pile, narrowed in the middle. Eyes
+bare. Thorax and scutellum deep metallic green, with long, thick,
+golden pile; scutellum gently emarginate, the small obtuse tubercles
+approximate. Abdomen short and broad, black, moderately shining; first
+two segments and the hypopygium somewhat green; pile at base yellow,
+elsewhere short, black. Legs black, with black pile; front tibiae
+and their metatarsi, on the inner side, with short golden pile; hind
+metatarsi incrassate and longer than the three following joints taken
+together. Wings uniformly subinfuscate; veins at the outer part of the
+first posterior and discal cells sinuous and rounded.
+
+Length 12 millimeters. One specimen.
+
+=Chrysotoxum derivatum= Walker.
+
+Eight specimens from Colorado, which vary not a little from each
+other and from Williston’s description. They seem to belong here,
+however, better than elsewhere. In one specimen, the second joint of
+the antennae is shorter than the first, and only one-fourth the length
+of the third. In five examples the second abdominal cross-band is
+not interrupted; in the others it is distinctly parted. In two, the
+third band does not reach the yellow of the broad hind margin; in two
+others it barely touches it; in five, the two bands broadly coalesce.
+The yellow of the fifth segment, in four specimens, incloses a black,
+inverted V; in two others an inverted Y.
+
+=Paragus bicolor= Fabr.
+
+Three specimens, Colorado. These may be located under Schiner’s variety
+_taeniatus_.
+
+=Melanostoma stegnum= Say.
+
+      _Syrphus stegnus_ Say, Journ. Acad. Phil. vi, p. 163.
+      _Melanostoma tigrina_ Osten Sacken, Western Diptera, p. 323.
+      _Melanostoma stegnum_ Williston, Biol. Centr.-Amer. Diptera,
+         iii, p. 10.
+
+Eleven specimens, Colorado, which answer well to the descriptions. The
+metallic band of the fourth abdominal segment is sometimes interrupted,
+and there is usually a triangular opaque black spot near the anterior
+border of the fifth segment. “The female, hitherto unknown, has the
+front broad above, pollinose, except on the upper part, and with black
+pile; the thorax more shining metallic blue; the tibiae yellow, and
+on the third and fourth abdominal segments there is a narrow shining
+stripe, bisecting the black, as in the fourth segment of the male.
+The male has some long black hairs on the outer side of the front and
+middle tibiae, which are inconspicuous in the female. It is evident,
+from the lighter color of the tibiae, that Say’s specimens were
+females.” Williston, l. c.
+
+=Melanostoma mellinum= Linne.
+
+A single female specimen from Manitou Park.
+
+=Melanostoma, n. sp.=?
+
+MALE. Face and front dark metallic blue, shining, thinly
+covered with light-colored pollen; tubercle and epistoma black,
+shining, the former small. Antennae black, third joint yellowish red
+below, oblong. Pile of frontal and vertical triangles dusky. Thorax
+bronze-black, shining, sometimes bluish black, the pubescence white.
+Halteres yellowish. Abdomen long and narrow, with almost parallel
+sides; first segment metallic blue, shining; second segment opaque,
+or subopaque, black, with a light metallescent scallop on the sides,
+reaching to the distal third of the segment; third and fourth segments
+similar, marked anteriorly by a wide, interrupted, or subinterrupted
+blue fascia, deeply and widely emarginated, or concave behind; hind
+border of the third, and sometimes of the second segment, narrowly
+brown; fifth segment and the hypopygium metallic bluish green; sides
+of the abdomen with silvery white pile, longest and thickest at the
+base; the blue marking are whitish pruinose. Femora, except the tip,
+a broad ring on the tibiae, and the four posterior tarsi, black;
+elsewhere brownish or yellowish. Wings hyaline, stigma yellowish.
+
+Length 7-8 millimeters.
+
+=Eupeodes volucris=, Osten Sacken.
+
+Numerous specimens, Colorado.
+
+=Syrphus arcuatus= Fallen.
+
+Four specimens, Colorado. These specimens vary not a little from each
+other, and somewhat from the descriptions. One female is very small,
+not over seven millimeters in length, and with the spots on the third
+and fourth abdominal segments hardly oblique. One male has the hind
+femora black as far as the tip, while in three females the black does
+not extend beyond the middle.
+
+=Syrphus disjectus= Williston.
+
+A single female specimen, from Colorado, agrees well with the
+description drawn from males. The pile of the thorax is more whitish
+than orange-yellow, and there are light colored lateral margins on the
+anterior part of the thorax.
+
+=Syrphus ruficauda, n. sp.=, Plate vii, f. 3.
+
+MALE. Eyes bare. Face greenish yellow on the sides, yellow in
+the middle; a rather broad black line marks the border of the mouth
+and is lost in the black of the cheeks. Frontal triangle yellow, with
+long black pile. Antennae dark brown, more or less reddish below.
+Pile of occiput light yellow. Dorsum of thorax deep metallic green,
+the scutellum olivaceous yellow; both with light yellow pile. First
+segment of the abdomen shining black; second segment opaque black,
+with the lateral margins and hind border shining, and with a broad,
+yellow, interrupted band, not reaching the lateral margins; third
+segment similar, but with the yellow band somewhat wider, interrupted
+or subinterrupted and slightly bilaterally oblique; fourth and fifth
+segments orange-red, the sides narrowly black; the fourth segment shows
+indistinctly a broad interrupted band of a somewhat lighter color,
+corresponding to the yellow bands of the preceding segments. Legs light
+brown; basal third of the front and middle femora and basal half of the
+hind femora black. Wings hyaline, stigma yellowish.
+
+FEMALE. Head wanting. Thorax purplish brown. The yellow band
+on the second abdominal segment narrower, the second band straight,
+narrower and interrupted. Legs light brown, except the proximal end of
+the femora, which is black.
+
+Length 9 millimeters. Three males and one female, Colorado.
+
+=Syrphus pauxillus= Williston.
+
+Two specimens from Colorado undoubtedly come here. The species was
+described from a single male specimen. A female specimen offers the
+following differences or additions: Length nine millimeters, mesonotum
+more greenish black or bronze, the pile obscure whitish; fifth
+abdominal segment without yellow spots on the anterior angles; legs
+yellow, with the basal half of the front and middle femora, the hind
+femora except the tip, a broad band on the hind tibiae, and the hind
+tarsi, black.
+
+=Syrphus ribesii= Linne.
+
+Five specimens, Colorado.
+
+=Syrphus americanus= Wiedemann.
+
+Numerous specimens, Colorado.
+
+=Syrphus umbellatarum= Schiner.
+
+Five female specimens, Colorado. The only western locality heretofore
+given is Arizona (Williston).
+
+=Allograpta obliqua= Say.
+
+Five specimens, Colorado.
+
+=Mesogramma marginatum= Say.
+
+Numerous specimens from Colorado, showing very great variation.
+
+=Sphaerophoria cylindrica= Say.
+
+Twenty specimens, Colorado. I think the specimens belong here,
+though a positive identification is hardly possible at present.
+
+=Rhingia nasica= Say.
+
+One specimen, Colorado. This is the first time that this species
+has been recorded from beyond the Mississippi.
+
+=Copestylum marginatum= Say.
+
+Two specimens, Colorado, representing the extremes of variation in the
+species. The male corresponds to _C. lentum_ Williston. Specimens of
+this species were bred from _Opuntia missouriensis_, in company with
+others of _Volucella fasciata_ Macq.
+
+=Sericomyia militaris= Walker.
+
+Sixteen specimens from Minnesota and Colorado vary in the markings of
+the second abdominal segment, and in the color of the legs. Some have
+no spots at all on the second segment; in others the two yellow dots
+are conspicuous, approaching, in size and shape, the markings of the
+third segment. The tibiae vary from light yellow to reddish brown.
+
+=Brachyopa cynops, n. sp.=, plate vii, f. 2.
+
+Head light yellowish brown, largely concealed beneath light glistening
+pollen; the shining ground color shows just above the antennae and in
+a stripe on the cheeks, extending from the eye to the mouth opening.
+Antennae wanting. Dorsum of thorax brown, covered with grayish pollen;
+anteriorly with two approximated, linear, blackish stripes; laterally
+with a broad, interrupted stripe. Scutellum light brown, with yellowish
+pollen. Abdomen but little longer than broad; yellowish gray pollinose;
+second segment with a circular brown spot in the anterior corners; the
+two following segments are marked with corresponding elliptical spots,
+and, in the middle of the anterior border with a triangular spot; on
+the fifth segment are two small round spots. Legs uniformly reddish
+brown, with light colored pollen and short whitish pile. Wing hyaline,
+distinctly clouded at anterior cross-vein, on the veins at the anterior
+outer corner of the discal cell and on the ultimate section of the
+fourth vein; posterior cross-vein about as long as the penultimate
+section of the fourth vein, the included angle obtuse.
+
+Length 5 millimeters. One specimen, Colorado.
+
+=Eristalis latifrons= Loew.
+
+Numerous specimens, Colorado. The commonest Syrphid of the mountain
+meadows. Some specimens have very indistinct brownish spots on the
+second abdominal segment, and, when this is the case, the middle of the
+wing generally shows a brown spot, and brown clouds along the anterior
+veins between the spot and the base of the wing.
+
+=Eristalis brousi= Williston.
+
+One male specimen, Colorado.
+
+=Helophilus latifrons= Loew.
+
+Numerous specimens, Colorado.
+
+=Xylota flavitibia= Bigot.
+
+Eight specimens, Colorado. The glistening pile of the face and front
+varies from white to a golden yellow. On the dorsum of the thorax
+purplish stripes are distinctly visible. The fourth segment of the male
+abdomen is often red, as in the female abdomen.
+
+=Syritta pipiens= Linne.
+
+Eight specimens, Colorado.
+
+=Criorrhina umbratilis= Williston.
+
+A single, male specimen, collected by Mr. W. J. Coleman, at Lawrence,
+and agreeing exactly with the description. The only other known
+specimen of this species is the type, at Washington, from Connecticut.
+
+=Spilomyia quadrifasciata= Say.
+
+Seven specimens, Lawrence, Kansas, (F. H. Snow and E. S. Tucker). The
+species has not hitherto been recorded west of New York.
+
+
+
+
+Notes on Melitera Dentata Grote.
+
+
+BY VERNON L. KELLOGG.
+
+WITH PLATE VIII.
+
+At the meeting of the Entomological Club of the A. A. A. S., held in
+August, 1891, at Washington, Dr. Riley called attention to the habits
+of _Melitera prodenialis_ Walker. The larvae burrow into and feed upon
+the fleshy leaves of the prickly pear, _Opuntia_. Dr. Riley’s specimens
+came from Florida. Prof. J. B. Smith has recently bred the moth from
+the prickly pear in New Jersey. His notes were presented at the same
+meeting of the Club, and the brief references to the interesting
+notes of Doctors Riley and Smith, made in the Canadian Entomologist
+(v. xxiii, num. 11, pp. 242 and 256), suggest the presentation of the
+following notes on _Melitera dentata_ Grote, the western species of
+this Phycitid genus.
+
+Chancellor F. H. Snow, of this University, while investigating a
+grasshopper “outbreak” (_Dissosteira longipennis_) in eastern Colorado
+in July, 1891, noted the withered and dying condition of many leaves
+of the common prickly pear cactus (_Opuntia missouriensis_), and
+on examining the leaves found in them certain large, naked, bluish
+larvae. The larvae were imbedded in the fleshy leaves, eating away the
+soft inner tissue. The hollowed-out spaces were nearly filled with
+irregularly spherical, yellowish, translucent casts. The attacked
+leaves were withered and brown without. Prof. Snow took a few leaves
+and larvae on July 16, near Arriba, Colorado, and brought them to the
+laboratory.
+
+The larvae were put into breeding-cage on July 18. On July 28 one
+larva had spun up and pupated in a corner of the cage behind a small
+porcelain dish. Another had made a cocoon in a broken, empty pupa-case
+of _Eacles imperialis_, but died before pupating. On August —— the
+adults appeared, and have been determined by Prof. J. B. Smith as _M.
+dentata_, Grote. As I am aware of no description of the earlier stages
+of this species, I record the following notes of description:
+
+EGG. About 1-1.2 millimeters in diameter, surface with broad,
+meridian-like furrows from one pole for about one-third of the distance
+to the other pole. Color, creamy white.
+
+LARVA. Food plant, _Opuntia missouriensis_, prickly pear
+cactus, burrowing into the fleshy leaves and eating the soft,
+succulent, inner tissues. Length, 40 millimeters. Five pairs of
+prolegs. Color, one specimen, ultramarine blue; skin, semi-transparent
+and shining anteriorly, dead blue on dorsum; second specimen, buffy
+with a bluish suffusion, blue between segments, prolegs bluish, and
+last abdominal segment blue, especially below; skin more opaque than
+in first specimen. No pronounced markings of skin; spiracles shining
+black and present on first thoracic and first to tenth abdominal
+segments. Head flattened, slightly narrower than first thoracic
+segment, umber. Prothoracic shield well marked, brownish black; anal
+shield, smoky brownish. Clothing, limited to tubercled hairs sparsely
+distributed as follows: a subdorsal line of small tubercles, two
+tubercles to a segment, each tubercle bearing three short, fine hairs;
+a supra-stigmatic line, one tubercle to each segment, each tubercle
+bearing three to four fine hairs; a similar infra-stigmatic line; a
+sub-ventral line of tubercles, bearing usually four fine hairs, the
+tubercles of the three thoracic segments in this line situated at base
+of legs outside, and similarly as to the prolegs on the third to sixth
+abdominal segments. The tubercles in all the lines are faintly smoky.
+The larva is rather heavy, and rotund in form, tapering toward both
+head and posterior segment. It moves with a lumbering gait, but rather
+rapidly.
+
+CHRYSALIS. Length, 20 millimeters; in cocoon of silk, loosely
+covered with small dirt-masses. As made in the breeding cage the
+cocoons were above ground, but concealed under or in available objects.
+
+ADULT. The adults obtained from the breeding cage, (there
+are no others in our collection), are easily distinguished from
+_prodenialis_ Wlk., by the much stronger dentations of the outer line
+of the primaries. Prof. Smith kindly sent a specimen of _prodenialis_
+taken at Ocean Grove, New Jersey, for comparison. The row of marginal
+black spots on the primaries which Hulst (Tran. Am. Ent. Soc., v.
+xvii, p. 172) mentions as distinctive of dentata is as pronounced in
+Prof. Smith’s specimen of _prodenialis_ as in our _dentata_. The much
+lighter color of the primaries, head and thorax in dentata as mentioned
+by Hulst is characteristic. An interesting feature in the venation of
+the hind wings in our bred specimens of _dentata_ is the considerable
+coalescence of the sub-costal and costal veins. Vein five is wanting,
+as mentioned by Hulst. In addition, there is further departure from
+a normal venation, in that vein seven after rising with six from its
+stem, (Hulst says: “Six short stemmed with seven”), coalesces for a
+short distance with eight and then runs free to the margin. Behind the
+forking of seven and six the stem (remnant of sub-costal) unites with
+the costal, and its basal portion is wholly merged with the forward
+vein. This partial disappearance of the sub-costal seems to be shared
+by _prodenialis_ and is probably characteristic of the genus.
+
+Prof. Smith, as recorded in the Canadian Naturalist, v. viii, p. 242,
+(1891), bred several specimens of _Volucella fasciata_, a Syrphid fly,
+from the same prickly pear leaves in which the _Melitera_ larvae were
+living. It is interesting to note that pupariae and later, adults of
+_Volucella fasciata_ and _Copestylum marginatum_, a closely allied
+Syrphid, were noted in the Opuntia leaves from which _M. dentata_ was
+bred. (See note by Dr. Williston, Entomological News, v. ii, p. 165,
+1891).
+
+
+
+
+Diptera Brasiliana.
+
+
+BY S. W. WILLISTON.
+
+PART II.[11]
+
+[11] See Trans. Amer. Entom. Soc. xv, p. 243, for Part I.
+
+
+CONOPS.
+
+  1. First basal cell hyaline                                        2
+     First basal cell clouded throughout                             6
+
+  2. Third joint of the antennae as long as the first two together;
+      small species                                    _parvus_, n. sp.
+
+  Third joint of the antennae but little if any longer than the
+      second joint                                                   3
+
+  3. First posterior cell hyaline                                    4
+     First posterior cell more or less clouded                       5
+
+  4. Cheeks yellow                               _angustifrons_, n. sp.
+     Cheeks black                                     _ornatus_, n. sp.
+
+  5. Face black in ground-color                 _argentifacies_, n. sp.
+     Face yellow, large species                       _grandis_, n. sp.
+
+  6. Red species; front red                             _rufus_, n. sp.
+     Black species; front black                                      7
+
+  7. Face and cheeks black in ground-color             _magnus_, n. sp.
+     Face and cheeks yellow                         _inornatus_, n. sp.
+
+1. =Conops magnus, n. sp.=
+
+FEMALE. Front black, shining, the vertical callosity somewhat
+reddish. Face and cheeks yellowish brown, the orbits silvery pollinose.
+Antennae brownish black; second and third joints subequal, first
+joint about two-thirds the length of the second; third joint of the
+style with a long bristly extremity. Thorax shining black; pleurae
+lightly whitish pollinose. Abdomen deep black, opaque; lightly whitish
+pollinose posteriorly; ventral process of the fifth segment large.
+Wings deep brown in front, extending through the two basal cells, and
+the basal part of the discal cell; outer part of the first posterior
+cell subhyaline, as also behind the streak corresponding to the
+spurious vein of the Syrphidae. Legs black; base of the femora, of the
+tibiae, and of the tarsi, somewhat yellowish.
+
+Length 21-24 millimeters. Six specimens, Chapada, H. H. Smith.
+
+2. =Conops grandis, n. sp.=
+
+FEMALE. Front black, the lower margin of the vertical
+callosity reddish; just below the callosity opaque, elsewhere shining.
+Antennae black; the second and third joints of nearly equal length; the
+first joint about two-thirds the length of the second joint; style with
+a long bristly extremity. Face and cheeks light yellow, the orbital
+margins of the former silvery or light golden pollinose. Thorax black,
+the mesonotum shining, the pleurae lightly whitish pollinose. Abdomen
+deep black; posteriorly lightly pollinose. Wings brown in front;
+first posterior cell and the space behind the streak corresponding to
+the spurious vein of the Syrphidae in the first posterior cell, pure
+hyaline; outer part of the first posterior cell subhyaline; a brown
+streak in front of the fifth vein. Legs black; the tibiae and basal
+joints of the tarsi in large part reddish or yellowish; pulvilli light
+yellow; ventral process of the fifth segment extraordinarily large;
+seventh segment as long as the three preceding together.
+
+MALE. Abdomen in ground-color black, either wholly so, or more
+or less, or rarely entirely, red; the ground color, save at the base,
+however, is almost wholly obscured by reddish brown pollen.
+
+Length 19-23 millimeters. Six specimens, Chapada, H. H. Smith.
+
+3. =Conops rufus, n. sp.=
+
+MALE, FEMALE. Head red; face in the depression yellow, on the
+sides with a silvery sheen. Antennae black; first joint red, more than
+half of the length of the second joint; second joint sometimes reddish
+at the base; third joint about as long as the second joint, stout;
+third joint of the style suddenly attenuated into a moderately long
+bristly extremity. Thorax red; mesonotum with a median black stripe,
+and an oval, more or less distinct spot on either side; a golden
+pollinose spot on the inner side of each humerus. Abdomen red, lightly
+pollinose, the median segments more or less black; ventral process in
+the female large; the sixth segment in the same sex about as long as
+the two preceding together. Legs red, the tarsi a little darker, the
+pulvilli and the ungues, save their black tip, yellow. Wings brown in
+front, the brown extending to the fifth vein in the basal part of the
+discal cell; the space behind the spurious vein in the first posterior
+cell hyaline; the outer part of the same cell subhyaline.
+
+Length 16-17 millimeters. Two specimens, Chapada, H. H. Smith.
+
+4. =Conops angustifrons, n. sp.=
+
+MALE. Front much longer than wide; black, shining at the
+vertex and below; an opaque band below the vertical callosity. Antennae
+black, the third joint somewhat reddish below towards the base; the
+first joint about half of the length of the third joint; third joint
+distinctly shorter than the second, rather broad at the base; style
+small, attenuate. Face, cheeks and the lower part of the occiput
+wholly light yellow. Thorax opaque black; a whitish pollinose spot
+on the inner side of each humerus; vertical pleural pollinose spot
+not distinctly limited above; a row of dorso-pleural, at least two
+prescutellar, and four scutellar, well-developed bristles. Abdomen
+subopaque black; second segment yellow at the base; sixth segment
+opaque golden yellow pollinose. Wings brownish before the third
+longitudinal vein, the first basal and the first posterior cells wholly
+hyaline; a streak before the fifth vein. Legs deep brown; the base of
+all the tibiae, the large pulvilli, and the claws (except their tips)
+yellow.
+
+Length 12 millimeters. One specimen, Chapada, H. H. Smith. This species
+is peculiar in its narrow front, bristles of the thorax, and hyaline
+first posterior cell.
+
+5. =Conops nobilis, n. sp.=
+
+FEMALE. Head black; front, below the vertical callosity,
+except a crescentic space above the base of the antennae, opaque;
+face, on the sides and in the depression, with a conspicuous, light
+yellowish silvery reflection; in an oblique light from above the
+ground-color wholly concealed. Antennae black; the reddish first joint
+about two-thirds the length of the third joint; the third joint about
+two-thirds of the length of the slender second joint; third joint
+of the style with a short bristly extremity. Thorax black, lightly
+pollinose, opaque; on the front margin, and near the humeri, velvety;
+in the middle in front distinctly whitish when seen from behind.
+Abdomen black, subshining; second segment deep opaque black, save on
+the anterior part, where it is whitish pollinose; ventral process of
+the fifth segment small. Legs black; the tarsi and claws (save their
+extreme tips) light yellow; pulvilli very large, yellow; the tarsi
+dilated. Wings unequally brown in front, scarcely extending beyond the
+third vein, save in the first posterior cell; the costal cell and the
+outer part of the wing in front of the third vein of a lighter color.
+
+Length 12 millimeters. One specimen, Chapada, H. H. Smith.
+
+6. =Conops inornatus, n. sp.=
+
+MALE. Front black, shining, the vertical callosity reddish.
+Face yellow, with golden pollen on the sides extending up on the
+lower part of the front. Cheeks wholly yellow. Thorax black, shining,
+lightly pollinose; margins of the thorax and of the scutellum with
+moderately large bristles. Abdomen slender, black, shining; the narrow
+hind margins of the third and fourth segments, the fifth on the sides
+and behind, and the sixth nearly wholly, light golden pollinose. Legs
+brown; base of tibiae yellow; basal joints of the tarsi yellowish.
+Wings subhyaline, without distinct picture, though the color is more
+intense in front; yellow in the costal cell.
+
+FEMALE. Wings distinctly brown before the third vein and
+in the basal cells and proximal portion of the discal cell. Abdomen
+diffusely whitish pollinose behind; the second segment largely reddish;
+ventral process of the fifth segment small.
+
+Length 10 millimeters. Two specimens, Chapada, H. H. Smith.
+
+7. =Conops ornatus, n. sp.=
+
+MALE. Vertical callosity reddish; below it an opaque black
+band, connected in the middle with a V-shaped spot about the base of
+the antennae; the front elsewhere, and the face for the greater part,
+light yellow, the sides of the latter with a broad silvery sheen.
+Cheeks black. Antennae red; the first joint a little shorter than the
+third joint; second joint about twice the length of the first; style
+short, thick. Thorax black, opaque; near the humeri and behind, as
+also on the scutellum, thickly golden pollinose; pleurae diffusely
+pollinose. Abdomen opaque black; the hind margin of the first three
+segments, and the remainder of the abdomen, save spots on the sides of
+the fourth and fifth segments, thickly light golden pollinose. Legs
+reddish brown, the base of the tibiae and the basal joints of the tarsi
+yellowish. The brown of the wings extends to the third vein and through
+the middle of the first posterior cell; costal and subcostal cells
+lighter colored.
+
+Length 11 millimeters. Two specimens, Chapada, H. H. Smith.
+
+8. =Conops parvus, n. sp.=
+
+FEMALE. Closely allied to _C. sylvosus_ Williston, but differs
+in the lighter colored antennae and their more elongated third joint,
+which is as long as the first two joints together; in the wings being
+wholly grayish hyaline, save a quadrate brown spot in front a little
+beyond the middle; and in the lighter colored legs and abdomen. The
+proboscis is as long as the antennae; the legs are brown or brownish
+yellow.
+
+Length 8 millimeters. Two specimens, Chapada, H. H. Smith.
+
+
+Explanation of Plates.
+
+     PLATE I. Skull of _Pteranodon_ sp., one-fifth
+        natural size.
+
+     PLATE II. Left front paddle of _Clidastes velox_
+        Marsh, two-thirds natural size. _C_, coracoid; _S_,
+        scapula; _H_, humerus; _I_, first digit; _V_, fifth
+        digit.
+
+     PLATE III. Left hind paddle of _Clidastes velox_
+        Marsh, two-thirds natural size. _Il_, ilium; _P_, pubis;
+        _Is_, ischium; _F_, femur; _T_, tibia; _Fb_, fibula;
+        _I_, first metatarsal.
+
+     PLATE IV. Right front paddle of _Clidastes Westii_
+        Williston, one-third natural size. _S_, scapula; _C_,
+        coracoid; _H_, humerus; _R_, radius; _U_, ulna; _I_,
+        _IV_, first, fourth digits.
+
+     PLATE V. Right hind paddle of _Clidastes Westii_
+        Williston, one-half natural size.
+
+     PLATE VI. Eighteenth dorsal vertebra of _Clidastes
+        Westii_ Williston, natural size. Fig. 1, centrum from
+        behind; fig. 2, from below.
+
+     PLATE VII. Fig. 1, _Microdon megalogaster_ Snow;
+        fig. 2, _Brachyopa cynops_ Snow; fig. 3, _Syrphus
+        ruficauda_ Snow; fig. 4, _Callicera montensis_ Snow;
+        fig. 5, _Tropidomyia bimaculata_ Williston; fig. 6,
+        _Rhingiopsis rostrata_ Roeder; fig. 7, _Ancanthina
+        hieroglyphica_ Wiedemann.
+
+     PLATE VIII. _Melitera dentata._ Adult, silken
+        cocoon and outer layer of dirt-masses held together by
+        silken threads; larva (shaded); larva in outline showing
+        position and number of tubercled hairs; hind wing of
+        adult showing venation.
+
+PLATE I.
+
+Skull of _Pteranodon_ sp., one-fifth natural size.
+
+[Illustration: KAN. UNIV. QUART. VOL. I. PLATE I.
+
+S. W. Williston.]
+
+PLATE II.
+
+Left front paddle of _Clidastes velox_ Marsh, two-thirds natural size.
+_C_, coracoid; _S_, scapula; _H_, humerus; _I_, first digit; _V_, fifth
+digit.
+
+[Illustration: PLATE II.
+
+S. W. Williston, ad nat. del.]
+
+PLATE III.
+
+Left hind paddle of _Clidastes velox_ Marsh, two-thirds natural size.
+_Il_, ilium; _P_, pubis; _Is_, ischium; _F_, femur; _T_, tibia; _Fb_,
+fibula; _I_, first metatarsal.
+
+[Illustration: PLATE III.
+
+S. W. Williston, ad nat. del.]
+
+PLATE IV.
+
+Right front paddle of _Clidastes Westii_ Williston, one-third natural
+size. _S_, scapula; _C_, coracoid; _H_, humerus; _R_, radius; _U_,
+ulna; _I_, _IV_, first, fourth digits.
+
+[Illustration: PLATE IV.
+
+S. W. Williston, ad nat. del.]
+
+PLATE V.
+
+Right hind paddle of _Clidastes Westii_ Williston, one-half natural
+size.
+
+[Illustration: PLATE V.
+
+S. W. Williston, ad nat. del.]
+
+PLATE VI.
+
+Eighteenth dorsal vertebra of _Clidastes Westii_ Williston, natural
+size. Fig. 1, centrum from behind; fig. 2, from below.
+
+[Illustration: PLATE VI.
+
+FIG. 1.
+
+FIG. 2.
+
+S. W. Williston, ad nat. del.]
+
+PLATE VII.
+
+  Fig. 1, _Microdon megalogaster_ Snow.
+  Fig. 2, _Brachyopa cynops_ Snow.
+  Fig. 3, _Syrphus ruficauda_ Snow.
+  Fig. 4, _Callicera montensis_ Snow.
+  Fig. 5, _Tropidomyia bimaculata_ Williston.
+  Fig. 6, _Promerisana nasuta_ Macq.
+  Fig. 7, _Ancanthina hieroglyphica_ Wiedemann.
+
+[Illustration: PLATE VII.
+
+Mary Wellman and S. W. Williston, ad nat. del.]
+
+PLATE VIII.
+
+_Melitera dentata_ Grote; adult, silken cocoon and outer layer of
+dirt-masses held together by silken threads; larva (shaded); larva in
+outline showing position and number of tubercled hairs; hind wing of
+adult showing venation.
+
+[Illustration: PLATE VIII.
+
+Mary Wellman, ad nat. del.]
+
+
+
+
+PROSPECTUS.
+
+
+The KANSAS UNIVERSITY QUARTERLY is established by the
+University of Kansas, and will be maintained by it as a medium for
+the publication of the results of original research by members of the
+University. Papers will be published only upon recommendation by the
+Committee of Publication. Contributed articles should be in the hands
+of the Committee at least one month prior to the date of publication.
+A limited number of author’s _separata_ will be furnished free to
+contributors.
+
+The QUARTERLY will be issued regularly, as indicated by its
+title. Each number will contain fifty or more pages of reading matter,
+with necessary illustrations. The four numbers of each year will
+constitute a volume. The price of subscription is two dollars a volume,
+single numbers varying in price with cost of publication. Exchanges are
+solicited.
+
+Communications should be addressed to
+
+                                  V. L. KELLOGG,
+                                          University of Kansas,
+                                                      Lawrence.
+
+
+
+

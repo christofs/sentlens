@@ -1,0 +1,2733 @@
+images generously made available by Bayerische
+Staatsbibliothek / Bavarian State Library.)
+
+
+
+
+
+
+  ####################################################################
+
+                     Anmerkungen zur Transkription
+
+    Der vorliegende Text wurde anhand der 1791 erschienenen Buchausgabe
+    so weit wie möglich originalgetreu wiedergegeben. Dies gilt
+    insbesondere für eine Vielzahl altertümlicher Ausdrücke in
+    unterschiedlichen Schreibweisen, welche nur dann harmonisiert
+    wurden, wenn eine Variante im Text mehrmals auftritt, die andere
+    dagegen nicht mehr als einmal. So werden etwa Wörter, die die
+    Buchstabenkombination ‚tz‘ enthalten, in mehreren Schreibweisen
+    gleichberechtigt verwendet (z.B. ‚setzen‘, ‚sezen‘ oder ‚sezzen‘).
+    Oftmals wird ‚wann‘ für ‚wenn‘ verwendet; auch dies wurde so
+    belassen, soweit der Sinn erkennbar bleibt. Personen- und
+    Ortsnamen wurden nicht in deren heute üblichen Schreibweisen
+    übertragen.
+
+    Wie in der damaligen Zeit üblich, folgt auf Kardinalzahlen oft ein
+    Punkt, auf Ordinalzahlen aber nicht; umgekehrt wie in den heutigen
+    Rechtschreibregeln festgelegt. Diese Regel wurde im Original zwar
+    nicht konsequent eingehalten, eine Harmonisierung erfolgte im
+    vorliegenden Text dennoch nicht.
+
+    Korrekturen aus der Liste der ‚Druckfehler‘ am Ende des Buches
+    wurden bereits in den Text eingearbeitet. Offensichtliche
+    typographische Fehler wurden stillschweigend korrigiert.
+
+    Die von der Normalschrift abweichenden Schriftschnitte wurden
+    in der vorliegenden Fassung mit den nachfolgenden Sonderzeichen
+    gekennzeichnet:
+
+      kursiv:   _Unterstriche_
+      gesperrt: +Pluszeichen+
+
+    Kapitälchen wurden in GROSSBUCHSTABEN umgewandelt.
+
+  ####################################################################
+
+
+
+
+                               JACOBINE
+
+                                  von
+
+                               _BAIERN_
+
+                         GRÄFIN VON HENNEGAU,
+                    Holland, Friesland und Zeeland.
+
+                Eine vaterländische Geschichte aus dem
+                       fünfzehenden Jahrhundert.
+
+                            [Illustration]
+
+                               Frankfurt
+                        bei Johann Daniel Knoop
+                                 1791.
+
+
+
+
+                        IHRO KÖNIGLICHEN HOHEIT
+
+                                  DER
+
+                            PREISWÜRDIGSTEN
+
+                             STATTHALTERIN
+
+                               BELGIENS
+
+                     FRIEDERIKE SOPHIE WILHELMINEN
+
+                        unterthänigst gewidmet.
+
+
+
+
+    Da Tausende, die DEINER Huld sich freu’n,
+    Von Dank durchglüht, DIR reichen Weihrauch streu’n,
+    Leg ich auf den Altar
+    Ein Blümchen hin. -- Nimms gnädig an,
+    Erhabenste! ich gebe, was ich kann
+    Und brings voll Ehrfurcht dar.
+
+                                              _Jordan._
+
+
+
+
+[Illustration]
+
+
+Vorbericht.
+
+
+Ob zwar die Begebenheiten einer Fürstin, die vor mehreren Jahrhunderten
+gelebt hat, eben die Neuheit nicht haben, auch denen, die nur
+einigermaßen in der Geschichte älterer Zeiten bewandert sind, bekannt
+sein werden; so scheinen sie mir doch, besonders bei jezigen, in
+den befragten Ländern herrschenden Unruhen, interessant genug, aus
+verschiedenen Bruchstücken und einer französischen Handschrift einen
+Auszug zu verfertigen und solchen zum Druck zu befördern. Wollte man
+diese Geschichte ganz zum Roman bilden, so lies sie sich freilich viel
+weiter ausdehnen; allein in solchem Fall müste nothwendiger Weise oft
+von der Wahrheit der Sache selbst abgewichen werden. Auch hätte ich um
+der Geschichte einen glänzendern Anstrich zu geben, sie mit Turniren,
+Bällen und andern dergleichen galanten Lustbarkeiten ausschmücken
+können; allein eine Fürstin, deren Leben durch so viele und anhaltende
+Widerwärtigkeiten vergället war, konnte wenig an dergleichen
+Ergözlichkeiten denken. Ausserdem glaub ich dem Leser einen Gefallen
+zu thun, wenn ich diese Tändeleien, so wie den verliebten Stil ganz
+weglasse und nur buchstäblich bei der Geschichte bleibe. Ueber die vier
+Gemahle, die meine Heldin theils aus Gehorsam, theils aus Schwachheit,
+genommen hat, wird sich freilich manche Spröde ärgern; indessen wenn
+sie die unglükliche Verfassung, in der sie sich befand, genau erwegen,
+werden sie gewis nicht so streng in ihrer Beurtheilung sein; dann
+sie war von ihrer eigenen Mutter verlassen; auf Veranlassung der
+Päbste muste sie Fehler begehen, die einigermaßen gegen den Wohlstand
+stritten, und bei ihren stetigen Widerwärtigkeiten konnte sie sich bei
+niemanden Raths erholen. Ob man ihr freilich manchen Vorwurf machen
+kann, so ist sie doch nichts destoweniger auf der andern Seite so viel
+mehr zu bedauern. Sie besas sehr viel gute Eigenschaften, und hatte die
+gerechtesten Ansprüche auf ein glänzendes Glück. Diese Vortheile aber
+vermochten nicht, sie für dem empfindlichsten Elend zu schüzen, und
+ihre grossen und vielen Widerwärtigkeiten beweisen, welch vergängliche
+Dinge, Ehre, Reichthum und Schönheit in der Welt sind.
+
+    +Homburg vor der Höhe+
+    im Heumonat 1790.
+
+                                                      Der Verfasser
+
+
+
+
+[Illustration]
+
+
+Da öfters Menschen von reifern Jahren ihre Handlungen mit wenig
+Vorsicht und Klugheit unternehmen und verrichten, so ist es nicht zu
+verwundern, daß junge, von aller Erfahrung noch entblößte Menschen in
+diese Fehler verfallen. Die täglichen Beispiele beweisen solches zur
+gnüge; allein gewisse Fehler, die aus jugendlicher Unbedachtsamkeit
+begangen werden, lassen sich um so viel mehr entschuldigen, weil das
+Herz keinen Antheil daran hat, und man also der Tugend nicht ganz
+entsaget.
+
+Die Heldin, deren merkwürdige Begebenheiten hier vorgetragen werden,
+war eine der, sowohl durch Verdienste als häufige Unglücksfälle
+berühmten Prinzeßinnen jener Zeiten, in welchen tugendhafte Handlungen
+noch unter dem Joch der Barbarei lagen. Ihre erhabene Geburt, ihre
+ausserordentliche Schönheit, und über dieses alles, ihr erleuchteter
+Geist, zeichnete sie vor allen andern ihres Geschlechts aus. Ihr
+Betragen mit dem strengen Richterauge betrachtet, solte man urtheilen,
+daß Liebe und Unbeständigkeit bei ihr Fehler des Temperaments waren,
+allein untersucht man ihre Handlungen, so wird man finden, daß sie weit
+mehr wegen ihres vielfältigen Unglücks zu bedauern als zu schelten war.
+
+_Jacobine_, Prinzeßin von Baiern und Gräfin von Hennegau, war die
+einzige Tochter und Erbin Wilhelms des IV. von Baiern, Grafen von
+Hennegau, Holland, Friesland und Zeeland, und der _Margaretha_ Herzogs
+Philipp des Kühnen von Burgunds Tochter, Uhrenkelin Kaiser Ludwig
+des V. von welcher sie 1401. gebohren ward. Ihre erhabene Geburt und
+der Glanz ihres Hausses, veranlaßten, daß die mächtigsten Fürsten,
+sich schon in ihrer zarten Jugend um sie bewarben. Karl VI. König von
+Frankreich, gab sich für seinen Sohn Johann, Dauphin von Vienois, um
+ihren Besiz besonders viele Mühe, und die Verlobung erfolgte auch
+wirklich im Jahr 1406. da Jacobine erst fünf und der Dauphin, der 1398.
+gebohren, acht Jahr alt war. Ob nun gleich die förmliche Vermählung
+weit hinaus gesezet wurde, so betrachtete man doch Jacobine von Stund
+an, als Königin von Frankreich, und erwies ihr gleiche Ehrerbietung.
+Der König von Frankreich stund mit dem Grafen von Hennegau in dem
+besten Einverständnis, allein der Dauphin und seine Braut, kannten
+sich nur daher, daß man öfters von dieser Verlobung in ihrer Gegenwart
+sprach.
+
+Da nun die Liebe an diesem Bündnis keinen Antheil hatte, so wollte sie
+bis zur Vollziehung der Vermählung dennoch nicht unthätig bleiben,
+sondern ihre gewöhnliche Streiche spielen. Johann von Burgund, Herzog
+von Brabant, der wenig Geist aber desto mehr Ehrgeiz besaß, nahm auf
+einige Zeit seinen Auffenthalt zu Bergen. Da Jacobine und er leibliche
+Geschwisterkinder waren, berechtigte ihn dieses, den beständigen
+Zutritt bei ihr zu haben. Die Gräfin von Hennegau liebte ihn als ihr
+eigenes Kind, weil er der Sohn ihres Bruders war, und sie hätte daher
+sehr gewünscht, daß die beträchtlichen Güter ihrer Tochter lieber ihm
+als dem Dauphin zugefallen wären.
+
+Der Herzog von Braband war eines ziemlich guten Ansehens, und dabei
+sehr reich; allein sein Verstand war eingeschränkt, und er hatte einen
+so wunderlichen Sinn, daß auch die Allernachgiebigsten mit ihm nicht
+auskommen konnten.[A] Dem ohnerachtet verliebte er sich auf das
+heftigste in Jacobinen; allein seine Leidenschaft hatte nicht jene
+zärtliche Empfindungen, die vermögend sind, das Herz des Gegenstandes
+zu rühren.
+
+Um diese Zeit 1407 ereigneten sich in Frankreich Vorfälle von grosser
+Wichtigkeit für das Haus Burgund. Ludwig, Herzog von Orleans, hatte
+sich die Schwachheit seines Bruders, des Königs Karl, zu Nuze gemacht,
+und durch einen Anhang von mehr als sechshundert Edelleuten sich fast
+der gänzlichen Regierung bemächtiget. Dieses erwekte Eifersucht bei dem
+Herzog Johann von Burgund, der gleichfalls Antheil an der Regierung
+haben wollte. Ob nun gleich diese Zwistigkeiten durch Vermittelung
+ihres Oheims, des Herzogs Johann von Beri, waren beigelegt und beide
+Prinzen vereiniget worden; so lies doch Johann von Burgund den
+Herzog von Orleans den 23ten Nov. bei der Pforte _Barbette_ in Paris
+meuchelmörderischer Weise umbringen.[B]
+
+Die hinterlassene Gemahlin und Kinder des Herzogs von Orleans suchten
+diesen Mord zu rächen; der Herzog von Burgund der sich nach Flandern
+geflüchtet hatte, vertheidigte sich schlecht, und die Gräfin von
+Hennegau, seine Schwester, war natürlicher Weise auf seiner Seite. Da
+aber der König von Frankreich die Anverwandten der Dauphine schonen
+wollte, trieb er diese Sache nicht eifrig, sondern wünschte einen
+Vergleich.
+
+Der junge Herzog von Brabant und Jacobine, die noch keinen Antheil
+an diesen Zwistigkeiten nehmen konnten, vertrieben sich die Zeit
+während man am Hof Karls VI. von nichts als Blut und Mord sprach,
+mit unschuldigen Spielen. Denn nachdem der Herzog von Burgund dem
+Bischof zu Lüttig, Johann von Baiern, gegen seine aufrührerische
+Unterthanen beigestanden, und diese vor Mastricht den 23ten Sept.
+1408. geschlagen und vertrieben hatte, kam er mit gewafneter Hand nach
+Paris, vertheidigte sein Verbrechen, zog während der Schwachheit
+des Königs[C] die ganze Regierung an sich, verübte grosses Unheil im
+Königreich, und entzündete dadurch den noch unter der Asche glimmenden
+bürgerlichen Krieg an allen Enden des Königreichs.[D]
+
+Ob nun gleich der junge Herzog von Brabant Jacobinen auf das heftigste
+liebte, hatte sie doch nicht die geringste Gegenliebe noch Neigung zu
+ihm. Alle seine Tritte misfielen ihr; denn in allen seinen Handlungen
+herrschte ein so albernes Wesen, das ihn ihr unerträglich machte.
+Jacobine wurde nicht anderst als mit dem Namen Dauphine benennt, daher
+erwies man ihr auch, als der Gemahlin des zukünftigen Thronfolgers
+eines mächtigen Königreichs die gebührende Ehrerbietung, und ihre guten
+Eigenschaften verdienten auch dieses hochachtungsvolle Betragen.
+
+Der Graf von Hennegau bemerkte durch seine Scharfsichtigkeit die
+Leidenschaft des Herzogs von Brabant leicht. Er sagte daher eines
+Tages zu seiner Gemahlin: Ich fürchte, diese jungen Leute, die nicht
+für einander bestimmt sind, dürften am Ende zu vertraut miteinander
+werden; ich ersuche Sie also, nöthige Maasregeln zu nehmen, damit
+diese Vertraulichkeit nicht zu weit gehe. Sie wollen, antwortete die
+Gräfin, Sachen sehen, die mir gar nicht bedenklich scheinen; und wie
+können Sie begehren, daß Kinder, die Blutsfreunde sind, sich einander
+gleichgültig begegnen sollen? Glauben Sie mir diese Art angenommener
+Vertraulichkeit, führt öfters weiter als man glaubet. Ihre Tochter
+gehöret weder Ihnen, mir, noch sich selbst mehr; ich verlasse mich auf
+Ihre Klugheit und beschwöre Sie, alle Sorgfalt zu gebrauchen, ihre
+Aufführung zu beleuchten, damit mir kein Verdruß daraus erwachse. Aber
+Graf! was wollen Sie daß ich thun soll? antwortete sie, und was kann
+ich desfalls zwei noch unschuldigen Kindern verständliches sagen? Sie
+glauben sie unschuldiger als sie würklich sind, fuhr der Graf fort;
+denn, obgleich der Herzog von Brabant keinen glänzenden Verstand hat,
+ist er doch der Liebe fähig; meine Tochter hat schon zu viel Geist, und
+ich würde verzweifeln, wenn ihr Jemand Empfindungen beibrächte, die
+sie einzig und allein gegen den Dauphin haben soll. -- Ihre Vorsicht
+scheinet mir ganz unzeitig zu sein, erwiederte die Gräfin; jedoch um
+Sie zu befriedigen, will ich das Betragen meiner Tochter und meines
+Neffen genau beobachten; allein, in Wahrheit! ich wünschte nicht, daß
+man Ihr Mistrauen und Ihre unnüze Vorsicht gewahr würde. -- Thun Sie
+nur was ich begehre, schloß der Graf, und sein Sie unbekümmert, was
+andere seltsames in meinem Betragen finden mögen.
+
+Nach dieser Unterredung gieng die Gräfin in der Dauphine Zimmer, die
+man eben ankleidete. Sie sahe heute ausserordentlich schön aus, und der
+Herzog von Brabant betrachtete sie mit solcher Aufmerksamkeit, daß er
+die Ankunft der Gräfin von Hennegau kaum gewahr wurde. Sie scheinen mir
+sehr tiefsinnig zu sein, Herr Herzog! redete sie ihn an; haben Ihnen
+Ihre Lehrer eine so wichtige Lexion aufgegeben, oder Sie angewiesen,
+Betrachtungen über die Frau Dauphine zu machen? Ich finde meinen
+Vortheil besser ihre Reize zu bewundern, erwiederte er, als ein unnüzes
+Thema auszuarbeiten, und hierinn ist mein Herz allezeit mit meinen
+Augen übereinstimmend. Die Gräfin verwundert über diese Erklärung,
+antwortete: Da Sie die Dauphine nicht ewig beschauen können, rathe ich
+Ihnen sich in Zeiten und nach und nach an ihre Abwesenheit zu gewöhnen;
+denn es ist nicht wahrscheinlich, daß Sie dieselbe nach Paris begleiten
+werden. Gehet sie ohne mich dahin, äuserte der Herzog weiter, so muß
+ich sterben; warum haben Sie sie dem Dauphin versprochen, der sie nicht
+kennt und der sie nie so inbrünstig, wie ich lieben wird? -- Ihre
+kleine Thorheit kann groß werden, erwiederte die Gräfin; Sie werden
+nicht mit nach Frankreich gehen; denn Sie müssen notwendiger Weise in
+Ihren Staaten zurück bleiben. -- Ha! ich werde sicher dahin gehen, rief
+er aus, und sollte es nur sein um den Dauphin zu bekriegen. Mit diesen
+Worten entfernte er sich, und die Gräfin sahe nur zu gut ein, daß ihres
+Gemahls Furcht gegründet war. Sie redete hierauf die Dauphine folgender
+Weise an: Gefällt Ihnen der Herzog so gut wie Sie ihm zu gefallen
+scheinen, und würden Sie es gerne sehen, wann er die Waffen gegen Ihren
+Gemahl ergriffe? Lachend antwortete die Prinzessinn ich schäzze den
+Herzog als einen Blutsfreund von Ihnen, und weil Sie ihm besonders
+gewogen sind; allein da ich dem Krieg feind bin, würde es jederzeit
+gegen meinen Willen sein, er möge auch bekriegen wen es seie. Begegnen
+Sie ihm nicht streng, sezte die Gräfin hinzu; allein lassen Sie sich
+nicht zu vertraut mit ihm ein. Die Dauphine versicherte, daß sie diesem
+ohne Zwang folgen werde, und daß sie bis jezt noch nichts empfunden
+hätte, das ihrer Schuldigkeit entgegen wäre. Ohnerachtet nun die Gräfin
+von Hennegau durch diese Unterredung von der Leidenschaft des Herzogs
+überzeugt war, wollte sie doch ihrem Gemahl nicht eingestehen, daß er
+recht geurtheilt habe.
+
+
+Die Dauphine, die nunmehr heranwuchs, ward von Tag zu Tag reizender,
+und desfalls allgemein bewundert. Die Leidenschaft des Herzogs von
+Brabant nahm, wegen der beständigen Gegenwart eines so liebenswürdigen
+Gegenstandes, immer mehr zu; allein sein von Natur widriges Betragen,
+leistete ihm in seinen jugendlichen Begierden bei dieser zärtlichen,
+doch lebhaften Prinzeßin, schlechte Dienste. Er sprach viel, allein die
+Gaben des Ausdruks fehlten ihm. Mit ausserordenrlichem Vorurtheil von
+sich war er eingenommen, und doch beobachtete man an ihm nichts, als
+ein hochmüthiges und widerwärtiges Betragen.
+
+Der Graf von Hennegau, den seine Gemahlin endlich die Leidenschaft des
+Herzogs eingestanden hatte, fand für nöthig, da die Zeit sich nahete,
+wo seine Tochter dem Dauphin zugeführt werden sollte, den Herzog von
+Brabant zu entfernen. Er veranstaltete daher seine Zurückberufung. Bei
+dieser Gelegenheit verübte dieser junge Liebhaber die ausschweifensten
+Thorheiten. Er weinte, man muste ihn mit Gewalt fortbringen; ja! seine
+Wuth brach sogar in Vorwürfe und Drohungen aus. Der Gräfin, die ihn
+bedauerte, gieng es sehr zu Herzen; allein die Dauphine blieb ziemlich
+gelassen, und man sahe wohl, daß sie keine Gegenneigung für ihren
+Vetter hatte.
+
+Die Zwistigkeiten zwischen dem Herzog von Burgund und dem Prinzen von
+Orleans dauerten beständig fort; jenes Verbrechen erweckte Grausen und
+Empfindungen des Mitleidens bei den Theilnehmenden. Der König, der zum
+strafen zu schwach war, und sowohl den Beleidiger als die Beleidigten
+schonen wollte, blieb saumselig, den Mord seines Bruders zu rächen und
+hielte seine Neffen nur mit eitlen Vertröstungen auf.
+
+Endlich nahete die Zeit, wo die Dauphine ihrem Gemahl zugeführt werden
+sollte. Der Graf und die Gräfin von Hennegau, die grosse Neigung zur
+Pracht hatten, verschaften ihr einen glänzenden Hofstaat; und Jacobine,
+die nun an einem der glänzenden und artigsten Höfen Europens auftreten
+sollte, verabsäumte keine Mittel, die ihre natürliche Schönheit noch
+besser erheben konnten. Man hatte zu ihrem Gefolg verschiedene der
+schönsten Fräuleins ernannt; unter solchen war eine mit Namen von
+Degre ihre vertrauteste, und dieser waren die grösten Geheimnisse der
+Prinzeßin nicht unbekannt. Also Madame! sagte sie einige Tage vor der
+Abreise zu ihr, werden Sie in kurzem dem Dauphin zugehören, und der
+arme Herzog von Brabant wird in Verzweiflung fallen. Sein Temperament
+ist nicht so heftig, antwortete die Dauphine; sein Leichtsinn der mir
+bekannt ist, wird seine erste Neigung durch neue Gegenstände leicht
+unterdrücken und ihn heilen, und ich versichere dich, daß er mich jezt
+schon vergißt. -- Dieser Meinung bin ich nicht, Madame! erwiederte
+von Degre; allein das kann ich mit Zuverlässigkeit versichern, daß,
+da ich so grossen Antheil an allem was Sie betrift nehme, mir auch
+alle, die Sie lieben, nicht gleichgültig sein können. -- Um Dich
+wegen dieser guten Empfindungen zu belohnen, erwiederte die Dauphine
+scherzend, wünscht ich, daß Du die unumschränkteste Beherrscherin des
+Herzog von Brabant wärest, und mit Vergnügen würde ich Dich Rang und
+Glük mit ihm theilen sehen. Das Erröthen der von Degre überzeugte die
+Dauphine, daß ihr dieser Wunsch nicht misfiel; allein jene stellte
+sich ganz schamhaftig und antwortete der Dauphine: Sie spotten meiner
+Madame! übertriebener Eifer ziehet mir diese Beschämung zu; ich weis
+meine Hofnungen besser einzuschränken, und die von Degre haben keine
+vornehme Ketten genug um Herzoge von Brabant zu fesseln. -- Nun gut
+Thörin! fuhr die Dauphine fort, Du magst böse oder nicht böse sein,
+nichts destoweniger war es mein völliger Ernst, wenn ich wünschte, daß
+Du eine Fürstin und meine Anverwandtin würdest. Und ich Madame! sezte
+von Degre Hinzu, wünsche, daß Sie im Besiz des Dauphins, zu einer der
+glücklichsten, da Sie schon eine der vollkommensten in der Welt sind,
+werden mögen.
+
+Endlich trat die bestimmte Zeit (1417) ein, in welcher die Dauphine
+ihrem Gemahl zugeführt werden sollte. Der Graf und die Gräfin von
+Hennegau begleiteten sie nach Compiegne, wo ihrer der Dauphin
+erwartete. Die Zusammenkunft dieses jungen Paars, war zwar nicht
+ausserordentlich feurig; allein doch nicht ganz gleichgültig. Der
+Dauphin war liebenswürdig und die Prinzeßin, seine Braut, besaß
+unzählbare Reize. Die Königin von Frankreich, unter Begleitung des
+Herzogs von Tourraine, ihres Sohnes, des Herzogs von Britanien, und
+mehrerer Prinzen empfingen sie zu Senlis. Das beiderseitige Vergnügen
+wurde durch vielfältige Veränderungen in Lustbarkeiten gefeiert, über
+welche die Dauphine viel Zufriedenheit bezeugte. Die Königin und
+die Gräfin erwiesen sich gegenseitige Freundschaft,[E] und nachdem
+man verschiedene Tage in Fröhlichkeit zugebracht hatte, gieng die
+Königin zurück nach Paris, der Dauphin mit seiner Gemahlin nebst der
+Gräfin ihrer Mutter aber nach Compiegne. Der Graf von Hennegau, der,
+wichtiger Angelegenheiten wegen, nach Paris gegangen war, entfernte
+sich, auf gewisse Warnungen, die man ihm eines Verdachts wegen
+beibrachte, gleich wieder. Da er nun durch die Heirath seiner Tochter
+sich den Dauphin ganz eigen gemacht hatte, gieng er mit der Hoffnung,
+ganz seine Absichten zu erreichen, zu ihm nach Compiegne; allein das
+Verhängniß drohete Frankreich und dem Grafen von Hennegau mit grossen
+Unglücksfällen. Bei seiner am 5ten April erfolgten Ankunft, fand er
+den Dauphin an einem vorgeblichen Halsgeschwühr in den lezten Zügen
+liegen, welcher gleich hernach seinen Geist aufgab, und durch diesen
+unerwarteten Todtesfall verschwanden zugleich alle weitere grosse
+Aussichten für den Grafen von Hennegau. Traurig und schmerzhaft für
+beide Familien, war dieses Absterben, das ganz Europa in Verwunderung
+sezte. Die Dauphine, deren Schmerz um so grösser war, da sie wirklich
+anfieng ihren jungen Gemahl zu lieben, gieng, statt nach Paris, mit
+ihrer Mutter zurück nach Bergen. Der Dauphin wurde ganz stille und
+eiligst in der Abtei Cornelien zu Compiegne begraben, welches den
+Verdacht seines schleunigen Todes um so mehr bestätigte; wie dann auch
+niemand zweifelte, daß er durch geheime Cabale des Herzogs von Brabant
+sei hingerichtet worden.
+
+Des Glückesunbestand hatte Jacobine, zu einem denkwürdigen Bild des
+Leidens bestimmt; auf diesen Verlust erfolgte gleich ein, für sie
+noch weit schmerzhafter Schlag. Denn er legte den Grund zu allen
+ihren künftigen Widerwärtigkeiten. Der Graf von Hennegau ihr Vater,
+der durch den Tod des Dauphins schmerzlich gerührt war, wollte in
+der Einsamkeit einige Linderung suchen. Er gieng desfalls nach
+Bouchain; allein statt dessen, vermehrte sich vielmehr seine Betrübnis
+dergestalt, daß er wenige Tage nach seiner Ankunft starb. Sein Leichnam
+wurde in die Franziskaner-Kirche nach Valencienes gebracht. Durch
+diesen Tod war nun seine Gemahlin eben so, wie seine Tochter zur
+Wittwe geworden. Jacobine, die einzige und rechtmäßige Erbin aller
+seiner Staaten, wollte solche daher, und vermöge ihrer Gerechtsame,
+in Besiz nehmen; sie fand aber an Johann von Baiern, Bischoffen zu
+Lüttig, ihrem Oheim, unter dem Vorwand einer ungleichen Theilung der
+Verlassenschaft seines Vaters, des Herzog Albrechts von Baiern, einen
+heftigen Widerstand und Verfolger. Dieser Johann von Baiern, der den
+Bischofsstaab niedergelegt und sich mit der Wittwe, Anton Herzogs von
+Brabant, Bruders des Herzogs von Burgund, verheurathet hatte, machte
+nunmehr seine Ansprüche mit dem Schwerd gegen seine Nichte geldend.[F]
+Die Verlegenheit, in welche diese beiden Wittwen hierdurch versezt
+wurden, war nicht gering. Um aus derselben zu kommen war ein kräftiger
+Vorstand nöthig; die Gräfin von Hennegau war daher bedacht, solchen
+durch eine andere Verheirathung ihrer Tochter zu verschaffen. Sie hatte
+den Herzog von Brabant immerfort auf das zärtlichste geliebt. Bewust
+war es ihr, daß seine Liebe zu Jacobinen noch nicht erloschen war. Er
+war ihr Anverwandter, und stand wegen seines grossen Reichthums in
+gewissem Ansehen. Dieses alles, und da sie ausserdem noch glaubte,
+sich ihm gefällig zu erzeigen, bewog sie, ihm ohnverzüglich den Antrag
+zu thun. Entzückend nahm er ihn an; und da die Gräfin von dieser
+Seite gesichert war, fehlte nichts weiter, als ihrer Tochter gleiche
+Gesinnungen beizubringen; sie verabsäumte daher nicht, sie auf das
+schmeichelhafteste zu bereden. Sie sehen, sagte sie zu Jacobinen, in
+welchen Abgrund von Verlegenheiten und Unruhe der Bischoff von Lüttig
+uns stürzet; sein Verfahren wird uns unglücklich machen, wo nicht gar,
+ganz unterdrücken; durch des Dauphins Tod sind Sie frei; Sie können
+daher einen andern Gemahl wählen, und sehr würden Sie mich verbinden,
+wenn ihre Wahl auf den Herzog von Brabant fiel. Die Begierde, Ihnen
+gefällig zu sein, ist meine Hauptbestrebung, erwiederte Jacobine;
+allein Madame! welche Hülfe können Sie von einem jungen, unerfahrnen
+Mann, wie der Herzog ist, erwarten. Seine Geistesgaben sind ausserdem
+sehr eingeschränkt; aufrichtig gesteh’ ich und bin dessen überzeugt,
+daß unsere Angelegenheiten unter einer dergleichen Leitung schief
+gehen würden. Ausserdem sind wir zu nahe verwandt, als daß wir uns
+ohne Erlaubnis und Einwilligung der Kirche ehelich verbinden könnten.
+Ist es dann unumgänglich nöthig, daß ich mich verehliche? Der Dauphin
+und mein Vater haben kaum die Augen geschlossen; unsere Thränen rinnen
+noch, und Sie denken schon an ein Eheverlöbnis. Ich muß gestehen,
+erwiederte die Gräfin, daß alle Ihre so eben gemachte Einwendungen
+den Schein einiger Wahrheit haben; allein ob solche in unserer izigen
+Lage der Staatsklugheit gemäß sind, ist eine andere Frage. Der Herzog
+von Brabant muß einzig und allein nach unserm Rath und Willen handlen;
+je weniger er aus selbst eigener Gewalt und Einsicht auszurichten
+vermag, desto mehr bleibt er uns unterwürfig. Urtheilen Sie selbst
+nach dem Betragen des Bischoffs von Lüttich, ob es rathsam sei,
+sich mit ehrsüchtigen und unternehmenden Fürsten in solchen Fällen
+einzulassen..... Aber Madame! unterbrach Jacobine, wann ich mich
+mit Ihrer Erlaubnis freimüthig erklären darf, muß ich gestehen, daß
+es ein trauriger Zustand ist mit einem fast blödsinnigen Menschen,
+der nichts aus eigenem Verstand unternehmen kann und doch seinen
+Leidenschaften ergeben ist, Zeitlebens verknüpft zu sein. Alle das
+hieraus entstehende Ungemach und die Schande würde auf mich fallen; ich
+beschwöre Sie daher, in dieser Sache meinem Gehorsam keinen weiteren
+Zwang anzulegen. Sie werden beleidigend, Madame! erwiederte die Gräfin
+weinend. Wie! weil Sie der Herzog von Brabant aufrichtig liebte, weil
+er mehr zärtlich als lebhaft in der Liebe war, betrachten Sie ihn, --
+mich dieses Ausdrucks zu bedienen -- wie ein unvernünftiges Thier, und
+urtheilen das Schimpflichste von ihm. Mus man eben albern sein, Ihre
+Verdienste schäzen zu können? Haben Sie etwas mehr Erkenntlichkeit
+gegen seine ersten und reinen Triebe, und denken weniger an sonstige
+gute Eigenschaften, die er Ihrem Vorgeben nach haben sollte. Die
+Kirche wird keinen Anstand nehmen, und ohne grosse Schwierigkeiten kann
+man sie zur Einwilligung bringen; -- Wir haben tausend Beispiele von
+dergleichen Ehen. -- Hierauf umarmte sie ihre Tochter, die die Achseln
+zuckte, und wohl einsahe, daß sie am Ende ihrer hartnäckigen Mutter den
+Willen thun, und sich ihrem Eigensinn aufopfern müste.
+
+Da die Gräfin von Hennegau ihre Tochter etwas nachgebender sahe,
+verabsäumte sie nicht, die nöthigen Maasregeln auf Seiten des Herzogs
+von Brabant zu nehmen. Da er Jacobinen noch heftig liebte, war ihm
+die Nachricht, daß er noch zu ihrem Besiz gelangen könnte, auch sehr
+willkommen. Man veranstaltete zu Bergen alles zu seinem Empfang;
+und die junge Fürstin, die wohl einsahe, daß sie, ohne sich mit
+ihrer Mutter ganz zu entzweien, nicht anderst konnte, bereitete sich
+allmählig auch hierzu. Die von Degre, die den Herzog von Brabant so
+bedauert hatte, da Jacobine dem Dauphin zugeführet wurde, schien, da
+nun diese Heirath beschlossen war, dieser Fürstin nicht freudig genug
+darüber zu sein. Wie! von Degre! sagte sie, Du läßt wenig Vergnügen
+blicken, daß ich deinen guten Freund heirathe; denn nachdem Du mir
+sonst so vieles zu seinem Vortheil gesagt hast, scheinest du mir jezo
+eben so traurig als damals, wie ich mich mit dem Dauphin vermählte.
+Ich nehme dennoch grossen Antheil an dem Glück, das ihm wiederfähret,
+erwiederte von Degre; allein Madame! würden Sie es jezt gerne sehen,
+daß ich den kleinsten Plaz seines Herzens einnehme? Ich muß gestehen,
+antwortete die Fürstin, daß, da er mein Gemahl werden soll, sähe ich
+nicht gerne, daß er zugleich eine andere liebte; und lächelnd sezte sie
+hinzu, glaube ich nicht, daß sein Herz von so grossem Werth ist, daß
+zwei sich darin theilen könnten. Sie verdienen es auch gewis allein zu
+besizen, antwortete von Degre, und ich bin überzeugt, daß er keiner
+andern Raum in demselben verstatten wird. Sie sehen jezt, Madame! wie
+grosse Ursache ich hatte, für ihn zu sprechen, da ihn der Himmel für
+Sie bestimmt hat. Er kann dir selbst für diese geneigte Gesinnungen
+Dank abstatten, schloß die Fürstin, und ich werde mir angelegen sein
+lassen, ihn von Deiner guten Meinung zu überzeugen.
+
+Ob sich nun gleich der Bischoff von Lüttig, unter Begünstigung
+Kaiser Sigismunds, dieser Heirath mit aller Gewalt widersezte, gab
+demohnerachtet doch das Konsilium zu Costanz die Einwilligung und
+Dispensation. Bei der Ankunft des Herzogs von Brabant in Bergen, sahe
+man unmäßige Freude aus seinen Augen funkeln. Er war jung und wohl
+gestaltet; Pracht herrschte in seinem ganzen Gefolg. Dieses und das
+Vergnügen, das man ihm ansahe, unterdrückte, oder verbarg wenigstens in
+etwas seine Verstandesfehler. Gleich nach seiner Ankunft veranstaltete
+die Gräfin von Hennegau das Beilager, das sie so sehnlichst gewünscht
+hatte. Viele Standspersonen und der ganze Adel des Landes wohnten der
+Feierlichkeit bei; und obgleich Jacobine, mit Widerwillen und nur aus
+Gefälligkeit für ihre Mutter, diesen Schritt gethan hatte, sahe sie
+doch bei dieser Gelegenheit reizender als jemals aus. Der Herzog von
+Brabant hatte daher Ursache, in ihrem Besiz alle Leiden, die er zu der
+Zeit, da er ohne Hofnung liebte, erduldet hatte, zu vergessen.
+
+Gleich nach den Feierlichkeiten wurde an einem Vergleich zwischen
+Jacobinen und ihrem Oheim gearbeitet; und die, welche zu der
+Unterhandlung gebraucht wurden, waren in ihren Bemühungen glücklich,
+indem sie denselben zu Stande brachten. Diese wiederhergestellte
+Einigkeit lies demnach heitere Tage vermuthen; allein die angenehmsten
+und wahrscheinlichsten Hoffnungen werden nicht allezeit nach Wunsch
+erfüllet.
+
+Während der Zeit, die der Herzog von Brabant an seinem Hof zubrachte,
+und von Jacobinen, seiner nunmehrigen Gemahlin, entfernet war,
+schenkte er sein Vertrauen einem, Namens Beghe, den er zu den obersten
+Ehrenstellen erhoben hatte. Dieser wuste sich dergestalt seiner zu
+bemeistern, und ihn zu regieren, daß er auch nicht das mindeste ohne
+seinen Rath unternahm. Da diesem Minister der erhabene Verstand der
+Herzogin nicht verborgen sein konnte, befürchtete er den Verlust
+dieses unumschränkten Zutrauens. Ob er nun gleich seine Furcht durch
+die tiefste Ehrerbiethung, die er der Herzogin bei jeder Gelegenheit
+erwies, zu verbergen suchte, gab er nichts destoweniger dem Herzog,
+unter dem Schein der Treue und Redlichkeit, zu verstehen: daß es
+gefährlich sei der Herzogin in allem nachzugeben, daß die klugen und
+beherzten Frauenzimmer gemeiniglich sich übermäßige Freiheit nehmen,
+und daß es schimpflich, ja schändlich für einen Fürsten, als er sei,
+so ganz nachsichtig zu sein. Des Herzogs Geistesschwäche war nicht
+frei von Stolz; dieses wuste Beghe wohl; sein Kunstgrif that daher
+die erwünschte Wirkung. Der ersten Sache, die Jacobine ihrem Gemahl
+vorschlug, widersezte er sich hartnäckig. Verwundert und verdrossen
+über dies unerwartete, trozige Betragen, sagte sie zu ihm: Sie müssen
+blind sein, da Sie die Nothwendigkeit einer Sache nicht einsehen,
+welche die verdrüßlichsten Folgen für uns haben kann, wenn desfalls
+etwas versäumet wird, und wenn Ihre Einsichten nicht stark genug
+sind, müssen Sie sich nothwendiger Weise auf die, welche grössere
+haben, verlassen. Ich glaube nicht, antwortete er trocken, daß es
+mir an Klugheit fehlet, und mich dünkt, Madame! daß es Ihnen gar
+nicht zukommt, mir Geseze vorzuschreiben. Erstaunt rief Jacobine aus:
+Ha! Mein Herr! wer hat Sie diese Sprache gelehret? Dürfen unsere
+Vortheile jezt getrennt sein, und müssen wir nicht eine einstimmige
+Meinung haben? Begeht eine Frau Fehler, wenn sie ihrem Ehegatten
+Widerwärtigkeiten ersparen will? Ja Madame! erwiederte er noch
+bitterer; und Weiber haben sich in nichts zu mischen, das über ihre
+Begriffe gehet. Mit Verachtung erwiederte sie: die Ihrigen sind so
+gering, daß, wenn unglücklicher Weise, unsere Angelegenheiten Ihrer
+Leitung überlassen werden sollten, sie ganz schief betrieben würden. --
+Nach diesen Worten eilte Jacobine, von Schmerz durchdrungen, zu ihrer
+Mutter, um ihr diesen Vorgang zu erzählen. Die Gräfin von Hennegau
+aber, die übertriebene Nachsicht für einen Menschen hatte, den sie
+selbst zu ihrem Eidam erkohr, suchte die Herzogin dadurch zu beruhigen,
+daß der Herzog sein Betragen von selbst bereuen und zurückkehren würde.
+Und kaum hatte sie ihn gesprochen, als er alles, was man von ihm
+verlangte, wirklich that.
+
+Dieses benahm aber der Herzogin den Verdruß nicht, den sie hatte, mit
+einem so fehlerhaften Gemahl verbunden zu sein. In der Zuversicht, daß
+die von Degre Theil an ihrem Kummer nehmen würde, öfnete sie derselben
+ihr Herz; allein diese Treulose hatte schon seit geraumer Zeit ganz
+andere Absichten. Sie glaubte reizend genug zu sein, einem Menschen,
+der dem Anschein nach, eines Glücks, das jeder andere beneidet haben
+würde, überdrüssig war, Liebe einzuflösen. Sie nuzte also das Vertrauen
+ihrer Gebieterin, mit dem Vorsaz, eigenen Gebrauch davon zu machen,
+und spielte daher bei der Herzogin die nämliche Rolle, die Beghe bei
+dem Herzog spielte. Ich glaubte, daß man sich nicht genug beeifern
+könnte, Ihnen gefällich zu sein, Madame! sagte sie zu Jacobinen,
+innerlich erfreuet, daß die Uneinigkeit zu Bergen dem völligen
+Ausbruch so nahe war. Sie sind nicht gebohren, dergleichen beleidigende
+Widersprüche zu dulten. Wie? der Fürst, der sich in Ihrem Besiz über
+alle Massen glücklich schäzen sollte, biethet Ihnen schon Troz, und
+will Sie beherrschen? O Himmel Madame! welchen Wunsch äuserten Sie
+mir, da Sie mir ehemals den Besiz seines Herzens wünschten; da Ihre
+Herrschaft von so kurzer Dauer ist, wie lange würde die meinige
+gedauert haben? Brauchen Sie bei einem so gefährlichen Anfang Ihre
+ganze Herzhaftigkeit und Klugheit; jezt ist es noch Zeit, wenn Sie
+nicht ganz unterdrückt sein wollen, Ihre Gewalt fest zu stellen; denn
+Ihr Gemahl ist Ihnen Ehrerbiethung schuldig; er ist durch Ihren Besiz
+genugsam dafür belohnet worden. -- Bei diesen Reden der von Degre,
+seufzte die Herzogin ohne Unterlaß; allein jene war, während derselben,
+auf Ausführung der gräulichsten Bosheit bedacht. Sie war auf das
+heftigste in den Herzog verliebt; und da sie alle Gelegenheiten nuzte,
+sein Thun und Lassen auszuspäen, war es ihr nicht schwehr zu entdecken,
+daß Beghe diesen schwachen Fürsten ganz regierte. Sie sind, sagte sie
+eines Tages zu diesem Liebling des Herzogs, da er ihr eben einige
+verliebte Schmeicheleien vorsagte, ganz aus Ihrer Sphäre. Die Sorge,
+dem Fürsten gefällig zu sein, sollte Sie ununterbrochen beschäftigen,
+und Sie sollten die Zeit nicht mit Erhebung meiner vorgeblichen Reize
+verderben. Opfern Sie dem Ehrgeiz dergleichen köstliche Augenblicke
+nicht auf, und geben Sie mir keine Ursache, mir selbsten etwas auf
+meine Schönheit einzubilden. -- Ich kan zugleich meinem Herrn dienen,
+erwiederte Beghe, und einer Gebieterin Ehrfurcht bezeigen, wenn Sie
+wollen die Meinige sein.... Ich! unterbrach sie? Wenn ich Ihnen auch
+alles verspräche, würde ich doch vielleicht gar nichts halten können;
+kennen Sie die Frauenzimmer nicht? Einige, erwiederte Beghe; allein
+ich muß zugleich gestehen, daß deren verschiedene sind, die ich nicht
+auszuklügeln vermag; zum Beispiel unsere Herzogin. Hat diese nicht
+einen solchen Scharfsinn, durch welchen sie alle Unternehmungen
+auszuführen weis; und kan sich wohl jemand rühmen ihre Gesinnungen zu
+ergründen? Ja! erwiederte von Degre, dieser Kunst kan ich mich rühmen;
+und ich sage Ihnen mit Zuverlässigkeit, daß sie den Herzog hasset,
+verachtet, ja! verabscheuet. Halten Sie sich nicht mit Auskramung
+verliebter Schmeicheleien auf, sezte sie hinzu, benuzen Sie den
+Wink, den ich Ihnen gebe; aber schonen Sie meine Offenherzigkeit und
+benehmen mir die gute Meinung, die ich auf ihr Vertrauen seze, nicht.
+Nachdem Beghe dieser Lasterhaften vielen Dank gesagt hatte, eilte er
+zu dem Herzog von Brabant, der weder Verstand noch Empfindung hatte,
+und dessen Liebe mehr eine Wirkung des Eigensinns, als einer richtigen
+Beurtheilungskraft war. Leicht machte er ihn daher glauben, was er
+für gut fand; und dieser alberne Fürst glaubte, nach den Eingebungen
+dieses gefährlichen Menschen: daß ihn die Herzogin nur verächtlich
+mache, um allein zu herrschen; daß sie schon zu viel Gewalt habe; und
+daß es aus diesen Ursachen nöthig sei, sich jemanden zu versichern, der
+alle ihre Handlungen auf das genaueste zu beobachten vermögend wäre.
+Hierauf schlug der Herzog, wie von ungefehr, zu diesem Geschäft die
+von Degre vor. Er wuste schon, daß sie aus eigenem Triebe des Herzens
+darzu geneigt war. Er rühmte, ganz übertriebener Weise, die Schönheit,
+den Eifer und Verstand dieses Mädchens; und überlies die weitere
+Einrichtung der Sache dem Beghe. Einige Augenblicke hernach begegnete
+ihm die von Degre selbst. Er sahe sie jezt mit weit mehr Aufmerksamkeit
+als vorher an. Sie war schön, jung, sanft und auf ihrer Stirne konnte
+man die Begierde, ihm zu gefallen, deutlich lesen. Mit vieler Bewegung
+redete er sie an: Wo wollen Sie hin, mein Fräulein? Was macht Ihre
+Gebieterin? -- Sie ist bei der Gräfin von Hennegau, erwiederte von
+Degre, und ich gehe, um ihr Bericht wegen eines Geschäfts, das sie
+mir aufgetragen hat, abzustatten. -- Bleiben Sie einen Augenblick,
+sagte der Herzog, und vergönnen Sie mir ein kurzes Gehör; ich bitte
+inständigst. -- Da es jederzeit meine Schuldigkeit ist, Ihnen zu
+gehorchen, antwortete sie, bin ich auch jezt bereit, die Befehle, die
+Sie die Gnade haben werden mir zu geben, zu vollziehen. -- Nicht auf
+diesen Ton nehmen Sie es, mein Fräulein! erwiederte der Herzog; denn
+wer so reizend ist, wie Sie, der hat keinen andern Befehlen als denen
+zu gehorchen, welche eigene Schönheit und Anmuth ertheilen. Sie sind
+schmeichelhaft und werden gefährlich, gnädiger Herr! sagte von Degre
+mit niedergeschlagenen Augen; ob ich gleich nicht zum Hochmuth geneigt
+bin, würden Sie mich doch dazu verleiten. Aber weit entfernt, mich
+durch dergleichen süsse Schmeicheleien blenden zu lassen, welche im
+Ernst aufzunehmen nur Thorheit von mir sein würde, will ich solche
+nicht anderst als mit schuldiger Ehrerbietung aufnehmen. -- Glauben
+Sie, fuhr der Herzog fort, daß ich falsch oder heimtückisch sei? Man
+glaubt, ich wäre unempfindsam; Ihre Gebieterin aber kann das Gegentheil
+bezeugen und Ihnen Meinungen beibringen, die Ihnen alle Furcht benehmen
+werden. Ich urtheile nicht nach dem Ausspruch anderer, erwiederte
+von Degre; in dergleichen Fällen sind meine Augen die sichersten
+Beobachter. -- Nun denn! unterbrach der Herzog, so müssen Sie in den
+meinigen die Ueberzeugung lesen, daß ich Ihren Reizen Gerechtigkeit
+wiederfahren lasse, und daß Sie an der Aufrichtigkeit meiner
+unbegränzten Liebe nicht zu zweifeln haben. -- Dieses würde ein Wunder
+und zugleich eine grosse Ungerechtigkeit sein, erwiederte von Degre,
+Sie dürfen niemand anderst als die Herzogin lieben; und wenn deren
+Reize, da es keine vollkommnere giebt, Sie nicht mehr fesseln können,
+werden es gewis keine andere, noch weniger meine, als welche sehr
+gering sind, vermögen. -- Besser empfinde ich, was in mir vorgehet, als
+ichs mit Worten auszudrücken vermag, war des Herzogs Antwort; Genug,
+mein bestes Fräulein! ich liebe Sie von Grund der Seele, und gestehe
+es ohne weiter gekünstelte Ausdrücke; ersezen Sie durch Güte und ein
+wenig Gegenliebe, die beleidigende Verachtung, die mir die Herzogin
+erweiset.
+
+Ob nun gleich die von Degre ihres Sieges gewis war, wollte sie ihre
+Nachgiebigkeit doch nicht gerade zu den Herzog merken lassen. Sie
+wollte ihm noch einige Zweifel entgegen sezzen, würde aber doch bei
+dieser Unterredung ihr Schiksal bestimmt haben, wann nicht eben die
+Herzogin dazu gekommen wäre. Da diese gar kein Mistrauen hegte, und die
+Gräfin ihre Mutter sie noch kürzlich versichert hatte, der Herzog habe
+keine böse Absichten, näherte sie sich mit Freundlichkeit, zu ihrem
+Gemahl, und sagte: Ich bin recht erfreuet, daß Sie sich mit meiner
+Gesellschafterin unterhalten; es giebt mir den sichersten Beweis, daß
+Sie mich nicht hassen. Ohne Zweifel war die Rede von mir, billig ist
+es also, daß auch ich zu ihrem Vortheil spreche, und Sie, mein Lieber!
+versichere, daß sie schon bei Ihrem ersten hiesigen Aufenthalt sich
+Ihrer Angelegenheiten bei mir mit dem wärmsten Eifer angenommen hat.
+Die von Degre, sich bewust, daß sie eine Person, die so viel Güte und
+Zutrauen hatte, auf das Schändlichste hintergieng, erröthete, und so
+unverschämt sie auch war, konnte sie doch die Blike der Herzogin nicht
+aushalten. Sie neigte ihre Augen, während der Herzog die seinigen
+beständig auf die Undankbare gerichtet hatte. Da Sie es mir zur
+Schuldigkeit machen; Madame! der Fräulein von Degre erkenntlich zu
+sein, sagte er zur Herzogin, bitte ich auf das Angelegentlichste, sie
+noch mehr zu schäzen, als Sie bisher schon gethan haben, damit durch
+Ihre gütige Behandlung sie einigermassen für die Verbindlichkeit, die
+ich ihr schuldig bin, belohnet werde. -- Mit freudigem Herzen nehme
+ich den Befehl an, erwiederte die Herzogin, und das Bestreben, Ihnen
+gefällig zu sein, verbunden mit der Neigung, die ich schon dazu habe,
+versprechen der von Degre die glücklichsten und vergnügtesten Tage.
+
+Während dieser Unterredung, die der von Degre so schmeichelhaft war,
+saugte diese Untreue das ihr angenehme Gift in vollem Maße ein: Der
+Herzog führte seine Gemahlin in ihr Zimmer zurück, woselbst er aber
+nicht lange blieb, sondern den Beghe aufzusuchen eilte. Seine Anrede
+war: Wissen Sie wohl, daß Sie mich eines der schönsten weiblichen
+Geschöpfe, das bis jezt meinen Augen verborgen war, haben kennen
+gelehrt? Begehe ich einen Fehler, wenn ich sie liebenswürdig finde, so
+fällt er auf Sie selbst zurück. Beghe, der nichts sehnlicher wünschte,
+als daß das Herz seines Fürsten mit einem andern Gegenstand, der die
+Liebe zu seiner Gemahlin ganz unterdrücke, beschäftiget wäre, rühmte
+die Schönheit und Annehmlichkeit der von Degre auf eine übertriebene
+Weise. Dieses und ihr schmeichelndes Zuvorkommen, das sie so eben dem
+Herzog gezeigt hatte, waren die sichersten Mittel, das noch übrige
+Ansehen der Herzogin zu stürzen und das ihrige zu befestigen. Sie sind
+es nicht allein, der die Fräulein von Degre schön findet, sagte Beghe
+zum Herzog, ich selbst bewundere ihre Reize; es kommt mir daher nicht
+übernatürlich vor, daß Sie gleichfalls Behagen daran finden: allein
+ob Sie gleich mein Gebieter und Wohlthäter sind, kann ich mich doch
+nicht enthalten, eifersüchtig zu sein. -- Verlieben Sie sich nur nicht
+in sie, erwiederte der Herzog hastig, vielmehr, wenn Sie schon in sie
+verliebt sein sollten, so schlagen Sie dieses ganz aus den Gedanken,
+und lassen sich nur angelegen sein, mir als treuer Bottschafter in
+meiner Liebe zu dienen. Allein, gnädiger Herr! sagte Beghe scherzend,
+wie kann ich Ihre Aufträge in dieser kizlichen Sache besorgen? -- Wenn
+Sie die von Degre ernstlich liebten, antwortete der Herzog, würden
+Sie mich sehr unglücklich machen, und meine Angelegenheit und mein
+Vertrauen stünden alsdann in gefährlichen Händen. -- Sein Sie desfalls
+ausser Furcht, gnädigster Herr! erwiederte der Bösewicht; ich gehorche
+Ihnen unter der Versicherung, daß Sie auch von Seiten der von Degre
+nichts zu befürchten haben. Denn die Ehre, von einem solchen Fürsten
+geliebt zu werden, kann ihr nicht anderst als sehr angenehm sein.[G]
+
+In dieser Verfassung stunden die Sachen, und in dieser Lage befanden
+sich die, welche dabei interessiret waren. Des Herzogs Leidenschaft
+wuchs dergestalt, und war so sichtbar, daß die von Degre fast den
+Verstand darüber verlohr, indem ihr nunmehriges Betragen den Schein der
+Ehrbarkeit nicht hatte. Beghe behandelte diese Intrique mit solcher
+Behuthsamkeit und List, daß die Klügsten nichts davon entdeckten, und
+so einsichtsvoll die Herzogin war, dauerte es doch lange genug, bis
+sie etwas davon merkte. Der Herzog machte der von Degre die kostbarsten
+Geschenke; allein, auf Anrathen des Beghe, jederzeit durch die Hände
+der Herzogin; hierdurch wurde, unter dem Schein, ihre Vertraute zu
+belohnen, diese gute Fürstin hintergangen, und man konnte mit Wahrheit
+sagen, daß sie mit Blindheit geschlagen sei. Wenn die von Degre durch
+Jacobinen mit des Herzogs Geschenke überhäuft wurde, nahm sie solche
+anderst nicht, als mit vielem Stolz und Geringschäzung an. Sie sagte
+öfters: dieses alles rührt mich nicht, Madame! wenn er Ihnen nicht
+Gerechtigkeit wiederfahren läßt, und sich als Ihren Sklaven betrachtet.
+So übertrieben sind meine Wünsche nicht, erwiederte die Herzogin,
+ich bin zufrieden, wenn wir nur gleiche Zärtlichkeit, Gewalt und
+Nachgiebigkeit für einander haben; übrigens, wenn er Dir meinetwegen
+Wohlthaten erweiset, so ist es ein sicherer Beweis, daß er die, welche
+ich liebe, gleich schäzet, und daß er mich verbindlich machen will.
+
+So hintergieng die Herzogin von Brabant sich selbst; und Beghe, der
+seine Gewalt durch Hülfe der von Degre täglich zunehmen sahe, wollte
+sein Ansehen immer weiter und auf den höchsten Gipfel bringen.
+Dieses verursachte, daß endlich alles, was von angesehenen Personen
+in Bergen war, anfieng zu murren. Sie erachteten sich verbunden
+zu sein; dem Hochmuth eines Menschen, dem die Nachlässigkeit des
+Herzogs volle Gewalt gab, Gränzen zu sezzen, und ihn zu demüthigen.
+Eberhard, natürlicher Sohn des verstorbenen Grafen von Hennegau, war
+der Aufgebrachteste unter allen. Geheime Kundschaften, die er hatte,
+überzeugten ihn, daß Beghe trachte die zwei Fürstinnen unter eine
+nachtheilige Bottmäsigkeit zu bringen, und da er dies frevelhafte,
+und das Andenken des Grafen von Hennegau beleidigende Beginnen nicht
+zugeben wollte, entschloß er sich solches zu verhindern, und den Beghe,
+es sei auf welche Weise es wolle, von seiner Höhe zu stürzen, der
+aber dergestallt von Herrschsucht eingenommen war, daß er seinen Weg
+unbekümmert, was geschehen würde, fortwandelte.
+
+Der Graf von Hennegau hatte Eberharden eine vortrefliche Erziehung
+gegeben, und ihm beträchtliche Reichthümer hinterlassen; und da er
+zugleich vielen Verstand und Muth besaß, konnte er sich um so mehr
+furchtbar machen. Die Güte seines Herzens flößte ihm Abscheu gegen
+alle Ungerechtigkeiten ein; er konnte daher den Uebermuth des Beghe
+und die Schwachheit des Herzogs nicht länger ertragen. Leztern selbst
+zur Rede zu stellen, würde ihm empfindlich gewesen sein, und die Sache
+nur verschlimmert haben: sich an die Gräfin von Hennegau zu wenden,
+wäre gleichfalls vergebliche Mühe gewesen. Das sicherste schien
+ihm daher, sich grade zu an die Herzogin, die ihn sehr hochachtete
+und viel Vertrauen in ihn sezte, zu wenden. Er redete sie also an:
+Madame! es schmerzet mich, daß ich genöthiget bin, Ihnen eine kleine
+Unruhe zu verursachen, um einer weit grössern vorzubeugen, die gewiß
+verdrüßliche Folgen für Sie haben würde. Die Leichtgläubigkeit des
+Herzogs, Ihres Gemahls hat die Unverschämtheit des Beghe so weit kommen
+lassen, daß er sich das Ansehen giebt, als ob ihm jeder, wer er auch
+sei, untergeben sein müsse. Beständig warnet man mich, daß er sich
+erdreiste, die wichtigsten Angelegenheiten eigenmächtig auszuführen.
+Bald wird er Ihnen selbst befehlen, und sich zum gänzlichen Ruin Ihrer
+Unterthanen bereichern. Die Frau Gräfin von Hennegau widersezt sich
+im geringsten nicht seinen Absichten, noch der Leichtgläubigkeit des
+Herzogs, aus welchen beiden die schrecklichsten Folgen und Unordnungen
+entstehen werden, und wenn Sie desfalls keine Vorkehrungen treffen,
+wird uns dieser Elende Geseze geben und ganz unterjochen. -- Lieber
+Bruder! erwiederte die Herzogin, ich sage Ihnen den wärmsten Dank für
+diese aufrichtige Gesinnung, und gewis setze ich ein unbegränztes
+Zutrauen in Ihre Freundschaft, um derselben meine Angelegenheiten zu
+übertragen. Dächte mein Gemahl nur einigermassen billig, so würde
+er solche allen andern Ergözlichkeiten vorziehen; zu meinem grösten
+Unglück aber, hat mir der Himmel einen Mann gegeben, der weder eigenes
+Gefühl, vielweniger das geringste für mich hat, da er mir doch wirklich
+Erkentlichkeit schuldig ist. Ich gestehe Ihnen frei, daß mir der Beghe
+sehr verhaßt ist. Seine Aufführung, seine Person, sein Stolz, ja!
+selbst seine scheinbare Ehrerbietigkeit, und kurz, sein ganzes Betragen
+mißfällt mir. Ich weis, daß er seines Herrn Ohrenbläser ist, und dieser
+zu allen Niederträchtigkeiten fähige schwache Geist, glaubt seinen
+Eingebungen, wie einem Orakel. Auf meine Warnungen wird nicht geachtet;
+und es ist, als ob mein Gemahl verblendet wäre, da er mir sein ganzes
+Zutrauen entziehet. Wir werden in diesem elenden Zustand schmachten
+und zu der Zeit, da ich am meisten zu beklagen sein werde, wird es
+Menschen geben, die grausam genug sind, die Schuld auf mich zu werfen,
+und meine Aufführung zu tadeln. Meine Mutter ist von den eingebildeten
+Vollkommenheiten ihres Neffen so eingenommen, daß sie selbst seine
+Thorheiten vertheidiget. Was soll ich also anfangen, und bei wem Trost
+und Hülfe suchen? -- Bei mir, Madame! erwiederte Eberhard, sollen
+Sie beides finden. Schon lange mache ich mir Vorwürfe, Ihnen meinen
+Diensteifer nicht bezeigt zu haben. Man muß sich zuvörderst des Beghe
+entledigen. -- Ach! unterbrach die Herzogin, auf welche Art? -- Dieses
+ist meine Sache, Madame! erwiederte Eberhard. Ach! liebster Bruder!
+schrie die Herzogin, ich beschwöre Sie, keine Gewaltthätigkeit zu
+brauchen. Ob ich gleich den Beghe auf das höchste hasse, verabscheue
+ich doch weit mehr alle dergleichen Verbrechen. Denn ob wir gleich
+seine gesezmässigen Richter sein können, dürfen wir doch seine Henker
+nicht werden. -- Und wer erlaubt ihm, ein Meineidiger und Verräther zu
+sein? erwiederte der aufgebrachte Eberhard. Nein, Madame! nein! Sie
+sind gegen diesen ehrsüchtigen Bösewicht zu nachsichtlich; ungestraft
+mißbraucht man Ihre allzugrosse Güte nicht. Hierauf, und aus Furcht
+die sanftmüthige Fürstin möchte sich seinem Unternehmen zu heftig
+widersezen, eilte er von ihr, um es ungesäumt auszuführen.
+
+Der Herzog von Brabant war auf der Jagd. Seine Abwesenheit war dem
+Eberhard all zu günstig, als daß er solche nicht gleich hätte nutzen
+sollen. Er gieng zu dem Beghe, den er vermuthlich um eine neue
+Treulosigkeit auszusinnen, nachläsig auf dem Faulbett ausgestrekt
+antraf. In dieser Stellung sahe er ihn mit vieler Verachtung an.
+Der Oberamtmann von Hennegau, ein kriechendes Geschöpf, des Beghe
+Vertrauter, war eben bei ihm. Jenen redete er zuerst an: Sie spielen
+eine saubere Rolle. Beghe ist der Abscheu aller redlich Denkenden,
+und Sie verdienten wegen der Unterwürfigkeit, die Sie ihm bezeigen,
+und durch welche Sie seinem unerträglichen Hochmuth steifen, ein
+ähnliches Schiksal. Hierauf lies der von Rache geleitete Eberhard, den
+Beghe durch fünf bis sechs Entschlossene, die er zu diesem Entzweck
+mitgebracht hatte, vermittelst verschiedener Stiche durchbohren, die
+ihm zugleich die Sprache und das Leben benahmen. Der Oberamtmann war so
+erschrocken über diese behende That, daß er vor Angst, es möchte ihm
+ein gleiches widerfahren, fast von Sinnen kam; also weit entfernt den
+Verschwohrnen die Flucht zu erschweren, erleichterte er vielmehr solche
+durch seine eigne.
+
+Wie der Herzog von Brabant bei seiner Rückkunft erfuhr, was vorgegangen
+war, gerieth er in die schrecklichste Wuth, und drohte, sich an
+jedem, der ihm vorkäme, zu rächen. Die Gräfin von Hennegau, die ihren
+Tochtermann bei allen Gelegenheiten begünstigte, zeigte ihren Unwillen
+öffentlich über diese That, und die Herzogin von Brabant war dermassen
+darüber betroffen, daß sie wie versteinert dastund. Sind Sie es,
+Madame! sagte ihr Gemahl, die mich hat eines treuen Dieners berauben
+lassen? und haben Sie mich etwa zu glücklich geschäzet, weil ich mich
+auf seinen Diensteifer verlassen konnte? Sein Mörder wird nirgends
+Schuz finden, und nichts wird ihn meiner gerechten Rache entziehen.
+Was! mich so wenig achtungswerth zu halten: daß die, die ich schätze
+und liebe, in meinem eignen Hause nicht vor Mord gesichert sind! Was
+wird man erst mit mir selbst vornehmen? Ich bin mit Feinden umgeben,
+und nur durch besondern Schuz des Himmels athme ich noch -- Ich habe
+Sie reden lassen, antwortete die Herzogin, weil ihr Zorn ein Strohm
+ist, dem sich zu widersetzen, vergebliche Mühe sein würde. Es ist wahr,
+Ihr Liebling ist umgebracht, und ich bin nur in soweit misvergnügt
+darüber, weil ich dergleichen Greuelthaten hasse; allein wollte der
+Himmel, er hätte niemals gelebt, so würde sein vergifteter Geist sich
+weniger in Hennegau ausgebreitet haben. Nicht durch mich, noch auf
+meine Veranlassung ist er umgebracht worden. Denn vergossenes Blut habe
+ich jederzeit verabscheuet. Allein bei diesem, Ihnen so nahe ans Herz
+gehenden Unfall, werden Sie an der von Degre eine mitleidige Trösterin
+finden. -- Unvorsichtiger Weise sprach die Herzogin das leztere; denn
+man hatte sie von dem geheimen Verständnis des Herzogs mit der von
+Degre glaubhaft belehret. Ganz wüthend erwiederte der Herzog: Ja! und
+ich werde Ihre Mitschuldige zu verhindern wissen, daß ihr das nämliche
+Schicksal des unschuldigen Beghe nicht widerfahre. -- Sie werden wohl
+thun, erwiederte die Herzogin ganz gleichgültig; es ist das Geringste
+das Sie für ein Mädchen thun können, das Ihnen Ehre, Gebieterin und
+Reize aufgeopfert hat; denn eines gewissen Umstands wegen bemerke ich,
+daß leztere ziemlich abnehmen. Hierauf kehrte sie ihm den Rücken; er
+aber gieng zur von Degre, deren Gesichtszüge und Leibesgestalt sich
+wirklich verändert hatten, ohne deswegen ihrem boshaften Sinn Gewalt
+anzuthun, die dann den Beghe, als ihre verlohrne Stütze, mit der
+heftigsten Gemüthsbewegung beweinte.
+
+Die Gräfin von Hennegau, die den Eberhard nicht liebte, war zum
+heftigsten gegen ihn aufgebracht. An ihr und ihren Nachstellungen hat
+es nicht gelegen, daß er dem Volk in Bergen auf dem Blutgerüste wäre
+zur Schau ausgesezet worden: Allein er war in Sicherheit; und dieses
+war keine geringe Erleichterung für die bekümmerte Herzogin.
+
+Die an die Stelle der von Degre zu der Herzogin kam, hatte viel
+Verstand und war tugendhafter. Ohne aufdringlich zu sein, noch sich
+verdächtig zu machen, hatte sie gleich zu Anfang des Umgangs Beghe
+mit der von Degre geschlossen, daß ihr beiderseitiges Verständnis
+böse Absichten zum Grund habe. Sie entdeckte alles, und sie war es
+eigentlich, die mit einer lobenswürdigen Vorsicht ihrer Gebieterin die
+Augen öfnete. Die Herzogin, die schon des Kummers gewohnt war, zeigte
+eben keine grosse Empfindlichkeit bei dieser leztern Beschimpfung;
+der Herzog war nicht liebenswürdig genug, um jene alle Gemüthsruhe
+benehmende Eifersucht, die öfters mit dem Verlust des Verstandes
+vergesellschaftet ist, zu erwecken, allein wenn sie zurük dachte, wie
+sehr sie dieser Treulose geliebt hatte, kam sie aus aller Fassung; und,
+da vollends ihre neue Gesellschafterin, die sich Climberge nennte, ihr
+die Stärke des Leibes der von Degre bemerken lies, betrachtete sie
+selbige nicht anderst als ein schändliches, undankbares Ungeheuer.
+
+Indessen der Herzog von Brabant den Beghe beweinte, und nur allein
+für die von Degre lebte, die ihn ganz bezaubert in ihrem Neze hielt,
+machte die Herzogin ihre Mutter so aufmerksam auf Dinge, die diese ohne
+nicht ganz von Eigensinn eingenommen zu sein, unmöglich gleichgültig
+ansehen konnte. Kaum sahe der Herzog seine Gemahlin täglich einmal, da
+er im Gegentheil seine Zeit ganz bei der von Degre zubrachte. Endlich
+legte der Herzog alle Verstellung ab, und der von Degre Schande fieng
+an allgemein bekannt zu werden. Nun Madame! sagte die Herzogin zu
+ihrer Mutter, Sie haben mich genöthiget, ja gezwungen, dem Herzog von
+Brabant meine Hand zu geben. Was sagen Sie jezt zu seiner Aufführung,
+und in der Lage, in welche er mich versezet, wie soll die meinige sein?
+-- Sie müssen sich nicht vorstellen, daß die Ehemänner, besonders
+die Fürsten sich eben einer so grossen Treue gegen ihre Gemahlinnen
+befleisigen. Wäre Ihr Vater unter der Zahl der allzugewissenhaften
+gewesen, so würde der Beghe noch leben, sein Mörder nicht gebohren,
+und wir in keiner so grossen Verwirrung sein. Verzeihen Sie ihm also
+diese jugendliche Ausschweifung, die sich mit den Jahren legen wird.
+-- Was! Madame, rief die Herzogin aus, sind es grade meines Vaters
+Schwachheitsfehler, die er nachahmen soll? Gebe ich auch zu, daß ein
+Jüngling, vermöge seiner noch wenigen Erfahrung, ausschweifen, und
+sich, mit Hintansezung seiner Ehre, vergnügen kann, ist es darum unserm
+Geschlecht, und besonders einem Mädchen, das Sie mir zugesellet haben,
+das mit mir erzogen worden, das ich allen andern mit Achtung vorzog,
+das mein ganzes Vertrauen besaß, und das nun der ganzen ehrbaren Welt
+ein Aergernis ist, erlaubt. Genehmigen Sie auch noch sein jeziges
+Betragen, oder muthen Sie mir vielleicht gar zu, um ihm gefällig zu
+sein, die Vermittlerin seiner schändlichen Ausschweifungen zu werden?
+-- Sie reizen meine Gedult auf das äuserste, erwiederte die Gräfin.
+Ihren Reden nach hat es das Ansehen, als ob Sie sich Dinge in Kopf
+setzen, die niemals entstehen werden. -- Ha! Madame, erwiederte
+die Herzogin weinend, Sie sahen sie lange zuvor ein; denn die bösen
+Eigenschaften des Herzogs waren Ihnen zur Gnüge bekannt, und doch
+zwangen Sie mich, ein Opfer derselben zu werden. -- Sie legen mir
+also die Schuld Ihres Misvergnügens allein bei, erwiederte diese
+unnatürliche Mutter; Gut! ich werde mich daher von Ihnen entfernen,
+und da Sie selbst so einsichtsvoll sind, wird es Ihnen ein leichtes
+sein, dem drohenden Unglück vorzubeugen. -- Hierauf verlies sie das
+Zimmer, und stürzte die Herzogin durch ihre, am folgenden Tag wirklich
+unternommene Abreise nach Quesnoy, in unaussprechlichen Gram. Du
+siehest, sagte sie zur Climberge, daß mich alles verläßt, und ich muß
+fürchten, daß endlich auch Du, wie mein Gemahl, meine Mutter, meine
+Dienerschaft, ja! öfters mein eigener Verstand, mich noch verlassen
+wirst. Gerechter Himmel! was habe ich verbrochen, daß du mich mit so
+viel Unglück heimsuchest? Mein Wandel ist schuldlos, kein Verbrechen
+habe ich begangen, dennoch sind meine Leiden groß, und bald werde
+ich, statt wie ich es gekönnt hätte, in gewissem Glanz zu leben, vom
+Glück ganz verlassen, der Spott und die Verachtung der Menschen sein.
+Ha! Climberge! wie gepreßt ist mein Herz, und wie schwach sind meine
+Kräfte, dergleichen harten Prüfungen zu widerstehen! -- Ich gestehe
+aufrichtig Madame! erwiederte die Gesellschafterin, daß Sie nichts
+weniger, als ein so trauriges Schicksal verdienen; dieses, nebst dem
+unschuldvollen Bewustsein muß Ihnen die Leiden erträglicher machen.
+Unterliegt Ihr Muth ganz, so können Sie leicht urtheilen, wie es mit
+dem meinigen beschaffen sein würde. Ohne ungerecht zu sein, dürfen Sie
+an meiner aufrichtigen und ehrfurchtsvollen Ergebenheit nicht zweifeln.
+Setzen Sie mich, theureste Fürstin! auf die Probe. Ich verabscheue die
+von Degre, deren Betragen jedem Redlichen ein Greuel sein muß, und die
+wegen ihrer schändlichen Undankbarkeit nicht hart genug bestraft werden
+kann. Es wundert mich nicht, daß die Tugend eine Buhlerin verläßt,
+noch daß ein schwacher Fürst sich so weit vergehet, die ehelichen
+Pflichten hintan zu setzen; aber daß die Frau Gräfin von Hennegau, der
+Sie leider! zu viel nachgegeben haben, sich unverantwortlicher Weise
+entfernet, und Sie in einer so traurigen Lage verlassen hat, dieses
+deucht mir entsezlich zu sein, und ich kann nicht ohne tiefe Wehmuth an
+dieses Verfahren denken. -- Laß mich! rief die Herzogin schluchsend,
+laß mich, grausames Schicksal! deine ganze Härte fühlen! Unter
+allen Wegen, die Du mir zeigest, werde ich immer den unschuldigsten
+einschlagen; bin ich bestimmt unglücklich zu sterben, werde ich doch
+wenigstens den Trost haben, schuldlos mein Haupt niederlegen zu können.
+Climberge weinte mit der Herzogin, und sie würden beide wahrscheinlich
+noch lange in dieser traurigen Beschäftigung geblieben sein, wenn der
+Herzog nicht dazu gekommen wäre und sie gestöhret hätte. Nun, Madame!
+sagte er mit stolzem und verachtendem Ton, Ihr mürrischer Sinn hat
+denn endlich die Frau Gräfin von Hennegau vertrieben; zum Lohn ihrer
+zärtlichen Sorgfalt muß sie nun den bittersten Schmerz empfinden. Für
+wen bewahren Sie Liebkosungen, wenn die, die das erste Recht drauf
+haben, und die Ihnen am schäzbarsten sein sollten, solche entbehren
+müssen? -- Wenn ich aufgelegt wäre mich zu ereifern, erwiederte die
+Herzogin mit vieler Mässigung, so gäbe mir ihr Betragen Stoff genug.
+Sie sind der Urheber alles dessen, was vorgeht, und die Quelle meiner
+Leiden. Meine Mutter hat eigensinniger Weise drauf bestanden, daß ich
+Sie heirathen sollte, ob ihr gleich Ihre Gemüthsbeschaffenheit nicht
+unbekannt war. Wie belohnen Sie diesen meinen unglücklichen Gehorsam?
+Sie beleidigen mich auf hundertfältige Weise; und, nicht zufrieden
+mich die größte Verachtung empfinden zu lassen, füllen Sie noch mein
+Haus mit Schimpf und Schande; da Sie unter meinen Augen eine meiner
+Frauen, die ich am meisten schäzte, verführen. Hohnlachend unterbrach
+der Herzog: ich rathe Ihnen, noch auf die Liste meiner Verbrechen
+den Mord des Beghe zu sezen, ob ich gleich solchen Ihrer unmässigen
+Begierde, allein herrschen zu wollen, zu verdanken habe. In Ansehung
+der von Degre aber sollten Sie mir billig wegen der Achtung, die ich
+für sie habe, verbindlich sein, da Sie mir ihre Verdienste öfters
+angepriesen haben, und mein Herz also hier Ihre Empfehlungen erfüllet,
+und Ihre Vorschriften befolget hat. -- Ha! Grausamer, welche Folgen
+von Leiden bereiten Sie mir? Ueberflüssig wäre es, Sie an Vernunft,
+Pflicht und Ehre zu erinnern, denn von allen diesen Dingen wissen Sie
+nichts, noch weniger sind Sie fähig, solche auszuüben. Fahren Sie
+in Ihrem feigen und gesezwidrigen Leben fort: triumphiren Sie über
+meine Enthaltsamkeit, und verstatten mir, der von Degre einen Plaz
+einzuräumen, den ich mit Widerwillen innen habe, und auf den ich von
+Grund der Seele Verzicht thue.
+
+Der Unwille verhinderte die Herzogin ein mehreres zu sagen. Sie gieng
+in den Garten, um in der Einsamkeit ihrem beklemmten Herzen durch
+eine Thränenfluth Luft zu schaffen. Allein hier fand sie abermal neue
+Gelegenheit zum Misvergnügen. Die von Degre, deren Schwangerschaft sich
+nun allgemein offenbahrte, saß unter einem Baum. Mit frecher Stirne
+trug sie ihre Schande, sie kam nicht mehr zur Herzogin; es war ihr
+ausdrücklich verboten und ihr aller Zutritt versagt. Sie schauderte und
+konnte ihren Zorn, bei dem Anblik dieser frechen und ganz unverschämten
+Kreatur, nicht verbergen. Anfangs wollte sie ihr ausweichen, allein ihr
+Unwille sezte sie über alle Betrachtungen weg. Schnell gieng sie auf
+die von Degre los, die kaum eine geringe Bewegung zum Grüssen machte.
+Ich stöhre sie vielleicht in Ihrem Nachdenken, sagte die Herzogin;
+allein da Sie meine ganze Glückseligkeit zernichtet haben, würden Sie
+ungerecht sein, wenn Sie mir diesen geringen Verdruß nicht zu gut
+halten wollten, da Sie mir durch Ihr Betragen so unendlich grossen
+verursachen. -- Wenn Sie Misvergnügen haben Madame! erwiederte die von
+Degre ohne alle Ehrfurcht, ganz unbescheiden, müssen Sie sich die
+Schuld selbst beimessen. -- Ich gestehe es, erwiederte die Herzogin.
+Denn wenn ich nicht blinde Güte und thörigtes Nachsehen für Sie gehabt
+hätte, würde ich vielen Verdruß überhoben sein. In was vor einem
+verächtlichen Zustand befinden Sie sich jezt, und wie können Sie mir
+in solchem unter die Augen treten? Habe ich Sie gelehret dergleichen
+niederträchtige Handlungen zu begehen; und wer hat Sie sonst dazu
+angeführet? Noch wenn Sie unvorsichtiger Weise, oder durch Verführung
+zu Fall gekommen wären, würde man Sie wegen Ihrer Schwachheit bedauern,
+wenigstens nicht verabscheuen so aber, da Sie selbst den Herzog zu
+dieser schimpflichen Leidenschaft verführet, sich ihm freiwillig Preis
+gegeben und ihn zu Bosheiten verleitet haben, deren er bisher unfähig
+war, verdienen Sie kein Mitleiden. Was für Folgen werden aus diesem
+strafbaren Verständnis entstehen? Sie werden ohne Zweifel elendiglich
+umkommen, und Ihr verführter Liebhaber wird in den Abgrund des
+Verderbens stürzen, den Sie ihm zubereitet haben. -- Die von Degre,
+die sich nun zu Antworten genöthiget sahe, war verlegen, was sie zu
+ihrer Vertheidigung vorbringen sollte. Glüklicher Weise zog sie der
+Herzog, den sie von ferne kommen sahe, aus der Verlegenheit. Sie
+können, Madame! sagte sie mit wenigen Worten, dem Herrn Herzog alles
+was Ihnen gefällig ist, sagen, ich glaube daß er Sie sucht; und es wäre
+unbescheiden von mir, Sie in der Unterredung durch mein Verweilen zu
+stöhren, und Ihnen einen so verhaßten Gegenstand länger vor den Augen
+zu lassen. Sie kehrte hierauf der Herzogin den Rücken, die einen andern
+Weg gieng um ihrem Gemahl nicht zu begegnen.
+
+Sobald die Herzogin auf ihrem Zimmer war, lies sie, in Gegenwart der
+Climberge, ihren Thränen freien Lauf. Ich muß fliehen, sagte sie zu
+ihr, und sollte mich gleich die ganze Welt tadeln, unmöglich kann ich
+länger an einem Ort bleiben, wo ich nichts als Gift und Galle einnehme.
+-- Wo wollen Sie aber hin, Madame! erwiederte Climberge, und welchen
+Entschluß kann ein Frauenzimmer Ihres Rangs bei einer so kizlichen
+Sache fassen? -- Ich weis es selbst nicht, antwortete die Herzogin;
+allein ich hoffe, daß so bald ich nur aus Bergen bin, der Himmel mir
+alsdann eingeben werde, was ich weiter thun soll. So hartherzig meine
+Mutter ist, kann mich doch nichts von der Ehrerbietung, die ich ihr
+schuldig bin, befreien. Ob sie mich gleich verlassen hat, muß ich sie
+doch aufsuchen. Rufe den Descaillon. Dieser war der treuste Diener
+meines Vaters, und noch der Einzige unter den meinigen allen, auf
+dessen Treue und Redlichkeit ich mich verlassen kann. -- Climberge
+befolgte diesen Befehl; und kaum hatte die Herzogin dem Descaillon ihr
+Vorhaben eröfnet, traf dieser so geheime und schleunige Anstalten, daß
+sie schon den andern Morgen mit Tagesanbruch aus Bergen war. Sie gieng
+nach Quesnoy zu ihrer Mutter, die sich über ihre unvermuthete Ankunft
+nicht wenig wunderte. Nachdem sie dieselbe mit kindlicher Ehrfurcht
+umarmt hatte, sagte sie zu ihr: Madame! verdammen Sie meine Reise
+nicht, und lassen Sie vielmehr meiner Gedult Gerechtigkeit widerfahren.
+Der Herzog von Brabant behandelt mich mit tirannischer Unanständigkeit;
+sein Sie billiger und häufen meine Leiden nicht durch harte
+Gleichgültigkeit. Behält der Herzog volle Gewalt, so wird er mit unserm
+Eigenthum nicht allein die von Degre, sondern die ganze Rotte seiner
+nichtswürdigen und unverschämten Höflinge bereichern, wie er es schon
+gethan hat. -- Meine liebe Tochter! unterbrach die Gräfin, Ihr Schmerz
+rühret mich; ich bin nicht so unmenschlich als Sie es vielleicht von
+mir glauben, und ich gebe ihnen die Versicherung meiner zärtlichsten
+Liebe und Theilnehmung Ihrer Leiden. Schon lange sollte die Aufführung
+Ihres Gemahls meine Langmuth erschöpft haben; allein zur Ehre unseres
+Hauses müssen wir uns zuvörderst bemühen, ihn durch Gelindigkeit
+und Güte zur Reue zu bringen. Wir wollen uns hierzu des Herzogs von
+Burgund, dessen Ansehen etwas vermag, bedienen, und wenigstens die
+Sache so einleiten, daß man nicht sagen kann, Sie hätten Ihren Gemahl
+leichtfertiger Weise verlassen. Ich weis zwar, daß Sie gegründete
+Ursachen dazu haben; allein es werden noch weit wichtigere erfordert,
+um Sie vor der Welt dieses wichtigen Schritt wegen zu entschuldigen.
+-- Nun gut, Madame! antwortete die Herzogin, handeln Sie nach eigenem
+Gutdünken. Ihr Wille soll der Meinige sein, und ich will bei Ihnen,
+als einem ruhigen und unverletzlichen Zufluchtsort, den Erfolg Ihrer
+Bemühungen abwarten.
+
+Hierauf schrieb die Gräfin von Hennegau an den Herzog von Burgund,
+ihn von der ganzen Lage der Sache zu unterrichten. In ihrem Schreiben
+schilderte sie mit vieler Klugheit und Wahrheit das Betragen des
+Herzogs von Brabant; und Descaillon, der eigends damit abgeschickt war,
+fügte noch mündlich alles bei, was zum Vortheil der Herzogin gereichen
+konnte. Auch machte der Herzog von Burgund keine Schwierigkeiten,
+sich des Zwists zweier Personen, die ihm so naheanverwandt waren,
+anzunehmen, um sie wo möglich zu vereinigen.
+
+Der Herzog von Brabant, der sich einzig und allein mit seiner
+gesezwidrigen Liebe beschäftigte, bekümmerte sich wenig um die Abreise
+seiner Gemahlin. Wie ihm die Vorschläge zur Aussöhnung gemacht wurden,
+antwortete er schlechterdings: Die Herzogin könne zurückkommen, wann
+sie wollte; allein seine Beischläferin würde er in kein Kloster
+schicken, noch seine Lieblinge vom Hof entfernen, wie man es ihm
+vorgeschlagen habe. -- Die Gräfin von Hennegau nahm diese schwürige
+Antwort für befriedigend an, und verlangte, daß es ihre Tochter auf die
+Willkühr des Herzogs ankommen und auf seine gegebene Zusicherung nach
+Bergen zurückgehen sollte; denn man müste ihm die Schande ersparen,
+als ob er gezwungener Weise hätte nachgeben müssen. Nun verlohr die
+Herzogin völlig ihre bisher noch gehabte Mässigung. Nachdem sie ihren
+vergangenen und künftig zu erwartenden jämmerlichen Lebenswandel lange
+überdacht hatte, faßte sie den Entschluß, nach England überzu gehen.
+Sie lies sich durch den vertrauten Descaillon nach Calais bringen, wo
+sie sich einschifte, von dannen sie ohne weitere Hindernis in London
+glücklich anlangte.
+
+Ob gleich die Kriegsflamme an verschiedenen Orten Europens hell
+leuchtete, und der Englische Hof, wegen dem Absterben seines Königs
+Heinrich des V. in Trauer versezt war, herrschte dennoch Höflichkeit
+und galante Lebensart an demselben.[H] Humphrei, Herzog von Glocester,
+des verstorbenen Königs Bruder, war damals Regent in England.
+Dieser Prinz hatte vortreffliche Eigenschaften, aber dabei einen
+ausserordentlichen Hang zu Liebeshändeln; selten sahe er ein schönes
+Frauenzimmer, ohne daß sein Herz nicht davon eingenommen ward: Die
+Herzogin von Brabant traf es daher nicht frei an; ihre Reize aber
+verdrängten bald alle anderen Gegenstände aus demselben. Verbunden
+mit majestätischem Ansehen sprach sie mit Ueberzeugungskraft. Ihre
+Sache war gerecht, und der Herzog, zum Innersten gerührt, gab ihr
+die Versicherung, daß sie mit Englands ganzer Macht beschüzt und als
+Königin verehret werden sollte. Diese Versicherungen begleitete er mit
+noch einigen besondern Versprechungen; und die Herzogin von Brabant
+konnte dem Himmel wegen dem glücklichen Erfolg ihrer Reise nicht
+dankbar genug sein. Durch das edelmüthige Betragen und die gefällige
+Sorgfalt des Herzogs sahe sie bald ein, daß er sich die Beförderung
+ihres Glücks, wie seines eigenen, angelegen sein lies. Eins der
+Königlichen Paläste wurde ihr zur Wohnung angewiesen, in welchem sie
+mit außerordentlicher Pracht und Aufmerksamkeit bedienet ward, und
+es wurden ihr solche Ehrerbietungen erwiesen, deren sich noch keine
+Fremde zu rühmen gehabt hatte. Jedermann trachtete sich ihr gefällig zu
+erzeigen, und ihr den Auffenthalt angenehm zu machen, und sie erkannte
+bald den Unterschied, der zwischen einem großmüthigen Beschützer und
+einem unwürdigen Gemahl ist.
+
+Diesen Gegensatz empfand die Herzogin im innersten des Herzens, und
+die Climberge, die es wohl einsahe, bezeugte ausserordentliche Freude,
+daß ihre Reize dieses bewirkt hätten, weshalb sie der Herzogin Glück
+wünschte. Aber liebe Climberge! erwiederte die Herzogin, ich begreife
+nicht, daß Du wegen einer Sache, die mir neue Verdrüßlichkeiten
+zuziehen könnte, vergnügt sein kannst. Sind meine Verdienste etwa hier
+grösser, als sie zu Bergen waren, und glaubest Du, daß meine Flucht
+mich in Achtung halte? Ausserdem bin ich deswegen von der ehelichen
+Treue losgesprochen, weil ich mich in einem fremden Staate, den
+nur eine schmale See von meiner Heimath absondert, befinde; und so
+ungerecht der Herzog von Brabant auch immer ist, bin ich ihm deswegen
+weniger Zeitlebens verknüpft? -- Nein Madame! antwortete die Climberge,
+er hat Sie auf eine Weise behandelt, die von aller Schuldigkeit
+befreiet. Die Kirche, die sie zusammen gegeben hat, ist keine
+unbarmherzige Stiefmutter; sie kann eine üble Verbindung aufheben;
+und unzählig gegründete Ursachen sprechen hier zu Ihrem Vortheil. --
+Schweig! und verschone mich mit deinen Träumereien, erwiederte die
+Herzogin; ich bin unter einem unglücklichen Gestirn zur Welt gekommen
+mein Loos ist zu Widerwärtigkeiten bestimmt; und wenn es an dem wäre,
+daß der Herzog von Glocester einige Liebe zu mir empfände, ich auch
+gleich von meiner Verbindung mit dem Herzog von Brabant losgesprochen
+wäre, würde ich mich doch in keine weitere eheliche Sclaverei begeben.
+Von zwei Gemahlen, die ich in meinen jugendlichen Jahren hatte, starb
+der eine unglücklicher Weise, kaum daß wir einander kennen lernten,
+und der andere beschimpfet mich gleich nach unserer Verbindung ganz
+niederträchtiger Weise. Glaubest Du, daß ich bei einem Dritten ein
+besseres Schicksal zu erwarten hätte? und würde ich nicht in steter
+Furcht sein, alle Unfälle, die ich schon erfahren habe, und vielleicht
+noch stärkere zu erdulden? Nähre daher deine Einbildungskraft nicht
+weiter damit; nur an mir bist Du mit den Trübsalen bekannt worden.
+Denn wenn Du sie an Dir selbst erfahren hättest, würdest Du mit mir
+eingestehen, daß, wenn der Mensch zum Leiden bestimmt ist, ihn nichts
+in der Welt davor schützen kann. -- Also Madame! erwiederte Climberge,
+Sie wollen vorsetzlich Ihre Leiden durch die Furcht vergrössern, daß
+die eingebildeten künftigen den vorigen, wirklich schon erduldeten,
+gleich kommen, wo nicht gar übersteigen würden? Ueberlegen Sie dagegen,
+daß der Himmel gerecht ist, und Sie vor allem schützen, ja! Ihre
+bisherigen Leiden auf einmal stillen kann, und wird. Uebrigens sind
+Sie dem Herzog von Brabant, seiner schlechten Aufführung wegen, keine
+Schonung mehr schuldig. -- Nein! Climberge, unterbrach die Herzogin,
+wenn ich auch gleich keine Achtung für den Herzog mehr hätte, müste
+ich doch jederzeit derjenigen eingedenk sein, die ich meiner eignen
+Ehre schuldig bin. Das Vorgeben, daß ich ihn gegen meinen Willen
+und gezwungener Weise zum Gemahl genommen habe, würde vor der Welt
+nicht hinlänglich sein, mich eines solchen neuen Fehlers wegen zu
+entschuldigen. Ich habe nun einmal diesen Schritt gethan, es wäre
+aber viel verzeihlicher gewesen, damals meiner Mutter ungehorsam zu
+sein, als jezt meinem Gemahl zu entsagen, so viel Verdruß er mir auch
+macht. Ich habe mich auch nicht mit dem Vorsatz ganz los zu sein
+entfernet, sondern nur um kein Augenzeuge seiner, gegen alle Ehrbarkeit
+streitenden Aufführung mehr zu sein. Im strengsten Verstand aber hätte
+ich alles dulden müssen, seine Unbeständigkeit, seine Verachtung,
+ja sogar die Härte mit der er mich behandelt hat. Genug tugendhafte
+Frauen haben mir Beispiele in ähnlichen Fällen gegeben; allein ich
+war zu schwach, ihnen nachzuahmen. -- Setzen Sie noch hinzu Madame,
+unterbrach Climberge, daß Sie auch schwach genug sein werden, sich ganz
+aufzuopfern; und der eingebildeten Ehre wegen, von welcher heut zu
+Tage die Tugendhaftesten das Joch abschütteln, wird Sie der Herzog von
+Brabant nichts destoweniger mit eben der Wuth, mit der er Sie zu Bergen
+verfolgt hat, ferner verfolgen, und die von Degre wird die Höllenfurie
+sein, die Sie beständig und überall wo Sie sich aufhalten, quälen und
+Ihnen alle Drangsale anthun wird.
+
+Der Herzog von Glocester, dessen Bestreben von nun an war, sich
+der Herzogin von Brabant gefällig zu erzeigen, unterbrach diese
+Unterredung durch seine Zwischenkunft. Madame! sagte er, ich komme
+vielleicht zur ungelegenen Zeit: allein wenn ich Sie oft aufsuche, so
+schreiben Sie es einer heftigen Leidenschaft, der zärtlichsten Liebe
+zu. All mein Streben gehet dahin, Ihnen überzeugende Beweise davon
+zu geben; und wollten Sie mich unglücklicher Weise nicht erhöhren,
+so würde ich der bedauernswürdigste Mensch auf dem ganzen Erdboden
+sein. -- Wenn Sie gleich, Herr Herzog! erwiederte die Fürstin, die
+wichtigen Staatsgeschäfte, die Ihnen obliegen, nicht dadurch versäumen
+wollten, daß Sie mir Beweise Ihrer Achtung und gütigen Fürsorge,
+die Sie für nöthig halten, das bittere meiner Leiden zu versüssen,
+stetshin zu geben belieben, würde ich Ihnen doch gewis schon grosse
+Erkenntlichkeit wegen Ihrer Aufmerksamkeit, und dem Zuvorkommen aller
+meiner Bedürfnisse, schuldig sein. -- Die Staatsklugheit, erwiederte
+der Herzog, ist nicht der Beweggrund meiner Handlungen, sondern
+die Triebe meines zärtlichen Herzens sind es, die mich leiten. --
+Unendlich leid würde mir es sein, unterbrach sie, wenn Sie würklich
+die Empfindungen hätten, die Sie so eben gegen mich äussern. Mein
+Lebenslauf ist Ihnen bekannt; ich bin zu elend Sie zu begünstigen;
+denn ob ich Ihnen gleich unzählbare Verbindlichkeiten schuldig bin; so
+habe ich doch solchen nichts als wahre Hochachtung und unvollkommene
+Dankbarkeit entgegen zu setzen. -- Madame! erwiederte Humphrei, so
+grosse Verbindlichkeiten, wie Sie glauben, sind Sie mir nicht schuldig:
+denn nur meine aufrichtige und reine Liebe ist der Zoll, den jedes
+empfindsame Herz Ihren Vollkommenheiten und Reitzen, zu entrichten
+schuldig ist. -- Meine Reitze, antwortete die Herzogin, sind sehr
+mittelmässig, und wenn sie ja jemanden zu rühren vermöchten, wünschte
+ich, daß es einen anderen als einen Fürsten wäre, den ich unendlich
+ehre und schätze, und dessen Gemüthsruhe mir so angelegen ist. Lassen
+Sie mich die Last meiner Leiden in Gedult tragen, ohne solche durch
+neue zu erschwehren, und überlegen dabei, daß Sie durch Stöhrung meiner
+Ruhe, den Schutz, den Sie mir so großmüthig haben angedeihen lassen,
+vereiteln und sich verdächtig machen würden. -- Sie könnten, Madame!
+unterbrach der Herzog, ohne sich weiter unglücklich zu machen, meine
+Glückseligkeit befördern. Der ganzen Welt ist bekannt, wie unwürdig
+der Herzog von Brabant Ihrer ist. Ausserdem sind Sie in einem Grad
+Blutsfreundschaft mit ihm verwandt, der eine Ehescheidung noch viel
+gültiger macht. Ziehen wir desfalls den Pabst Benedickt zu Rath; er
+ist in dergleichen Fällen nicht allein am besten bewandert, sondern er
+wird sich auch gewis sehr billig finden lassen. Was haben Sie nachher,
+Madame! weiter zu befürchten, da Sie von einem Prinzen, der Sie ewig
+anbetet, beschützet werden, und der Englands ganze Macht aufbieten
+wird, Ihren Verfolgern, Trotz zu bieten. -- Ganz mißfiel Jacobinen (die
+wir in der Folge nicht anderst nennen werden) dieser Antrag nicht. Der
+Herzog von Glocester war zärtlich und überaus einnehmend; es war ihr
+daher nicht zu verdenken, daß sie selbst Verlangen trug, von einem
+Gemal, den sie niemals geliebt hatte, und welchen sie vielmehr jezt zu
+hassen berechtiget zu sein glaubte, vor immer geschieden zu werden.
+Allein der Vorschlag geschahe durch einen Prinzen, den sie noch nicht
+genug kannte, und der vielleicht mehr durch die Gewalt einer heftigen
+Leidenschaft hingerissen, als durch Vernunftschlüsse, geleitet, nur die
+Befriedigung seiner Begierden suche, und nach deren Genuß Treue und
+Liebe, leicht wieder vergessen konnte. Kurz, unzähliche Betrachtungen
+sezte sie dem schmeichelhaften Entwurf des Herzogs entgegen. Was!
+sagte sie zu ihm, wenn der Pabst mich von der Verbindung mit dem
+Herzog von Brabant lossprechen wollte, so würden Sie Entschlossenheit
+genug haben, mir Ihre Hand darzubieten? Ja! Madame, unterbrach er
+mit Heftigkeit, ja! ich würde dieses Glück als das größte meines
+Lebens schätzen, wenn es mir zu Theil wird, und gewis nach keinem
+andern mehr geizen. -- Sie irren sich, fuhr Jacobine fort, wenn die
+Erlaubnis zur Ehescheidung hier in London zu haben wäre, würden Sie
+vielleicht eine ganz andere Sprache führen. Ausserdem muß man auf
+einem dornichten Pfad nicht so schnell zu laufen wagen; denn hier ist
+die Rede von einer Sache, die das Gewissen, die Ehre und die Religion
+betrift; welcher Richter ist dermalen befugt solche zu entscheiden?
+Wir sehen eine ärgerliche Spaltung in der Kirche; wollen wir solche
+noch dadurch vermehren, daß wir zur Befriedigung unserer Leidenschaften
+Hülfe bei einem oder dem andern Theil suchen? Benedickt ist Pabst,
+und Martin, von vielen unterstüzt, will es gleichfalls sein. Diese
+geistliche Eifersucht trennt die ganze Christenheit, und welcher von
+beiden wird wohl vom heiligen Geist genugsam erleuchtet sein, ein
+gerechtes Urtheil zu fällen? Ruhet er aber auf beiden gleich stark,
+so haben sie auch gleiche Gewalt, und der eine wird nicht verfehlen,
+dem andern in allen Fällen, wie der meinige ist, zu widersprechen; die
+Schande und der Nachtheil aber der für mich hieraus entstehen und auf
+mich allein zurückfallen würde, wäre unauslöschlich. -- Ich glaubte
+nicht, Madame! erwiederte ganz niedergeschlagen der Herzog, daß Sie
+in Ihrer dermaligen Lage an dergleichen heilige Spitzfindigkeiten
+zu denken Ursache hätten. Verzeihen Sie meinen wilden Ausdruck und
+schreiben ihn meiner schmerzlichen Empfindung zu. Ist es erst von Heute
+daß dieser Zwietracht in der Kirche entstehet, und haben nicht andere
+Päbste schon vorher sich in dergleichen Fällen gezankt?[I] Wir haben
+Beispiele genug. Haben Menschen, sobald sie als Päbste anerkannt sind,
+die Macht, auf Erden zu binden und wieder zu lösen, warum sollten
+wir uns bemühen, die Gültigkeit ihres Berufs zu untersuchen? Steht
+mir Benedickt Ihren Besiz zu, so mag meinetwegen Martin mit seinen
+Donnerkeilen gegen ihn losstürmen, mein Glück wird nichts destoweniger
+befestigt sein. Uebrigens, Madame! werden Sie durch unsere Verbindung
+dem Abgrund aller Leiden entgehen. Ueberlegen Sie, daß von allen
+denen beträchtlichen Staaten, die Sie ruhig besitzen sollten, Ihnen
+wenig überbleiben wird. Der Herzog von Brabant, der den größten Theil
+durch sein unordentliches Leben schon durchgebracht hat, wird den
+übrigen durch seine Nachlässigkeit, gegen den Herzog von Burgund, der
+sich solche zuzueignen sucht, schlecht vertheidigen. Ein Mann wie
+ich, wird sie aber leicht durch Bestrafung ihrer Undankbarkeit und
+Ehrgeizes zurecht weissen, und niemals werden Sie Ursache haben, die
+mir erwiesene Güte zu bereuen.
+
+Während dieser Unterredung, bei welcher die Climberge zugegen wer,
+hatte Jacobine die Augen beständig zur Erde geheftet. Endlich sagte
+sie zum Herzog: Ich habe Sie gelassen angehöret, lassen Sie mir nun
+auch Zeit, Ihre Gründe zu untersuchen. Vorläufig aber muß ich Ihnen
+gestehen, daß sie mir sehr seicht vorkommen; vielleicht aber finde ich
+sie bei genauerer Erwägung triftiger. Sie würden mich gering schätzen,
+wenn ich blinder Weise in Ihren Vorschlag einwilligte. Sie werden also
+verzeihen, wenn ich mich nicht übereilt entschließe. Der Herzog war
+einstweilen mit dieser Antwort zufrieden, und da er wohl einsahe, daß
+Jacobinens Standhaftigkeit schon ziemlich erschüttert war, wollte er
+vor diesmal nicht weiter in sie dringen, sondern entfernte sich, und
+überlies der Climberge, das übrige für ihn zu bewerkstelligen.
+
+Diese redete Jacobinen folgendergestalt an: Nun Madame! werden Sie doch
+einsehen, daß Ihre Angelegenheiten eine günstige Wendung bekommen. Der
+Herzog von Glocester bietet Ihnen sein Herz, seine Hand und die ganze
+furchtbare Macht, über die er zu gebieten hat, dar. Er verspricht
+noch über dieses die Hülfe des römischen Stuhls: wollten Sie nun noch
+einen Augenblick anstehen, aus unzeitiger und furchtsamer Scham, der
+ungerechten Gewalt des Herzogs von Brabant, der sich so verächtlich
+gemacht hat, zu entsagen? -- Ich verabscheue ihn auch, erwiederte
+Jacobine, allein die Rache, die ich vielleicht schon zu weit getrieben
+habe, muß mich nicht selbst bei der Welt verächtlich machen. Wird
+man mir nicht, wenn ich in das Begehren des Herzogs von Glocester
+einwillige, vieles vorzuwerfen haben? kann man, unter welchem Vorwand
+es sei, einem rechtmässigen Gemahl entsagen, ohne sich dem Tadel
+auszusetzen? In Beurtheilung der menschlichen Handlungen wird selten
+Rücksicht auf Unglücksfälle genommen, und ohnerachtet meiner Unschuld,
+würde ich bald dem Tadel jener strengen Geister, die da wollen, daß
+man alles dulden und sich nie beklagen soll, ausgesezt sein. -- Aber
+Madame! erwiederte die Climberge, wenn Sie einen Pabst, der Ihr Vater,
+Seelsorger und Gewissensrichter zugleich ist, zum Gewährsmann haben,
+was können Sie noch befürchten? Oder hassen Sie etwa gar den Herzog von
+Glocester? -- Ich kann fast nicht entscheiden, antwortete Jacobine,
+ob ich Liebe oder Haß in meinem Herze habe, und es liegt so etwas
+Seltenes in meinem Schicksal, daß der Wohlstand erfordert, es meinen
+Empfindungen ganz unabhängig zu überlassen. Ich habe mich schon zu
+viel über etwas gegen den Herzog von Glocester herausgelassen, das
+mich jezt sehr beunruhiget. Ich verstehe hier, wegen der angetragenen
+öffentlichen Ehescheidung, wovon der Schimpf auf mich zurück fallen
+würde, denn die Kirche, unter zwei entgegengesezten Häuptern, kann
+sicher in dieser mißlichen Sache nicht entscheiden. -- Also Madame!
+unterbrach die Climberge, mit dergleichen Heldenträumereien, wollen Sie
+lieber den tödtenden Gift geduldig einsaugen, als ihn durch heilsame
+Gegenmittel vertreiben. Was! weil wir zwei Päbste haben, wollen Sie
+sich keines derselben bedienen. Ha! Madame! denken Sie nicht so
+schwach; wer weis ob es nicht der Himmel auch um Ihrer Angelegenheiten
+wegen verfügt hat, daß dermalen zwei Päbste sein müssen. Beeifert, sich
+gegeneinander alles streitig zu machen, werden sie nicht verfehlen,
+hier ihre Gewalt zu beweisen. Fehlen Sie nun, wenn dieselbe Sie
+begünstigen; so liegt ja die Verantwortung auf ihnen selbst, und Sie,
+Madame! haben sich desfalls keine Vorwürfe zu machen. Denn sobald der
+eine, oder der andere entschieden haben wird, können Sie in aller
+Gewissensruhe dem Herzog von Brabant entsagen, den Herzog von Glocester
+ehelichen, und den Genus Ihrer noch jugendlichen Jahre, in welchen Sie
+schon so viel gelitten haben, befriedigen. -- Climberge! erwiederte
+Jacobine, die Päbste sind Menschen, und oft Menschen, deren Herzen ganz
+verdorben sind; wie können sie daher göttliche Gesetze, die schon viele
+Jahrhunderte bestehen, und die jedem wahren Christen unverbrüchlich
+sein müssen, zernichten? -- Die Päbste, antwortete Climberge, sitzen
+auf ihrem Gerichtsstuhl, den Unterdrückten Gerechtigkeit und Hülfe zu
+ertheilen. Sie sind nicht die erste tugendhafte Frau die ihre Zuflucht
+dahin genommen hat, Sie würden aber sicher die Einzige sein, die es in
+dergleichen Fall unterlies.
+
+Climbergs Gründe waren Jacobinens Herzen sehr schmeichelhaft. Ausser
+daß der Herzog von Glocester ein angesehener Fürst war, hatte er
+zugleich fürtrefliche Eigenschaften. Bei näherer Untersuchung seiner
+Verdienste verlohren sich alle, der Ehescheidung entgegengesezte
+Schwürigkeiten. Jacobine schloß, daß, sobald die Ursachen ihrer Flucht
+öffentlich bekannt würden, die Schande allein auf den Herzog von
+Brabant zurückfallen werde.
+
+Schlaflos brachte Jacobine die ganze Nacht mit Bestreitung ihrer
+Zweifel zu. Und obgleich in derselben der Antrag des Herzogs von
+Glocesters durch die Climberge nicht unterstüzt werden konnte, sprach
+doch etwas weit vermögenderes zu seinem Vortheil, und die Liebe besigte
+bald alle Schwürigkeiten. Climberge und Descaillon, die beide dem
+Herzog von Glocester ganz ergeben waren, unterstüzten die günstigen
+Gesinnungen Jacobinens, die nun, ob sie gleich noch einige innerliche
+Zweifel beunruhigten, sich nicht mehr weigerte ihre Einwilligung zu
+geben.
+
+Sobald Jacobine die Erlaubnis gegeben hatte, den Pabst Benedickt
+wegen ihrer Ehescheidung anzugehen, empfand der Herzog von Glocester
+unaussprechliche Freude darüber. Er wollte, daß ganz England
+theil daran nehmen sollte; deswegen unterlies er nicht, bei allen
+Gelegenheiten seine großmüthige Freigebigkeit gegen jedermann zu
+zeigen. Derweil man mit dem Pabst in Unterhandlung war, erfand er
+täglich neues Vergnügen, Jacobinen die Zeit angenehm zu vertreiben,
+und sobald der Scheide-Brief des günstigen Pabsts eintraf, wurde die
+Vermählung zwischen dem Herzog von Glocester und Jacobine von Baiern
+vollzogen. Um der Feierlichkeit ein majestätisches Ansehen zu geben,
+berief der Herzog alles, was nur im Stande war, die Pracht und den
+Glanz derselben zu erheben, nach London. Jacobine war noch in der Blüte
+Ihrer Jahre, dabei sehr liebenswürdig und der Herzog so verliebt, daß
+er das ihm widerfahrne Glück nicht genug zu schätzen vermochte. Beide
+aber verlebten einige Monate ganz unbekümmert, ob sie noch andere
+Leiden in der Welt zu erdulden hätten.
+
+Jacobinens Verhängnis aber war zu grausam, sie lange in dem Genus
+einer so süssen Ruhe zu lassen. Es bereitete ihr viel schmerzhaftere
+Streiche, als die, welche sie schon empfunden hatte. Mitten im
+Genus des Vergnügens zog ein fürchterliches Wetter über sie auf.
+Das Concilium zu Costanz hatte Benedickt abgesezt, und hierdurch
+alle Schlüsse dieses Pabsts vereitelt. Bei dieser Nachricht wollte
+Jacobine fast verzweifeln. Der Herzog von Glocester gab sich alle nur
+erdenkliche Mühe, sie zu trösten und verwünschte im Eifer die ganze
+Kirchen-Versammlung. Allein was halfen hier tröstliche Worte und
+Drohungen? Jacobine, die bessere Einsichten, als Klugheit hatte, fand
+nichts darinn, das ihr die Furcht benehmen konnte. Sie zweifelte nicht,
+der Herzog von Brabant würde sich, auf des von Degre Antrieb, an den
+Pabst Martin wenden. Ich werde das Gelächter und der Abscheu der ganzen
+Welt sein, sagte sie zum Herzog von Glocester. Man wird mich hinführo
+nicht anderst, als wie ein schändliches Ungeheuer betrachten, und
+meine Schwachheiten wird niemand entschuldigen. Zwei lebende Ehegemal!
+Gerechter Himmel! wie abscheulig! Ha! Warum ist der bitterste Tod
+meinen Ausschweifungen nicht zuvorgekommen? -- Sie bereuen also, daß
+Sie mich geliebt haben, erwiederte der Herzog, und Sie wollen meine
+Zärtlichkeit damit bestrafen, daß Sie sich Leiden vorstellen, die nur
+in dem Gehirn der niedrigsten Klasse von Menschen Statt haben? Was
+habe ich bis jezt anderst gethan, als Sie bis zur Anbetung geliebet,
+und was kann ich mehr thun als Ihnen die theure Versicherung zu
+geben, daß, entstehe auch was da wolle, diese Liebe nur mit meinem
+Tode aufhören wird? Lassen Sie den Martin im Eifer schmählen, so
+lang er will, er ist nichts anderst als ein wiederrechtlicher Regent
+der Kirche, der nur einem der niedrigdenkensten Menschen Gehör geben
+kann. Wir sind glüklich und in Sicherheit. Warum wollen Sie das Gemüth
+mit schrekhafter Einbildungen martern, indessen Sie nur süsse Tage
+verleben können? Ha! Herr Herzog! antwortete Jacobine, Sie sehen
+nicht ein, was ich am meisten zu befürchten habe, und was mir den
+tiefsten Schmerz verursachet. Sie lieben mich jezt, und ich gestehe
+aufrichtig, daß ich es glaube: Wer kann mir aber die Versicherung
+geben, daß Sie mich beständig lieben werden? Die armseligen Reize,
+die Sie gerührt haben, waren zu schwach, die Unbeständigkeit des
+Herzogs von Brabant zu hintertreiben. Die Zeit und der Genuß sind
+die Klippen, an denen Zärtlichkeit und Treue oft scheitern; und
+vielleicht werden Sie eines Tags der erste sein, der mein Betragen
+mißbilligen wird, ob Sie mich gleich darzu verleitet haben. Lassen
+Sie mich also meinen bejammernswürdigen Zustand beweinen. -- Sie
+bürden mir viele Ungerechtigkeiten zugleich auf, Madame! erwiederte
+der Herzog seufzend, und ich glaubte, Sie würden mehr Zutrauen in
+meine Redlichkeit setzen, als mir ein so beleidigendes Mißtrauen
+äusern. Was soll ich thun, und welche Beweise meiner ewigen Treue soll
+ich Ihnen geben? Wollen sie, daß ich England und dessen Regierung,
+die mich bindet, verlassen, und daß wir uns in einem verborgenen
+Winkel der Erde niederlassen sollen, wo wir gegen den Ausbruch des
+Wetters, das Sie ohne Zweifel zu arg fürchten, gesichert, nichts von
+aufgeblasenen Kirchen-Vätern und treulosen Ehemännern mehr hören, und
+wo wir uns einzig und allein mit unserer gegenseitigen Liebe ungestört
+beschäftigen können? Ihre Ehre und Ruhm liegt mir all zu viel am
+Herzen, und ich würde mich schlecht rechtfertigen, wenn ich zugäbe, daß
+Sie solche meinetwegen in einer finstern Einöde vergraben würden. Dieß
+ist der Weg nicht, den ich einzuschlagen wünsche. Wenn Sie in der Liebe
+gegen mich beharren, schätze ich mich nicht ganz unglüklich; verlassen
+Sie mich aber, so bleibt mir nichts als die äuserste Verzweiflung übrig.
+
+Der Herzog umarmte hierauf Jacobinen auf das zärtlichste, und beide
+vergassen auf einige Zeit dergleichen vergebliche Zweifel, die sie
+beunruhiget hatten. Die dienstfertige Climberge, die den Herzog von
+Brabant haßte, und die gegentheils dem Herzog von Glocester, der sie
+mit Freigebigkeiten überhäuft hatte, ganz ergeben war, bemühte sich,
+die Bekümmernisse ihrer Gebieterinn zu zerstreuen, worinn es ihr auch
+oft geglückt haben würde, wann deren nicht täglich neue entstanden
+wären.
+
+Die Gräfin von Hennegau war über das Betragen ihrer Tochter
+ausserordentlich aufgebracht. Sie erwog die Gründe nicht, die eine
+junge beleidigte Fürstin zu ihrer Rechtfertigung haben konnte. Sie war
+ganz auf des Herzogs Seite, verwarf öffentlich den Scheidebrief des
+Benedikts, und behauptete gegen jeden, daß die Ehe, die er begünstigt
+habe, unzulässig sei.
+
+Ob sich nun gleich die von Degre, die noch bei dem Herzog von Brabant
+in grosser Gunst stand, freuete, daß er seine Gemalinn loß war, wuste
+sie doch, um so besser uneigennüzig zu scheinen, ihre Zufriedenheit
+dergestalt zu verbergen, daß man nicht merken konnte, wie sie an
+Jacobinens gänzlichem Verderben arbeite.
+
+Ist es möglich, sagte sie zum Herzog, daß eine grosse Fürstin
+ihre Würde so erniedrigende Handlungen begehet, und daß sie eines
+unbedeutenden, Verdrusses wegen, der nur die Folge ihres Uebermuths
+war, ihren Gemal verläßt, über See gehet, und sich den Umarmungen
+eines Andern Preiß giebt? Ist es überdieß noch möglich, daß ein
+Gegenpabst, ein Mensch, der weder Ehre noch Gottesfurcht besizet, sich
+unterstehet, dergleichen freche Handlungen, den göttlichen Gesezen
+schnur straks zuwieder, und die die Menschlichkeit empören, öffentlich
+zu erlauben und zu begünstigen? Sollen dergleichen Mißbräuche nicht
+bestrafet werden, und wollen Sie sich nicht durch Behauptung Ihrer
+Gerechtsame desfals rächen?[J] Ganz bezaubert über diese Rede,
+erwiederte der Herzog: Liebste von Degre! Der Fehler der Herzogin von
+Glocester ist uns zu vortheilhaft, als daß wir darüber klagen sollten.
+Sie hat mehr für uns gethan, als sie hätte thun sollen, wenn sie es
+zuvor recht überlegt hätte; denn nun kann ich Ihnen ihren Plaz ohne
+Wiederrede einräumen. Sie haben sie aus meinem Herzen verdrängt, und
+freiwillig hat sie sich von mir entfernet. Benedikt ist mir mit seiner
+Gefälligkeit zuvorgekommen, und hat mir die Mühe erspart, ihn selbst
+darum anzugehen, welches ich sicher gethan haben würde. Das Koncilium
+zu Costanz giebt mir ein neues Hülfsmittel, um Ihnen ehestens die Würde
+meines Rangs ertheilen zu können. Nein! Herr Herzog! antwortete dieses
+schändliche Mädchen, Nein! mein Erheben würde Ihrem Ruhm nachtheilig
+sein, und ich bin genug befriediget, da ich das Glük habe, Ihnen nicht
+zu mißfallen. Ich strebe nach keiner andern Ehre, sondern nur nach
+Ihrer beständigen Liebe. Aber verfolgen Sie die Undankbare, die Sie
+verachtet hat; und da der Päbste Aussprüche göttlich sein sollen, so
+suchen Sie den Pabst Martin auf Ihre Seite zu bringen, damit diese
+Männersüchtige, durch öffentliche Beschimpfung gewahr werde, daß sie
+unter der Gewalt eines Menschen stehe, der im äusersten Fall genommen,
+nur als ihr Buhler angesehen werden kann. Ihre Ehre erfordert es, und
+ich beschwöre Sie darum, sezte sie hinzu (auf die Knie vor den Herzog
+fallend), denn ich kann nicht zugeben, daß der Schimpf einer solchen
+Schandthat auf Ihnen sitzen bleibe. -- Der Herzog, ganz von der Degre
+geäuserten Ergebenheit eingenommen, glaubte leicht, daß sie ihm diesen
+Anschlag aus aufrichtigem Herzen gäbe; und ohne weitere Untersuchung,
+versprach er ganz nach ihrer Vorschrift zu verfahren; wie er dann
+auch von Stund an bedacht war, die Wiederrufung der Bullen des Pabst
+Benedikts vom Pabst Martin zu erhalten. Der mit Blindheit geschlagene
+Herzog hatte bei diesem Unternehmen eine ihm verborgene Hülfe und
+Unterstüzung. Philipp, Herzog von Burgund, der im äusersten Grad
+ehrsüchtig war, sahe Jacobinens Besitzungen mit neidischen Augen an;
+schon lange wünschte er, Gelegenheit zu finden, solche an sich bringen
+zu können.
+
+Diese Zwietracht war ihm also zu Erreichung seiner Absichten sehr
+willkommen. Er stellte sich zwar dem äuserlichen Schein nach, als
+ob er sich alle Mühe gäbe, die Partheien zu vergleichen; allein die
+minder Klügsten konnten leicht einsehen, daß es ihm nicht Ernst war.
+Jacobinens Aufführung machte ihm heimlich boshaftes Vergnügen, nicht
+zweifelnd, er würde im Trüben fischen, und sich bald durch den Raub
+ihrer Staaten bereichern können. Einverstanden mit dem Herzog von
+Brabant, fiel es ihm nicht schwer, vom Pabst Martin ein donnerndes
+Urtheil, das jenes vom Pabst Benedikt zerschmettern sollte, zu
+erhalten. Die Ausdrücke desselben waren ausgesucht und der Kühnheit
+des Päbstlichen Stuhls eigen. Wonnevoll, ganz entzückt war die von
+Degre darüber. Der Herzog von Brabant glaubte, gerächt zu sein;
+die Gräfin von Hennegau, die beständig über ihre Tochter loszog,
+frohlokte über diesen schönen Erfolg; und der Herzog von Burgund freute
+sich innerlich, daß ihm nunmehr die Unordnungen in seiner Famillie
+Gelegenheit verschaften, gemächliche Entwürfe zu machen, den Besiz der
+schon inne habenden Staaten sich zuzusichern, und solchen zu erweitern.
+Nur der Graf von S. Paul, des Herzogs von Brabant Bruder, ärgerte sich
+über diese Mißhelligkeiten und das unkluge Betragen seines Bruders;
+allein mit dem besten Willen war er zu ohnmächtig, es zu hintertreiben.
+
+Diese Nachricht blieb in England nicht lange unbekannt. Ob sie gleich
+Jacobine erwartet hatte, war sie ihr nichts desto weniger empfindlich
+zu vernehmen. Ihr heftiger Schmerz vermehrte sich; sie bezeigte solches
+ihrem Gemal, der sich alle Mühe gab sie zu trösten und zu beruhigen.
+Die Climberge brauchte gleichfalls ihre ganze Beredsamheit; allein
+Jacobine warf ihr mit vieler Bitterkeit vor, daß sie es nur ihrem
+dringenden Zureden zu verdanken hätte, daß sie nunmehr so unglüklich
+wäre.
+
+Indeß Jacobine allen Muth und fast den Verstand verlohr, schmeichelte
+der Herzog von Burgund dem von Brabant ganz ausnehmend; der Herzog von
+Bedford aber, damaliger Regent in Frankreich, nahm sich seines Bruders
+an. Es wurden einige Versuche gemacht, die Partheien zu vereinigen;
+wie man sich dann auch würklich zu Amiens versammlet hatte, allein der
+Erfolg entsprach diesen Bemühungen nicht. Um die Thränen seiner Gemalin
+zu stillen, gieng der Herzog von Glocester, nachdem er so viel Völker,
+als er nöthig glaubte, Besiz von denen, dem Hause Hennegau zugehörenden
+Ländereien nehmen zu können, aufgebracht hatte, mit ihr nach Calais
+über.
+
+Gerührt bei dem Anblik ihrer rechtmässigen Fürstin, empfiengen sie
+die Einwohner der Provinz unter lautem Freudengeschrei, ob sie
+gleich dem Herzog von Brabant das Gegentheil zugesagt und geschworen
+hatten: Allein da eben damals Johann von Baiern Jacobinens Oheim in
+dem Haag vergiftet wurde, und sie dadurch dieser noch einzig übrig
+gebliebenen Stütze ihres Hausses beraubet ward, nuzte der Herzog von
+Brabant dieses, und bemächtigte sich einiger der beträchtlichsten
+Oerter. Hierdurch brach die Kriegsflamme in voller Wut aus. Der Herzog
+von Glocester wollte seine Gemalin in Sicherheit nach England zurük
+bringen; allein eigensinniger Weise blieb sie in Bergen, und wollte
+lieber alles wagen, als, wie sie sich ausdrükte; schimpflich die Flucht
+nehmen.
+
+Hier hatte sie aber neuen Verdruß zu erdulten. Da die Gräfin von
+Hennegau, die noch beständig für den Herzog von Brabant eingenommen und
+gegen Jacobinen aufs äuserste aufgebracht war, sich an dem nehmlichen
+Ort befand, erforderte es der Wohlstand, daß sie sich einander sahen.
+Aeusserlich vermied die Gräfin von Hennegau alles, was den Schein eines
+Unwillens haben konnte, und Jacobine beobachtete ihre Schuldigkeit
+sehr sorgfältig und mit vieler Bescheidenheit. Allein bei der ersten
+Unterredung redete die Gräfin Jacobine in stolzem Ton folgendergestalt
+an: Jezt Madame! nachdem sie Ihren Gemal, ihre Mutter und ihre Staaten
+verlassen, die gesittete Welt durch Ihre Aufführung geärgert und
+die Päbste gegeneinander aufgebracht haben, kommen Sie mit fremden
+Kriegsvölkern nach Bergen, uns heimzusuchen und vermuthlich auf
+keine Weise unserer zu schonen. -- Madame! erwiederte Jacobine, es
+wird genug zu meiner Rechtfertigung sein, wenn ich Ihre beleidigende
+Vorwürfe, die ich nicht verdiene, gedultig und ehrerbietig anhöre. Die
+Beleidigungen, die mir der Herzog von Brabant zugefügt hat, sind Ihnen
+nicht unbekannt, und diese haben mich bewogen, ihn als einen Treulosen
+und Undankbaren, der mich ins Elend gestürzt hat, zu verlassen, und
+mit Erlaubnis der Kirche, einen Fürsten zu heirathen, der mir ganz
+uneigennüzig gedienet und Schuz gegeben hat. Ich sehe daher nicht ein,
+was in diesem Betragen tadelnswürdig ist. Allein Madame! leid ist es
+mir, mich gezwungen zu sehen, Ihnen ohne Rükhalt zu sagen: Daß mir
+Ihre Gleichgültigkeit, die Sie mir in meinen Leiden bewiesen haben,
+alle Ueberlegungskraft benommen hat. Denn hätten Sie mir nur einige
+theilnehmende Liebe gezeigt, so würde meine Erkenntlichkeit Ihre Güte
+übertroffen haben. -- Mit verächtlichem Ton erwiederte die Gräfin:
+Die Erlaubnis, auf die Sie sich so vest stüzen, ist eben von keiner
+grossen Wichtigkeit, da sie nur aus dem Mond[K] ihre Entstehung
+hat; und Sie sehen auch, wie wenig das Konzilium drauf achtet. Ich
+glaubte, Sie würden vorsichtiger und klüger zu Werke gehen, als durch
+Ihre Uebereilung zwei Fürstlichen Häussern einen solchen Schandfleken
+anzuhängen, den sie Ihnen mit Recht noch nach vielen Jahrhunderten
+vorwerfen werden. -- Ihnen zu gefallen Madame! antwortete Jacobine,
+will ich die Schuld ganz auf mich nehmen, und Sie nicht anklagen;
+allein hätten Sie mir die Freiheit gelassen, meine erste Verbindung im
+Wittwenstand zu betrauren, so würden Sie mir alle diese Leiden und sich
+selbst den Verdrus erspahret haben. War es nöthig, um Ihnen gefällig zu
+sein, daß ich ewig unter der Abhängigkeit eines eigensinnigen Fürsten,
+dem nicht einmal die Worte von Ehre und Tugend bekannt sind, leben
+muste? Sollte ich der von Degre Schandthaten durch gefälliges Betragen
+noch selbst begünstigen? Und muste ich endlich gelassen zusehen, daß
+eine Handvoll Menschen aus der Hefe des Volks sich anmasse, mir Geseze
+vorzuschreiben, da wo ich allein unumschränkt zu befehlen habe? --
+Sie musten sich beklagen, fuhr die Gräfin fort, und dieß war alles,
+was Ihnen die Klugheit zu thun erlauben konnte. Es ist jezt ein
+schöner Anblik für mich, Ihnen, nachdem Sie unsinniger Weise das Meer
+durchstrichen, unter Begleitung eines Wollüstlings, der Sie in sein Nez
+gelokt hat, und der Ihnen, wenn er nur Ihr wahrer Liebhaber gewessen
+wäre, besser geschonet haben würde, wieder hier zu sehen. Denn sein
+Betragen zeiget deutlich, wie niedrig er Sie achtet, und daß er sich
+nur Ihrer als einer ganz in Ehren verlornen Frau, zur Befriedigung
+seiner Lüste bedienet. Diese grausame Mutter wollte hierauf weiter
+nichts anhören noch sagen, sondern gieng in ein anderes Zimmer; und
+Jacobine, vom tiefsten Schmerz gebeugt, begab sich in das ihrige.
+
+
+Da der Herzog von Brabant damals zu Brüssel war, führte in seiner
+Abwesenheit die Gräfin von Hennegau die Regierung in Bergen. Allein das
+Blatt drehte sich bald anderst. Die Einwohner, die Jacobinen wirklich
+so sehr liebten, als sie ihre Mutter und den Herzog von Brabant
+hasseten, erklärten öffentlich, daß sie nur ihr gehorchen wollten,
+indem der Herzog sich des Titels ihres Souverains unwürdig gemacht
+hätte.
+
+Seines eigenen Vortheils wegen, ließ sich der Herzog von Burgund sehr
+angelegen sein und wandte seine ganze Aufmerksamkeit auf den Nuzen,
+den er daraus zu ziehen gedachte; dieser zielte schlechterdings dahin,
+Jacobine gänzlich zu unterdrücken. Er foderte den Herzog von Glocester
+trozig auf, und zwischen beiden Theilen entstund ein Briefwechsel, der
+keine andere Folgen als den Krieg nach sich zog. Humphrei, der damals
+seine Gemalin zärtlich liebte, war über die ihr wiederfahrne Kränkung
+äuserst gerührt. Die harte Unterredung, die ihre Mutter mit seiner
+Gemalin gehabt hatte, sezte ihn vollends in Wuth; und da er alle Kräfte
+anwenden wollte sie zu rächen, beschloß er, eine Reise nach England zu
+machen, um von da desto leichter die erforderlichen Hülfs-Völker zu
+beziehen.
+
+Die Gräfin von Hennegau, die ihrer Tochter mit so grosser Strenge,
+begegnet war, empfand, mehr aus Furcht, als aus anderm Triebe, einige
+Reue, und wollte sich nun in etwas menschlicher bezeigen. Dem zufolge
+gieng sie zu ihr, und bat sie, während der Abwesenheit des Herzogs von
+Glocester, in Bergen zu bleiben. Die Einwohner, die ihr dem Anschein
+nach ganz ergeben waren, erboten sich sie zu bewachen. Jacobine sahe
+so viele Wiederwärtigkeiten in ihrem Schiksal, daß ihr alles, ja sogar
+Humphreis Sorgfalt, dessen Eifer sich verdoppelte, verdächtig war. Da
+der Tag seiner Abreise anbrach, wollte sie ihn einige Meilwegs ausser
+Bergen begleiten. Beim Abschied schienen beide gleich gerührt, und
+eben sagten sie sich das lezte Lebewohl, als ein Frauenzimmer, das
+sich durch Schönheit und verbissene Wuth besonders auszeichnete, das
+Volk das sie umgab, durchdrang, und den Herzog von Glocester in vollem
+Eifer also ansprach: Verräther! feiger und treuloser Fürst! gieb mir
+meine Ehre wieder, die du mir geraubet hast, oder tödte mich vor den
+Augen derjenigen, die die Ursache deines Meineids ist. Madame! fuhr
+sie fort, sich zu Jacobinen wendend, verzeihen Sie meine Ausschweifung
+und entschuldigen solche in Rüksicht meiner Verzweiflung. So lange es
+mir möglich war, habe ich im verborgenen gelitten; allein die Kräfte
+eines zärtlichen und betrogenen Mädchens, die ohne Hülfe ist, sind
+nicht unerschöpflich. Dieser heimtückische Fürst, der Ihnen seine
+Hand gegeben hat, vergab ein Gut, das ihm nicht mehr eigen war. Er
+mißbrauchte die Unschuld meiner Jugend, und verführte mich unter
+Ausstosung der theuresten Schwüre, die ich unverbrüchlich zu sein
+glaubte. Sie sehen meine Person, ausserdem aber bin ich aus einer guten
+edlen Famillie entsprossen, daß er keine Ursache zum erröthen gehabt
+haben würde, wenn er sein heilig beschwornes Versprechen gehalten hätte.
+
+Dieser unvermuthete Auftritt verursachte Jacobinen eine wunderbare
+Bestürzung. Mit vieler Aufmerksamkeit betrachtete sie die, die ihn
+erregt hatte. Sie fand, daß sie viele Reize hatte; und konnte sich
+nicht enthalten, sie zu bedauern. Der Herzog, ganz beschämt, war in
+der grösten Verlegenheit, wie er sich aus diesem verdrüslichen Handel
+wickeln sollte. Endlich, nachdem er sich lange besonnen hatte, sagte
+er zu Jacobinen: Madame! Kehren Sie sich an den Reden einer Unsinnigen
+nicht; nach ihrem Betragen können Sie auf ihre Unverschämtheit
+urtheilen. Die wahre Tugend schreiet nicht so laut und vor so vielen
+Zeugen. Ich versichere, daß ich Ihnen sehr treu bin, und daß ich jezt
+von Ihnen verliebter scheide, als ich es jemals war. Hierauf und ohne
+ihr weitere Zeit zur Erholung zu lassen, umarmte er sie, sezte sich
+aufs Pferd, und jug mit solcher Geschwindigkeit davon, daß man ihn
+augenbliklich aus den Augen verlohr. Die Bekümmerte aber, die ihn in
+Verlegenheit gesezt hatte, lief ihm mit einer Schnelligkeit, die man
+ihrer Schwäche nicht zugetrauet hätte, nach!
+
+Der Lerm, den diese Begebenheit verursacht hatte, verbreitete sich
+bald bis zur Gräfin von Hennegau; und Jacobine, die wieder zurük
+nach Bergen gegangen war, hatte von ihrer Mutter die empfindlichste
+Spötteleien auszuhalten. Wenn ich mich nicht irre, sagte sie zu ihr,
+so schmeichelt sich die verzweiflungsvolle Schöne mit einem glüklichen
+Erfolg ihres zärtlichen Ausfalls, und der eine merkwürdige Epoche
+in Ihrem Roman machen wird. Die kleine Ausschweifung des Herzogs
+von Brabant war Ihnen empfindlich, weil Sie ihn nicht liebten, und
+die weit grössere des Herzogs von Glocester werden Ihnen noch viel
+empfindlichere Schmerzen verursachen. Aus Mittleiden muß man Sie
+bedauern und aus Vernunft tateln; denn überhaupt sind Sie nicht zu
+entschuldigen. Die aller unschuldigsten meiner Handlungen, erwiederte
+Jacobine, werden Ihnen allezeit wie unverzeihliche Fehler vorkommen;
+denn nur gegen den Herzog von Brabant sind Sie leicht nachsichtlicht.
+So groß aber dieses gefällige Betragen ist, weis ich dennoch nicht, ob
+er es nicht einstens erschöpfen wird. Wenn der Herzog von Glocester
+vor unserer Bekanntschaft einige flüchtige Liebes-Verständnisse gehabt
+hat, folget daraus daß er mich verlassen wird? Wenn eine Verwegene
+sich selbst anklaget, kann deswegen der Schimpf, auf mich zurükfallen?
+Sie suchen mich nur zu beleidigen; denn Sie müssen den Schimpf den
+mir der Herzog von Brabant, da er mich schändlicher Weise der von
+Degre aufopferte, angethan hat, einem unbedeutenden Liebeshandel,
+den der Herzog von Glocester vor unserer Verbindung gehabt hat,
+nicht vergleichen. Betrügen Sie sich Madame! erwiederte die Gräfin
+honlächelnd, und schmeicheln Sie wenigstens mit freiwilliger Blindheit
+Ihren Verwirrungen. Sie bedürfen keines Raths; und da Sie den Weg nach
+England allein gefunden haben, so können Sie leicht weit entlegenere
+Betrüger finden. Unter Ausstosung dieser beleidigenden Worte verließ
+sie Jacobinen, die ihrem beklemmten Herzen bei der Climberge, mit
+einer Thränenfluth Luft zu machen suchte. Nun siehest du, sagte sie zu
+ihr, in welche Kette von Leiden ich mich durch dein Zureden verwickelt
+habe. Du siehest die Päbste, meine Anverwandte und alle vernünftig
+denkende Menschen gegen mich aufgebracht. Du siehest ferner eine
+Unbekannte aus der Erde empor kommen, der es vermuthlich der Himmel
+eingegeben hat, mich durch ihren Vorgang auf das zu bereiten, was
+mir unbezweifelt selbst wiederfahren wird. Ha! Climberge! ich bin an
+meinem Unglük schuld! Die schnelle Abreise des Herzogs von Glocester
+überzeuget mich, daß er nichts zu meiner Beruhigung zu sagen wuste.
+Seine Liebste ist ihm nach, sie ist schön und entschlossen; vieleicht
+sind sie schon vereiniget; denn ich sehe nur schrekhaften Auftritten
+entgegen. Ich gebe zu Madame! antwortete die Climberge, daß Sie
+einige Ursache haben verdrüslich zu sein; allein ist der Verdrus von
+solcher Beschaffenheit, daß er Sie in einen so verzweiflungsvollen
+Zustand sezen sollte? Seit dem der Herzog von Glocester Ihr Gemal
+ist, was können Sie ihm vorwerfen? Seine ehrerbietige und sorgfältige
+Aufmerksamkeit hat Ihrer Zärtlichkeit entsprochen; die seinige hat er
+Ihnen durch stets gefälliges Betragen bewiesen, und Sie beunruhigen
+sich dar über, weil es einer thörigten Creatur beliebt, ihre
+Ausschweifung selbst öffentlich bekannt zu machen? Er hat Ihnen nicht
+gesagt, daß er niemalen einige verliebte Abentheuer gehabt hätte. Wenn
+diese Unverschämte noch einige Gewalt über das Herz Ihres Gemals hätte,
+würde sie wohl mit solcher Wuth vor Ihnen ihr Recht zu behaupten
+suchen? Beruhigen Sie sich Madame! mit diesen Betrachtungen, und lassen
+Sie diese Ehrvergessene dem Herzog von Glocester immer nachlaufen; er
+schien bei ihrem Anblik so gleichgültig, daß man unbezweifelt einsehen
+konnte, er sei der Gunstbezeugungen, die sie ihm vermuthlich all zu
+freigebig aufgedrungen hat, überdrüssig: Die Ihrigen aber, die ihm von
+weit höherem Werth sind, wird er auch gewiß besser zu schätzen wissen.
+Schmeichle! unterbrach Jacobine, schmeichle so viel du willst. Dir
+allein, durch dein Zureden, habe ich meine jezige Leiden zu verdanken.
+Hiemit endigte sich diese Unterredung; Jacobine aber blieb ganz
+tiefsinnig.
+
+Durch einige Engländer erfuhr Jacobine nach der Hand, daß die, die ihr
+dermalen so empfindliche Kümmernis verursachte, ein junges Frauenzimmer
+von guter Famille, Namens Eleonore, sei, die der Herzog von Glocester
+ehedessen vorzüglich geliebt hatte, und man damals auch in London
+geglaubt habe, daß er sich mit ihr vermälen würde. Durch einige
+wahrscheinliche Betrachtungen, die Jacobine desfals machte, tröstete
+sie sich einigermassen, da sie aber die Unbeständigkeit der Männer
+schon erfahren hatte, wiedersezte sich stetes Mistrauen ihrer Ruhe.
+
+Ganz ohne Freunde war Jacobine nicht; verschiedene derselben hatten
+sich bemühet, den Pabst Martin für sie zu gewinnen; und da die
+Hohenpriester der römischen Kirche gewöhnlich dergleichen Knoten
+nicht so vest knüpfen, daß sie nicht auflösbar sein sollten; zog auch
+dieser sein eigenes Urtheil wieder ein, und hob hierdurch Jacobinens
+Beschämung zum Theil auf. Allein dieser gefällige Pabst gab damit neuen
+Anlaß zum Krieg. Der Herzog von Brabant war nichts weniger als ein
+Held; er zog das Vergnügen dem Geräusch der Waffen bis zur Feigheit
+vor; und da der Herzog von Burgund, der nur Jacobinens gänzlichen
+Sturz zum Augenmerk hatte, sahe, daß sie nur unter dem Schuz eines
+unerfahrnen Volks war, lies er ohne alle Achtung für das weibliche
+Geschlecht und der Würde einer Fürstin, die Provinz ihrer Zuflucht mit
+Kriegsvölker überziehen und in derselben übel haussen. Die Gräfin von
+Hennegau, die äusserlich sich stellte, als ob sie auf ihrer Tochter
+Seite wäre, aber ganz auf der des Herzogs von Burgund war, brachte
+durch ihre listige Unterhandlungen einen Vergleich zu stande, vermöge
+welchem: dem Herzog von Brabant die Provinz Hennegau zum Eigenthum
+verblieb, wo er züglich alle Beleidigungen, die ihm etwa in derselben
+wiederfahren wären, zu vergessen und zu vergeben versprach, und daß
+Jacobine, bis der Proces, den man wieder aufs neue beim römischen Hof
+anhängig gemacht hatte, entschieden wäre, dem Herzog von Burgund zur
+sicheren Verwahrung übergeben werden sollte.
+
+Diese Uebereinkunft, die Jacobinen so ganz nachtheilig war, verursachte
+ihr den tiefsten Schmerz. Nun sahe sie erst recht die Falschheit
+ihrer Mutter; und die Untreue der Einwohner Bergens ganz ein. Ob ihr
+gleich die Nachläßigkeit des Herzogs von Brabant bekannt war, glaubte
+sie dennoch nicht, daß er dem Ehrgeiz des Herzogs von Burgund alles
+so schlechterdings aufopfern würde. Man drohete ihr, daß, falls sie
+diesen Vergleich nicht eingehen würde, sie dem Herzog von Brabant
+zu überantworten. Ihre eigenen Bediente wurden gefangen gesezt. Sie
+selbst aber wurde nicht nur als eine Staatsgefangene, sondern als eine
+würkliche Mißethäterin behandelt. Da sie keine Nachricht vom Herzog
+von Glocester hatte, und daher nicht wissen konnte, was in England
+vorgieng, marterte dieses ihr Gemüth um so mehr. In dieser äusersten
+Verlegenheit lies sie folgendes Schreiben an den Herzog ergehen:
+
+    „Es würde überflüssig sein, Ihnen eine weitläuftige Erzählung
+    meines bejammernswürdigen Zustands zu machen; denn das Gerücht
+    trauriger Begebenheiten verbreitet sich nur all zu schnell und zu
+    sorgfältig. Dieses finde ich aber nöthig, Ihnen in Erinnerung zu
+    bringen, daß Sie mir mit Ihrer Hand zugleich Ihr Herz zugesichert
+    haben. Mich von Ihnen nicht mehr geliebt und verlassen sehen, würde
+    mein trauriges Herz unter allen Leiden, die auf mich losstürmen,
+    das empfindlichste sein. Mein gröster Feind hier ist meine eigne
+    Mutter. Ich bin meiner Länder beraubet, und meine noch wenige,
+    getreu gebliebene Diener liegen in Fesseln. Mir selbst aber ist
+    keine andere Wahl gelassen, als mich der Sclaverei des Herzogs
+    von Burgund, oder der des Herzogs von Brabant, zu unterwerfen.
+    Urtheilen Sie also was aus mir werden würde, wenn Sie mich
+    verliessen. Nicht der Ehrgeiz, sondern meine gegen Sie tragende
+    Liebe fordert Sie auf. Denn wären Sie mir weniger schäzbar
+    gewessen, so würde ich jezt mehr Muth haben. Ziehen Sie bei dieser
+    Gelegenheit die Reize der schönen Eleonore nicht zu Rath; sie
+    dürften mir nachtheilig sein. Da ich nicht angestanden habe, Ihnen
+    mein Herz zu schenken, gebe ich Ihnen jezt auch die Versicherung,
+    daß ich mit unverbrüchlicher Treue Zeitlebens sein werde &c.
+    Jacobine.“
+
+Der Eilbote, den sie mit diesem Schreiben eigends abgefertigt hatte,
+beschleunigte so viel ihm möglich war seine Reise; allein wiedrige
+Winde vereitelten diese gute Meinung, und er kam erst in London an,
+nachdem sich Jacobinens Wiedersacher ihrer schon ganz bemeistert
+hatten. Unter dem Geleit des Prinzen von Oranien und einiger andern
+Herren, die der Herzog von Burgund darzu gewählet hatte, wurde sie von
+Bergen weg und nach Genf gebracht, alwo sie noch ziemlich ehrerbietig
+bedient ward.
+
+Den Herzog von Glocester rührte Jacobinens elender Zustand sehr. Er
+säumte keinen Augenblik an seinen Bruder den Herzog von Bedford nach
+Frankreich zu schreiben, der sich dann auch gleich bei Empfang des
+Briefs, mit Achthundert Reuter und unter Begleitung vieler vom Adel,
+Jacobinen beizustehen auf den Weg machte, und zu Corbie in der Picardie
+anlangte. Die Herzogin von Bedford wollte ihren Gemal zu dieser
+Unternehmung begleiten; allein es geschahe mehr um die ganze Sache
+zu hintertreiben, da sie eine Schwester des Herzogs von Burgund war.
+Dieser besuchte sie gleich bei der Ankunft, und unter dem Vorgeben,
+sie besser bewirthen zu können, führte er sie auf einige Tage nach
+Hedin, wo er durch verstellte Sanftmuth den Herzog von Bedford so
+ein zu nehmen wuste, daß der bedrükten Jacobine gar nicht gedacht
+wurde.[L] Ob gleich der Herzog von Bedford Regent in England war,
+wollte ihm diese Nation dennoch nicht als ihrem Souverain gehorchen.
+Sie versagten ihm ihren Beistand mit ziemlichem Ungestüm. Er fühlte
+diese Beleidigung sehr empfindlich, er sahe aber keinen Ausweg sich zu
+rächen. In dieser seiner Unvermögenheit war er auf eine besondere Rache
+bedacht, und foderte zu dem Ende den Herzog von Burgund zum Zweikampf
+auf. Beide Fürsten bereiteten sich auch hierzu; allein der Herzog von
+Bedford, der es in Zeiten erfuhr, gab nicht zu, daß sie sich durch ein
+so abentheuerliches Benehmen vor der ganzen Welt lächerlich machen
+sollten.
+
+Jacobine, die den Pallast der Grafen von Flandern in Gent zur Wohnung
+hatte, ward gleichwohl in demselben ihrem Rang nach bedienet. Diese
+glimpfliche Behandlung benahm ihr aber keineswegs das Andenken ihrer
+gehabten, ihrer jezigen und die Vorstellung ihrer künftigen Leiden.
+Welchen Namen man auch ihrem Auffenthalt geben mochte, war er doch im
+Grunde eine wirkliche Gefangenschaft; sie konnte daher ihren dermaligen
+Zustand nicht anderst als die Folgen einer unerträglichen Tiranei
+ansehen, die sie unmöglich erdulten konnte. Außerdem marterten sie noch
+gewiße Gemüthsunruhen. Die Briefe des Herzogs von Glocester wurden
+ihr vorenthalten, und unter so vielem Verdrus strebte sie sehnlichst
+nach der Freiheit. Man hatte ihr überdem gestekt, daß der Herzog von
+Burgund vorhabe, sie auf immer in Lisle einzusperren. Die Furcht
+einer ewigen Gefangenschaft flößte ihr, mit Beihülfe der Climberge,
+und des Descaillon, die ihr beständig treu verblieben waren, neuen
+Muth und Entschloßenheit ein. Sie schrieb an einige angesehene und
+vermögende Holländer, und sprach sie um ihren edelmüthigen Beistand
+an. Keiner unter ihnen versagte ihr denselben, zu welchem Ende sie auf
+das schleunigste nach Gent giengen. Daselbst war sie nicht so genau
+bewachet, daß man nicht, mit Beobachtung einiger Vorsicht, hätte zu
+ihr kommen können. Sie hatte eine gerechte Sache, und unmöglich konnte
+man sie, ohne von ihrer Schönheit und Anmuth gerührt zu sein, ansehen.
+Ihre Befreier verabredeten sich und trafen so gute Vorkehrungen, daß
+sie sie, nebst der Climberge, in Mannskleidern aus Gent und glüklich
+nach Antwerpen brachten, daselbst zog sie wieder ihre gewöhnliche
+Kleidung an, und langte über Breda in der Grafschaft Holland an. Hier
+wurde sie als Gebieterinn empfangen, und die Angesehensten der Provinz
+giengen wegen ihrer wichtigen Angelegenheit mit ihr zu Rath. Der Herzog
+von Burgund, der über ihre Flucht in Wuth gerieth, versammlete ein so
+fürchterliches Heer, als ob er wolle die ganze Welt bezwingen, und
+drang damit in Holland ein, um die schon unter seine Bottmässigkeit
+gebrachten Oerter im Gehorsam zu erhalten. Man sahe ihn auf die
+gänzliche Unterdrükung einer liebenswürdigen Fürstin, die fast so viele
+Unglüksfälle gehabt, als sie an Alter Jahre zählte, ganz erbittert.
+
+Es dauerte nicht lang, so trafen die zwo Parteien auf einander, und
+wurden handgemein. Obgleich Jacobinens Heer sehr gering war, erhielte
+es doch verschiedene Vortheile, von welchen sie dem Herzog von
+Glocester Nachricht gab, der denn auch entschloßen schien, ihr zu Hülfe
+zu kommen. Silvatier, unter dem Karacter seines General-Leutenants,
+an der Spitze von fünfhundert der tapfersten entnommener Engländer,
+wurde hierzu ernannt; allein der Herzog von Burgund, deßen Macht all zu
+beträchtlich war, behielt die Oberhand. Dieses zwar tapfere, aber all
+zu schwache Heer wurde geschlagen, und fast ganz in die Pfanne gehauen.
+Der Sieger aber gieng nach Flandern, um das seinige, welches gleichfals
+viel gelitten hatte, wieder zu ergänzen.
+
+Dieser unglükliche Ausschlag benahm Jacobinen den Muth dennoch nicht.
+Der Schmerz, den sie darüber empfand, war heroisch; denn mit wahrem
+Heldenmuth, der ihrem Geschlecht sonst nicht eigen ist, stellte sie
+sich selbst vor die Spitze ihres kleinen Heers und belagerte Harlem.
+Dies Unternehmen glükte ihr nicht. Denn die Vorkehrungen, die der
+Herzog von Burgund zur Vertheidigung dieser Stadt getroffen hatte,
+wurden zu genau befolget, und sie muste daher mit Kummer ihre lezte
+Anstrengung vereitelt sehen. Der Herzog von Glocester verfuhr sehr
+nachläßig. Die See schied sie von einander, und Jacobine zweifelte
+nicht, daß sich die entschloßene Eleonore in London befinde, und diese
+Nachläßigkeit verursache. Wenn der Herzog an sie schrieb, war es in so
+verlegenen Ausdrücken, die leicht ihre Muthmaßung bestättigen konnten,
+und indeßen sie ihre Völker in eigener Person anführte und sich allen
+Gefahren aussezte, blieb er, unter dem Vorwand, die Engländer auf
+seine Seite zu bringen, und die Hülfe seines Bruders, des Herzogs
+von Bedfords abzuwarten, dem es auch kein Ernst war, ganz unthätig
+in London. Alle diese traurigen Betrachtungen bekümmerten Jacobine
+stets, und verursachten ihr manche Gemüthsunruhen. Jezt Climberge!
+sagte sie zu dieser ihrer Vertrauten, siehest du die betrübten Folgen
+der Falschheit des Herzogs von Glocester. Er überläßt mich ganz
+meinem Schiksal und der Himmel straft mich wegen meiner thörigten
+Leichtgläubigkeit. Die Rolle, die ich spielen muß, schikte sich weit
+besser für ihn. Wie? indem ich ein Heer zur Vertheidigung unserer
+Gerechtsame anführe, überläßt er sich ganz in träger Unthätigkeit
+seiner verrätherischen Leidenschaft. Grausame Climberge! Warum
+stimmte meine Schwachheit mit deinen unbedachtsamen Rathschlägen
+so überein? Warum habe ich mich durch deine schmeichlerische Zunge
+verführen lassen? Und endlich warum muste ich dir, zu meinem grösten
+Nachtheil, folgen? Wilst du nun noch einen Menschen entschuldigen, der
+mich im grösten Jammer ganz verläßt? und wirst du mich noch ferner
+mit seigten Trostgründen beruhigen können? Betrachte mich von nun
+an wie ein verstoßenes in der Welt herum irrendes Geschöpf, das von
+Anverwandten gehaßt und von Feinden verfolgt ist, und siehe, ob du
+im Stande bist, mir die verlohrne Unschuld wieder zu verschaffen.
+-- Ich gestehe Madame! erwiederte die Climberge, daß mich mein
+Diensteifer kann betrogen und zu weit getrieben haben; allein sind
+Sie deswegen straffällig? haben Sie dem Herzog von Brabant Anlaß zu
+seiner Ausschweifung mit der schändlichen von Degre gegeben? und
+geben sie jezt dem Herzog von Glocester Ursache undankbar zu sein? In
+beiden Fällen sind Sie unschuldig. -- Ich war zu leichtgläubig und
+zu voreilig, erwiederte Jacobine, ich hätte die Wichtigkeit meiner
+Handlungen beßer überlegen sollen und dieses habe ich mir mit Recht
+vorzuwerfen.
+
+Der Herzog von Brabant, den die von Degre beständig anreizte,
+verfolgte, während der Zeit, den so viel wiedersprochenen
+Scheidungs-Proceß beim römischen Hof aufs schärfste. Zur gründlichen
+Untersuchung dieser Sache ernannte der Pabst eine Congregazion von
+verschiedenen Kardinälen; und da diese auf Seiten des Herzogs von
+Brabant die Ursachen zur Ehescheidung nicht hinlänglich genug fanden,
+erkannten sie ohne weiteres Jacobinens Ehe mit dem Herzog von Glocester
+für ungültig, wenn auch gleich der Herzog von Brabant mit Tode abgehen
+sollte. Diesem Urtheil nach, von welchem nicht zu appeliren war, wurde
+beschloßen, daß das unschuldige Schlachtopfer, zur Befriedigung der
+gegenseitigen, durch Eigennutz geleiteten Partei, auf ihre eigene
+Kosten gefangen und dem Herzog von Savoien in sichere Verwahrung
+gegeben werden sollte. Gleich nach dem dieses, für Jacobinen so
+fatale, Urtheil bekannt wurde, erklärte sich der Herzog von Glocester
+auf die unedelste Art, daß er mit Jacobinens Angelegenheiten nichts
+mehr zu schaffen haben wollte; und wenige Tage drauf, heurathete er
+die nehmliche Eleonore, die ihn bei der Abreise von Bergen mit ihren
+Vorwürfen so überrascht hatte.
+
+Ob nun gleich jezt Jacobinen die Größe ihres Unglücks ganz einsahe,
+verlohr sie darum den Muth noch nicht. An der Spitze ihres kleinen
+Heers führte sie den Krieg noch immer fort, und auch bei verschiedenen
+Gelegenheiten mit günstigem Erfolg. Allein den eifersüchtigen Herzog
+von Burgund, der einmahl ihre völlige Zernichtung geschworen hatte,
+glükten wegen seiner großen Obermacht die Unternehmungen weit beßer.
+
+Damals, nehmlich 1426. im April, starb der Herzog von Brabant, dem
+sein Bruder, der Graf von St. Paul, in der Regierung seiner Länder
+folgte. Da aber dieser ein sehr friedliebender Herr und unvermält
+war, bekümmerte er sich weiter nicht um Jacobinens Angelegenheiten,
+deren eigenthümliche Staaten sich nunmehr der Herzog von Burgund ganz
+zueignete.
+
+Jacobinen blieb noch ein wahrer Freund in ihrer ganz verlaßenen Lage
+übrig. Es war der Graf von Brederode, dieser stellte sich an die
+Spitze ihres übrig gebliebenen kleinen Heers, und erfochte wirklich
+mit dieser geringen Anzahl Völker ziemlich beträchtliche Vortheile in
+Nordholland. Allein endlich muste er doch der großen Obermacht des
+Feindes unterliegen; nach einer tapfern Gegenwehr wurde er überwunden,
+gefangen und muste zusehen, daß verschiedene Edelleute von seiner
+Partei enthauptet wurden. Er würde auch das nehmliche Schiksal erfahren
+haben, wenn man nicht befürchtet hätte, da er von dem ehemaligen Grafen
+von Holland abstammte,[M] die ganze Provinz dadurch aufzubringen.
+
+Nun wurde die unterdrükte Jacobine gezwungen, der unrechtmäßigen Gewalt
+nachzugeben und einen Vergleich einzugehen, vermöge welchem sie sich
+anheischig machen muste, ohne Einwilligung des Herzogs von Burgund,
+ihres nunmehrigen Gesezgebers oder vielmehr Tirannen und nächsten
+Blutsverwandten, nicht wieder zu heirathen. Dieser Vergleich wurde von
+ihnen beiden, in Gegenwart des Adels und der Deputirten der Städte,
+zu Delft eigenhändig unterschrieben. Da nun hierdurch der Herzog von
+Burgund seine haabsüchtigen Absichten erreicht hatte, ernannte er einen
+jungen Edelmann, Namens Franz von Borselle, der einer der tapfersten
+und wohlgestaltesten Edelleute der damaligen Zeit war, zum Gouverneur
+über die unrechtmäßig an sich gebrachten Länder. Um sich mehr Ehre
+und größeres Ansehen zu geben, führte er Jacobinen, gleichsam wie im
+Triumpf, mit sich nach Bergen.
+
+Hier hatte sie nun volle Muße, Betrachtungen über die vielen
+Wiederwärtigkeiten, die ihr begegnet waren, anzustellen. Sie
+befand sich an einem Ort, wo ihr alles zu Befehl stehen sollte, wo
+sie aber leider nichts mehr zu sagen hatte. Man erwies ihr zwar
+einige Ehrenbezeigungen; allein mit weniger Achtung und mit vieler
+Nachläßigheit. Stündlich beweinte sie die Härte ihrer Leiden, den
+Tod des Dauphins und den ihres Vaters, des Grafen von Hennegau, und
+verwünschte ihre unglüklichen Ehen mit den Herzogen von Brabant und von
+Glocester. Vielfältige Betrachtungen machte sie über das schändliche
+Verfahren der Päbste, und alle andern Ereigniße, die sie in den
+Abgrund des Verderbens gestürzt hatten. Aller ihrer Vorrechte beraubt,
+unvermögend die geringsten Bedürfniße befriedigen zu können, verachtet
+in ihren eigenen Staaten, und unterdrükt von einem Fürsten, der ihr
+Blutsfreund war -- was muste sie bei ihrer erhabenen Denkungsart nicht
+alle dabei empfinden? Sie fühlte noch zärtliche Regungen für den
+untreuen Herzog von Glocester, die zu tiefe Wurzeln gefaßt hatten, als
+daß sie so leicht hätten können ausgerottet werden; und man konnte in
+Wahrheit von ihr sagen; daß das schönste, geistigste und anmuthigste
+Frauenzimmer, das aller elendste auf Erden war, worüber der Herzog
+von Burgund frohlokte. Ihr elender Zustand rührte die Gräfin von
+Hennegau, ihre Mutter, auf keine Weise; und die von Degre, die nicht
+unterlies übertriebene und nachtheilige Erzählungen und Lügen von
+ihr auszustreuen, spottete sie allerwegen aus. Dieses alles aber
+verhinderte nicht, daß ihr die Liebe in ihrem Schicksal neue Prüfungen
+zubereitete. Der von Borselle hatte sie verschiedenemalen angetroffen,
+da sie ihrem kummervollen Herzen durch eine Tränenfluth Luft zu machen
+gesucht hatte. Nichts erhebt die Schönheit eines Frauenzimmers mehr,
+als traurige Blicke; und wer nur die geringste Anlage zu zärtlichen
+Empfindungen hat, der kann unmöglich ein liebenswürdiges Frauenzimmer
+im Kummer sehen ohne Mittleiden zu fühlen und ohne von ihren Reizen
+gerührt zu werden. So gieng es auch dem von Borselle; und ob er gleich
+dem Herzog von Burgund sein ganzes Glük zu verdanken hatte, so sahe er
+doch denselben von Stund an wie seinen ärgsten Feind an, und lies sich
+in seinen zärtlichen Regungen für Jacobinen nicht irre machen.
+
+Anfangs betrachtete Jacobine Borsellens gefälliges Betragen als
+Wirkungen der Großmuth und des Mittleidens; sie wurde aber bald
+gewahr, daß er aus ganz andern Empfindungen handele. Selbst die
+Climberge, die noch immer Jacobinens Vertraute war, bemerkte es
+und unterredete sich ohne weitern Zwang darüber mit ihr. Wie?
+antwortete ihr Jacobine, wirst du nach dem allem, was mir begegnet
+ist, noch thörigt genug sein, mir von neuen Liebhabern zu sprechen?
+Ist Borsellens Rang und Geburt nicht weit unter der meinigen? und
+wenn er mich redlicher und treuer wie die vorigen liebte, würdest
+du ihn würdig genug halten, drei angesehenen Fürsten in dem Ehebete
+zu folgen. Ich weiß wohl, erwiederte die Climberge, daß er nicht
+von so hoher Abkunft ist, demohnerachtet ist er doch aus edlem Blut
+entsproßen, liebenswürdig wegen seiner angebohrnen Anmuth, über die
+Maßen großmüthig, und eifrigst beflissen, Ihnen zu dienen. Können
+Sie versichert sein, ob nicht ihm die Ehre, Sie zu befreien, und der
+Ruhm, Sie glüklich zu machen, vorbehalten ist? -- He! Wer hat dir denn
+gesagt, fuhr Jacobine fort, daß er mir so geneigt ist? Kanst du ihm
+ins Herz sehen oder hat er dir sein Geheimnis offenbahret? Man darf
+nur Augen haben, erwiederte die Climberge, um dergleichen Bemerkung
+zu machen; denn entweder giebt es keine wahre Verliebte, oder Sie
+haben dem von Borselle die heftigste Leidenschaft eingeflößt. In
+diesem Fall, antwortete Jacobine, da eben Borselle zur Thür herein
+tratt, würde er zu bedauern sein. Da er ziemlich schüchtern und
+bleich aussahe, seine Blicke auch zärtlich und ehrerbietig waren, so
+bestättigte dieses Climbergens Aussage vollkommen. Jacobine erröthete
+bei seinem Anblik, und, um ihre Verwirrung zu verbergen, nahm sie ein
+erkünsteltes Lächeln an. Sie werden schlechten Dank bei dem Herzog
+von Burgund verdienen, sagte sie zu ihm, daß sie eine arme Gefangene,
+die alle, welche einiges Mitleiden für sie blicken laßen, mit ins
+Unglük stürzet, besuchen. Wenn Sie die Gewogenheit und des Zutrauens
+eines mißtrauischen Gebieters fernerhin theilhaftig sein wollen, so
+behandeln Sie mich nicht zu edelmüthig. Ich gebe Ihnen die aufrichtige
+Versicherung, daß ich mit den, mir schon erzeigten Gefälligkeiten
+vollkommen zufrieden bin, und Ihnen dafür ewig verbunden sein
+werde. -- Madame! antwortete Borselle, Sie sind mir auf keine Weiße
+Verbindlichkeit schuldig; und wenn gleich Ihre Gütigkeit meine gute
+Meinung dahin rechnen wollte, so ist bei derselben mein Unvermögen
+so groß, daß ich mich darüber schämen muß. Sie sind ganz ohne Fehler
+und demohnerachtet sind Sie unglüklich. -- Sie sind zu ausschweifend
+in Ihrer Höflichkeit, unterbrach ihn Jacobine; denn von strengern
+Richtern würde ich nicht so vortheilhaft beurtheilet werden. Wißen
+Sie nicht, welche ärgerliche Gerüchte man von mir ausgestreuet hat,
+und auf welche, meiner Ehre nachtheilige Weiße man von mir spricht?
+Dieses habe ich der christlichen Liebe der Päbste zu verdanken; diese
+wollten mich vermuthlich durch dergleichen grausame Demüthigungen zur
+strengeren Buße anhalten. Die Päbste, erwiederte Borselle, waren von
+jeher die Geisseln rechtschaffener Menschen. Welche Lästerzunge darf
+sich wohl erfrechen, Ihnen ein Vergehen anzudichten. Was? weil Männer
+undankbar und unsinnig genug gewesen waren, Ihnen mit Verachtung zu
+begegnen, will man Sie ihre Verbrechen entgelten laßen? Ich behaupte
+vor der ganzen Welt, daß, wenn jemand unfehlbar ist, Sie es gewiß sind.
+-- Ha! Borselle, erwiederte Jacobine, Ihre Nachsicht ist übertrieben;
+ich laße mir selbst Gerechtigkeit wiederfahren und gestehe freimüthig,
+daß ich zu unvorsichtig gehandelt habe. Um aber das Gespräch von
+meinen Angelegenheiten abzubrechen, bitte ich Sie, mir die Ursache
+Ihrer Traurigkeit und Verlegenheit zu sagen. Sollte ich etwa noch
+unglüklich genug sein, Ihnen Verdruß zu verursachen, und sollte das
+traurige Verhängniß, daß mich überall verfolget, auch Einfluß auf Sie
+haben? -- Sie allein Madame! erwiederte er, verursachen unschuldiger
+Weise die Gemüthsruhe, die sie an mir bemerken; denn meine Liebe ist
+so gränzenlos, daß ich die Hochachtung, die ich Ihnen schuldig bin,
+darüber auf die Seite setze. Ihre Reitze, durch Leiden erhöhet, sind
+vermögend, die härtesten Seelen zu rühren; wie kann also die meinige,
+die von ganz anderer Beschaffenheit ist, ohne Empfindung sein? Ich
+sage dieses mit keiner unbedachtsamen Verlegenheit; denn ich weiß den
+Unterschied, der zwischen uns ist, sowohl in Ansehung der Geburt als
+des Standes, nur zu gut, dieserwegen ist dennoch meine Liebe nicht
+weniger heftig. Erzürnen Sie sich nicht über einen Unglücklichen, den
+die Stärke der Leidenschaft hinreißt, durch diese Erklärung seinem
+beklemmten Herzen Luft zu schaffen. Obgleich dieser große Unterschied
+zwischen uns ist, indem Sie des Glüks eines der ersten Königen
+theilhaftig sein sollten, vermindert diese Betrachtung dennoch meine
+empfindsame Leidenschaft nicht. -- Borselle! antwortete Jacobine, ich
+habe Sie ungestört reden laßen, weil mit Ihre unvermuthete Erklärung
+die Sprache benommen hat. Ohne Ihnen die Anmerkung, die Sie selbst
+in Ansehung des Unterschieds unseres Standes gemacht haben, nochmals
+zu wiederholen, wird es genug sein, Ihnen zur Betrachtung zu geben,
+daß alle dergleichen Leidenschaften, die ich unglüklicher Weise schon
+eingeflößt habe, gleich nach ihrer Entstehung verschwunden sind, daß
+man mir, nur mich beßer betrügen zu können, geschmeichelt hat, und
+daß, anstatt daß man mir hätte Treue und Versprechen halten sollen; es
+vielmehr scheinet, als ob mein Herz und meine Hand vergiftet wären;
+denn so bald ich deren Besiz eingeräumet habe, wurden solche gleich
+verachtet und verschmähet, ohne zu gedenken, daß ich unglüklich genug
+war, meinem ersten Gemal den Tod zum Brautschaz mit zu bringen. Wenn
+es also wirklich an dem ist, daß meine geringen Reize, die niemand
+mehr unglüklich machen sollen, Sie beunruhiget haben, so nützen Sie
+diese Betrachtungen, Ihre aufkeimende Leidenschaft zu unterdrücken,
+und vermehren Sie mein Elend nicht durch Ihr eigenes Leiden. -- Ich
+würde, erwiederte Borselle, wenn es in meinem Vermögen stünde, Ihnen
+gehorchen; allein eine Leidenschaft, die so heftig wie die meinige ist,
+läßt sich nicht bezwingen Sein Sie vielmehr versichert, Madame! daß
+sie von ewiger Dauer sein wird. Nur der Tod kann mir solche rauben,
+und ich weiß nicht ob sie mir nicht noch jenseit des Grabes folgen
+wird. Ah! welcher Unterschied ist in der Liebe, zwischen den hohen
+Ungetreuen, die Sie verrathen haben und dem unglüklichen Borselle?
+Warum kann die Geburt seine Leidenschaft nicht rechtfertigen, und warum
+hat er keine Kronen zu Ihren Füßen zu legen? -- Sie haben, erwiederte
+Jacobine, gute Eigenschaften genug, die zu Ihrem Vortheil sprechen;
+aber um des Himmels willen dringen Sie weiter nicht in mich, und
+überlegen Sie, daß ich schon unglüklich genug war. Hierauf lenkte sie
+das Gespräch auf andere Gegenstände; und Borselle der nun einmal den
+Schritt, der manchen Liebhaber in Verlegenheit setzet, gemacht hatte,
+sezte vor jezt nicht weiter in sie.
+
+
+Von diesem Tag an verdoppelte er seinen Fleiß und seine Sorgfalt,
+Jacobinen gefällig zu sein. Der Herzog von Burgund, der sie so vest
+gebunden hatte, war auf Borsellens Betragen wenig aufmerksam. Dies
+günstige Uebersehen verknüpfte diesen Umgang bald sehr eng. Die
+Climberge, der ihr gezwungener Aufenthalt in Bergen unerträglich
+wurde, legte Borsellens unbedeutenste Handlungen großen Werth bei.
+Ja! Madame, sagte sie zu ihrer Gebieterin, weil man Sie noch nicht
+wirklich geliebt hat, wird es Ihnen um so viel süßer sein, nach
+Ihren Verdiensten geliebt zu werden. Hat nicht schon der Himmel Ihre
+treulosen Gemale bestraft? Der Herzog von Brabant ist in der Blüte
+seiner Jahre gestorben, und der Herzog von Glocester hat sich durch
+seine Verbindung mit einer entehrten Person, ganz Europas Verachtung
+zugezogen, und Sie mit Aufopferung seiner eigenen Ehre gerächet.
+Borsellens Beständigkeit in der Liebe wird diese Rache vermehren.
+Wollten Sie lieber in den Feßeln, die Ihnen der Herzog von Burgund
+angelegt hat, schmachten, als das Glük eines verdienstvollen Mannes
+befördern? Man hat Ihnen unbillige Geseze vorgeschrieben, denen Sie
+sich zu unterwerfen nicht verbunden sind. Wenn Sie durch Borsellens
+Tapferkeit wieder in Ihre Gerechtsame werden eingesezt sein, haben Sie
+alsdann nicht Würde und Hoheit, die ihn dem grösten Fürsten gleich
+stellen, mit ihm zu theilen? Er ist von edler Geburt, und seine Thaten
+machen ihn ehrwürdig. Sollten Ihnen dieses nicht Beweggründe genug
+sein? -- Spreche! unterbrach sie Jacobine, spreche immerfort und
+leite mich aus einem Irrweg in den andern: weil es deine und meine
+Bestimmung ist. Ich sollte die Liebhaber und Ehemänner mehr als den Tod
+fürchten, und doch höre ich dir gelaßen zu; ja! ich weiß nicht, ob du
+mich nicht noch gar überreden wirst. Gefährliche Freundin! Warum hast
+du mich in meinem Unglük allerwegen begleitet? Glaubst du, daß deine
+Beharrlichkeit mir nachtheiliger als der andern Treulosigkeit ist? Wie
+ich in London ankam, war ich wenig geneigt zu thun, was ich nachher
+gethan habe; Du allein warst schuld an der Thorheit, die ich begieng,
+jezt willst du mir eine weit größere zumuthen, und am Ende werde ich
+mich mehr über dich, als über die von Degre zu beklagen haben.
+
+
+Während Jacobine in einem Strom von Unruhen dahin schwamm, sahe
+Borselle, der wirklich und aufrichtig liebte, wohl ein, daß er ihr
+nicht verhaßt war; er sezte daher so anhaltend in sie, daß es ihm
+glükte das lezte Geständnis von ihr zu erhalten. Er hatte Jacobinens
+wegen außerordentlich große Ausgaben gemacht. Denn zu der Zeit,
+da sie an allem Mangel litte, sezte er sie in Ueberfluß. Er trat
+geheime Vorkehrungen, die des Herzogs von Burgund seine vereiteln
+sollten, und heirathete Jacobinen mit der zu diesem Unternehmen
+nöthigen Behutsamkeit und erforderlichem Geheimniß. Die Climberge,
+der Descaillon und zwei vertraute Freunde des Borselle, waren die
+einzigen, die dieser Handlung beigewohnt hatten; das neue Paar war aber
+dieserwegen nicht wenig glüklich. Sicher ist es, daß Borsellens Liebe,
+statt zu erkalten, täglich zunahm; denn es schien, als ob die Zeit ihr
+neue Kräfte gäbe. Allein Borselle konnte nicht länger unthätig bleiben;
+er hatte zu viel Muth, das Interesse einer Person, die alles für ihn
+aufgeopfert hatte, zu vernachläßigen. Er muste sich daher von ihr
+entfernen. Schreklich war für beide dieses nothwendige Scheiden, das
+auf die beweglichste Weise, mit Versicherung ewiger Liebe, erfolgte.
+
+
+Man wurde bald gewahr, daß Borselle Jacobinens Angelegenheiten wegen
+in Bewegung war. Es dauerte nicht lang, so wurde der Herzog von
+Burgund davon benachrichtiget; und ob gleich das Ehebündniß sehr
+geheim gehalten war, erfuhr er es doch auch gar bald. Da er einer
+der stolzesten rachsüchtigsten Fürsten war, geriet er bei dieser
+Nachricht in die gröste Wuth. Hundert Eilboten wurden mit dem Befehl
+abgefertiget, sich des Borsellens zu bemächtigen, der sich zu sehr auf
+seinen Muth verlaßen, und sich mit seiner geringen Anzahl Leute zu
+viel gewagt hatte, gefangen genommen und in die Hände seines Feindes
+geliefert wurde.
+
+Der Herzog von Burgund, der nun seiner Beute gesichert war, wollte
+die strengste Rache ausüben. Er befahl zu dem Ende, Borsellens
+Prozes zu beschleunigen. Bis zur Wuth gegen Jacobinen, die ihn so
+hintergangen hatte, aufgebracht, wollte er ihr das Schiksal, das
+ihrem Gemal bevorstand, selbst ankündigen. Sie können nun auf den
+fünften Gemal bedacht sein, sagte er zu ihr; denn ich gebe Ihnen mein
+Wort, daß ich Sie in einigen Tagen der Mühe überheben werde, den
+Scheide-Brief Ihres vortreflichen Ehebündnißes mit dem Borselle, von
+Rom aus kommen zu laßen. Ein Scharfrichter wird hier die Stelle des
+Hohenpriesters vertreten, und Ihnen diese Erlaubniß verschaffen. Denn
+ich glaube nicht, daß Sie mich feig genug halten werden, dergleichen
+grobe Beleidigungen ungestraft zu laßen. Ganz unvergleichliche Ehre
+haben Sie den Baierischen und Burgundischen Häusern erwießen, daß
+Sie ihr Blut mit dem eines elenden Kriegers vermischt haben, der nur
+meiner Gnade, das was er ist, zu verdanken hat, und der nun bald dem
+Volk zum Schauspiel und den Raben zur Speise dienen wird. Schämen
+Sie sich nicht, nach so erniedrigenden Ausschweifungen, noch das
+Tageslicht anzuschauen? Der Herzog von Brabant that klug daran, daß er
+die Gesellschaft einer Frau, wie Sie sind, mied; und der Herzog von
+Glocester hat recht gehabt, Ihnen ein geschändetes Mädchen vorzuziehen.
+
+Er würde ihr noch mehr Unangenehmes gesagt haben, wenn es sein Zorn
+zugelaßen hätte. Jacobine hörte ihm schmerzlich bestürzt zu; aber da
+er sie so erniedrigend behandelte, konnte sie nicht länger an sich
+halten. Mit trotzigem Blik sagte sie zu ihm: Ob Sie mir gleich im
+gebieterischen Ton sprechen, so sind Sie deßwegen noch lange nicht
+befugt, mir Geseze vorzuschreiben; und es macht Ihnen eben keine große
+Ehre, daß Sie sich mein Unvermögen und Unglük zu nutz machen. Welches
+Recht haben Sie, mir meine Güter zu rauben und mich zur Sclavin zu
+machen? Ja! ich habe den Borselle geheirathet, und wenn etwas vermögend
+wäre, mich es bereuen zu laßen, so wären es die Leiden, die ich ihm
+dadurch zugezogen habe. Schwärzen Sie sich immer damit, daß Sie ihn
+Ihrem Ehrgeiz aufopfern. Es wird das Maaß Ihrer Ungerechtigkeiten voll,
+und Sie vollends abscheuungswürdig machen. -- Ja! Ja! antwortete der
+Herzog, ich werde der Nachkommenschaft ein Beispiel geben; denn man
+soll nicht von mir sagen, daß ich einen Menschen, der die ersten Häuser
+Europens beschimpfet hat, ungestraft laße. Hierauf entfernte er sich,
+und verließ die erschrokene Jacobine im tiefsten Schmerz versenkt.
+
+
+So leicht als er es wollte glauben machen, war es doch dem Herzog
+von Burgund nicht, den Borselle seiner Rache aufzuopfern. Dieser
+Edelmann war durchgehends geachtet und beliebt, auch war Jacobine in
+den Jahren, in welchen sie von ihrem Thun und Laßen keine Rechenschaft
+mehr zu geben hatte. Es war leicht einzusehen, daß nur die Furcht
+Jacobine möchte Leibeserben bekommen, den Herzog zu diesem blutgierigen
+Entschluß reizte. Da nun Jacobine dieß alles wohl überlegte, war sie
+minder in Verlegenheit.[N]
+
+Sie bediente sich der Vermittelung des Grafen von Meurs, durch diesen
+versprach der Herzog von Burgund, daß wenn Jacobine auf alle ihre
+Gerechtsame Verzicht thun würde, so wollte er sie und den Borselle in
+Friede laßen.[O] Die dringenden und traurigen Umstände, darinn sich
+Jacobine befand, und einen Gemal, den sie zärtlich liebte, zu retten,
+nöthigten sie, dieße harte Bedingniß einzugehen. Sie entsagte also zu
+Gunsten des Herzogs von Burgund allen ihren Staaten,[P] und man sahe
+dieße große Fürstin, und rechtmäßige Erbin so beträchtlicher Länder, in
+die äuserste Dürftigkeit versezt.
+
+Borselle wurde hierauf seiner Gefangenschaft entlaßen. Jacobine
+empfieng ihn mit der nehmlichen Zärtlichkeit, als ob sie gar nichts
+zu seiner Befreiung aufgeopfert hätte. Beim ersten Anblik sagten sie
+sich einander die rührensten Sachen. Borsellens Herz strömte aus
+Erkänntlichkeit über; und Jacobine, die sich nun für die glüklichste
+Person auf der Welt schäzte, beeiferte sich, ihm ihre zärtliche
+Liebe noch mehr zu zeigen. Durch die Bemühungen ihrer beiderseitigen
+Freunde wurde der Herzog von Burgund nach und nach besänftiget. Er
+warf seiner Nichte einen Gehalt aus, der aber in Betracht deßen,
+was er ihr entrissen hatte, gering war. Der Borselle erhielt, wegen
+seines Bündnisses mit verschiedenen hohen Fürstenhäuser, den Orden des
+goldenen Vliesses. Dieser liebte, oder vielmehr verehrte seine Gemalin
+von Tag zu Tag mehr, und Jacobine schäzte ihn eben so. Allein da ihr
+Leben mit so vielen und anhaltenden Verdrißlichkeiten verwebt war; so
+konnte es nicht anderst sein, als daß ihr Körper sehr geschwächt wurde,
+und dieses verursachte ihren frühzeitigen Tod, der dann 1436, sechs
+Jahre nach der Zeit, als sie den lezten Vergleich mit dem Herzog von
+Burgund eingegangen war, der nun in dem ruhigen Besiz aller der Länder,
+die er ihr entrissen hatte, blieb, erfolgte.
+
+
+
+
+Druckfehler.
+
+
+    Pag. 11 Zeile 15 statt Geschwister lies Geschwisterkinder.
+
+     --  14 lezte Zeile statt kann lies kam.
+
+     --  14 Zeile 8 statt den lies dem.
+
+     --  24   -   4 statt dem Grafen lies der Graf.
+
+
+
+
+_Bei Verleger dieses ist zu haben:_
+
+
+    Auf die Schöpfung. (Ein Gedicht nach Klopstock.) 8.
+
+    6 ggr. oder 24 kr.
+
+    Carl’s (Dr. Joh. Sam.) Armen-Apotheke, zum Unterricht und Dienst
+    derer, so keine Kenntniß der Arzneikunst haben. &c. &c. Mit
+    vollständigen Registern. Siebente verbesserte Auflage. 8. 1789.
+
+    6 ggr. oder 24 kr.
+
+    Caspari (J. P.) Tirocinia sintactica, oder lateinische Sprach- und
+    Schulübungen, nach Anleitung der Langischen Grammatik, 2 Theile
+    verbesserte Auflage. 8. 1789.
+
+    12 ggr. oder 48 kr.
+
+    Gedanken eines Hohenpriesters der Schwarzen, über die Religion. 8.
+    1789.
+
+    16 ggr. oder 1 fl.
+
+    Hans Georg schlag zu! unser Glaube leidet Noth! eine Ode,
+    bei Gelegenheit eines Religions Gezänks zwischen Katholiken,
+    Lutheranern und Reformirten 8. 1788.
+
+    3 ggr. oder 12 kr.
+
+    Jacobine von Baiern, Gräfin von Hennegau, Holland, Friesland
+    und Zeeland. Eine vaterländische Geschichte aus dem fünfzehnten
+    Jahrhundert. 8. 1791.
+
+    12 ggr. oder 45 kr.
+
+    Lecture amusante pour la jeunesse des deux Sexes par Mr. Villaume.
+    2 Tomes gr. 8, 1788.
+
+    1 Rthlr. 12 ggr. oder 2 fl. 45 kr.
+
+    Lettres critiques morales & politiques de Mr. le Comte Max. de
+    l’Amberg. 3 Tomes 8. à Amsterdam 1786.
+
+    2 Rthlr. oder 3 fl.
+
+    Philosoph (der) aus Afrika, 3ter Theil, von dem durch mehrere
+    Schriften sehr bekannten Herrn Pfarrer Hiltebrandt in
+    Baden-Weyerbach. 8. 1789.
+
+    16 ggr. oder 1 fl.
+
+    NB Die beiden erstern Theile ließ der Herr Verfasser in Frankenthal
+    drucken.
+
+    Reimarus (Dr. J. A. H.) Beantwortung einiger, gegen die
+    Gewitterableiter gemachten Einwürfe als ein nützlicher Anhang zu
+    dessen Abhandlung vom Blitz, und Vorschriften zur Anlegung neuer
+    Gewitterableiter. 8. 1790.
+
+    4 ggr. oder 15 kr.
+
+    Sanders (Heinr.) kleine Schriften. Nach dessen Tode herausgegeben
+    von G. F. Götz. 2 Bände gr. 8. 1788.
+
+    1 Rthlr. 20 ggr. oder 2 fl. 45 kr.
+
+    Schatzens (Joh. Jak.) kurze Einleitung in die römischen
+    Antiquitäten, zur Erläuterung der klassischen Schriftsteller,
+    vierte sehr vermehrte und verbesserte Auflage, nebst einem
+    Register, 8. 1789.
+
+    12 ggr. oder 48 kr.
+
+    System der Wesen, enthaltend die metaphysischen Principien der
+    Natur. 12. 1779.
+
+    16 ggr. oder 1 fl.
+
+    Thyms deutliche und vollständige Anweisung zur Orthographie oder
+    deutschen Rechtschreibung. Berichtiget und herausgegeben von J. D.
+    Meidinger, zweite und sehr vermehrte Auflage, mit einem Verzeichniß
+    zweifelhafter und ähnlichlautender in der Bedeutung aber sehr
+    verschiedener Wörter; nach alphabetischer Ordnung. 8. 1791.
+
+    16 ggr. oder 1 fl.
+
+    Volks (Alex.), gründlicher Unterricht zur Rechenkunst, woraus
+    ein Rechenschüler ohne Lehrmeister die Species und Regel de
+    Tri, nach Anleitung der gemeinen Rechnungsart und der welschen
+    Praktik, mit ganzen Zahlen und Brüchen, erlernen kann. Mit
+    vielen ausgearbeiteten Exempeln, sowol nach der Reichsmünze, als
+    Sächsischen Münze mit allen Vortheilen der Rechenkunst. 8. 1789.
+
+    6 ggr. oder 24 kr.
+
+
+
+
+Fußnoten:
+
+
+[A] Seine merkwürdigste Handlung war, daß er 1425 die Universität zu
+Löwen stiftete.
+
+[B] Zu dieser abscheulichen That bediente er sich eines Normänischen
+Edelmanns, Namens Raoul d’Ocquetonville, der dem Herzog aufgelauert
+hatte, und ihn überfiel, da er eben zu Pferd und nur von zwei Bedienten
+begleitet von einem Besuch von der Königin, die in den Wochen lag,
+zurük kam.
+
+[C] Diese Schwachheit, oder vielmehr Wahnsinn des König Karls, rührte
+von folgenden Ursachen her: da ihm im Aug. 1392. als er unter Wegs
+nach Britannien war, entstandene Unruhen daselbst zu stillen, die
+Sonne sehr heiß auf das Haupt schien, bekam er den ersten Anfall von
+Unsinn; das Uebel vermehrte sich durch den Schrecken, dem ihm ein
+unbekannter, hagerer und elend verstellter Mensch verursachte, der
+sich ihm näherte, sein Pferd in den Zaum griff, und ihn mit den Worten
+anredete: _Bleib zurück König, wo willst Du hin? Du bist verrathen_,
+und gleich verschwand. Und da endlich zum Unglück ein auf dem Pferd
+eingeschlafener Edelknabe seine Lanze auf einen vor ihm hergetragenen
+Helm fallen lies, glaubte der König man wollte ihn seinen Feinden
+überliefern und bekam eine so heftige Wuth, daß er in eine Ohnmacht
+fiel und in derselben drei Tage lang liegen blieb. Hierauf hatte er
+sich wieder ziemlich erholet, allein, da man, um ihn zu zerstreuen, das
+folgende Jahr, den 29ten Jenner, einen vermumten Ball veranstaltete und
+ein mit Pech bestrichenes Gewand sich auf demselben entzündete, wodurch
+er in Gefahr zu verbrennen gesezt wurde, verfiel er auf das neue in
+Raserei. Hieran war die Unvorsichtigkeit des Herzogs von Orleans
+schuld, der mit einer brennenden Fackel einigen Personen, die als wilde
+Männer verkleidet waren, um sie zu erkennen, zu nahe kam.
+
+[D] 1412. Bemächtigte er sich der Person des Königs, führte ihn vor
+Bourges, wo eine Anzahl Grossen des Reichs eingeschlossen waren, die
+zu einem Vergleich gezwungen wurden. Nach diesem verbündete sich der
+Herzog näher mit der Königin, und vermehrte dadurch die Zerrüttung im
+Reich. Denn unter dem Vorwand der königlichen Gewalt und Befehle lies
+er den 18ten Juni 1418. den Kanzler und mehrere Grossen des Reichs,
+die ihm entgegen waren, umbringen, und verübte überhaupt unerhörte und
+die Natur empörende Grausamkeiten in Paris. Allein das folgende Jahr
+erhielt er den verdienten Lohn dafür; denn Sontags den 10ten Sept.
+wurde er zu einer Unterredung von dem Dauphin auf die Brücke Monterrau
+gelockt, und daselbst durch einen alten Diener des ermordeten Herzogs
+von Orleans, Namens Tanegui du Chastel umgebracht.
+
+[E] Da die Neigungen dieser beiden Frauen in vielem gleich war, so ist
+an deren gegenseitigen Freundschafts-Bezeugungen nicht zu zweifeln.
+Isabella, Karls Gemahlin, war die Tochter Herzog Stephans II. von
+Baiern, und diese Fürstin, die mit ihrem Bruder Ludwig dem Bärtigen,
+Grafen von Mottagne beständige Unruhen in Frankreich erregte, konnte
+man eine wahre Geissel des Staats nennen. In wie weit ihr die Gräfin
+von Hennegau mit ihren Intriguen gleich kam, wird der Verfolg lehren.
+
+[F] Dieser Johann von Baiern war überhaupt ein sehr haabsüchtiger
+und unbarmherziger Fürst. Ob er gleich als Bischoff zu Lüttig lange
+Zeit regieret hatte, war er doch nie Priester. Die Lüttiger, die
+gerechte Beschwerden gegen ihn hatten, empörten sich, und hielten ihn
+in Mastricht eingeschlossen, von wo er, durch Hülfe des Herzogs von
+Burgund (wie schon gesagt worden) befreiet wurde. In dem 1409. mit
+seinen Unterthanen gehaltenen Treffen, wurden 36000 derselben getödtet,
+die übrigen beredete er, unter dem Versprechen einer gänzlichen
+Verzeihung, zum Vergleich; allein kaum hatte er die Stadt Lüttig wieder
+in Besiz, so lies er eine grosse Anzahl Einwohner, unter dem Vorwand,
+daß sie die Rädelsführer, und daher nicht unter diejenigen, die er
+begnadigt habe, begriffen sein, ganz unbarmherziger Weise ertränken und
+sonst hinrichten.
+
+[G] Welche Ränke braucht ein verlarvter Bösewicht zu einem
+erniedrigendem Geschäft nicht! Zu unsern Zeiten, brauchen die, zu
+Ausschweifungen der Art geneigte Fürsten dergleichen Hülfe nicht:
+sie wissen sich selbst zu rathen; wäre es aber nöthig, so würden sie
+bereitwillige Höflinge zu Unterhändlern genug finden.
+
+[H] Obgleich der Friede zwischen Heinrich von England und Karl VI. von
+Frankreich den 20ten Junii, 1420. zu Troyes geschlossen war; vermöge
+welchem Heinrich, nach Absterben König Karls, zum Nachfolger des
+französischen Reichs erkannt wurde, und nach der Einnahme verschiedener
+Oerter, die es mit dem Dauphin gehalten hatten, die beiden Könige
+den ersten Advents-Sonntag ihren Einzug in Paris hielten, wurde doch
+der Krieg nicht beendiget. Der Dauphin, unzufrieden mit dem für ihn
+so nachtheilig geschlossenen Frieden, der ihn von der Nachfolge im
+Reich ausschloß, verstärkte seinen Anhang. Hierdurch wurde Frankreich
+in zwei Partheien getheilet, und man sahe damals in demselben zwei
+Könige, zwei Königinnen, zwei Kronregenten, doppelte Kronbediente,
+doppelte Parlementer, kurz alles war wegen der Spaltung in diesem
+Reich zweifach. Die Unruhen auf einmal zu beendigen gieng Heinrich
+nach England, um neue Völker zu sammlen. Mit beträchtlicher Macht kam
+er zurück, mit dem Vorsaz dem Dauphin ein entscheidendes Treffen zu
+liefern; allein dieser wich ihm überall aus. Er belagerte und eroberte
+Dreux, während welcher Belagerung ihm ein Einsiedler soll prophezeiet
+haben, daß er wegen seiner Ehrsucht das Königreich Frankreich
+unrechtmässiger Weise an sich zu bringen, mit einer abscheulichen
+Krankheit, vom Himmel würde heimgesucht und bestraft werden. Er
+verlachte diese Weissagung. Dem sei wie ihm wolle, so wurde er doch
+einige Monate drauf zu Senlis krank. Sein Uebel waren Feigwarzen. (Mal
+de St. Fiacre) Ohne sich vor den Folgen dieser Krankheit zu fürchten,
+lies er sich in einer Sänfte nach Vincennes bringen, woselbst er aber
+am 31. Aug. des 1422. Jahrs seinen Geist im 36ten Jahr seines Alters
+aufgab. Kurz vor seinem Ende verordnete er seinem unmündigen Sohn
+Heinrich, der erst neun Monat alt war, die Herzoge Johann von Bedford
+und Humphrei von Glocester, (der Held in dieser Geschichte) seine beide
+Brüder zu Vormündern; und befahl, daß der erste in Frankreich und der
+andere in England Regent sein sollte.
+
+[I] Da hier die Rede von zwei Päbsten ist, die in der damaligen grossen
+Kirchenspaltung zugleich gelebt und um gleiche Vorrechte gebuhlet
+haben; so wird es wohl hier der schicklichste Platz sein, den kurzen
+Lebenslauf derselben anzuführen. Der Leser wird hiernach von selbsten
+urtheilen, welcher von beiden den gültigsten Beruf gehabt haben mag?
+ein Fall der zu unsern Zeiten schwerlich mehr entstehen wird, jedoch
+zur Sache: Peter de la Lune, ein Spanier aus dem Königreich Aragonien,
+erhielt vom Pabst Gregor XI. im Jahr 1375. den Kardinalshuth; nach
+1378. erfolgtem Tod dieses Pabsts, trug er nicht wenig bei, daß Clemens
+VII. zum Nachtheil Urbans V. der schon in Rom auf dem päbstlichen
+Stuhl saß, erwählet ward, wodurch die schon in der Kirche herrschende
+Zwietracht vermehret wurde. Oefters sprach er dennach mit verstelltem
+Eifer von dieser Spaltung, verwünschte alle Zwietracht und versicherte,
+daß wenn er an einer der Päbste Stelle wäre, würde er sich alle Mühe
+geben und allem entsagen, um die Gläubigen wieder unter ein Haupt zu
+vereinigen. Allein der Erfolg zeigte bald, daß er nur unter diesem
+heuchlerischen Friedenseifer hochmüthige und ehrsüchtige Absichten
+verbarg. Denn als Clemens 1394. zu Avignon starb, stellten die
+damals zur Wahl anwesenden Kardinäle, unter deren Zahl er war, eine
+schriftliche Versicherung aus, daß derjenige unter ihnen, den die
+Wahl treffen würde, wenn es das ganze Collegium für gut finden würde,
+der Spaltung dadurch ein Ende zu machen, dem päbstlichen Stuhl wieder
+freiwillig entsagen sollte. Es konnte daher nicht fehlen, daß die Wahl
+einstimmig auf ihn fiel, bei welcher er den Nahmen Benedickt XIII
+annahm. Da er aber nun seinen Entzweck erreichet hatte, wollte er von
+allem was er zuvor versprochen und sich anheischig gemacht hatte,
+nichts wissen. Der König von Frankreich, verschiedene Häupter Europens,
+der französische Klerus und andere mehr, gaben sich alle erdenkliche
+Mühe, ihn zur Erfüllung seines Versprechens, damit die Einigkeit in
+der Kirche dadurch wieder hergestellet würde, zu bewegen. Allein es
+war tauben Ohren gepredigt; sein Ehrgeiz lies es nicht zu; gab er auch
+einmal einige Hoffnung, so war es nur um Zeit zu gewinnen, und um desto
+wiedrigere Maasregeln nehmen zu können, nach welchen er endlich die nur
+auslachte die ihm von freiwilliger Abtretung ferner sprachen. Anfangs
+hielt man ihn in Avignon gefangen, er fand aber Gelegenheit 1402.
+von da verkleidet zu entweichen, und auf das Schloß Reinard in der
+Provence zu flüchten, wo er eine geringe Anzahl Völker antraf, die ihm
+zur Leibwache dienten. Auf dem Konzilium zu Pisa wurde er 1409. nebst
+Gregor XII. als Schismatiker und Eidbrüchiger, des Päbstlichen Stuhls
+verlustig erklärt, worauf den 26ten Juni die Kardinäle ins Conclave
+giengen, und Alexander V. an deren Stelle erwählten. Allein Benedickt
+kehrte sich hieran nicht, sondern seine Würde zu behaupten und sich
+neue Anhänger zu verschaffen, da die Kardinäle alle, die ihn erwählt
+hatten, von ihm gewichen waren, ernannte er verschiedene neue. Ob er
+nun gleich 1417. von der Kirchenversammlung zu Costanz in den Bann,
+gethan und abgesezt wurde, so gaben sich dennoch Europens Monarchen
+die Mühe, ihn zum freiwilligen Verzicht unter den vortheilhaftesten
+Bedingnissen zu bereden; allein ihre Bemühungen waren auch fruchtlos.
+Da er sich endlich von jedermann verlassen und verabscheuet sahe, begab
+er sich, nebst zwei ihm treu gebliebenen Kardinälen nach Paniscola,
+einer geringen Stadt im Königreich Valenzia, wo er 1424. starb. Dreisig
+Jahr hatte er in der Kirchenspaltung verlebt, die er auf seinem
+Sterbebette, so wie die Zwietracht boshafter Weise nach seinem Tode,
+dadurch noch weiter nähren wollte, daß er die zwei zugegen gewessenen
+Kardinäle zwang, an seine Stelle einen Kanonicus zu Barcellona unter
+dem Namen Klemens VIII. zu erwählen.
+
+Sein Gegner Martin III. aus dem Hausse Colonna, wurde, nachdem Gregor
+XII. dem Päbstlichen Stuhl freiwillig entsagt hatte, und die Mitpäbste
+Johann XXIII. und Benedickt XIII. von der Kirchenversammlung zu
+Costanz abhgesezt waren: auf eben dieser Versammlung 1417. zum Pabst
+erwählet und daselbst gekrönet. Die versammelten Kirchenväter wollten
+hierdurch der ärgerlichen Spaltung, die nun schon vierzig Jahre in der
+Kirche gedauert hatte, ein Ende machen. Sie beschlossen daher diese
+Wahl nur durch die anwesenden Kardinäle, mit Zuziehung dreisig theils
+Prälaten theils andern Geistlichen, die aus verschiedenen Staaten auf
+der Versammlung waren, vorzunehmen. Sie erfolgte auf dem Rathhauß zu
+Costanz. In der 42ten Sitzung, so wie bei allen folgenden, hatte der
+neue Pabst den Vorsitz, worinnen er sich durch seine Beredsamkeit
+alle Mühe gab die Eintracht in der Kirche wieder herzustellen. Ein
+Beweiß, daß sein Vorsatz aufrichtig war, ist dieser: daß er, nach
+Absterben Gregors, den abgesezten Pabst Johann sehr liebreich aufnahm,
+und ihn zum Dechant des Kardinalkollegiums ernannte, ihm auch in
+solchem einen erhabenern Sitz, als der andern Kardinäle ihrer war, zum
+Unterscheidungszeichen anwies. Seine Bemühungen aber, Benedickt zu
+gewinnen, waren eben so fruchtlos, wie die der andern Mächte, wovon
+schon gesagt worden? nur von Alphonsus König von Aragonien war er noch
+unterstüzet. In der 44 Sitzung zu Constanz wurde beschlossen, eine
+anderweitige Versammlung für das Jahr 1423. nach Pavia zu berufen,
+die aber wegen der daselbst herrschenden Pest das folgende Jahr zu
+Sienna gehalten wurde. Dahin sandte Alphonsus einen Bevollmächtigten
+mit ansehnlichen Geschenken und grossen Versprechungen, um der
+Sache Benedikts eine andre Wendung zu verschaffen, und Martin vom
+päbstlichen Stuhl zu vertreiben: Allein der gleich darauf erfolgte
+Tod Benedikts machte diesem Zwist ein Ende; denn auf die Wahl, die
+Benedikt bei seinem Tode, auf Veranlassung Alphonsus, angestellt hatte,
+wurde keine Rüksicht genommen; auch entsagte der dabei ganz ungültig
+erwählte Clemens dem päbstlichen Stuhl freiwillig. Dieses bewog den
+Pabst Martin, daß er demselben das beträchtliche Bisthum von Majorqua
+übertrug. Und hierdurch hörte die während 51. Jahre in der römischen
+Kirche gedauerte Spaltung ganz auf, welches man den klugen Bemühungen
+Martins zu verdanken hatte.
+
+[J] Was vermag eine rachsüchtige Buhlschwester nicht! und welch Unglük
+entstehet nicht oft in einem ganzen Lande durch das teufelische
+Einblasen einer Beischläferin? Doch Dank sei es unsern aufgeklärtern
+Zeiten! Kein Blutbad, wie damals wird mehr darauf erfolgen. Denn so
+kleine Geister, wie der Herzog von Brabant war, der, ausser seinem
+schwachen Verstand, doch gutmüthig genug gewesen sein würde, seine
+Gemalinn nicht weiter zu verfolgen, giebt es unter den Grossen nicht
+mehr. Thut ja eine Beischläferin noch einigen Schaden, so ist es nur
+an Einzeln und an denen, die nicht niederträchtig genug sind, zu ihrer
+Fahne zu schwören; der ganze Staat wird aber deswegen nicht zerrüttet.
+
+[K] Dieser Ausdruk ist ein Wortspiel, das auf den Familien Name (de la
+Lune) des Pabsts Benedikts, bezug hat.
+
+[L] Natürlicher Weise konnte sich Jacobine wenig von dieser Hülfe
+versprechen; denn ausserdem wie schon gesagt worden ist, der Herzog
+von Bedford ein leiblicher Schwager des von Burgunds war, muste jener
+diesen besonders schonen. Da er um seines Vaters Mord zu rächen,
+zur Englischen Partie getreten und die Waffen gegen sein Vaterland
+ergriffen hatte, war zu befürchten, daß wenn der Herzog von Bedford
+eifrig in ihn sezen wollte, er diese Partei verlassen, und sich zum
+Nachtheil Englands mit dem König von Frankreich vergleichen dürfte,
+wie er denn auch schon oft solches gedrohet hatte. Wäre aber dieses
+erfolgt, so hätte sich die Englische Partei unmöglich in Frankreich
+erhalten können. Da sich in der Folge mehrere Gelegenheit finden wird,
+von dem Herzog von Burgund zu reden, so wird es nicht undienlich
+sein, hier einen Biographischen Auszug von ihm zu geben. Philipp III.
+Herzog von Burgund &c. war ein Sohn des zu Paris ermordeten Herzogs
+Johann von Burgund, wie anderwärts schon gesagt worden. Er ward 1396.
+Zu Dijon gebohren. Seines Vaters Tod zu rächen ergrif er 1420. die
+Waffen gegen sein Vaterland, und schlug sich zur Englischen Partei.
+Hierdurch wurde er sehr mächtig; und da er nirgends Wiederstand fand,
+verbreitete er zu Ende der Regierung Carls VI. und Anfangs der von
+Carl VII. in Frankreich überall Furcht, Schreken und Verwüstung. 1421.
+lieferte er die berühmte Schlacht bei Mons in der Picardie, in welcher
+er den Dauphin aufs Haupt schlug, und dadurch das Elend im Vaterland
+vermehrte. Endlich verlies er 1435. die Englische Partei, und gieng mit
+dem König von Frankreich einen Vergleich ein, welches er auch mit dem
+Herzog von Orleans that. Dem ohnerachtet behielt er gegen Carl VII.
+beständig heimlichen Haß, welchen er dadurch bewies, daß er seinem Sohn
+dem Dauphin, nachmalig König Ludwig XI. Zuflucht in seinen Staaten
+verstattete. Er war es der den 19. Jenner 1430. den Orden des güldenen
+Vließes stiftete, der verschiedene andere milde Stiftungen errichtet,
+und fast die siebenzehen Provinzen der Niederlande vereiniget hatte. Er
+starb zu Brügge den 15. Julii 1467. und hinterlies von drei Gemalinnen,
+die er gehabt hatte, nur einen Prinzen, Carl den Verwegenen, der ihm in
+der Regierung seiner Staaten folgte, dagegen aber fünfzehen natürliche
+Kinder, die er von verschiedenen Beischläferinnen erzeugt hatte.
+
+[M] In der Familie der Grafen von Brederode hat es von jeher nicht
+an berühmten Männern gefehlet, unter welchen aber folgende die
+merkwürdigsten sind. Heinrich von Brederode war ein Haupt der
+Protestantischen Verschwöhrung in den Niederlanden. 1567. überreichte
+er der damaligen Gouvernantin Margaretha von Parma verschiedene Denk-
+und Bittschriften, in welchen er, als aus dem Hauße der Grafen von
+Brabant entsproßen, sein Recht gegen das Hauß Burgund, das diese
+Grafschaft in Besiz hatte, suchte geltend zu machen. Da sich aber bald
+hernach die Umstände änderten, gieng er mit seiner ganzen Famille, und
+allem was er nur fortbringen konnte, zu Wasser nach Embden, und von da
+aus nach Deutschland, wo er bald darauf vor Verdruß starb. Seine Wittwe
+die eine Gräfin von Meurs, und eine der herzhaftesten Frauen damaliger
+Zeit war, vermählte sich nachher mit dem Churfürsten von der Pfalz.
+Lancelot von Brederode aber, gleichfals ein Haupt der Verschwornen,
+wurde 1573 nach der Einnahme von Harlem, davon er Kommandant war,
+und sich muthig vertheidigt hatte, nebst den öbersten Offiziers der
+Besazung, auf Befehl des Herzogs von Alba enthauptet.
+
+[N] Nicht allein diese Furcht, sondern noch ein ganz anderer Beweggrund
+veranlaßten den Herzog von Burgund, seine Rache aufzuschieben. Der
+Englander Angelegenheiten in Frankreich, mit denen er in Bündniß
+stand, fiengen an für ihn nachtheilig zu werden. Es war 1429 da
+die berüchtigte Jeanne d’Arc, oder das Mädchen von Orleans, deren
+Geschichte, ob gleich schon viel darüber geschrieben worden, jezt noch
+ziemlich problematisch ist, zu Frankreichs Rettung auf den Schauplaz
+trat. Die Engländer fiengen an, Mißtrauen in den Herzog von Burgund
+zu sezen. Trennten sich nun die Engländer ganz von ihm, so muste er
+befürchten, daß Jacobine als Gräfin von Holland und Zeeland Hülfe
+von ihnen erhalten dürfte. Merkwürdig ist es indeßen, daß Jacobine
+die Befreiung ihres Gemals gewißer maßen obiger französischen Heldin
+verdanken konnte.
+
+[O] Es war dem Herzog von Burgund um so viel mehr an Vollziehung des
+Vergleichs gelegen, weil eben der lezte Herzog von Brabant, Philipp
+Graf von S. Paul, Jacobinens Schwager ohne rechtmäßige Leibeserben
+mit Tode abgegangen war, und er sich also auch den gewißen Besiz des
+Herzogthums Brabant zusichern wollte.
+
+[P] Der Herzog von Burgund hatte nun seinen Endzwek erreichet, und
+durch Jacobinens Verzicht, die dem Hauße Baiern in den Niederlanden
+noch zugehörigen Länder, an sich gebracht. Da er bei seinem Tod nur
+einen Sohn, -- wie schon gesagt worden ist -- Carl den verwegenen
+hinterließ, und dieser, der 1477. vor Nanzig blieb, keine männliche
+Erben, sondern nur eine Prinzeßin Maria, die an den Erzherzog von
+Oestreich, nachherigen Kaiser Maximilian, vermälet war, hinterlaßen
+hatte, brachte diese die reiche Erbschaft ihres Vaters dem Hauße
+Oestreich zu, das denn würklich noch gegenwärtig einen beträchtlichen
+Theil davon, wie bekannt ist, besizt.
+
+
+
+
+
+
+

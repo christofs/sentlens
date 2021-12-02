@@ -1,0 +1,1246 @@
+from The Internet Archive. All materials are placed in the
+Public Domain.
+
+
+
+
+
+
+
+
+Transcriber Note
+
+Text emphasis is denoted as _Italics_ and =Bold=.
+
+
+
+
+                     THE DRY COLLODION PROCESS.
+
+
+                                 BY
+
+                          CHARLES A. LONG.
+
+
+                           THIRD EDITION.
+
+                PUBLISHED BY BLAND & LONG, OPTICIANS,
+
+                                 AND
+
+           PHOTOGRAPHIC INSTRUMENT MAKERS TO HER MAJESTY,
+
+                           [Illustration]
+
+                           BY APPOINTMENT.
+
+                     153, FLEET STREET, LONDON.
+
+
+                    ENTERED AT STATIONERS' HALL,
+
+                    _Price 1s. Per Post 1s. 1d._
+
+                                1858.
+
+
+  H. SILVERLOCK, PRINTER,
+  WARDROBE TERRACE, DOCTORS' COMMONS, LONDON, E.C.
+
+
+
+
+
+PREFACE TO FIRST EDITION.
+
+
+The following pages shall be devoted to the description of
+a process on Dry Collodion, which I believe to be at once simple and
+effective. The experiments connected with the perfection of this
+process have occupied my leisure time for the space of two years
+or more, and have been conducted with all the care of which I was
+master. The constant repetition of them enables me to say, that
+whoever will follow diligently the process step by step, as detailed
+in this Pamphlet, must succeed in producing pictures in every way
+such as could be required by the most exacting critic.
+
+The process is simple, clean, and expeditious; and the resulting
+Negatives possess the exquisite softness of Albumen, the brilliancy
+of the wet Collodion, and the fine artistic texture of the Paper
+process.
+
+To disarm criticism, and to make peace with my fellow labourers in
+the art, I wish it to be understood that I do not claim the use of
+Collodion, of Gelatine, of Metagelatine, or of any of the Chemicals
+used in the process--most of these have been employed by others in
+various ways; I merely reserve to myself the pleasure of placing
+in the hands of Photographers a definite and simple plan by which
+pictures may be taken on Dry Collodion.
+
+                                                     CHARLES A. LONG.
+
+  _June 20, 1857._
+
+
+
+
+PREFACE TO SECOND EDITION.
+
+
+In issuing a second edition of the Dry Collodion process,
+I would take occasion to remark, that after some months' practical
+working, it has not been found necessary to make any material
+alteration in the process; success has usually attended the adoption
+of it, and in those cases where good pictures have not resulted, the
+failure has always been traced to the use of a Collodion not suited
+to the process.
+
+I cannot allow this opportunity to pass, without thanking those
+gentlemen whose opinions possess weight in matters photographic, for
+the very candid manner in which they have tested the capabilities of
+my process, and for the very flattering testimony they have borne to
+its efficiency, simplicity, and certainty.
+
+                                                     CHARLES A. LONG.
+
+  153, Fleet Street,
+
+  _September 1857_.
+
+
+
+
+PREFACE TO THIRD EDITION.
+
+
+The process described in the following pages has now been
+in use for twelve months, and I have much satisfaction in stating
+that it has, in almost every instance where it has been adopted and
+carried out with care and attention, yielded results which leave
+scarcely anything to be desired.
+
+The present Edition might more properly be termed a reprint, as the
+alterations in the text do not extend to more than a few matters of
+detail, which experience has shewn to be desirable, the principles of
+the process remaining undisturbed.
+
+                                                     CHARLES A. LONG.
+
+  153, Fleet Street,
+
+  _June 1858_.
+
+
+
+
+OPINIONS OF THE PRESS.
+
+
+_From the Athenæum._
+
+We have not merely examined the description given by Mr. Long of his
+dry collodion process, but we have witnessed the results obtained by
+following carefully his directions. It appears to us that, by it, a
+collodion plate may be prepared at home, wrapped in paper, and packed
+in portmanteau; that we may journey to Rome or Venice, then place
+our plate in the camera obscura, and allow it for a few minutes to
+receive the luminous image; remove it in a dark room; re-pack it
+and trouble ourselves no more about it until our return to England;
+when, in the room in which it was prepared, we may witness the magic
+process of development, and rejoice that we have, without much
+labour, secured a picture of the Coliseum or of the Bridge of Sighs.
+
+
+_From the Journal of the Cambrian Archæological Association._
+
+New Photographic Process.--Mr. Long, of the firm of
+Bland and Long, Opticians, Fleet Street, has recently put forth a
+valuable pamphlet, in the form of an essay on the dry collodion
+process. By means of this, plates prepared weeks beforehand may
+be exposed to objects, and then kept for weeks afterwards before
+they are developed, as he has proved it himself on the Continent.
+The advantage of this process to travellers, and especially to
+archæologists, is immense; because hitherto the main drawback upon
+photography has been the trouble and expense of carrying chemicals,
+tents, &c. &c., besides the camera, with its lenses, to the scene of
+operation. Now, however, it will be sufficient to carry merely the
+camera, with a suitable supply of plates prepared according to this
+process. The observer can then, by merely exposing his plates, with
+the proper precautions, _bag_ any number of views per diem, and on
+his return home can develop them--or have them developed--at leisure.
+If this process succeeds, it will have the effect of splitting
+photography into two distinct branches--the _æsthetic_, and the
+_practical_. The former will fall to the share of the intelligent
+observer, the traveller, the man of taste, who will go and search
+for objects, combine them, or use them, under the most favourable
+æsthetic circumstances, and then will carry them home to be handed
+over to the man of practice. Once in his hands, nothing will remain
+but to manipulate the plates according to the rules of photographic
+science, by means of all the best appliances that a well fitted
+laboratory can furnish. One branch will feed the other. One will be
+the department of observation, of search, of taste, of beauty; the
+other will be that of calm scientific development, of improvement,
+of preservation. One man will be like the artist who paints; the
+other like the artist who engraves. One will be like the author, the
+man who writes; the other like the printer, the man who perpetuates.
+We recommend members to enquire carefully about this new process;
+because if it becomes firmly established, any archæologist moving
+about the Country may get views of churches, castles, cromlechs,
+meini-hirion, seals, &c. &c., _usque ad satietatum_--we had almost
+said _ad nauseam_; but that word can never be connected with
+archæology! The upshot of this is,--"Read Mr. Long's pamphlet, and
+set up a portable camera with his prepared plates, as we intend doing
+ourselves!"
+
+
+_From the Liverpool and Manchester Photographic Journal._
+
+We must advise all who are interested in dry processes to obtain Mr.
+Long's clearly written pamphlet. (Leader, July 15th, 1857.)
+
+
+_Extract from Proceedings of Charlton Photographic Society, October
+8th, 1857. Paper by Mr. Hooper,--On the results of his experience in
+the practice of several Preservative Processes._
+
+I commenced experimenting on the process of Mr. Long. The success I
+have met with from the first has convinced me that that process will
+ere long be generally adopted: the plates being easily and quickly
+prepared, and keeping well, is a great advantage.
+
+
+_Extract from Letter from G. R. Smith, Esq., to the Editor of the
+London Photographic Journal, Sept 21, 1857._
+
+My tour of a fortnight's duration having ended, I returned to London,
+and began developing (the dry plates). To my great delight, I found
+all Mr. Long had said in favour of his process fully realized.
+Picture after picture (I took twenty-eight) came out with great
+beauty, and so far as the process is concerned, I have not had a
+single failure.
+
+
+_Mr. Long's Dry Collodion Process._
+
+_Letter from Robert Hunt, Esq., F.R.S., to the Editor of the London
+Photographic Journal, October, 1857._
+
+                                             6, Green's Row, Chelsea.
+
+Sir,--It is due to Mr. Long that I should state what my experience
+has been with his dry collodion plates, and I feel much satisfaction
+in doing so, being enabled fully to confirm all that Mr. Smith has
+said respecting the dry plates prepared as he has described (Photo.
+Journ. Sept. 21). On the 26th of August, Mr. Long, at my request,
+furnished me with some of his dry collodion plates. Absence from
+London, and the press of official engagements, prevented my trying
+any experiments with those plates until the 30th of September.
+Although the weather was very unfavourable, the result was superior
+to my expectations. On the 7th of October, at four in the afternoon,
+when the sky was covered with clouds and the weather stormy, I
+exposed a plate in the camera obscura for ten minutes to the dark
+brick building, Chelsea Hospital. I enclose you a positive print from
+the result of this experiment. When we remember that the sensitive
+plate had been kept by me for a period of _forty-two days_, and then
+exposed under very unfavourable circumstances, I think you will admit
+that the result is satisfactory. I should not content myself with
+this trial, but that I am again compelled to leave London for a long
+period, and I shall have no other opportunity of testing these plates
+for this year. I feel convinced that the traveller might with perfect
+safety use plates which have been prepared for a month, and thus
+relieve himself from much labour and frequent annoyance, by the use
+of Mr. Long's process.
+
+                                                         Robert Hunt.
+
+
+_From the Illustrated London News, January 9, 1858._
+
+It is but a few years since, when we heard with surprise, and
+some incredulity, that light could be made to delineate images of
+external objects upon chemically prepared tablets placed in the
+camera obscura,--now photography stares us in the face at every
+corner,--that which was wonderful has become familiar,--that which
+was mysterious is singularly common.
+
+In cities, we see glass houses, on at least one roof in every
+street,--in villages, caravans, with Brown and Jones, photographers,
+are regularly found,--on the hills we discover the tent, and in the
+valleys the camera,--by the river-side there is the mysterious head
+hidden in the dark curtains of a dark box,--and upon the sea-shore
+the tripod-stand is securely fixed in the sands, and a biped is
+evidently focusing for the next fine ocean wave,--the sketcher has
+fled to his own especial solitudes, and the photographer has usurped
+his place.
+
+It has been said of the most recent photographic processes, as was
+well said of the octo-syllabic verse, that it possesses "unfortunate
+facilities." This is true in many respects of the positive collodion
+process, by which the myriads of sad reflections on humanity are
+perpetrated. Not so, however, is it with the negative process, by
+which alone we can multiply the beautiful things which the solar
+pencil traces with such fidelity. The labour attendant upon a
+photographic tour is great, and real enthusiasm alone carries the
+amateur forward. The camera obscura and the stand are a burden, and
+with the tent and chemical box, they become a real load. Then there
+is the uncertainty attendant upon the processes. We deal with the
+nicest chemical adjustments. The balance is arranged with caution for
+a certain set of conditions,--alter but one of these, and all goes
+wrong. We leave home in the morning, we work in the dark all day, and
+we return jaded at night, to find we have obtained--nothing.
+
+Sensitive as the collodion process is, and charming as are the
+results, when all goes on successfully, it has not hitherto been
+a process which can be practised out of doors, without many
+extraordinary, expensive, and troublesome appliances.
+
+It is, therefore, with very much satisfaction that we have watched
+the progress of the so-called "dry collodion processes." Nearly
+all the processes that have been published,--the "gelatine,"--the
+"oxymel,"--the "glycerine," and others,--have much that is excellent
+in them; but it appears to us that a dry collodion process devised by
+Mr. Long, of which he has recently published a description, is more
+simple and effective than any other. We have seen beautiful pictures
+obtained in Belgium upon plates prepared in England, and which plates
+were brought to this country again before the pictures were developed.
+
+Any man may, previously to starting on his journey, prepare, or
+purchase prepared, a stock of glass plates. Armed with these and his
+camera, he may proceed to
+
+  "Where the bleak Swiss their stormy mansion tread.
+  And force a churlish soil for scanty bread;"
+
+or to that
+
+  "------sea Cybele fresh from ocean
+  Rising with her tiara of proud towers,"--
+
+and, resting on his way, he may adjust his camera and his plate, and
+in the few minutes which, under any circumstances, he would spend in
+observation, he secures a picture for future study,--a photograph to
+give him pleasure in the quiet of his home.
+
+Mr. Long has published a little treatise, with which we head this
+article, and by following out the simple directions which he gives,
+all may succeed in obtaining the important desideratum,--a parcel
+of highly sensitive plates, which can be packed in paper and stowed
+away in a portmanteau, to be drawn out as occasion may require, to
+be returned again to the same package (without having any of the
+annoyances attendant upon a box of liquid chemicals), and a plate
+which can be kept with its dormant picture quite uninjured until the
+photographer, on his arrival home, at his perfect leisure, in his own
+operating room, can develop the photograph which he has obtained.
+
+Such are the facilities offered by this improvement, that we may
+expect almost every traveller will avail himself of it, and thus
+secure for his own portfolio, and the portfolios of his friends,
+views of scenes hallowed by their historical association,--of ruins
+rendered sacred from the sacred memories which still wrap them in
+their shadows, as the mantling ivy clothes their crumbling walls.
+
+
+
+
+                                 THE
+
+                      =DRY COLLODION PROCESS.=
+
+
+Before describing in detail the manipulations of the process
+on Dry Collodion plates, it will be necessary to say a few words
+on the materials and apparatus to be employed, and also to give an
+account of the means of preparing the various solutions used in the
+process. First,
+
+
+THE COLLODION.
+
+This being the principal material we have to use, we must exercise
+great care in the selection of a sample that possesses all the
+characteristics which fit it for a dry process. We must reject all
+samples that possess great tenacity and contractile power: the
+Collodion must not be too thick, and it must flow evenly over the
+plate, and not set in ridges. The best condition for the Iodized
+Collodion is that known as _powdery_, that is, being spread on the
+plate and partially dry, it cannot be removed as a film, but crumbles
+up on being pressed by the finger in its passage across the plate; in
+fact, such a condition as would arise from using gun cotton prepared
+with acids at a high temperature.
+
+The following formula will be found to answer most admirably:
+
+  Gun Cotton                      60 grains.
+  Absolute Alcohol                 5 ounces.
+  Sulphuric Æther, sp. gr. ·730   15 ounces.
+
+The cotton is to be shaken up with the mixture of alcohol and æther,
+and when dissolved, the bottle containing it must be stood aside, in
+order that any undissolved particles of cotton may subside. The clear
+liquid may then be decanted into a clean bottle for use.
+
+It will be as well to test the quality of the Collodion thus prepared
+before coating any number of plates with it, for, although the above
+proportions are very excellent, some little latitude must be allowed
+for the different degrees of solubility of the various samples of
+cotton used from time to time. The film, when spread, on the glass
+plate and partially dry, should not be capable of being removed in
+the form of a skin, but should give before the finger and crumble up
+on its being rubbed across the plate.
+
+Should any difficulty, however, occur, it would be better to obtain
+a sample of the Collodion made by an experienced hand, in order that
+a fair trial may be given to the process. If the Collodion be too
+contractile it will give rise to blisters in the film, and will wash
+off the plate during development.
+
+The Iodizing Solution that I have found to give the best
+results in this process is made in the manner following:--
+
+  Absolute Alcohol        8 ounces.
+  Iodide of Cadmium      64 grains.
+  Iodide of Ammonium     64 grains.
+
+The iodides are to be dissolved by agitation in the alcohol, and the
+resulting solution is to be carefully filtered, and preserved in a
+well stoppered bottle.
+
+The Iodized Collodion consists of--
+
+  Iodizing Solution   2 drams }
+                              } 1 ounce
+  Plain Collodion     6 drams }
+
+The Collodion should always be iodized at least twelve hours before
+it is required; this interval allows any insoluble matters either
+from the iodizing solution or from the Collodion itself to fall to
+the bottom, and enables the operator to pour off the clear solution
+into a perfectly clean bottle for use.
+
+Next in importance to the Iodized Collodion comes
+
+
+THE PRESERVATIVE SOLUTION.
+
+Some care is required in the preparation of this solution, in order
+that it may be clear and bright when finished, and not contain
+particles that would be deposited in its passage over the Collodion
+film when being used. The chief precaution to be observed is _not to
+allow it to boil too rapidly, and not to conduct the operation over
+too fierce a fire;_ attention to this will prevent many failures,
+and ensure a solution in every way suited for the process.
+
+Take one ounce of the best transparent gelatine, and throw it into
+a pipkin in which has been previously placed one pint of distilled
+water; set this on a slow fire, or over a lamp, until the gelatine
+is completely melted; then weigh out half ounce of pure citric acid
+and dissolve it in two ounces of distilled water; add this to the
+solution of gelatine, stirring it during the addition with a glass
+rod. The solution in the pipkin is now to be gently boiled for about
+half an hour: remove it from the fire, and add sufficient distilled
+water to make up the bulk of liquid to one pint. When quite cold, the
+liquid in the pipkin is to be filtered through two thicknesses of
+pure white blotting paper into a bottle perfectly dry and clean. We
+now add to every pint of filtered preservative solution, two ounces
+of alcohol of the specific gravity of ·840.
+
+The solution thus prepared is ready for use, and should be of a pale
+amber colour, without any signs of insoluble particles floating in
+it; should any appear after it has been prepared for some days, a
+second filtration will remove them, and render the liquid again
+bright and clear.
+
+It will be found better to prepare this solution only in the quantity
+indicated above, unless the consumption be large, for, although it
+will keep good for a month or more, my experience points to the fact,
+that the most successful results follow the use of Preservative
+Solution freshly prepared.
+
+
+THE NITRATE OF SILVER BATH.
+
+The bath for rendering the plates sensitive does not differ from that
+recommended for taking negatives with wet Collodion. The formula for
+its preparation may not be out of place, however, and may assist
+those whose knowledge of the matter is not perfect.
+
+  Nitrate of Silver (fused)    1¼ ounces.
+  Distilled Water              1  pint.
+  Iodide of Cadmium            3  grains.
+
+Dissolve the nitrate of silver in half the water and then add the
+iodide of cadmium; thoroughly agitate the mixture for five or ten
+minutes, then add ½ ounce of alcohol, sp. gr. ·840, and fill up
+with the remaining half of the distilled water; further agitation,
+and subsequent filtration through two thicknesses of white bibulous
+paper, will put us in possession of a negative bath. The nitrate of
+silver being fused, and consequently, pure and neutral, and as it is
+essential to obtain clean pictures that the bath should be slightly
+acid in its reaction, we find it necessary to add 5 or 6 minims or
+drops of pure glacial acetic acid to a bath of 20 ounces, in order
+that the above condition may obtain.
+
+
+THE DEVELOPING SOLUTION
+
+Is very simple in its nature, being merely a saturated solution
+of gallic acid in distilled water, to which has been added a small
+proportion of alcohol of sp. gr. ·840.
+
+The exact formula is as follows:--
+
+  Distilled Water           1 pint.
+  Alcohol sp. gr. ·840      1 ounce.
+  Gallic Acid               ½ ounce.
+
+The gallic acid will not be entirely dissolved, but that left at the
+bottom of the bottle will ensure the solution being saturated; it is
+better not to filter the developing solution until it is required
+for use, as it is preferable to allow it to stand over an excess of
+gallic acid, than for it to be withdrawn after a slight agitation
+with the crystals; it is a great error to suppose that we obtain a
+saturated solution of gallic acid by merely agitating the crystals
+with water for a few moments.
+
+The developing solution prepared as above directed will keep good and
+in working order for some weeks, but when it becomes of a dark color,
+it would be safer to reject it and prepare a fresh quantity than to
+run the risk of a failure from an impure and imperfect developing
+agent.
+
+
+NITRATE OF SILVER SOLUTION,
+
+For adding to the gallic acid during development, is composed of
+
+  Fused Nitrate of Silver     30 grains.
+  Distilled Water              1 ounce.
+
+
+THE FIXING SOLUTION
+
+Consists of a solution of hyposulphite of soda in water, (filtered,)
+in the following proportion:--
+
+  Hyposulphite of Soda in crystals   8 ounces.
+  Rain or Filtered Water             1 pint.
+
+The Apparatus, &c. required in the Dry Collodion process is
+of the most simple kind, and consist of the following items
+
+      Glass plates.
+      Pneumatic plate holders.
+      Plate holder, for cleaning the plates.
+      Glass or porcelain dishes.
+      Glass or gutta percha dipping bath and dipper.
+      Silver hook, for lifting plates.
+      Levelling stand.
+      Measures, 1, 2, and 4 ounce.
+      Glass funnels.
+      Wash leather.
+      Some clean cloths and broad camel's hair brush.
+      Cotton wool.
+      Bibulous paper.
+  [A] The Chemicals are--
+      Nitrate of silver (fused.)
+      Glacial acetic acid.
+      Iodized Collodion (dry.)
+      Gelatine.
+      Citric Acid.
+      Alcohol.
+      Sulphuric æther.
+      Gallic acid.
+      Hyposulphite of soda.
+      Iodide of cadmium.
+      Benzoin varnish.
+
+[A] The dry Collodion and the various solutions, ready for use, may
+be obtained of the Publishers.
+
+In the above List we presume that the operator is in possession of a
+suitable camera and lens, and the usual adjuncts of camera tripod,
+&c. &c. These should all be of the best kind, otherwise it will be
+impossible to obtain good results.
+
+[Illustration]
+
+
+=THE MANIPULATION.=
+
+The process of obtaining a picture on Dry Collodion plates is in
+itself a most simple and easy matter, but there are one or two
+precautions that appear necessary to ensure success that cannot be
+lightly neglected. In the first place, it is absolutely certain,
+that if we want a clean and bright picture, we must have a plate
+perfectly free from all extraneous matters, such as soap, grease,
+&c. Various plans for cleaning the glass plate have been proposed,
+all more or less successful, but in most of them there is one great
+fault, namely, that of using a powder, as tripoli, rotten-stone,
+&c. to rub off the dirt with. Now we find that in practice this
+will not answer, from the almost impossibility of getting rid of
+the floating particles of the powder when the plate is rendered
+slightly electrical by rubbing, and as each of these particles if
+it become enveloped in the Collodion film, would produce a spot on
+the finished picture, we find it necessary to search in another
+direction for a detergent for the glass plate to which this objection
+would not apply. One soon presents itself in the form of _old waste
+Collodion_--this spread on the glass plate and rubbed off again
+with cotton wool, makes the best and most perfect cleanser hitherto
+proposed, without any of the objections usually appended to other
+materials used for the same purpose.
+
+The next precaution necessary to be observed is, that all the
+solutions should be perfectly bright and clear; they should be
+absolutely free from floating particles of any kind. This is
+essential, as it is impossible to obtain clean pictures without
+attention to it; the floating bodies in the solution settle on the
+plate, and form so many nuclei, around which, in the development of
+the picture, the silver is deposited in an opaque mass, forming spots
+and blemishes on the surface of the plate.
+
+There is one precaution that cannot be dispensed with, and that
+is, to be sure that the chemicals employed are of absolute purity;
+without this, success is very problematical, and vexation and disgust
+the sure reward of its neglect.
+
+The process may for convenience be divided into the following
+stages:--
+
+  1.--Cleaning the plate.
+  2.--Coating it with Collodion.
+  3.--Rendering the plate sensitive.
+  4.--Applying the Preservative solution.
+  5.--Exposure in the camera.
+  6.--Development of the picture.
+  7.--Fixing the developed image.
+  8.--Varnishing the finished negative.
+
+CLEANING THE PLATE.
+
+[Illustration: _Fig. 1._]
+
+The glass plate is first to be thoroughly washed with an abundance
+of water, and dried on clean cloths; it is then to be placed in the
+plate holder (_Fig. 1_), and have poured over its upper side a
+small quantity of old Collodion. Now take a tuft of cotton wool and
+rub the Collodion all over the plate, giving the hand a circular
+motion at the time: keep rubbing until the Collodion is very nearly
+dry, then turn the plate in the holder and repeat the same treatment
+with the opposite side; then lean the plate thus treated against a
+wall, while another, or any number are put through this stage. When
+a sufficient number have been so far cleaned, the plate holder is
+to be carefully wiped, and the first plate--the edges of which have
+also been carefully wiped with a _clean_ cloth--is to be replaced,
+and treated with a smart rubbing with a wash leather, the operator
+at intervals gently breathing on the plate. Both sides of the plate
+being cleaned in this way, it may be removed, after again wiping the
+edges carefully, to the plate box, to await the subsequent steps of
+the process. Plates cleaned in this manner should look perfectly
+transparent, and free from any marks of the cloth or leather, and
+when breathed upon should condense the moisture of the breath in
+one uniform degree over the whole surface. If patches of uneven
+condensation appear, a repetition of the process must be had recourse
+to.
+
+The plate being clean, we proceed to the next step,
+
+
+COATING THE PLATE.
+
+Lay a piece of clean blotting paper on the table, larger than the
+plate we are about to use; place the clean plate on this, and
+then bring the pneumatic plate holder to bear on the centre of the
+glass, making sure that it has laid hold firmly. We then raise the
+plate with the left hand, and bring the surface upwards which was
+previously on the blotting paper; it will no doubt be found that
+small particles of dust have attached themselves to the plate, these
+must be removed by a broad and soft camel's hair brush, kept for this
+purpose only.
+
+[Illustration: _Fig. 2._]
+
+The Collodion is then to be poured on, as shown in the diagram (_Fig.
+2_), and the superfluous quantity returned to the bottle from one of
+the corners of the plate. It does not matter which of the corners is
+used for this purpose, that which is most convenient to the operator
+assuming the preference. If the Collodion should have a tendency to
+set in ridges across the plate, a rocking motion, while the delivery
+corner is in the mouth of the bottle, may be given to it, still
+keeping the plate in a vertical plane. This will restore the film to
+perfect evenness and freedom from irregularity of any sort. The plate
+should be held in the vertical position for a few moments before
+being placed on the dipper to undergo the next operation of
+
+
+RENDERING THE PLATE SENSITIVE.
+
+[Illustration: _Fig. 3._]
+
+The plate being placed, coated side outwards, on the dipper, is to
+be plunged without hesitation into the nitrate of silver bath (_Fig.
+3_). This must be done without stopping, otherwise a line across the
+plate will indicate, on development, the position of the plate in
+the bath at the time this stoppage took place; so that if we were to
+immerse the plate by a series of jerks, we should have as a result,
+so many bands of unequal development in the finished picture; showing
+the importance of plunging the plate into the bath without any
+stoppage during its descent.
+
+[Illustration: _Fig. 4._]
+
+When the plate has rested for half a minute in the bath, it may be
+withdrawn, and quickly re-immersed. This washing must be continued
+at intervals, until the greasy appearance goes off, generally for
+the space of two minutes, when the plate is to be taken out of the
+bath and placed with its lower edge on a pad of blotting paper, in a
+position as shown in the cut (_Fig. 4._) A fragment of blotting paper
+is then to be used to absorb the moisture from the back of the plate,
+and a pneumatic plate holder--which should only be used for this
+purpose--is applied to it to form a support while
+
+
+APPLYING THE PRESERVATIVE SOLUTION.
+
+[Illustration: _Fig. 5._]
+
+Taking the plate in the left hand by means of the pneumatic holder,
+incline it as shown in the diagram (_Fig. 5_); then having poured
+into a perfectly clean measure rather more of the preservative
+solution than is necessary to cover the plate twice,[B] pour half of
+it along the upper edge (A B) in such a manner, that a wave of the
+solution may flow uniformly from one end of the plate to the other;
+allow this to flow off into the waste pan or sink, and then bring the
+plate to the horizontal position, and pour on the remainder of the
+preservative solution, eight times at least, allowing it to flow
+back into the measure from each corner in succession, in order that
+the whole plate may be brought uniformly under its influence. The
+plate is to be again placed on a piece of clean blotting paper (as
+shown at _Fig. 4_), and its back once more wiped with a fragment of
+blotting or papier Joseph, in order to remove any of the preservative
+solution that may have run from the surface to the underside in the
+previous operation. The plate thus preserved is to be reared on a
+piece of blotting paper with its face against the wall until dry, and
+is then to be stowed away in a plate box, perfectly light-tight to
+await the
+
+[B] A plate, 9 inches by 7, takes about 1 ounce of solution.
+
+
+EXPOSURE IN THE CAMERA.
+
+Collodion plates preserved as above directed, will keep perfectly
+good and sensitive for 12 months at least; and from the appearance of
+the developed image on a plate that has been kept that time, I see
+at present no reason why, if preserved from the damp, they would not
+keep indefinitely. In my experiments, I have never found the least
+difference in sensitiveness, whether the plate be used within a few
+hours of the time of its preparation, or has been kept for months;
+until, however, we have had more experience in the matter, it would
+be safer not to rely on plates more than 12 months old.
+
+The time of exposure in the camera, of course varies in this process,
+under the same circumstances as it does with the wet Collodion; but
+I have found as a general rule, that it is better to give the plate
+a full exposure than to fall into the opposite extreme: that is to
+say, it is preferable to expose the plate sufficient time for the
+deepest shadows to make an impression than to close the dark slide
+at an earlier period, the mode of development allowing considerable
+latitude in this particular. With a 3-inch single lens, 16-inch
+focus, with a ½-inch stop, the usual time for a bright landscape
+will be about 5 minutes; this of course is merely an approximation
+to the time of exposure, the exact time can only be arrived at by
+experience. I do not think I can do better than follow the plan
+adopted in my "Practical Photography," of giving instances of
+under and over exposure, as a means of educating the tyro in the
+appearances that result from these conditions of the plate.
+
+If the exposure has been of too short duration, the image will come
+out under the developing solution with difficulty; and after a
+continued immersion in it will only present the high lights, the deep
+shadows not being represented, or, if so, in so faint a manner as to
+be useless in the picture.
+
+An over exposed plate, when treated with the developing solution,
+will almost immediately give indications of the picture; and in a
+few minutes, the whole of the picture, _deep shadows and all_, will
+come put in unnatural force; on looking through the picture thus
+produced, we shall observe a great flatness in it, there is a want
+of contrast between the various parts, and although by continuing
+the development we might obtain a tolerably intense negative, the
+resulting picture would be flat, meagre, and unsatisfactory: on the
+contrary, a plate that has been exposed for the correct time, will
+comport itself very differently under development from the foregoing.
+
+The sky and high lights will first appear, then the half tones, and
+lastly, the parts of the picture that were in deep shadow will show
+themselves; this effect should take place in about five minutes from
+the time of immersion in the developing bath: a picture that comes
+out sooner than this, is, as a general rule, over exposed; and one
+that is much after the five minutes before it makes its appearance,
+may be considered as under exposed.
+
+We trust that the above instances may be of service in indicating the
+average time required for an exposure of the plate, but we must ask
+the reader not to take the figures given as actual values, but merely
+as very close approximations to the truth. We will imagine the plate
+to have been properly exposed, and proceed to
+
+
+THE DEVELOPMENT OF THE PICTURE.
+
+It is not necessary that the picture should be developed immediately
+after exposure in the camera; any time that is convenient to the
+operator may intervene between the processes, provided the aggregate
+time before and after exposure does not exceed the limits of keeping
+power of the plate.
+
+The development of the picture may be conducted in two ways, either
+by immersing the plate in baths or dishes, or by placing it on the
+levelling stand and treating it with the solutions, in their proper
+order, as detailed below. Each plan possesses certain advantages, but
+it is of little consequence which one is followed. Perhaps there is
+less danger of the film washing off if the plate be treated on the
+levelling stand, and on the other side with large plates it is more
+difficult to cover them evenly with the developing solution than it
+is simply to immerse them in a pan of solution. We say to the reader,
+try both ways, and make your own selection.
+
+The plate upon being removed from the camera is placed face upwards
+in a porcelain or glass dish of a convenient size (not too large),
+and sufficient distilled water is to be poured over it to cover
+the surface thoroughly--this is for the purpose of softening the
+preservative solution, and must be allowed to remain on the plate
+for five minutes; the plate is then to be lifted in and out of the
+water by means of the silver hook. This done, remove the plate to
+a perfectly clean dish, and pour carefully over it the developing
+solution, composed of
+
+  Saturated Solution of Gallic Acid (p. 10)   8 ounces.
+  Solution of Nitrate of Silver (p. 10)       2 drams.
+           THOROUGHLY MIXED.
+
+In a few minutes the picture will begin to make its appearance,
+and will gradually unfold its details under the influence of the
+developer, until the whole of them are apparent; on raising the
+plate, however, when this stage of development is reached, and
+viewing it by transmitted light, the picture will appear weak
+and poor; we must now remove the plate from the bath, and add 2
+drams more of the nitrate silver solution, and having thoroughly
+mixed it with the gallic acid already in the dish, we return the
+partially developed plate, which in the course of a few minutes
+will have acquired a great amount of intensity,--the exact degree
+can be regulated by the time of immersion: when the picture appears
+sufficiently intense, it is to be removed from the developing dish,
+and a gentle stream of water is poured over it, in order to remove
+any adhering developing solution, and stop all further reducing
+action on it.
+
+During the whole time of the development, the gallic acid should
+remain quite clear; it will become slightly discoloured before the
+end of the development, but it ought not at any time to become muddy,
+or it will deposit a sort of sandy sediment on the surface of the
+plate, which cannot be removed by subsequent washing.
+
+The usual time occupied in the development of a successful picture
+is from 20 to 30 minutes, it might be developed much quicker by
+using pyrogallic acid, but at present I give the preference to the
+developer I have described, as I believe it to be more certain, and
+more under the control of the operator than the pyrogallic acid; and
+further, as it is not necessary to watch the development all the time
+it is going on, there can be very little saving of time in the more
+rapid method of bringing out the latent picture.
+
+The picture being washed free from the adhering developing solution,
+is to be placed on the levelling stand, and subjected to the seventh
+part of the process--
+
+
+FIXING THE DEVELOPED IMAGE.
+
+This is accomplished by pouring over the surface of the plate
+sufficient solution of hyposulphite of soda (p. 15) to thoroughly
+cover it, this will dissolve out the unaltered iodide of silver, and
+give us a clear and bright picture, in which the deep shadows should
+be as transparent as the glass itself, and the high lights as dense
+as a piece of metal, the intermediate tones assuming their proper
+positions according to the intensity of the light that was concerned
+in their formation.
+
+When the whole of the yellow iodide of silver is removed, the fixing
+solution may be thrown off, and the plate must be treated with an
+abundance of water; too much cannot well be given at this stage, as
+the hyposulphite adheres with great tenacity to the plate, even
+after a good washing. The back of the plate must be washed as well
+as the front, for I have found that a neglect of this precaution has
+ruined many a fine negative; the hyposulphite remaining at the back
+finding its way by capillary attraction to the surface, and once
+there, its destructive qualities are sure, sooner or later, to render
+themselves evident.
+
+The picture being thoroughly washed, and either dried spontaneously
+or by the fire, has only to be covered with a film of varnish. And
+now comes the last operation, of
+
+
+VARNISHING THE FINISHED NEGATIVE.
+
+Benzoin varnish is the best coating that can be given to a Collodion
+negative. It resists the action of pieces of grit; it does not crack;
+and, above all, it does not, like amber varnish, split off the
+picture on the slightest friction.
+
+The application of this varnish is a very simple matter. The negative
+is to be again placed on a pneumatic plate holder, and the varnish is
+to be poured on to the surface in precisely the same manner as the
+Collodion was at the commencement of the process, the superfluous
+quantity being returned to the bottle: in a few moments the varnish
+will be quite dry and hard, and the plate may be handled with perfect
+safety.
+
+I may mention, as a precaution, in varnishing the plate, that it
+is better to perform that operation in a still atmosphere; as the
+solvent of the gum being chloroform and very volatile, if it were
+conducted in a current of air, there might be some difficulty in
+obtaining an even coating to the picture.
+
+In concluding this description of a process, which is at once simple
+and certain, I would ask the patient attention of those who may do me
+the honor of repeating my experiments. I have endeavoured to render
+the details of the process as intelligible as possible, and if I have
+succeeded in advancing the art of Photography only one step by so
+doing, I consider that it is an ample return for hours and days spent
+in anxious thought and laborious experiment.
+
+
+                               FINIS.
+
+
+                     SPECIAL LIST OF REQUISITES
+
+                               FOR THE
+
+                      =DRY COLLODION PROCESS,=
+
+                             SUPPLIED BY
+
+                        Messrs, BLAND & LONG,
+
+             Opticians, & Photographic Instrument Makers
+
+                            TO THE QUEEN,
+
+                    =153, FLEET STREET, LONDON.=
+
+       *       *       *       *       *
+
+                           BLAND & LONG'S
+
+                      =IODIZED DRY COLLODION.=
+
+This preparation will keep for an indefinite period, and can be
+exported to any climate, without risk of deterioration.
+
+_Half-pints, 10s.; Pints, 18s._
+
+       *       *       *       *       *
+
+                           BLAND & LONG'S
+
+                      =PRESERVATIVE SOLUTION,=
+
+                   READY FOR USE.--_1s. per pint._
+
+
+                           BLAND & LONG'S
+
+                         =BENZOIN VARNISH,=
+
+                FOR PROTECTING THE FINISHED NEGATIVE.
+
+                            _1s. per oz._
+
+This varnish does not require the plate to be warmed; but dries
+instantly, leaving a perfectly hard transparent coating on the
+picture.
+
+       *       *       *       *       *
+
+                      =NITRATE OF SILVER BATH,=
+
+                  FOR BLAND & LONG'S DRY COLLODION,
+
+            Ready for immediate use.--_7s. 6d. per pint._
+
+                  *       *       *       *       *
+
+                          =PURE CHEMICALS.=
+
+                                          _s._  _d._
+
+  Fused Nitrate of Silver, absolutely pure   4    6  per oz.
+  Glacial Acetic Acid                        1    0    "
+  Pure Gelatine                              0    6    "
+  Pure Citric Acid                           0    6    "
+  Gallic Acid, pure                          1    6    "
+  Iodide of Cadmium                          3    0    "
+  Hyposulphite of Soda                       1    0  per lb.
+  Pure Sulphuric Æther                       0    6  per oz.
+  Absolute Alcohol                           0    6    "
+
+       *       *       *       *       *
+
+                     FOR THE PRICES OF APPARATUS
+
+                                 SEE
+
+                          =BLAND & LONG'S=
+
+           Illustrated Catalogue of Photographic Apparatus
+
+                _Sent free by post, on application._
+
+
+                              SENSITIVE
+
+                       =DRY COLLODION PLATES,=
+
+                  READY FOR EXPOSURE IN THE CAMERA.
+
+                         (=LONG'S PROCESS.=)
+
+                  *       *       *       *       *
+
+Messrs. Bland & Long are now prepared to supply these
+plates, carefully secured in sealed cases, with full directions for
+exposure and development, of all sizes and in any quantity, at the
+following prices:--
+
+              Per Doz. |                Per Doz.
+                 s. d. |                £.  s. d.
+  4¼ × 3¼        5  0  |  7  ×  6       0  14  0
+  5  × 4         6  6  |  8½ ×  6½      0  18  0
+  5½ × 3⅜        6  0  |  9  ×  7       1   1  0
+  6¼ × 3⅜        8  6  | 10  ×  8       1   6  0
+  6½ × 4¾        8  6  | 11  ×  9       1  13  6
+  6¾ × 3¼        8  9  | 12  × 10       2   0  0
+  6  × 5         8  6  | 15  × 12       4   0  0
+
+LARGER OR OTHER SIZES TO ORDER.
+
+The advantages of a certain and simple Dry Collodion Process are so
+obvious to those who have practised Photography in the open air, that
+we feel it is merely necessary to introduce the above list to their
+notice with as few remarks as possible.
+
+We would, however, mention a few particulars connected with the
+process for the information of those who have not hitherto practised
+the Dry Collodion process, as detailed by Mr. Long.
+
+The plates as prepared for sale, are hermetically sealed in an
+envelope perfectly impervious to air and moisture, they can therefore
+be exported to any climate without risk of deterioration.
+
+Plates prepared by Mr. Long's process will keep sensitive for almost
+an indefinite period, and can be developed at any time without
+regard to the date of exposure; this, it will be seen, is of immense
+advantage to the tourist, as he can delay the development of the
+whole of his plates until his return.
+
+To those Photographers whose inclinations or want of leisure will not
+admit of their carrying through the first preparation of the plate,
+these Dry Sensitive Plates will be found invaluable, enabling their
+whole energy to be directed to the more careful selection of subject.
+
+The plates being dry, there is no danger of dust settling on their
+surfaces; this point will be appreciated by every Photographer.
+
+The development of the pictures can be conducted in any room whence
+the light can be excluded--as the process is simple and clean--three
+dishes being the only requisites in point of apparatus.
+
+To Officers, Engineers, and Architects, these Dry Plates offer
+a desideratum of no small value, as they are _always ready for
+use_, occupy very little room in travelling, and can be used under
+circumstances which would preclude the adoption of any process that
+had to be carried out on the spot.
+
+       *       *       *       *       *
+
+
+                            BLAND & LONG,
+
+            Photographic Instrument Makers to the Queen
+
+                     153, FLEET STREET, LONDON.
+
+
+                                 THE
+
+                     =DRY COLLODION PROCESSES.=
+
+                  *       *       *       *       *
+
+          Messrs. BLAND & LONG have invented the following
+                           simple means of
+
+                 =CHANGING THE DRY COLLODION PLATES=
+
+        while working in the fields. The plan has been in use
+                for some time, and answers perfectly.
+
+                  *       *       *       *       *
+
+                     _Price according to size._
+
+               _Adapted to Stereoscopic Camera, 15s._
+
+                  *       *       *       *       *
+
+[Illustration]
+
+
+DESCRIPTION AND DIRECTIONS FOR USE.
+
+No matter what process we employ to retain the sensitiveness of our
+plates, it is most objectionable that the glasses should be made to
+slide by their gravity from the plate-box to the slide; for if we
+employ either honey, glycerine, or oxymel as preservative agents, the
+chances are considerably in favor of an amount of dust settling on
+the surface, the dust being in a great part formed by the attrition
+of the roughened edges of the plate against the plate-box. Another
+inconvenience attending the use of a box when the plate has to slide,
+is the danger that exists under that arrangement of ripping the film
+from the edges of the plate by the friction against the groove in the
+box which holds it. These may appear very trivial matters, but they
+are nevertheless great drawbacks to successful operations.
+
+We may mention that the plan we are about to describe is equally
+applicable to all Cameras of moderate size. We will, however, take
+our description from the form of apparatus adapted to a double lens
+Stereoscopic Camera.
+
+The Camera (A) is furnished at its back with two wires (B). On these
+wires slides the plate-box (C), which has previously been fitted at
+its sides with two sockets (D). Just inside the back of the Camera
+box is a spring (E), and on the top of the Camera is a button (F),
+which secures the dark slide in its place.
+
+We now slide the box of prepared plates (C) on to the wires (B), the
+lid of the box opening from the Camera; we then stretch over the
+whole affair, the black light proof covering (G); this completes the
+arrangement, and now for the mode of operating.
+
+The opaque covering is furnished at its side with two elastic rings.
+Into these thrust the hands, so that the rings may firmly encompass
+the wrist. Then open the plate-box, and throw the lid quite back.
+Next unbutton the door of the dark slide, and raise it until the
+spring (E) flies underneath it, and retains it in a horizontal
+position. This we will presume to be done with the right hand; the
+left hand being engaged as soon as the door is opened, in holding
+the plate that is already in the back in its place. The right hand
+being now at liberty, comes to the assistance of the left, and the
+plate that has undergone exposure is safely transferred to the vacant
+groove in the plate-box. This accomplished, the next plate is to
+be placed in the back, and the same operations gone through in the
+inverse order, the left holding the plate in its place, while the
+right releases the door from the influence of the spring (E), and
+re-buttons it, leaving the plate quite safe in the dark slide.
+
+When we require to focus for a fresh picture, it is only necessary
+to remove the dark covering from that part of the Camera where the
+ground glass is placed. The picture can be seen without removing the
+plate-box or the whole of the covering.
+
+It is obvious that there is no limit to the number of glasses that
+can be taken to the field of operations. In this way, several boxes
+holding a dozen each, can be strapped together and placed on the
+Camera, one by one, as occasion or opportunity may direct.
+
+                  *       *       *       *       *
+
+              H. Silverlock, Printer, Doctors' Commons.
+
+
+                      =PRACTICAL PHOTOGRAPHY,=
+
+                         ON GLASS AND PAPER,
+
+                             A Manual,
+
+         CONTAINING SIMPLE DIRECTIONS FOR THE PRODUCTION OF
+
+           =PORTRAITS, VIEWS, &c. BY THE AGENCY OF LIGHT,=
+
+                            INCLUDING THE
+
+   =Collodion, Albumen, Calotype, Waxed Paper, and Positive Paper
+                             Processes.=
+
+                         By CHARLES A LONG.
+
+           _Fourth Edition, price 1s.; per Post, 1s. 2d._
+
+                  *       *       *       *       *
+
+                =ILLUSTRATED PHOTOGRAPHIC CATALOGUE,=
+
+                            FREE BY POST.
+
+                  *       *       *       *       *
+
+                            =SPECTACLES:=
+
+                  WHEN TO WEAR AND HOW TO USE THEM.
+
+                            ADDRESSED TO
+
+                   =THOSE WHO VALUE THEIR SIGHT.=
+
+                         By CHARLES A. LONG,
+
+                 THIRD EDITION. POST FREE, SIXPENCE.
+
+                  *       *       *       *       *
+
+                                ALSO,
+
+                 A DESCRIPTIVE AND GENERAL CATALOGUE
+
+                                 OF
+
+               =SCIENTIFIC & EDUCATIONAL INSTRUMENTS=
+
+                                 AND
+
+                       CHEMICAL PREPARATIONS,
+
+               Manufactured and Sold by BLAND & LONG,
+
+ =OPTICIANS, PHILOSOPHICAL, PHOTOGRAPHICAL, AND CHEMICAL INSTRUMENT
+                              MAKERS,=
+
+                       AND OPERATIVE CHEMISTS.
+
+                           _Free by Post._
+
+                PUBLISHED BY BLAND & LONG, Opticians,
+
+          Philosophical and Photographical Instrument Makers
+                             to the Queen,
+
+                         163, FLEET STREET.
+
+
+       *       *       *       *       *
+
+
+Transcriber Note
+
+Minor typos corrected. Images moved to prevent splitting paragraphs.
+
+
+
+
+
+

@@ -1,0 +1,3418 @@
+
+
+
+
+
+
+
+
+
+                       THE MISSOURI ARCHAEOLOGIST
+
+
+    [Illustration: Artifacts]
+
+                       VOLUME 24    DECEMBER 1962
+
+
+
+
+                       THE MISSOURI ARCHAEOLOGIST
+
+
+     VOLUME 24, WHOLE VOLUME, COLUMBIA, MISSOURI    DECEMBER, 1962
+
+  Editor: Robert T. Bray, University of Missouri, Columbia, Missouri
+  Associate Editor: Carl H. Chapman, University of Missouri, Columbia,
+          Missouri
+  Art Director: Eleanor F. Chapman
+
+
+                            SOCIETY OFFICERS
+
+                     Henry W. Hamilton, _President_
+                           _Vice-Presidents_
+
+  J. Allen Eichenberger
+  Walter M. Davis
+  Richard A. Marshall, _Secretary_
+  Leonard W. Blake
+  Leo J. Roedl
+  Dale R. Henning, _Treasurer_
+
+
+                                TRUSTEES
+
+  O. D. Evans, _Chairman_
+  Leo Anderson
+  Royal D. M. Bauer
+  C. L. Blanton, Jr.
+  Bartlett Boder
+  Dr. H. E. Calkin
+  Archie K. Cameron
+  R. I. Colburn
+  Harry L. Collins
+  J. L. Connelly
+  Dr. G. F. Cresswell
+  Jake M. Crick
+  Judge S. P. Dalton
+  Mrs. W. L. Davidson
+  Bruce Debo
+  Richard V. Dolby
+  Ralph J. Duerr
+  Terrance Dyche
+  William K. Erickson
+  Charles R. Fiorita
+  Franklin H. Flora
+  J. W. Gerhardt
+  Dr. Ernest B. Hanan
+  H. F. Hansen
+  Harry Harner
+  Dr. M. M. Hart
+  Leonard Haslag
+  Leo P. Hopper
+  Sam C. Irvine
+  Edwin Johnson
+  C. T. Kelly
+  George K. Kirk
+  Albert Kuchs
+  J. H. Larwill
+  Miss Margaret Lawlor
+  George O. Laun
+  James Lowe
+  Frank Magre
+  J. J. McKinny
+  Steve Miller
+  Art Province
+  Julian D. Pyatt
+  Wilson Reardon
+  Ralph Roberts
+  Leonard Rowe
+  Paul V. Sellers
+  C. K. Sheets, Jr.
+  John W. Taylor
+  Dr. P. F. Titterington
+  John C. Vinton
+
+
+                    PRESERVATION OF SITES COMMITTEE
+
+  J. J. McKinny, _Chairman_
+  Lee M. Adams
+  Roy E. Coy
+  William R. Denslow
+  Robert L. Elgin
+  Arthur L. Freeman
+  Sam F. Hamra
+  Dr. H. Lee Hoover
+  M. E. Morris
+  Clyde C. Norman
+  Haysler A. Poague
+  Art L. Wallhausen
+  C. H. Turner
+  Robert L. Seelen
+
+
+                              FRONTISPIECE
+
+    [Illustration: The author John Moselage, center, with assistants
+    Charles Scheel, right, and Dan Printup, left.]
+
+
+
+
+                                PREFACE
+                                   by
+                            Carl H. Chapman
+
+
+The events leading to the publication of the following report by John H.
+Moselage has been one of the highlights of many years of work with
+amateur archaeologists. At first meeting it seemed that he protested too
+much that he wanted to do “real archaeology,” but this desire turned out
+to be quite genuine. He really wanted help. He wanted to do the job
+right at any cost.
+
+Enthusiasm and determination clothed the man almost completely. Working
+with him was a challenge. During the few days of vacation he could spend
+with regular crews of professional archaeologists his quest for
+knowledge, techniques, methods and the proper tools was almost
+insatiable. Then followed long letters containing notes, profiles,
+photographs and maps, to be criticized, and with each new step the
+request for assurance of proper techniques and accepted methods before
+moving ahead. Months stretched into years; bundles of detailed notes,
+long letters of explanation, copies of hour by hour, day by day
+descriptions of work and progress were frequently interspersed by long
+distance calls to solve the problems in the field as they arose. His
+telephone greeting was “Mr. Chapman, I’ve got a problem!” It was usually
+thirty minutes to an hour later before a long distance operator could
+once again clear the line between Missouri and Tennessee or Missouri and
+Arkansas.
+
+All his spare time, all the influence he could exert to get his friends
+to join him, were used to progress the work. His determination carried
+him through rain, mud, flood, and cold, in order to complete the job.
+His enthusiasm and drive carried many others along with him to the
+conclusion of the Lawhorn Site investigation.
+
+Study of pottery types and projectile points became his steady reading
+diet. Long hours were spent in washing, numbering and cataloging the
+specimens from the digs. Analysis of the material through compilation of
+ground plans of the excavation, of house structures, and of vertical
+profiles was a tedious process necessitating the aid of many people. The
+most generous of these in giving time, advise, and use of facilities was
+Mr. Charles H. Nash.
+
+The resulting report on the Lawhorn Site which follows is testimony to
+the unstinting efforts that John Moselage has made. It is an outstanding
+example of what can be done by a true amateur archaeologist and is a
+worthy goal for other dedicated amateur archaeologists. The search for
+knowledge has always led man to his greatest achievements. Research is
+never-ending as knowledge in any area of endeavor is never complete. The
+achievement in this instance is a solid contribution to the archaeology
+of the Eastern United States.
+
+
+
+
+                                CONTENTS
+
+
+                                                                  _Page_
+  PREFACE
+             By Carl H. Chapman                                       iv
+  THE LAWHORN SITE
+             By John Moselage                                          1
+  FOREWORD                                                             2
+  LOCATION AND DESCRIPTION                                             2
+  GEOLOGICAL SETTING                                                   4
+  METHODOLOGY                                                          9
+      Sunday, October 21, 1956                                         9
+      Saturday, October 27, 1956                                       9
+      November 25, 1956                                               10
+      38R5, Sunday, April 28, 1957                                    11
+      15R8, June 21, 1957                                             12
+      7R13, July 14, 1957                                             13
+      31R17, March 15, 1958                                           13
+      27R32, January 25, 1959                                         15
+      32R36, March 20, 1960                                           16
+      41R21, March 22, 1960                                           16
+      41R22, March 22, 1960                                           18
+  EXCAVATIONS                                                         18
+  MATERIAL CULTURE                                                    20
+      Pottery                                                         20
+          Sand Tempered                                               20
+          Shell Tempered                                              25
+          Appendages                                                  25
+      Effigies                                                        30
+      Vessel Forms                                                    34
+          Bowls                                                       34
+          Jars                                                        36
+          Water Bottles                                               36
+  DESCRIPTION AND COMPARISON                                          38
+  SUMMARY OF THE POTTERY                                              42
+      Pottery Disks                                                   44
+      Projectile Points                                               44
+      Other Chipped Stone Artifacts                                   51
+      Mortars and Pestles                                             51
+      Stone Abraders and Whetstones                                   54
+      Pottery and Clay Abraders                                       54
+      Anvilstones                                                     57
+      Hammerstones                                                    57
+      Groundstone Celts                                               57
+      Pipes                                                           57
+      Bone and Antler Artifacts                                       58
+      Brickette and Daub                                              58
+      Shell Artifacts                                                 63
+      Vegetal Remains                                                 63
+  FEATURES                                                            63
+      Refuse Pits                                                     63
+      Ash Pits                                                        65
+      Firebasins                                                      65
+  HOUSES                                                              69
+      House 1                                                         69
+      House 2                                                         69
+      House 3                                                         73
+  BURIALS                                                             80
+  SUMMARY AND CONCLUSIONS                                             87
+  SOUTHEAST MISSOURI AREA CHRONOLOGY                                  93
+  APPENDIX A: IDENTIFICATION OF THE FAUNAL REMAINS FROM THE LAWHORN
+          SITE
+             By Paul W. Parmalee                                      95
+  APPENDIX B: ANALYSIS OF VEGETAL REMAINS FROM LAWHORN SITE
+             By Leonard W. Blake                                      97
+  APPENDIX C: BURIALS AT THE LAWHORN SITE
+             By Charles H. Nash                                       99
+  REFERENCES CITED                                                   104
+
+
+
+
+                             ILLUSTRATIONS
+
+
+  _Figures_                                                       _Page_
+  FRONTISPIECE                                                       iii
+  1. Map of Lawhorn Site in Relation to Archaeological Sites in the
+          Central Mississippi Valley                                   3
+  2. Aerial View of the St. Francis River “Sunken Lands” and the
+          Lawhorn Site                                                 5
+  3. Aerial View of Drainage Ditch and Levee at the Lawhorn Site       6
+  4. Contour Map of the Lawhorn Site, with Levee, Drainage Ditch,
+          Excavated Areas and Grid Control System                      7
+  5. Cord Marked Sherds and Positive Impressions                      21
+  6. Sand Tempered Textile Marked Sherds and Clay Impressions         22
+  7. Sand Tempered Textile Marked Sherds and Impressions              23
+  8. Pottery Handles and Lugs                                         26
+  9. Jar Forms                                                        28
+  10. Pottery Handles                                                 29
+  11. Human Effigy Head                                               31
+  12. Painted Pottery                                                 32
+  13. Decorated Pottery Sherds                                        33
+  14. Bowls                                                           35
+  15. Water Bottles                                                   37
+  16. Pottery Vessels with Burial 24                                  40
+  17. Pottery Disks                                                   45
+  18. Corner Notched and Stemmed Arrowheads                           47
+  19. Ovoid and Trianguloid Arrowheads                                48
+  20. Stemmed Projectile Points                                       50
+  21. Projectile Points                                               52
+  22. Chipped Stone Tools                                             53
+  23. Mortars and Pestles                                             55
+  24. Stone and Pottery Abraders and Stone Pipe                       56
+  25. Bone Tools                                                      59
+  26. Bone Beads and Burned Clay Daub                                 60
+  27. Brickettes or Fired Clay Artifacts                              62
+  28. Shell Ornaments and Tools                                       64
+  29. Broken Pottery Jar                                              66
+  30. Firebasin of Unusual Shape                                      68
+  31. House Ground Plan with Charred Remains, Firebasin, Ash Dumps
+          and Refuse Pit                                              70
+  32. Charred Cane Poles and Grass, Part of House 1                   71
+  33. Houses 2 and 3                                                  72
+  34. Pottery Vessel in House 2 Firebasin                             74
+  35. Ground Plan of House 2 with Firebasin and Burned Floor Area,
+          and House 3 with Details of the Burned Super-structure      75
+  36. Charred Wattle Work Wall or Roof Section of House 3             76
+  37. Basal Ends of Poles along West Wall of House 3                  77
+  38. Cross Sectioned Log from Floor of House 3                       78
+  39. Broken Pottery Vessel from House 3                              79
+  40. Hypothetical Reconstruction of the House Type at Lawhorn        81
+  41. Burials 21 and 22                                               82
+  42. Burial 25 and Associated Pottery Bowl                           83
+  43. Burial 36                                                       84
+  44. Soil Profiles above and near Burial 36                          85
+  45. Pottery Bowl Inverted over Shoulder of Burial 37                86
+  46. Cutting a Horizontal Profile in Square 27R32, Showing Use of
+          Hand Tools                                                  88
+  47. Vertical and Horizontal Profiles Showing Intrusion of Sand
+          into Cracks in Soil, Judged to be caused by Earthquake
+          Activity                                                    90
+  48. Missouri Archaeological Society Achievement Award, 1961        106
+  49. Francis Stubbs, Achievement Award Recipient, 1960              107
+  50. Mr. and Mrs. Harry Collins, Achievement Award Recipient, 1961  108
+  51. Sam C. Irvine, Award Plaque Recipient 1961                     109
+  _Tables_                                                        _Page_
+  1. Summary of the Sand Tempered Pottery                             24
+  2. Summary of Shell Tempered Plain and Decorated Pottery            25
+  3. Relative Occurrence of Pottery Lugs                              27
+  4. Comparison of Domestic and Mortuary Vessel Forms                 34
+  5. Summary of House Data                                            80
+  6. Comparative Analysis of Corn from Lawhorn and Four Area Sites    98
+  7. Comparative Dates from Lawhorn and Four Area Sites               98
+  8. Burial Data                                                 101-102
+  9. Age and Sex Groups                                              102
+  10. Mortuary Vessels                                               103
+  11. Average Age of Fourteen Burials                                103
+
+
+
+
+                            THE LAWHORN SITE
+
+
+                                   by
+                             John Moselage
+
+
+
+
+                                FOREWORD
+
+
+The success of the Lawhorn endeavors is due to the encouragement and
+efforts of many people. However, without the guidance of Carl H.
+Chapman, this venture could not have been undertaken. From its
+beginning, he always found time in his busy schedule to help me with the
+many problems which arose during the course of the excavation and
+narration of the site.
+
+Mr. Charles Nash, Tennessee State Parks Archaeologist, aided in
+preliminary analysis of the material remains, analyzed the burial
+complex and prepared that section for this report. Mr. Nash also edited
+the first draft of the report and prepared the first typescript. The
+time and effort expended by Mr. Nash is sincerely appreciated.
+
+Prior to the final draft and editing, a conference was held at the
+University of Missouri for an analysis and interpretation of the site
+material. Those participating in the conference were Carl H. Chapman,
+Robert T. Bray, Richard A. Marshall, Edwin Sudderth, Richard Bradham,
+and the writer. Editing of the second and final draft was by Robert T.
+Bray and Carl H. Chapman. The job is one which too often goes without
+recognition of the many long hours which are necessary in producing the
+finished report. Especial thanks are due the property owners, Mr. W. O.
+Lawhorn, whose cooperation made this investigation possible. It is with
+deep and sincere appreciation that I recognize the aid and assistance
+given me by my family—my daughters, my son, and my wife, and any success
+is shared equally with them.
+
+Though the day-by-day crew seldom exceeded four in number, many gave
+unselfishly of their time making possible the successful completion of
+the field work. The following is a list of those most helpful:
+
+  J. L. Henson
+  J. T. King
+  Lavern Harris
+  F. N. Davis
+  Robert Smith
+  C. L. Scheel
+  Dan Printup
+  Harry Madison
+  Ted Nelson
+  Irby Long
+
+Others too numerous to mention helped me from time to time, and I am
+most grateful to them all.
+
+
+
+
+                        LOCATION AND DESCRIPTION
+
+
+The Lawhorn site is located on the Leachville-Arkansas-Missouri
+Quadrangle of the U.S. Army Engineer Map in the NW SW Sec. 5, T15N, R7E.
+This lies along the watercourse of the St. Francis River, in Craighead
+County four miles north of Monette, Arkansas. In all probability, at the
+time the site was occupied, the main river channel was not far away.
+
+Figure 1 shows the general location of the site in northeast Arkansas
+just below the boot-heel of Missouri. The larger and better known sites
+shown on this map indicate the extent of the Mississippian groups in
+this region. The site is close to one just north and one or two south
+which seem to be almost identical judging by surface finds and tests.
+The Lawhorn material is mostly Mississippian or has a Mississippian
+component that predominates in the materials found. An early component
+is Woodland or Baytown but it is not well represented on the site.
+
+    [Illustration: Figure 1. Map Showing the Lawhorn Site in Relation to
+    Archaeological Sites in the Central Mississippi Valley]
+
+  CAHOKIA
+  HERRELL
+  KINCAID
+  WICKLIFFE
+  MATTHEWS
+  CAMPBELL
+  LAWHORN
+
+Early St. Francis River meanders flowed eastward along the southern end
+of the site, and in doing so washed away, then redeposited new silt over
+that section. This showed quite clearly in the R22 profile drawings.
+Other than this, in discussing the general nature of the site, it must
+be recognized that the New Madrid earthquake of 1812 changed the
+contours and drainage of this area to a great extent. It is to be noted
+that the Lawhorn site lies on a natural levee or ridge; that is, a ridge
+in the terms of the people who live in this flat country. It is some
+three to five feet higher than the surrounding land. This rise is
+adequate to keep the site dry and well drained through periods of high
+water and floods except during abnormal years. An Army Engineer aerial
+photograph of the area (Fig. 2) shows the general topographic
+relationships. The old meander of the St. Francis River, where it cut
+through the southern end of the site, can still be made out. The most
+recent of the old channels of the St. Francis are quite apparent in the
+densely overgrown jungle-like terrain. This is the area known as the
+Sunken Lands.
+
+The higher elevations on either side are protected by levees and by
+drainage ditches to carry off the immediate drainage water to a point
+where it can be siphoned back into the St. Francis. It is this drainage
+ditch which was cut recently through the Lawhorn site and which can be
+seen very clearly as it parallels the new levee. The site itself is in
+the left central part of the figure as marked by the delineating outline
+(Fig. 3). The black spots showing in the aerial photo are areas of
+higher moisture content due to irregular drying and perhaps have more to
+do with the New Madrid earthquake disturbances than with archaeological
+phenomena.
+
+Figure 4 indicates the extent of the excavations and the method of
+horizontal control through a grid system. Base lines were established on
+the south and west sides of the site so that all squares carry an E
+(east) distance number combined with an N (north) distance number. Ten
+foot intervals or squares were used so that square 17R30, for example,
+would be marked by the southwest corner stake of a square 170 feet north
+and 300 feet west of datum. Datum control point was marked by an iron
+rod firmly set in the ground.
+
+
+
+
+                           GEOLOGICAL SETTING
+
+
+The geology of the Monette area along the St. Francis River is that of a
+complex river valley. It is further complicated by the New Madrid
+earthquake of 1812 and perhaps some earlier disturbances of the same
+nature.
+
+On a substratum of undifferentiated plio-miocene deposits, the
+cross-sectional profile of the valley (Fisk 1944, Plate 15, Sheet 1)
+shows an elevation of 100 to 125 feet above the present mean sea level
+as the base of the alluvial deposit. The top of this extensive
+graveliferous alluvium, 225 feet above sea level, was laid down by the
+Ohio River as its channel pattern changed through the centuries, burying
+older channels under later ones as the ocean levels rose and the ice age
+melted out of existence, thus forming the area known as the Malden
+Plain. The present surface contour at the town of Monette is 235 feet.
+At the site under study the elevation readings are from 237 to 240 feet
+above sea level.
+
+    [Illustration: Figure 2. Aerial View of the St. Francis River
+    “Sunken Lands” and the Lawhorn Site
+    _(In circle)_]
+
+    [Illustration: Figure 3. Aerial View of Drainage Ditch and Levee at
+    the Lawhorn Site.
+    _(To the left of the levee is the St. Francis River in its present
+    “Sunken Lands” channel. The site limits are shown by a dotted
+    line)_]
+
+    [Illustration: Figure 4. Contour Map of the Lawhorn Site Showing
+    Levee, Drainage Ditch, Excavated Areas and Grid Control System]
+
+This valley story is duplicated west of the area known locally as
+Crowley’s Ridge where the Mississippi River flowed during the waning of
+the ice age. Crowley’s Ridge, it should be noted here, is an old land
+surface that was not eroded by the late glacial run-off waters. It is
+this relatively unaltered ridge of land that originally separated the
+Mississippi and Ohio Rivers during the formative age of the present
+alluvial valley. This ridge, only a few miles west of Monette, Arkansas,
+offered a totally different environment and was, presumably, one which
+the Lawhorn people made, at least, seasonal use of. The St. Francis
+River channel, lying close to the eastern edge of Crowley’s Ridge is the
+end result of these early braided Ohio River channels while today the
+Black River has replaced the Mississippi in the western valley.
+
+By 2000 B.C. the Mississippi River had moved to the east side of
+Crowley’s Ridge and well east of the Monette area. The Ohio River was
+then in the vicinity of the present Mississippi River. During the next
+1000 years the Mississippi channel moved gradually eastward until it was
+flowing close to the Ohio River and roughly parallel to it, merging in
+the vicinity of Helena, Arkansas. By the beginning of the Christian era,
+the two rivers had joined near Cairo, Illinois and so began the modern
+alluvial valley pattern (Fisk, 1944).
+
+If the interpretation of the time of geological developments is correct
+the story of mankind in this region would be limited to something less
+than 6000 years. Early Man may have wandered the shoreline of the
+ancient river channels, but if he did there is very little likelihood
+that any of his remains would be found today in this valley area since
+they would have been washed away or covered with the refilling of the
+valley.
+
+Further complicating the picture there has been a tremendous amount of
+recent geological disturbance in this area due to the New Madrid
+earthquake and possibly others of earlier date. These geological
+developments set part of the environmental state for the users of the
+Lawhorn site. Later developments contrived to destroy much of the
+evidence left by man as a series of earthquakes changed the face of the
+land (Humphries, 1960, p. 32).
+
+Another factor that must be taken into account is the recent work of the
+United States Army Engineers in protecting the higher lands from the
+floods of the St. Francis River Sunken Lands and in draining this entire
+region. Within the last five years a new ditch has been dug parallel to
+a new levee on the east side so that it cut through a section of the
+Lawhorn archaeological deposit. This work laid bare many skeletons and
+considerable occupational debris. Harmful as this activity is to
+archaeological sites it was nevertheless an important factor in bringing
+this site to the attention of the writer. It is unfortunate that most
+sites thus destroyed, in whole or in part, by drainage and levee
+building excavations cannot be similarly salvaged. Governmental
+machinery is available for this work but unfortunately there has been no
+institutional agency ready, willing and able to accept the burden in
+this area.
+
+The first evidences of man at the Lawhorn site are sand tempered pottery
+and associated dart points. These show that this site was occupied by
+man long enough to produce an archaeological deposit judged to be
+Woodland or Baytown. The deposit is thin and gives little evidence of
+ever having been much deeper. Above this thin evidence were shell
+tempered pottery and related stone, bone and shell artifacts that
+indicated a more intensive use of the site at a later time by
+Mississippian people.
+
+
+
+
+                              METHODOLOGY
+
+
+The archaeological methods used were standard handtool methods. The
+following excerpts from day to day field notes will give a fair idea of
+how these were applied. These appear in essentially unedited form.
+
+
+Sunday, October 21, 1956
+
+We began the little project with the first crew, Mr. Irby Long,
+surveyor; C. B. and R. E. Gaylon; J. R. Marret of Caldwell, Missouri;
+Josephine, Carolyn, J. H., Jr., and myself (John Moselage).
+
+The work consisted of determining the extent of the site, putting up the
+map table, and staking out the boundaries of the site and recording them
+on the map.
+
+We had expected to have started the contour lines on the map but
+determining the boundaries of the site required most of the day.
+
+The above mentioned boundaries were permanent markers, being long pieces
+of steel pipe. The steel markers were put in at the NW corner, and the
+SW corner; wooden stakes were used in the NE corner and SE corner, these
+were of wood due to that part of the site being in cultivation, however,
+all of our measurements used in regard to locating the squares are based
+on the measurements of the SW steel stake as it is the R 8 line although
+it is the SW corner of the site. The reason it is the R 8 line is due to
+the levee running in a NW direction and at the NW corner the site is 80
+ft. in a westerly direction. All squares are to the right as the
+starting point is at the levee.
+
+
+Saturday October 27, 1956
+
+On the site early this A.M. were Mr. Long our surveyor, the Gaylons,
+John Jr., J. T. King, E. R. Deen, and myself. We all worked hard this
+day. We divided up into smaller crews and mapped in the contour lines,
+while the others staked out the R 8 line. This line, as before
+mentioned, began on the southwest corner of the site. The 32 line
+appeared to be about the center of the site due to the angles of the
+site. It was the likely point to begin the test trench, as we thought,
+and we began at the levee working in the direction of east on the south
+side of the 32 line. The soil was exceedingly hard and we had to work
+with small picks (Army surplus). During late evening I had the wall
+scraped down and drew the first profile.
+
+Mr. King’s part of the trench did not work as easily as the part I had
+undertaken, and because the trench was irregular in depth, and the hour
+so late, we decided to resume work after there had been a good rain, in
+hopes that the ground would be in better condition to work, as the
+ground was like concrete. Though the soil was so hard, the profile was
+good.
+
+There was distinct separation in soil colors and they changed in other
+parts of the trench. On the top was a brown color and at the bottom was
+brown with a band of what appeared to be ashes through most of the
+center.
+
+At the end of the day we all felt proud of the map, and having actually
+started digging.
+
+On the section line, or corner of the section, (NW corner) is a brass
+marker with elevation stamped on it, this was used to get the elevation
+of the highest point on the site.
+
+This same elevation was transferred to a stake by a large gum tree. This
+stake is of walnut. The elevation was also transferred to a stake in the
+levee near the 32 line.
+
+
+November 25, 1956
+
+In company of J. L. Henson, we staked out square 38R9 of which over half
+was in the seep ditch. With such a small crew we decided on that small
+part of a square to excavate.
+
+We recorded the datum depths on the NW and SW corners—the others being
+in the ditch—and removed the plow zone. At the bottom of the plow zone
+there were strips that measured approximately two inches, running in a
+straight line. With lots of concern we finally figured that it was where
+the bottom of the plow had sloped off toward the ditch, and we wanted to
+level the next surface, so the established depth of the plow zone for
+this square was set at DD 6.5 though at one edge it was not that deep.
+There was not anything that we could report for that level, and we went
+six inches lower to DD (Datum Depth) 7.0. In this area a pit showed up
+for when we scraped off the level at DD 7.0 we had the outline of a pit.
+
+We cross sectioned the pit to obtain a profile, and it extended six
+inches below the top of the subsoil. The profile drawn shows the pit
+starting at DD 7.0 which is where we first discovered it. Subsoil was on
+an average of DD 7.6.
+
+The outline of the pit was not as distinct as shown on the Feature form
+but that is closest lines that we could obtain of it. I packaged the pit
+material and classed it as belonging to the level from DD 6.5 to 7.0.
+See feature form 2 for details.
+
+
+38R5, Sunday, April 28, 1957
+
+Accompanied by J. L. Henson, Chas. Scheel and John Jr., we began work on
+the site. For the last few weeks we have removed our stakes after each
+day’s work because of the farming expected on the site. This causes an
+extra amount of work each trip that could have been used so badly in the
+excavation.
+
+After removing the plowzone, the square was scraped off, and there was
+no pattern or postmold to be seen. We removed all potsherds, bone, and
+stone F. S. (Field Specimen) 83 DD 6.5 to 7.0, and again scraped off the
+soil, and again there was no pattern. We also found a projectile point
+in the above mentioned level F. S. 84. We removed the next 6 in. of the
+square collecting potsherds, etc., F. S. 85. Also in this level the soil
+changed from the strong midden rich brown in color to that color of the
+subsoil, which is of a light sandy brown to yellow. This soil presented
+a problem, it was of a mottled color, the same as found through the
+subsoil. There is so little difference between this soil and the
+absolute sterile soil. This soil has been checked the entire length of
+the site in the new seep ditch, which is over 6 ft. deep and there is no
+doubt of its being sterile. This situation is of great concern because
+of the burials that have been found in what appears to be the subsoil.
+There is positively no connection between this burial and the dark brown
+midden in the soil above. There is no sign of a pit leading to the
+burial, but there is a difference in pottery styles, texture, even the
+feel of the material found in what appears to be the subsoil, and in
+that found in association with the dark brown midden.
+
+Mr. Scheel, working in the square with me, commented on the change of
+color, and I asked him what he would think if I told him there was a
+burial below where he was working. He asked me how I knew, and I told
+him of the legs being in the last square we worked, and he said it would
+be Woodland, as there was no connection with the Mississippi midden
+above the soil we were then working in. We were being pressed for time
+at this part of the square so we narrowed the square to 5 × 10 ft. and
+when we reached the burial, we also reached water. The river at this
+time was over the banks and seemed to boil up in the square; this
+presented a real problem. We debated as to whether we should quit the
+square and fill it up or do the best we could. We thought of filling in
+the 10′ × 10′ square and reopening it a year later but decided that we
+would finish since we had lots of decisive facts and we needed the rest
+to complete forms. We gathered up boards to stand on to keep from
+sinking in the sand, and the condition of the bone was so poor, being
+wet, it was just impossible for us to remove it. Though I did get the
+skull taped up before trying to remove it, the other bones were so soft
+they crumbled when handled, so the skull was all the bone that I could
+remove in one piece. There were three pottery vessels with this burial,
+a bottle, which was upside down, a bowl beside the head (it too was
+upside down) and a jar by the right arm which was right side up.
+
+While working in square 37R5 this burial was partly in it (37R5) and
+there weren’t feet present (see photo 34). The absence of feet has
+occurred before and it is a trait that may be distinctive.
+
+While removing the skull of this burial, which was on the line (R6), the
+arm of another burial, in square 38R6, was found. It was not removed,
+but was left for future investigation since the conditions are the same
+as the above mentioned burial. The soil color in the levels below the
+midden is of great concern in this area; there seems to be a
+discoloration in what appears to be the top part of the subsoil. There
+will be a thorough check made of the soil.
+
+
+15R8, June 21, 1957
+
+Accompanied by J. L. Henson and son, Charles, James Vorus, and John,
+Jr., we moved to the part of the site that I rented for the summer, and
+decided on a square on the highest part on this end of the site. We
+established the square 15R8 and put up the shelter over the square to
+protect us from the sun. We removed all potsherds from the plow zone to
+DD 4.7, at DD 4.7. There appeared a black area in the NW ¼ of the
+square. The NE ¼ had indications of burned clay. The black area
+suggested a pit but there was no outline of one. At DD 5.0 the black
+area was still there and contained above the normal amount of charcoal
+but still no define outline of a pit. At DD 5.5 we outlined the black
+area and sketched in the square form. At DD 6.0 the area did not exist.
+The only difference in this area and the rest of the square was the dark
+color; the contents or number of potsherds, and other evidences appeared
+to be the same as the rest of the square. I could not positively say
+that this area was a pit.
+
+At DD 5.5 the soil changed to a lighter brown. There were tree root
+impressions visible that were not visible in the above level. This
+suggested another natural level. Also, there was little material to be
+found. The few sherds were not in a midden. There was little other sign
+of an occupation in this soil (the lighter brown soil).
+
+This lighter brown soil was mottled in color, having light sandy streaks
+and circles and at DD 7.2 there was yellow sand. In this mottled sandy
+soil was a burial (25) under the R9 line and less than one foot north of
+the 15 line, and there was no sign of the midden with this burial,
+though there was a little darker appearance of the mottled soil. The
+members of the party and all kept up with activities throughout the
+whole square and it was plain to all that there seemed to be no
+connection between this burial and the midden above. There was a
+separation at the knees. Also, there appeared a sunken place in the
+pelvic region which was reflected in the midden above. It would also
+account for the separation between the bones at the knees. There was a
+deformity of the right femur which should be explained at a later time
+after examination by proper persons.
+
+A different method of taking the soil profile was followed. This time I
+used the transit at each running foot of the east wall to record the
+lines inscribed in the wall.
+
+According to the profiles of the four walls, they were nearly uniform in
+depth, that is, no marked difference was present to warrant drawing all
+four. The east wall was used because of the sunken area, on the R9 line.
+During the afternoon we had a shower of rain though we worked on through
+it.
+
+We finished work at nightfall and then filled the square. It was nearly
+9:00 P.M. when we finished. We arrived home after 11:00 P.M.
+
+Highlights of the trip were when we found the burial which was quite a
+bit of excitement for James Vorus; the boat ride to the car in the
+darkness; and when we all got to the nearest store we each had three
+king size cold drinks.
+
+In regard to the sunken area in the square which has shown up in the
+midden and in the burial in the subsoil, perhaps (this) has some
+connection with the New Madrid earthquake. This site is in the Sunken
+Lands. There was also the absence of the two strata profile in the
+midden. Perhaps future work will reveal the reason for the change.
+
+
+7R13, July 14, 1957
+
+James Vorus, Mr. F. N. Davis, John, Jr., and myself arrived at the site
+early this A.M. We had discussed moving to the edge of the site on the
+south end, which we did. We established square 7R13 and set up for work.
+The plowzone produced little material. The potsherds were scarce at the
+bottom of the plowzone. There was no pattern of pits, or other features
+to be found.
+
+The next level, DD 6.2 to DD 6.5 produced several possible postmolds,
+but when cross-sectioned, they were either tree roots or just shallow
+black areas—not postmolds.
+
+This level produced little material, only a few potsherds and debris.
+From Datum depth 6.5 to 7.0 there was just a handful of potsherds. This
+is a marked difference over the rest of the site that had been excavated
+to date. As a rule, the sherds are plentiful. At DD 7.0 when the surface
+was scraped off, the outline of a fireplace appeared and in the
+fireplace was a small flat stone, under which was a considerable amount
+of charred root. Readily identifiable were nut shells and hulls.
+
+At DD 7.5 there was the outline of two pits in the subsoil (subsoil
+first showed at DD 7.2), one small pit, the other three feet in
+diameter. The pits were cross-sectioned with a two-foot trench. The two
+pits were then photographed. The north wall was then scraped and marked
+with lines at each running foot, the profile sketched in the wall, then
+photographed, and drawn on the graph paper, using datum depths at each
+line on each running foot of the profile. The square was filled shortly
+before dark.
+
+
+31R17, March 15, 1958
+
+The crew on the site early this A.M., and we decided to work on the east
+side of the ditch and in the vicinity of the burials that had been found
+previously. We staked out square 31R17, and began work; we removed the
+plow zone. We scraped off the new surface in search of any possible
+pattern of pit outline, or postmold, and there was none to be found.
+Potsherds, and other items, were collected for that level F. S. 185
+which was the plow zone.
+
+With no visible pattern in the horizontal profile at DD 5.0 we began the
+next level collecting potsherds, which were designated F. S. 187. At DD
+5.0 to DD 5.5, and at two-tenths of a foot in the level there appeared
+the top of a skull (See burial form 34). Burial 34 had a skull at its
+feet, possibly a trophy skull, and was a positive association with
+burial 34. At the completion of the square, the following information
+was recorded:
+
+There were four burials directly beneath Burial 34, and in a very
+compact arrangement; two of the burials were adults, and two of them
+infants. They were in a very disturbed condition, at the time they were
+discovered. The problem arose as to what took place. They were in an
+east-west direction, and in very compact arrangement. It seems as though
+each burial was disturbed when each succeeding burial was placed in the
+pit. The question arose, due to the placement of one atop each other in
+such an exact arrangement, could there have been some sort of mark to
+denote the location (That is, if each one had a time space between
+them.) But the search produced nothing to indicate such a marker; no
+postmolds could be found.
+
+These burials began atop the subsoil, and continued upward to datum
+depth 5.2. If there was a pit outline in the square it was not visible
+to us, and that is one of the items we are so careful about. In spite of
+the fact that the burials were disturbed and in a very poor state of
+preservation, one assuring condition was the position of the remaining
+vertebrae which indicated the four burials were under burial 34. There
+was a broken bottle associated with these burials, and in all
+probability belonged to burial 34 F. S. 191; DD 5.7 to the bottom of the
+vessel.
+
+The soil changed to a lighter brown at DD 5.5 and continued about the
+same to subsoil which was listed as DD 6.0. The DD was based on the
+average depth of subsoil.
+
+About two inches south of the 32 line, there appeared another burial,
+which was almost entirely in the square to the north, square 32R17. The
+south half of square 32R17 was also opened in order to record this
+burial. In doing so, the top of a bottle appeared, about two feet north
+of Burial 32, and nearby were the fragments of an infant burial and
+there were no artifacts associated with it. The burial was partly in the
+plow zone, and was almost completely destroyed. The bone was in poor
+condition and crumbled in removal.
+
+The bottle was associated with a burial. The burial was on top of the
+subsoil and consisted of part of one arm, the radius, ulna, and
+hand—nothing else. There was no indication of disturbance, and no
+missing bones were found in the midden. Less than two feet north of
+burial 34 was another burial, the feet extending into parts of squares
+31R16 and 32R16. The burial was in a shallow pit in the subsoil, and had
+one association with it, a bowl F. S. 190. The vessel had little nodes
+on four sides near the top, four nodes to each side except one side
+which had three nodes. This burial was .4 ft. below the average datum
+depth of the subsoil of this square. There was no disturbance to burial
+32 and burial 33 was partly under burial 32. Burial 33 was in a lighter
+brown soil than that above datum depth 5.5.
+
+There have been many burials in somewhat similar condition in regard to
+the missing bones, both disturbed and undisturbed, throughout the whole
+site in which burials were found. The skeletons were removed to the best
+of our ability, one of the burials in its entirety.
+
+We filled the square and returned home.
+
+
+27R32, January 25, 1959
+
+J. T. King, Dan Printup, and myself returned to the site. Continuation
+was in square 27R32 beginning at DD 5.5. There had been some disturbance
+to the square since we were there last. A large potsherd had been
+removed from the ground plan DD 5.5, and a portion of the skull that was
+showing in the east wall of the square had been dug out. Most of the
+skull remained. Otherwise things were just as we had left it.
+
+We began removing the level DD 5.5-6.0. The soil was in the best of
+condition to work by the method of taking thin vertical cuts. The square
+produced as follows: in the SE quarter the soil was similar to the
+subsoil in color which was of a light brown or yellow color and with a
+high content of sand. There were lighter streaks and blotches throughout
+this area, and as has been found in most of the other squares, there was
+a small quantity of sand tempered fabric impressed sherds in the top
+part of this soil just described. The NW portion of the square had a
+concentration of the midden as is usually found in the main occupation.
+The NW quarter of the square produced a good quantity of shell tempered
+sherds. This area was screened but produced only sherds and a few small
+animal bones. This deposit continued through the depth of the level and
+was evident in the ground plan or horizontal profile at DD 6.0 though
+nearing the termination of it.
+
+The ground plan at DD 6.0 revealed what appeared to be several postmolds
+in an arc-like pattern. Photographs, black and white and color were
+taken of this ground plan. These areas which appeared to be postmolds
+were cross sectioned and the cut was photographed in color. To date it
+is doubtful that they could be postmolds for the following reasons:
+there were no definite lines to indicate the post, the sand streaks were
+evident in the unbroken pattern of the rest of the soil, the soil
+appeared to be stained, and in one of the patterns in question, the
+stain was in a pattern similar to an outline of a postmold. In the
+others the depth varied from less than a tenth of a foot to five tenths
+and they were in an irregular shape in the cut or profile where it was
+cross sectioned.
+
+
+32R36, March 20, 1960
+
+From an aerial photograph of the site made in January, 1960, there
+appeared to be several dark areas along the east line of the site. These
+could have been damp spots or could have been patterns representing
+refuse pits, houses or some other features. They were in a straight line
+and uniformly spaced. It was difficult to locate the spot from the
+ground, but using photographs from two angles, we were able to find the
+approximate location of one of these dark areas. Then the grid system
+was staked out in this area and using 1 × 4 × 10 ft. boards painted
+white and placed at designated squares the site was again photographed
+from different angles and altitudes. Square 32R36 appeared to be within
+one of the dark circles, which did not appear as clearly as in the first
+aerial photograph for the site had been plowed in the meantime.
+
+Charles Scheel and myself began work. The plowzone produced few
+potsherds and bone (F. S. 388) and a number of bits of burned clay
+appeared in the plowzone as well as the sherds. The first horizontal
+profile contained a considerable amount of charcoal bits. The profile
+indicated changes of color in different areas of the square but did not
+give any indication of a pit or postmolds or anything that would
+indicate a feature to us. There was evidence of earthquake disturbance
+on the west side of the square. There was a dark area on the east side
+with considerable charcoal and burned bits of clay with numerous
+potsherds and a fair amount of animal bone—quite suggestive of a refuse
+area. To the south of this was an area of medium brown sandy soil with a
+bit of clay mixed in but it contained little material.
+
+The area to the west was of a lighter color and contained fewer charcoal
+bits, but about as many potsherds and bone. On the west side of the
+square beginning at the north end one foot east of the west wall, a
+vertical sand streak one half inch wide, possibly earthquake
+disturbance, running to the west wall four feet south of the north end,
+and another vertical sand streak two feet wide running about four and
+one half feet south of the north end to the south wall three feet east
+of the SW corner of the square.
+
+In the NW quarter of the square Burial 38 was found. It was quite
+compact and not articulated. Some of the bone had been burned and was in
+fragments.
+
+In the NE quarter of the square and just north of Burial 38 was located
+Burial 39. It too had been partially burned but the bones were more
+neatly placed than Burial 38. The skull and parts of the other bones
+were not burned. Both burials were photographed.
+
+
+41R21, March 22, 1960
+
+Charles Scheel and myself began work this A.M. Plowzone removed and
+potsherds etc., F. S. 400, were not too numerous in the plowzone. Also
+in the plowzone were fragments of glass, bottles, chinaware and
+crockery. At one time there was a house located some one hundred feet
+from this square, and this possibly accounts for this disturbance. Also
+in the plowzone at the south center of the square were found fragments
+of a skull and fragments of a pottery vessel (this bone fragment listed
+as Burial 40 and pottery fragments as F. S. 401, DD 4.4). The first
+horizontal profile at DD 4.5 produced a general overall color, medium
+dark brown.
+
+At this point being mostly out of the present plowzone level there was
+not the clear cut undisturbed Indian deposit. There was a considerable
+amount of charcoal bits and a few pieces of burned clay showing in the
+horizontal profile.
+
+DD 4.5 to 5.0, potsherds, stone and bone, F. S. 402, for this level.
+Burial 40 was evident in this level and was determined to be head to
+north from other bone fragments found. Recent disturbance was again
+noted in this level, the presence of a shotgun shell base, pieces of
+glass, chinaware and nails. The nails were in excellent condition.
+
+An unidentified soft red sandstone object shaped somewhat like a
+boatstone, F. S. 403, DD 4.9, was found. An area to six feet north of
+the SE stake running to one foot east of the SW stake appeared to be
+undisturbed.
+
+DD 5.0 to 5.5, NE corner at check for DD 5.5 appeared to be undisturbed
+soil and nearing the color of the subsoil. Part of this level on west
+side toward the south end of the square appeared to be recently
+disturbed but not as deep as DD 5.5. Several charred poles appeared as
+noted on horizontal profile at DD 5.5.
+
+DD 5.5 to 6.0. The soil began to change to the color of the subsoil at
+DD 6.0 in the NW corner. Further work revealed a fired clay floor, and
+outline of same worked out as shown on horizontal profile (took
+photographs).
+
+The fired clay floor did not cover the entire outline of the house
+pattern and where the fired floor was missing, there was evidence of its
+having been there, this evidence was on the west part of the house.
+Explanation of this evidence is due to the soil color—where a piece of
+the fired floor was removed there was a pink or red color indicating
+intense heat. The same color was found outside the area of the fired
+floor as was noted under the piece of floor lifted. There was a definite
+outline of the west edge of the fired floor and at the same level the
+soil changed to subsoil west of the line indicating the floor area.
+There were no postmolds to be seen. The soil color, as before mentioned,
+is an orange to yellow or very light tan color and since this was built
+atop the subsoil the postmolds should have been visible.
+
+Evidently the debris had been removed if the house had burned, but there
+was a small amount of charred poles sizes from .1 to .2 foot in diameter
+at the northwest end of the pattern. The pattern at the west and north
+sides was in a square arrangement. There was a depression in the fired
+floor and associated with it was a pottery vessel, F. S. 406, and it was
+complete except for the top part. Also in the depression was charcoal
+but no ashes. The color of the depression indicated it was or had been
+used as a fireplace, Feature 22. The west and northwest end of the
+square indicated the house was square or rectangular in shape.
+
+
+41R22, March 22, 1960
+
+The west 4 feet of this square was opened and the house presented a
+problem. The fired floor as well as the color representing the soil
+under the fired floor was not evident, but being careful, following the
+vertical profile we were able to determine the approximate west line of
+the house. For safety’s sake we listed the east wall as indeterminate.
+There was no evidence to be seen of any postmolds. The south end of the
+house pattern was in this same condition. Further work on the adjoining
+squares produced another house. The house in 41R21 and 41R22 was partly
+under the house in 40R21, 40R22, 39R22, 39R21 and 39R22.
+
+The preceding has been a selected sample of essentially unedited field
+notes not including much detail and barely mentioning the carefully
+drawn maps, and horizontal and vertical profiles that accompanied the
+written description. Profiles showing soil color changes were done in
+color, using colored pencils in an attempt to duplicate the colors
+observed. Photographs, both black and white and color were taken
+whenever anything showed up of possible use for record or
+interpretation. (The Editors).
+
+
+
+
+                              EXCAVATIONS
+
+
+A north-south cross sectional profile along the R22 line shows a rise of
+3.4 feet from the south base line to a point of maximum elevation some
+400 feet north. The midden deposit shows a corresponding increase in
+depth. The zero base line was on the south end of the site in an area
+that appears to have been destroyed by an early St. Francis River
+meander. Excavation was carried on from this point to square 40R22, a
+distance of 400 feet north, but not to the northern end of the site
+which is some distance beyond. The northern portion of the profile
+indicated that this was an area of major house building activity while
+to the south and just north of the area washed out by the St. Francis
+River meander there is some indication of a court or open community
+center. The ancient river meander was filled with a bluish sandy clay.
+This ends near stake 9R22 with a datum elevation of 1.2 feet above the
+base line.
+
+From 5 to 8R22 there was a sandy deposit below the plow line which
+probably represents a deposit from standing water as the meander
+activity comes to a stop and filling in became a slow silting process.
+From 8 to 17R22 there was a thin hard-packed deposit from .2 to .3 feet
+in depth. Test pits through this section yielded almost no
+archaeological material while just north of 17R22 the midden deposit
+abruptly deepened. This area, almost 100 feet north-south, was also seen
+on the east-west profile. It is this area that gives the impression of
+being a plaza or community center (Fig. 2).
+
+Starting just north of this open area there was a bank of clean sand and
+the midden deposit below suddenly dipped downward until at 21R22 it was
+quite pronounced with evidence of a sand boil. This disturbance was due
+to the New Madrid earthquake and can be clearly seen in many areas of
+this state. Here, the evidence for land subsidence, along with large
+sand boils originating from considerable depth, is clear. This
+earthquake evidence was no longer apparent north of square 29R22 and the
+full undisturbed midden deposit of 1.5 foot depth gives evidence of the
+Indian occupation. At square 40R22 the deposit was 1.8 feet deep and it
+is at this point that houses 2 and 3 were found. The excavation was not
+carried any farther north.
+
+It is impossible to see absolute stratigraphic separation of
+archaeological materials in an inspection of cross sectional profiles.
+There was a general feeling among the excavators that the sand tempered
+sherds were more numerous in the lower levels but no clear association
+can be made. In several instances sand tempered sherds were found in the
+underlying subsoil but never were any shell tempered sherds so found.
+
+It is to be noted that the firebasins and houses built on subsoil had
+only shell tempered pottery associations so it must be concluded that
+the people responsible for this pottery lived here at a time when the
+midden was non-existent. It is tempting to argue that evidence of an
+earlier occupation by people making the sand tempered pottery and
+perhaps dart points was washed away in some series of floods sweeping
+the camp-site clean except for a few minor items left behind in the
+newly silted sands. The earthquakes of recent times have played their
+part in reshifting the materials in this deposit thereby completely
+confusing such stratigraphic picture as may once have been present.
+
+Two east-west cross sectional profiles are available for study, one at
+the northern end of the site and the other toward the south end. The
+northern portion of the deposit can be seen along the 32 line starting
+at the levee at stake 32R2 with a deposit depth of 2.2 feet. From this
+point to 32R10 the top of the subsoil was quite irregular and this
+irregularity is apparent on the surface of the land as the midden
+deposit follows the irregularities of the subsoil. It is probable that
+this is the result of the New Madrid earthquakes.
+
+It was in this area that the presence of sand tempered pottery in the
+subsoil was first noted. A number of burials were encountered in this
+section of the excavation. From 23R10 to 23R16 the drainage ditch has
+removed all archaeological materials. At stake 32R19 the deposit was 1.6
+feet in depth and continued to stake 32R25 where it was 2.2 feet deep.
+This full depth of deposit continued to 32R28 where it started to taper
+out until at stake 32R39, it was only .2 feet deep. While levee building
+has destroyed the western edge of the site we know that it was at least
+400 feet wide. This would indicate a town four or more acres in extent.
+
+An east-west profile was also drawn along the R17 line from the levee at
+stake 17R5 where the deposit is quite thin to 17R39 where it almost
+tapers out.
+
+At 17R8 the depth was 1.4 feet while immediately across the drainage
+ditch the hard packed dark band becomes apparent with little or no
+deposit either above or below it. This hard packed area runs eastward
+for about 100 feet to 17R30. At 17R32 the deposit was again 2.2 feet in
+depth but this thinned out rapidly at 17R32-39 as the eastern limits of
+the village was reached.
+
+
+
+
+                            MATERIAL CULTURE
+
+
+                                Pottery
+
+Pottery from the Lawhorn site represents two distinct traditions. By far
+the biggest is the standard shell tempered ware of this area, while a
+minor type is a sand tempered ware present as a plain, cord marked and
+textile marked series. The total sherd count was 10,423 of all types of
+which 9461 or 91% were of the familiar Mississippian shell tempered
+types and 962 or 9% were of the sand tempered series.
+
+                            _Sand Tempered_
+
+The sand tempered series are summarized in Table 1. Similar plain and
+cord marked sherds (Fig. 5) have been called Barnes, (Williams, 1956, p.
+204). The textile marked sherds can now be added to this series (Figs. 6
+-7). The cord marked sherds ranged from very coarse to quite fine
+markings, but definitely favored the coarse variety. The 534 textile
+marked sherds yielded 293 (55%) that were clear enough to identify the
+weave. These show the preponderate of simple twined textiles.
+
+It is of interest that the simple twined textiles seem to have a
+diagonal weft, or at least, in the finished piece as it was applied to
+wet clay vessels, to show this diagonal weave characteristic. The
+twisting and twining of the cords however seem to be typically simple
+twined (Fig. 7).
+
+Edward G. Scully and Stephen Williams first named the Barnes series
+while working for the University of Michigan’s Central Mississippi
+Valley survey on Barnes ridge in southeastern Missouri. Williams later
+defined the type (Williams, 1956, Ph.D. Dissertation) as follows:
+
+  “This is a finely tempered plain ware in which the sand particles,
+  although numerous in some specimens are quite small. The texture is
+  such that in running one’s fingers over the surface the sandy nature
+  of the temper is immediately noticed. This description of the temper
+  and texture holds for all the Barnes wares. The shapes are similar to
+  those of the Baytown Plain (Philips, et. al., 1951: 77-78). Barnes
+  Cord Marked: This Cord Marked variety goes hand-in-hand in
+  distribution with the Plain ware, and like it, resembles its clay
+  tempered counterpart, Mulberry Creek Cord Marked, and there is
+  occasionally a folded or added rim strip.”
+
+The sand tempered sherds at Lawhorn answer to this description, but the
+question of vessel shape is left unanswered. One possible basal sherd
+was cord marked and conical in shape. The characteristic of a folded rim
+in the cord marked group was not identified in the Lawhorn series.
+
+    [Illustration: Figure 5. Cord Marked Sherds and Positive
+    Impressions]
+
+    [Illustration: Figure 6. Sand Tempered Textile Marked Sherds and
+    Clay Impressions Showing Simple Twining Weave with Diagonal Pattern
+    of Warp and Weft.
+    _(Top and third row are sherds, 2nd and 4th rows are positive
+    impressions)_]
+
+    [Illustration: Figure 7. Sand Tempered Textile Marked Sherds and
+    Impressions]
+
+Speaking of sand tempered wares generally and fabric impressed
+specifically, as an early Woodland movement into the south from the
+north, Griffin and Sears indicate a relatively early period within the
+total ceramic horizon of the southeast. In most areas the textile marked
+tradition dies out by Middle Woodland times. Williams’ description would
+seem to equate Barnes Cord Marked with Mulberry Creek Cord Marked, which
+reached its peak during a Middle Woodland period although also present
+at an earlier time.
+
+All this is of some help in establishing a chronological position for
+the sand tempered series within the known cultural sequences of this
+region. It might be construed as adding strength to the belief that
+there was a considerable time span between the sand tempered and shell
+tempered wares of the Lawhorn site, and suggests an Early Woodland
+period of occupation with the sand tempered pottery and the assorted
+dart points as the only remaining evidence of the early period.
+
+              TABLE 1—SUMMARY OF THE SAND TEMPERED POTTERY
+                           Percentage Of
+         Type            Total       Textile     Fine    Med.   Coarse
+                                     Marked
+
+  Sand-Tempered
+     Cord-Marked               38                   12      37      51
+  Plain                       5.5
+  Textile Marked             56.5
+     Simple twined                        93.6     5.8      26      68
+     Twilled twined                        4.8      84      .7       7
+     Simple plaited                        1.3      25      25      50
+     Twilled plaited                        .4                     100
+
+                             Shell Tempered
+
+The shell tempered series was 98.7% Neeley’s Ferry Plain and 1.3%
+decorated in some fashion. These can be summarized as follows in
+Table 2. All type definitions for the shell tempered series are from
+Phillips, Ford, Griffin, 1951, Section III.
+
+       TABLE 2—SUMMARY OF SHELL TEMPERED PLAIN AND DECORATED POTTERY
+                   Type                 Percent of the   Percent of the
+                                        Shell Tempered   Decorated Total
+                                            Series
+
+  Neeley’s Ferry Plain                             93.1
+  Decorated Sherds all other types                  1.3
+     Wallace Incised                                     13 (Fig. 17;1)
+     Miscellaneous—undefinable—incised                   24 (Fig. 17;2)
+                                                            (Fig. 17;3)
+  Nodes punched from interior                             2 (Fig. 25)
+  Old Town Red                                           57
+  Carson Red on Buff                                      3 (Fig. 18;2)
+  Nodena Red and White                                    1
+
+The inclusion of a Bell Plain Type is so tentative as to be
+questionable. The few sherds so classified are better considered as a
+refinement of Neeley’s Ferry Plain. This viewpoint receives additional
+support with the statement that there was considerable variation in the
+workmanship shown on Neeley’s Ferry ware, some being well polished and
+with a finer shell temper. Some sherds that were first thought to be
+clay tempered were later determined to be shell tempered with the shell
+leached out. There was almost no lip decoration in the form of nicking
+or notching. The standard treatment was simply a rounded lip smoothed to
+the inside and outside vessel walls.
+
+                              _Appendages_
+
+Handles and lugs accounted for 1.4% of the sherd count. Of the
+identifiable pieces and whole specimens, there are 17 lugs, 2 loop
+handles, 2 intermediate and 49 strap handles. The lugs showed
+considerable variation and specialization which may be a local
+development. The Monette lug, as this local type has been called, is
+basically a U shaped applique with the ends pointing downward
+(Fig. 8;1-2). One example was well squared and gives the appearance of
+an old European churn handle. According to Nash, the cup lug is this
+same form inverted and these do occasionally turn up in less exaggerated
+form on the Lower St. Francis River sites. Eight of the lugs are rounded
+and are molded to the lip. Two are effigy tail lugs one of which was
+riveted to the vessel rim (Fig. 8;4). The other has a node in the
+center, outlined by an incised line. Two lugs are rounded and
+bifurcated. (Table 3).
+
+    [Illustration: Figure 8. Pottery Handles and Lugs
+    _(No. 1 and 2. Monette lugs, 3. Riveted strap handle. 4. Riveted lug
+    handle, 5. Applique strap handle, 6. Curved strap, 7. Square strap,
+    8. Round strap)_]
+
+   TABLE 3—RELATIVE OCCURRENCE OF
+            POTTERY LUGS
+          Type            Number
+
+  Bifurcated                     2
+  Effigy Tail                    2
+  Rounded                        7
+  Monette                        8
+  Total Number                  19
+
+The loop handle was uncommon and quite small. One was made up of two
+strands or coils of clay loosely twisted to form the loop. The other is
+a simple loop that rises above the lip. Both attach to and are possibly
+riveted to the lip. They attach from lip to upper shoulder area.
+
+Two handles are intermediate between loop and strap. One is attached
+below the lip. The other is attached at the lip and has a node at the
+top of the handle.
+
+By far the most common appendage form was the strap handle and these
+were first divided into three sub groups based on profile shape to show
+attachment to the vessel wall (Fig. 8;6, 7, and 8). These handle forms,
+like many of the lug forms, show a high percentage of attachment to the
+vessel body wall by means of riveting (Fig. 8;3). They are molded to the
+rim. Of the total of 51 handles, 49 were strap handles. The handles vary
+from angular to curved in cross-section (Fig. 8;6, 7, 8). These are all
+simple, unmodified strap handles that have the following variations; 4
+are parallel sided, 2 expand toward the lip attachment, 1 expands toward
+the shoulder attachment and four are undetermined in outline. One has an
+extension of a notched lip decoration across the top of the handle at
+the lip attachment.
+
+Twenty-eight handles are bifurcated by nodes or an elevation of the
+sides to form a ridge on the outer edges and sometimes to give the
+appearance of a groove down the center (Fig. 9). Often there are
+ear-like projections on either side, 20 occurring at the top of the
+strap, but eight lower down toward midpoint (Fig. 10) are less common.
+All are parallel sided and join at or just below the lip and attach to
+the shoulder. All seem to be riveted to the shoulders, but molded to the
+lip. One is angular and has an applique transverse ridge in the center
+of the handle (Fig. 10).
+
+Two strap handles have three fillets below the handle and extending from
+it; one on each side and one from the center of the handle. One of the
+two appears to have a small raised node on one side (Fig. 10; Row 2,
+right).
+
+A similar handle has only two fillets extending below it. The handle
+edges are raised; the fillet appears to extend the raised edges onto the
+shoulders. The top of the handle is flattened and vertically perforated
+through the flat portion (Fig. 10; Row 2, left).
+
+Another handle, similar in profile to that previously described, does
+not have the added fillets, but has the flattened top and vertical
+perforation. The handle is on a rim sherd decorated with a single
+U-shaped horizontal line along the neck.
+
+    [Illustration: Figure 9. Jar Forms]
+
+    [Illustration: Figure 10. Pottery Handles]
+
+Two handles have longitudinal grooves as decorations. One has three
+U-shaped incisions or grooves and the two nodes at the upper end. The
+other has 2 single central grooves (Fig. 10; Row 1, left).
+
+Three sherds with handles have been classed tentatively at Matthews
+Incised (Griffin, 1952, Fig. 122;d). One example shows a hole through
+the flat upper portion of the strap and this was done while the clay was
+still plastic (Fig. 10). Two sherds have bifurcated handles, the other
+has been described as a loop handle. There are two pieces of fillet-tail
+handles and pieces of five others. These were not identifiable as to
+type.
+
+
+                                Effigies
+
+Five modeled effigy pottery decorations or attachments were found in the
+general excavations. Two were painted while the other three were of
+Neeley’s Ferry paste. One was a human effigy of the full face with a
+rounded open mouth, quite large and prominent nose and eyes defined only
+by overhanging brows (Fig. 11). The hair arrangement was similar to
+bangs indicated along the line of the top of the forehead. One of the
+painted heads was of a bird, perhaps turkey, showing a trace of red,
+white and black paint. This could possibly be a negative painted sherd
+but the evidence was not conclusive. The other painted effigy was Old
+Town Red and apparently represented some bird form. The other two forms
+may have been bats and seem to have been facing inside the vessel.
+
+Almost the entire shell tempered pottery complex is of Neeley’s Ferry
+Plain with an extensive use of strap handles on large jars, many of
+which were of six to eight gallons capacity (Fig. 9, center). These
+handles were normally paired and on opposite sides of the vessel.
+Decorated types are extremely rare, in all less than 2% of the sherds.
+Of these Old Town Red comprises more than 50%.
+
+Add the small percentage of Carson Red on Buff and Nodena Red and White
+and these account for over 60% of all decorated types (Fig. 12). Of the
+balance, only a sprinkling of incised types, one possibly Wallace
+Incised, are present (Fig. 13). These low totals are possibly accounted
+for by considering them trade pieces rather than local techniques, or
+perhaps outside ideas of decoration that had not become fully accepted.
+One form of local decoration which shows an increase when complete
+vessels are considered is the pushing out of small areas around the pot
+to form rounded nodes or projections. Associated with some of these
+large jars was a crude incising around the shoulder area which was a
+very poor imitation of the Barton Incised of the St. Francis area. This
+is very suggestive of a new idea in decoration with little real interest
+in technical achievement. That these people were skilled enough in
+ceramics to have done fine work is attested to by the elaboration of
+workmanship in the strap handle assemblage.
+
+    [Illustration: Figure 11. Human Effigy Head]
+
+    [Illustration: Figure 12. Painted Pottery
+    _(1. A large shallow bowl with red painted design on buff
+    background, painted areas intensified with water color, 2. Carson
+    Red on Buff)_]
+
+    [Illustration: Figure 13. Decorated Pottery Sherds]
+
+Vessel Forms
+
+It was possible to identify vessel forms from 3.4% of the shell tempered
+sherds collected. These forms are listed and their frequency of
+occurrence shown in Table 4, Column I. The most common forms were the
+wide mouthed bowl of small to medium size and wide mouthed jars which
+showed extreme variation in size from small jars of perhaps a pint
+capacity to very large ones of several gallons capacity (Fig. 9). Water
+bottles were a very uncommon form of vessel if judged from the sherd
+collection.
+
+Among the complete vessels recovered the water bottle was over 50% of
+the total while the sherd collection yielded only 1.3 of this class
+(Table 4). This is a strong example of a mortuary vessel form which
+found little use in the daily domestic scene. The water bottle at
+Lawhorn was apparently not a vessel of utility to the living but only to
+the dead.
+
+       TABLE 4—COMPARISON OF DOMESTIC AND MORTUARY VESSEL FORMS
+                      Column I         Column II       Column III
+   Vessel Shape     Vessel Shape     Vessel Shape     Vessel Shape
+                     From Sherds      31 Vessels       23 Mortuary
+                                                         Vessels
+
+  Water Bottles                1.3               45               52
+  Shallow Bowls                6.3               13               13
+  Deep Bowls                    37               30               26
+  Plates                       1.8                0                0
+  Jars                          49               13                9
+  Salt Pans (?)                2.5                0                0
+  Flat Bases                   3.3               61               65
+
+The vessel forms found at Lawhorn can be described as bowls, jars and
+water bottles.
+
+                                 BOWLS:
+
+Three pottery bowls have almost vertical sides with flat bases
+(Fig. 14;1, 2, 3) while one very crude vessel with vertical sides is
+round bottomed. Three of the bowls are quite shallow, approaching the
+plate form but lacking the flattened plate rim (Fig. 14;5). The plate
+forms identified for Lawhorn were from the sherd collection and these
+represent 1.8% of the identified shapes. Four other bowls are small
+round-bottomed pots typical of the Memphis-St. Francis Mississippian
+groups.
+
+The only recovered vessel showing painted decoration were two shallow
+bowls. One of these was Carson Red on Buff slipped on both the inside
+and outside surface (Fig. 12;1). It is a very shallow bowl with a
+diameter of 3 cm. and a depth of 8 cm. The lip was flat and scalloped
+around the outer edge. The interior had been painted with a red design
+composed of four large triangles drawn as opposing parts so that on two
+the apex was up while on the other pair it was down.
+
+    [Illustration: Figure 14. Bowls
+    _(1-3. Straight sided bowls with flat bases, 4. Old Town Red slipped
+    shallow bowl, 5. A typical shallow bowl)_]
+
+JARS:
+
+Jars range in size from small vessels of perhaps a pint capacity to
+vessels of several gallons. Only the smaller jars occurred as burial
+furniture, however. The larger jars have been reconstructed from sherds
+found in refuse pits and so are part of the domestic complex. Most of
+the jars have some form of strap handle and seem to have been the only
+vessel form decorated by incising or by punching out nodes. Such
+examples of incising as are evidenced in this collection are very poorly
+executed (Fig. 9).
+
+                             WATER BOTTLES:
+
+This vessel form was very largely a mortuary form with little apparent
+value on the domestic scene. This is particularly true of the long,
+narrow necked vessels. These often showed specialized or individualized
+treatment by the addition of ridges or collars of clay at the base of
+the neck, occasionally at the midpoint of the body (Fig. 15;2) and by
+the variation of treatment of the base so that in this collection no one
+form could be called standard. There was a tendency, however to flatten
+and then indent the bottom of the bottles. Other basal embellishments
+included a narrow truncated base and angular forms (Fig. 15;1, 2, 3, 4).
+Our most interesting bottle was found on the floor of house three (Fig.
+15;5). It was crudely made but uniquely shaped—reminiscent almost of a
+Grecian urn. An elongated globular body with a short and narrow neck.
+Strap handles run from the rim to the shoulder, but not out to its full
+width.
+
+    [Illustration: Figure 15. Water Bottles]
+
+
+
+
+                       DESCRIPTION AND COMPARISON
+
+
+As a check against interpretation and as a means of getting an idea of
+possible relationships of the Neeley’s Ferry Plain vessels found
+elsewhere, each vessel was taken up separately. The procedure used
+consisted first in describing the vessel, and secondly any comparisons
+that could be made.
+
+The vessels were roughly classified and then evaluated in order. First
+was a broken water bottle that has had an angular ring base which has a
+fillet at the base of the neck. The body is sub-globular, tending toward
+carination but not enough so that there was agreement that it is
+carinated (No. 75 found with burial 21). A similar vessel is shown by
+Griffin (1952, p. 320) and is identified with the New Madrid focus.
+Griffin (1952, plate 124K) shows a vessel that is similar coming from
+the St. Francis area. Williams (1956) in his thesis, has included the
+New Madrid Focus in the Cairo Lowland which he notes as a Phase. Another
+similar vessel is a Neely’s Ferry Plain bottle coming from Monette,
+Arkansas (Phillips, et al., 1951, Fig. 105, F). It seems from the
+references that this particular vessel is relatively typical of the St.
+Francis Malden Plain area but could have some relationship to the Cairo
+Lowland area.
+
+Another water bottle has an annular ring base that is perforated (No.
+189, burial 35). The body is sub-globular and is definitely carinated.
+The neck is long and flares at the opening and the vessel surface is
+burnished. It is classed as Neeley’s Ferry Plain due to the prevalence
+of large flakes of shell which show on the surface. It is comparable to
+a vessel figured in Phillips, et. al., (1951, Fig. 103f) noted as a
+Neeley’s Ferry or Bell Plain bottle that comes from the St. Francis
+River near Monette, Arkansas.
+
+The next bottle (F. S. 60 with burial 17) has a globular body, a long
+neck and flares slightly at the opening. The base is flat. It is a
+Neeley’s Ferry Plain vessel. The overall bottle shape seems to be a
+generalized one and none could be found with which it compared very
+thoroughly. A similar Neeley’s Ferry Plain water bottle (F. S. 88 with
+burial 24) also has an almost globular body with a flat base but this
+vessel has a fillet at the base of the neck and the neck is slightly
+flaring. A vessel somewhat similar to this is figured on plate 3 of
+Potter and Evers (1880) in the center at the top of the page. The vessel
+shown came from southeastern Missouri. A broken water bottle (F. S. 406,
+house 2), was associated with the fireplace in house two. It compares
+very favorably with specimen number 60 but is somewhat carinated similar
+to specimen number 75. The neck is missing. A Neeley’s Ferry Plain long
+necked water bottle (F. S. 81, burial 23), has a globular body but has a
+flat base which extends from the body and is similar in external
+appearance to an annular ring base. The neck contracts toward the
+opening and has a slightly smaller diameter at the opening. The body
+shape and base are somewhat similar to Keno Trailed shown in the Belcher
+Mound report plate 112 A through D (Webb, 1959). The neck shape is
+similar to Sanders Plain (Suhm, et. al., 1954). The neck shape also
+approaches that of the Spiro Engraved (Baerreis, 1957, pl. 64, A, D, F,
+G and H). However, the neck does not contract as much at the opening. It
+appears that this neck shape may be derived from or at least be related
+to the neck shapes in the Caddo area.
+
+A broken water bottle or a jar (FS 118, burial 27) is not readily
+identifiable as to exact form. The body of the vessel is sub-globular
+and the base is somewhat rounded. Perhaps it was a short necked vessel.
+A short necked (FS 76, burial 22) Neeley’s Ferry Plain jar is broken. It
+is a sub-globular shaped vessel with a flat base that is very similar in
+body shape to vessel number 60. Another short necked water bottle (FS
+39, burial 15) has a globular body with a flattened and depressed base.
+This compares with a Neeley’s Ferry vessel (Phillips, et. al., 1951:
+Fig. 104A) from Cross county, Arkansas. There is some uncertainty
+concerning the type base on this vessel. Another specimen (FS 191,
+burial 34) is a short necked water bottle that has a sub-globular body
+and a depressed base. It is similar to field specimen 39 but the body is
+not quite as globular.
+
+A very unusual vessel, also Neeley’s Ferry Plain (FS 418), was found
+associated with house 3. It is a water bottle form but has two strap
+handles (Fig. 15;5). It is somewhat similar to a vessel from Cross
+county, Arkansas (Phillips, et. al., 1951: Fig. 93D). The latter has a
+much wider opening and the body is much more globular.
+
+The next group of vessels consists of plates and bowls. An Old Town Red
+plate or bowl (FS 119, burial 27) is painted both inside and out. It has
+a flat disk bottom. The one vessel that it seems to compare with in
+general shape is a Sanders Plain (Suhm, et. al., 1954; pl. 60, D) which
+is of a different temper but is partly red filmed. A plate or shallow
+bowl has approximately the same shape as that of the Old Town Red but is
+Neeley’s Ferry Plain (FS 313, burial 37). It seems to be in the same
+tradition because the lip is flattened in the same manner as the Old
+Town Red plate. The rims on these plates are indistinct, grading into
+the bowl wall. The other plate form (FS 145, house 1) is not quite as
+well done as the two previously described but is approximately the same
+shape and has the same characteristics. It is also a Neeley’s Ferry
+Plain plate and is much like the two preceding except it is larger than
+the others. An example of a plate that is somewhat similar in shape and
+which is red filmed or red painted, and thus an Old Town Red vessel, is
+shown in Evers (1880: pl. 17, Fig. 173).
+
+Bowls are the next group of vessels. One is a shallow bowl (FS 25 burial
+7) of Neeley’s Ferry Plain ware. It has a rounded lip. It compares very
+closely with two vessels from Cross County, Arkansas (Phillips, et. al.,
+1951: Fig. 100 F and G). Another shallow bowl (FS 104, burial 25) is of
+the same type and general shape. A slightly different bowl (FS 90,
+burial 24) (Fig. 16) has notches around the edge of the lip giving it a
+pie-crust effect and it is much the same as one from Mississippi county,
+Arkansas (Evers, 1880, Fig. 100 F and G).
+
+Straight sided bowls (FS 35 burial 12 and FS 61 burial 17) of Neeley’s
+Ferry Plain ware have relatively straight sides, rounded bases and
+rounded lips and compare to Sanders Plain (Suhm, et. al., 1954: pl. 60
+B, D, E). The bowls are similar to one that is smaller in size that was
+found in a house on the Lofton Site I, 23SN42, in the Table Rock
+Reservoir, Missouri (Chapman, personal communication).
+
+    [Illustration: Figure 16. Pottery Vessels with Burial 24]
+
+Two bowls, marked as field specimen 190, occurred with burial 33. The
+field notes mention only one bowl and no picture was made of the burial.
+One bowl is plain (Suhm, et. al., 1954: pl. 60B), and the other is
+straight sided of Neeley’s Ferry Plain paste which has a series of nodes
+placed opposite each other, four on three sides and three on one side
+(Fig. 14;3). No vessels could be found that were comparable.
+
+A Neeley’s Ferry Plain bowl (FS 36 burial 12) has an incurved side and a
+somewhat rounded, almost flat base. It compares in shape with a Barkman
+Engraved bowl shown in plate 4,C (Suhm, et. al., 1954). Also similar in
+shape is F in the same plate. Several of the engraved types from the
+Caddoan area have somewhat similarly shaped bowls represented within
+them and it seems very possible that this bowl shape derives from that
+general area.
+
+A small bowl (FS 26) is Neeley’s Ferry Plain. It is relatively deep and
+steep sided with a rounded bottom. It was unassociated with any feature.
+It is roughly made and nothing could be found to compare it with.
+
+Two jars of the same type but differing in size are of importance in the
+interpretation. One is a large jar (FS 419, house 3) of globular shape
+with a recurved rim. The other is a miniature jar of the same type (FS
+89, burial 24) (Fig. 16 right). Both have two bifurcated strap handles.
+The large vessel seems to be the standard utility ware of the Neeley’s
+Ferry Plain and of the widespread so-called Mississippi Plain. A vessel
+very similar is shown in a group of shell tempered ones from Middle
+Mississippi features at Moundville (Griffin, 1952; Fig. 151: 4). The
+small vessel associated with the burial was probably made specifically
+as a grave offering rather than for utilitarian purposes. This tends to
+support the suggestion made earlier that the whole vessels found with
+burials are representative of mortuary customs rather than a true
+representation of the pottery characteristically used domestically.
+
+A decorated pottery vessel (FS 426) was found associated with house 3.
+It is Neeley’s Ferry paste, has a bifurcated handle and has a decoration
+that is a series of incised half moon designs on the shoulder, each of
+three lines similar to Matthews Incised decoration. The incising is
+crude on the vessel and it is suspected that this might be an influence
+from the Cairo Lowland area where Matthews Incised is much better done
+and is more prominent. Another Neeley’s Ferry Plain jar (FS 13) with the
+bifurcated strap handles has a design on it that is similar to the
+Matthews Incised and it also has a series of punch and bosses associated
+with the design. A vessel similar to this is shown in Porter and Evers
+(1880; pl. 12, center right). On this same plate are two other vessels
+with the punch and boss impressions both of which are middle Mississippi
+types from southeastern Missouri. The incised decoration and bosses are
+also shown on vessels found at the Matthews site (Walker and Adams 1941;
+p. 116, pl. 15, A and B).
+
+There are three other vessels from the site. One is a water bottle (FS
+2, burial 1) which has a raised portion rather than a fillet at the base
+of the neck and which has a straight long neck slightly tapering toward
+the opening. Similar to it is a long necked Neeley’s Ferry Plain vessel
+(FS 125, burial 28) with a carination which is partly filleted. The base
+is flat. The last of the three is one with a cut base. It is a
+relatively long straight necked water bottle. There is no information
+concerning its location on the site.
+
+
+
+
+                         SUMMARY OF THE POTTERY
+
+
+The sherd analysis gives a picture of the domestic ceramic complex. A
+study of the whole vessels indicates the mortuary wares and shapes used
+by these people. That these are not the same as the domestic styles is
+clearly shown from the data in Table 4. The 31 complete or restorable
+vessels from Lawhorn constituted 76% mortuary types. The other 24% came
+from house floors and refuse pits to give a picture of the domestic
+wares. Except for the one unusual strap handled water bottle, these were
+bowls and jars of assorted size. While some shallow bowls and a few
+plate forms were identified from sherds no complete vessels of these
+types were found on the domestic scene. Shallow bowls in their complete
+state were entirely within the mortuary list of finds. The difference in
+vessel form as indicated by potsherds from the domestic complex and
+whole vessels for this mortuary complex is tabulated in Table 4. In
+column III only those vessels found with burials have been tabulated to
+give a more precise picture of the mortuary ceramic complex. This will
+point out how nearly the complete vessel inventory is indicative of the
+mortuary class. In addition to vessel type it will be noted that there
+is an impressive rise in the number of vessels with flat bases in the
+mortuary vessel group as compared to the evidence from the potsherd
+collection.
+
+It becomes clear that while complete pottery vessels present an accurate
+ceramic picture it is a specialized one and different from that of the
+sherd count analysis. The difference may be a direct reflection of
+different segments of the village life pattern, the funerary customs on
+the one hand and home life on the other.
+
+Other interpretations might be made on the same pottery and potsherd
+collection. Variation of mortuary wares between major towns could easily
+exist while utility wares of each followed a more widespread and
+fundamental pattern so that little variation would be apparent between
+two such towns if judged from potsherds, but a pronounced difference if
+judged by complete vessels.
+
+With the early type pottery, or with one assumed to be early, the
+conclusion was reached that the best way to describe the sand tempered
+wares would be to call them “sand tempered plain,” “sand tempered cord
+marked” and “sand tempered fabric impressed.” The sand tempered plain is
+similar to Thomas Plain in the lower valley (Phillips, et. al., 1951;
+141-2) and to Barnes Plain in the Cairo Lowland (Williams, 1956; 204).
+The sand tempered cord marked is similar to the Blue Lakes Cord marked
+in the Lower Valley (Phillips, et. al., 1951: 142-4) and to Barnes Cord
+marked in the Cairo Lowland (Williams, 1956: 204). The fabric impressed
+sand tempered sherds are similar to the Twin Lakes Fabric Impressed
+(Phillips, et. al., 1951: 144-5) in the lower valley and similar to the
+fabric impressed occurring in the Barnes series in the Cairo Lowland. It
+does not seem advisable to name the sand tempered sherds that are from
+the Lawhorn site as separate types. Further, the distribution of the
+Lower Valley types Thomas Plain, Blue Lake Cord marked and Twin Lakes
+Fabric Impressed appear to be too far away to equate them with the
+Lawhorn series on the basis of the sample at Lawhorn. The same can be
+said for the Barnes series.
+
+The pottery was first classified with the aid of books and advice of
+several archaeologists. Before publication a check of the pottery was
+made resulting in the re-evaluation of a few of the types. Most
+important was the declassification of incised sherds other than Wallace
+Incised. Further, the painted wares were classed as Carson Red on Buff
+and Nodena Red and White only.
+
+A search of the literature on southeastern pottery was done to try to
+find the time period in which the Lawhorn pottery fitted. According to
+Phillips, Ford and Griffin (1951: 132-133), the Carson Red on Buff and
+Nodena Red and White are included under the term Avenue Painted and this
+ware extends into period B about half way. Wallace Incised, although it
+is primarily a late type, in period A, has been found on sites extending
+all the way to the end of period C. The other incised types are somewhat
+similar to Barton Incised and Kent Incised, but neither type could be
+definitely identified. Barton Incised has been found in the St. Francis
+area on sites extending back almost to Period D, and Kent Incised occurs
+at least halfway into Period B. Due to the small number of sherds and
+uncertainty of identification of type all of the incised sherds except
+Wallace were thrown into an unclassified category.
+
+On the basis of the pottery types, the most predominant being Neeley’s
+Ferry Plain which starts at approximately the beginning of Period B or
+Period C and maintains this maximum popularity to the end of Period B,
+it was decided that this site probably falls in the latter part of
+Period B.
+
+
+                             Pottery Disks
+
+These were quite common on the site, particularly in areas of house
+concentration. A total of 33 either whole or fragmentary specimens were
+catalogued. Of these, six were the plain disks so common to
+Mississippian sites (Fig. 17:1) while 27 were perforated. All of the
+perforated specimens had a hole through the center of the disk and may
+well have been spindle whorls (Fig. 17:2). These ranged in size from 3
+to 8 cm. in diameter. Nine of the spindle whorl type disks had well
+smoothed edges while the remaining edges were either roughly smoothed or
+unmodified after breaking. All of them were of Neeley’s Ferry Plain
+except one made from an Old Town Red sherd. The drilled disks were most
+commonly found in association with the houses, although several
+specimens were found in refuse pits. Four of the perforated disks had
+more than one hole drilled in them (Fig. 17:3). One had two completed
+holes with a third just started on one surface. Another example had a
+central hole and another drilling had been started from both sides but
+not carried to completion (Fig. 17:4).
+
+In eleven of the drilled disks the holes were at an angle, probably due
+to improper drilling, the angle drilling from one side being necessary
+to meet the perforation from the opposite side.
+
+There were six unperforated disks which ranged in size from 2 to 6 cm.
+in diameter. Two of these had smoothed edges while the others had been
+roughly shaped only. The smallest of these disks had a smoothed edge
+with a groove incised into it.
+
+Seven examples of drilled pottery were found of which two are perforated
+rims, the holes being drilled after firing. One piece has been
+perforated several times. One of the drilled rimsherds, (FS 124) was on
+the chest of burial 28. It may have been used as a pendant. Another
+specimen, (FS 225) had three incompleted holes as well as the
+perforation. One perforated sherd was Old Town Red, another
+sand-tempered cord-marked and the rest were Neeley’s Ferry Plain.
+
+
+                           Projectile Points
+
+The projectile points found at the Lawhorn site presented a variety of
+forms and sizes. The wide range of types seemed at first very difficult
+to explain. Further, pictures and written definitions of points were
+very hard to reconcile with the specimens at hand. An example of this
+difficulty was a point that seemed to answer all the requirements of the
+Motley type (Ford, Phillips, Haag 1955; p. 129), but which failed the
+test of visual examination by Ford. How many of the others originally
+typed would fail a similar visual examination test is open to question.
+Therefore, a separation of like with like form was made and unless a
+fair number of a particular type was present, no certain identification
+of type was made.
+
+There was a total of 95 identifiable points of which 84% were surface
+finds. Only 4% were found in the general midden, but 12% were at the
+very base of the deposit. These points were first separated into 26
+types, however eighteen of these were represented by one or, at most,
+two specimens. Only eight of the types were present in sufficient
+numbers to represent a local industry.
+
+    [Illustration: Figure 17. Pottery Disks]
+
+In theory, at least, points found in repetitive numbers should represent
+a local industry and so aid in identifying their makers. The
+one-of-a-kind types would likely represent individual variation, trade,
+or the result of some Indian’s collecting habits.
+
+All of the projectile points except one which appears to be missing were
+separated according to the characteristics of size, shape and general
+process of manufacture. The 95 projectile points were placed into four
+major groups and a number of smaller units.
+
+One general arrowhead type seemed to be characteristic and made up more
+than a third of the total number of points from the site. These were 34
+corner notched points with straight or rounded bases that varied in
+length from 44 mm. to 22 mm. and in width measured at the shoulders 11
+to 18 mm. (Fig. 18;1-3). There is a rather great range in thickness due
+to the fact that some of the stone was of poor quality and could not be
+thinned properly. The usual thickness was 2 to 5 mm. This particular
+point type is, in general, similar to the Scallorn type (Bell, 1960; 84,
+pl. 42). It also compares fairly well with the points that come from the
+Matthews site and similar sites in the Cairo lowland area. It is
+approximately the same as the Table Rock Corner Notched arrowhead from
+the Table Rock area southwestern Missouri (Bray, 1956, Fig. 18, Rows
+4-5, and p. 126). A secondary type that occurs with this and which is of
+some probable importance is made up of ten specimens. These have a
+relatively straight stem but otherwise are very similar to the major
+point type (Fig. 18;4). The points are similar to the Bonham points
+(Bell, 1960, 10 pl. 5). The dimensions on these points are as follows.
+The length ranges from 27 to 38 mm. and the width ranges from 12 to 19
+mm.; the thickness is on the average 5 to 6 mm.
+
+Probably associated with these two types and considered to be a part of
+the projectile point complex of the Mississippi occupation is a small
+ovoid type made up of seventeen specimens some of which may have been
+blank forms since they do not appear to be finished (Fig. 19;1). The
+range in length of these specimens is from 22 to 37 mm. Thickness
+ranging from 4 to 8 mm varies considerably probably due to the fact that
+some are blank forms rather than finished products. Width at the base
+which is, for the most part, the widest position of the points varies
+from 14 to 20 mm. These points are somewhat similar to the Catan points,
+(Bell, 1958; 14 pl. 7). The Catan points range from 500 to 800 A.D.
+according to Bell’s compilations. The Lawhorn specimens are also similar
+in some respects to Young points (Bell, 1960; 100, pl. 50). Young points
+supposedly range from 1200 to 1500 A.D. They also compare rather closely
+with ovate forms, Category “O,” found abundantly only in the late
+marginal Mississippi Complex at the Rice Site (Bray, 1956, Fig. 13, and
+p. 79).
+
+    [Illustration: Figure 18. Corner Notched and Stemmed Arrowheads
+    _(1-3. Scallorn or Table Rock Corner Notched. 4. Bonham)_]
+
+    [Illustration: Figure 19. Ovoid and Trianguloid Arrowheads
+    _(1. Catan, 2. Young, 3. Maude, 4. Fort Ancient, 5. Mississippi
+    triangular, 6. unclassified)_]
+
+There are a few triangular points that may be of some diagnostic value.
+One group of three are concave based triangular points and are
+relatively large in size. The one nearly complete specimen is 38 mm.
+long and 13 wide (Fig. 19;3). These perhaps can be compared with the
+Maude point (Bell 1958; 48, pl 24). They also might be comparable with
+the Fresno points (Bell, 1960; 44, pl. 22). However, these points seem
+to be much shorter than the Maude variety and it is probable that those
+found on the Lawhorn site are more comparable with the Maude if with
+either of the two. The Maude points supposedly date between 1200 and
+1500 A.D. The Fresno points are thought to date from 800 to 900 A.D.
+along to 1600 A.D.
+
+There are also two triangular points with straight base and these are
+not very comparable to any others except the general Mississippian type
+(Fig. 19;5). One triangular form is very long, serrated (Figure 19;4)
+and is strikingly similar to the Fort Ancient point (Bell, 1960; 40, pl.
+20), which supposedly dates between 1200 and 1600 A.D. The length of
+this point is 46 mm. and the width is 13 mm. One other point compares
+favorably with some that occur in the Table Rock Reservoir area in
+southwestern Missouri associated with the late complex which includes
+shell tempered pottery. It is a side notched variety with a straight
+base and is 41 mm. long and 14 mm. wide (Fig. 19;6). The length width
+proportions are similar to those of the most prominent arrowhead types
+on the site. Thus, it may have been made by someone on the site.
+
+The preceding types seem to form a general complex that is associated
+primarily with the Mississippian occupation and there is no indication
+that there has been any great deal of influence in the area except from
+the same directions (North and South) that were noted in regard to the
+pottery. The Scallorn point type is similar to those from the Cairo
+lowland area and the Bonham is similar to those from the Caddo area from
+the south. It is expected that both are good Malden Plain, St. Francis
+River area types.
+
+One other type might possibly be associated with the Mississippian
+occupation and it is one that can be classed as Gary (Bell, 1958; 28 pl.
+14). There are four specimens (Fig. 20;1). Gary is supposed to date
+somewhere between 2000 B.C. to 600 A.D. but the evidence in the Table
+Rock area indicates that this probably dates more nearly between 1000
+A.D. and 1500 A.D. (Marshall, 1958). The fact that the Gary type has
+been found in association with earlier periods elsewhere makes it
+questionable to place it with the Mississippian occupation here. It
+should be pointed out that it might be associated with the Mississippian
+component for the type was definitely associated with the latest
+occupation in the Table Rock area on upper White River.
+
+The prominent type that seems to be associated with the earliest
+occupation or the component associated with the sand tempered pottery on
+the site is a relatively small dart point that is a stemmed form with a
+convex base and has little or no shoulder (Fig. 20,2-5). The range in
+size is from 38 mm. to 51 mm. long and 19 to 27 mm. wide. They are
+relatively thick (6 to 12 mm.) points, and there are seven represented
+from the site.
+
+    [Illustration: Figure 20. Stemmed Projectile Points
+    _(1. Gary. 2-5. Unclassified)_]
+
+There are no other main groupings but there were a number of points
+about the same size that could not be readily classified (Fig. 21;1-2).
+One in this group is very similar to the Hardin point (Bell, 1960; 56,
+pl. 28) for it is beveled, serrated, and has the correct shape but it is
+much smaller than the Hardin points usually are (Fig. 21;3). This is not
+thought to be a Hardin point but is perhaps in the same general
+tradition. There are two relatively large points that are somewhat
+similar to the Burkett points and these may have some association with
+the main ones from the site (Fig. 21;6). One point (Fig. 21;4) is
+comparable to the Motley (Bell, 1958; 62, 131) which supposedly dates
+between 1300 and 200 B.C. A projectile point similar in type to Snyder
+(Fig. 21;5) was missing from the collections when they were restudied.
+Another point (Fig. 21;7) compares very favorably with the Uvalde (Bell,
+1960; 92, p. 146), which supposedly dates somewhere between 4000 and
+1000 B.C.
+
+It is very probable that some of the early points were picked up by the
+people making the sand tempered pottery. For that matter they may have
+been picked up by the later occupants, the Mississippi people.
+Certainly, it is felt that these cannot be used for dating the early
+occupation on the site. There is no assurance, for example, that the
+site was not used by people earlier than the time of the sand tempered
+pottery. There is no evidence from stratification or superposition from
+the excavations, that indicated more than two occupations of the site.
+
+The points that did not seem to have like members present were placed in
+a general unclassified category and some of these have been illustrated
+in case they might have some significance that would aid in placing the
+early or the late components on the site.
+
+
+                     Other Chipped Stone Artifacts
+
+Chipped stone tools were relatively uncommon at Lawhorn and are typified
+in Figure 22. Number 1 and 2 are unifacial thumb nail scrapers. Number 3
+is a reworked projectile point while numbers 4 and 5, are fine pointed
+drills or scrapers. Number 6 is a graver.
+
+One large tool showed a good work polish and also indications that it
+had been resharpened (Fig. 22;7). It was 7 cm. wide and 15.5 cm. long.
+There were several flint fragments showing a high degree of work polish
+which came from similar type tools.
+
+Two chipped and polished celts were found. One of these was 3 cm. wide
+in the center and 2.4 cm. at the bit. It was 7.5 cm. long but broken so
+that the true length could only be estimated at perhaps 10 cm. This was
+a chisel type of tool. The second specimen was made by removing large
+flakes over two faces to give a crude hand axe type of specimen 8 cm. ×
+4.5 cm. × 2 cm. thick. Work polish was evident on the highest portions
+of the surface.
+
+
+                          Mortars and Pestles
+
+There were five sandstone mortars found on this site, two of which were
+surface finds and which measured respectively (1) 15 cm. in diameter,
+6.5 thick with a central depression of 1.5 cm. and (2) 7.5 cm. × 13 cm.
+× 6 cm. thick. The latter was utilized on both surfaces. The first of
+these two specimens, made of red sandstone, was the best of the mortars
+from this site (Fig. 23;2).
+
+    [Illustration: Figure 21. Projectile Points
+    _(1-2. Unclassified. 3. Hardin-like. 4. Motley. 5. Snyders Notched.
+    6. Burkett-like. 7. Uvalde)_]
+
+    [Illustration: Figure 22. Chipped Stone Tools
+    _(1-2. Thumbnail end scrapers. 3. Reworked projectile point scraper.
+    4-5. Drills. 6. Graver. 7. Adz)_]
+
+Associated with house 1 and located near the fire-basin were two
+mortars. One of these was 20 × 15 × 8 cm. and had a central depression
+of 2 cm. The reverse side was used as a whetstone. The other mortar was
+much smaller, measuring 9 × 13 × 4.5 cm., basin shaped on one side and
+bearing use marks of a crude pestle on the other. Associated with these
+two mortars were six stones showing wear as crude unmodified stone
+pestles (Fig. 23;1). Feature 12, a fire basin, also had a mortar and
+pestle association. A small mortar 8 × 10 × 5 cm. had five stone pestles
+with it. Four of these stones showed considerable wear while the fifth
+was not used.
+
+All of these mortars and pestles were basically unmodified field stones
+or river pebbles which gradually received some alteration of shape
+through use.
+
+
+                     Stone Abraders and Whetstones
+
+There were nine abraders, two of which are of particular interest. One
+showed heavy use as an abrader on one side and three edges. Much of this
+use was as a sharpener for small pointed objects. The other side, while
+showing use as an abrader, was also cupped for grinding purposes. Over
+much of the surface, powdered yellow ochre had become impregnated into
+the porous sandstone. Another specimen showed long wide grooves on two
+surfaces while another had been ground flat. This portion of the stone
+was heavily impregnated with red ochre. The other abrading stones were
+unmodified pieces except for the miscellaneous grooves resulting from
+use (Fig. 24;1, top).
+
+Four asymmetrical whetstones were found in the general midden. These
+were about 5 × 8 cm. by 1.5 cm. One of these was bitted at one end much
+like a celt. Their use as whetstones was rather obvious (Fig. 24;1,
+bottom).
+
+
+                       Pottery and Clay Abraders
+
+The use of potsherds for abrading is reported from the Mississippi
+alluvial valley area as far south as Memphis. It is a very minor trait.
+The occasional finds point up this usage as a stop-gap measure when a
+good stone abrader was not immediately available. This is a thing to be
+expected in the relatively stoneless alluvial valley. At the Lawhorn
+site 16 sherd abraders have been found. These show the same haphazard
+use over their surfaces as do the stone abraders. Ten of them were from
+Neeley’s Ferry shell tempered sherds and six were made from the sand
+tempered sherds. Two of the Neeley’s Ferry abraders show only the narrow
+pointed type of abrading groove while the other eight show the full
+length and width abrading slots such as might have been used for arrow
+shaft straightening and smoothing (Fig. 24;2, left). All of the sand
+tempered sherd abraders show the pointed narrow type of groove none of
+which are large enough to be used as shaft grinders (Fig. 24;2, right).
+In spite of the fact that it appears that sand tempered and shell
+tempered sherds represent two components with perhaps a considerable
+time span between them, it seems most probable that this use of sherd
+abraders is to be linked with the Mississippian component and that the
+use of the earlier sand tempered sherds by the later people was simply a
+convenience procedure. Two burned clay masses, of very sandy clay, were
+also used as abraders. These were the pointed narrow type.
+
+    [Illustration: Figure 23. Mortars and Pestles]
+
+    [Illustration: Figure 24. Stone and Pottery Abraders and Stone Pipe
+    _(1. Stone abraders, 2. Potsherd abraders, 3. Stone pipe)_]
+
+
+                              Anvilstones
+
+Two anvilstones were found on the surface, one made from limestone and
+the other from sandstone. Their opposing surfaces seemed to have been
+used as grinders or pestles. Here again, there is multiple usage of
+rough unmodified stones. They were seldom pecked or ground to a shape,
+rather they were modified through use.
+
+
+                              Hammerstones
+
+Seven pebble hammerstones were found in the general excavations. Most of
+them were either sandstone or chert and of nondescript shape ranging in
+size from 4 to 8 cm. in diameter. Many of the sandstone specimens showed
+use as grinding Stones as well as hammerstones, again pointing up the
+multiple tool use of pebbles. The chert pieces were not shaped, showing
+only the natural weathered surfaces except where they had been used.
+
+
+                           Groundstone Celts
+
+Six fragments of celts were found, five of which were granite and one
+hematite. The five granite specimens consisted of three bit ends and two
+poll ends and the hematite specimen was only the central shaft section.
+These celts were all small, probably not over 10 to 18 cm. long. The
+bits were about 4.8 cm. wide with thickness averaging 2.5 cm. The poll
+ends were somewhat narrower than the bits but not pronouncedly so.
+
+
+                                 Pipes
+
+Only one pipe was found but it may be of considerable value for
+interpretation of the relationship of the site to other areas. It was
+picked up by Mr. Lawhorn when his plow turned over a burial. The pipe is
+made of stone and has a non-functional stem projection commonly seen on
+pipes from Spiro (Baerreis, 1957 p. 25). The bowl is quite large and at
+right angles to the stem (Fig. 24;3). The bowl is slightly elliptical in
+outline with both sides flattened on their lower portions. The bottom of
+the bowl and the stem projection have also been flattened while the
+functional portion of the stem is round in cross section. This is about
+⅓ longer than the depth of the bowl. The projection is quite small.
+There is a crudely incised groove around the stem.
+
+
+                       Bone and Antler Artifacts
+
+Bone tools were of common occurrence in the general midden of the site
+and were also associated with house patterns 1 and 3. Six deer ulna awls
+and three ulna awls from small animals (Fig. 25;1); ten splinter awls
+(Fig. 25;4) and a single fish fin awl; a deer cannon bone beamer (Fig.
+25;2) and a deer scapula hoe (Fig. 25;3) make up most of the inventory
+of bone tools. One deer mandible appeared to have been utilized since a
+dull work polish is noticeable on it. The teeth are fractured on one
+side as if broken off in the course of use.
+
+Bone beads were found associated with house patterns and were made from
+bird bones (Fig. 26;1 bottom). One measured 1.5 cm. and another 1.3 ×
+1.5 cm. and a third .8 × 2.6 cm. A large bird bone had been in the
+process of bead manufacture (Fig. 26;1, top). The bone had been cut at
+each end then circled in two places with cuts that hadn’t been
+completed.
+
+Antler tips were utilized for various purposes. Specimens included two
+barbed projectile points and one unfinished tip with a drilled base.
+Twelve other tips were probably flaking tools.
+
+
+                           Brickette and Daub
+
+Brickette and daub were so scarce that many pieces were catalogued as
+specimens. These present an interesting class of materials and give aid
+far beyond their intrinsic worth in telling the Lawhorn story. Once
+again this points up the value of saving everything found during the
+course of field work.
+
+There is no way of knowing how much of this material has been lost as a
+result of erosion and the almost melting away of softer pieces in the
+heavy rains of the passing centuries. Slightly over 100 pieces which
+were eroded beyond identification were picked up during the course of
+excavation. They represent either daub or broken clay objects of unknown
+use. There were 103 pieces of daub, broken into various sizes, which had
+been heavily impregnated with grass. Six of these specimens show
+impressions of small poles which would have been from 2 to 5 cm. in
+diameter (Fig. 26;2). The composition of the fired material ranges from
+a sandy clay to a white ball clay with a heavy sand admixture. It should
+be noted that the natural soils of the Lawhorn site do not contain
+enough clay to fire into a brickette form. Consequently such brickette
+as was found must be the result of clays brought in from a distance.
+
+Most specimens were rather soft and it is doubtful if they had ever been
+used as heating stones. Many samples show some surface smoothing as if
+they were portions of floors, firebasins or perhaps house walls. It is
+presumed that if the daub was used on house walls, the firing was
+accidental as the result of house burnings, that only a minor portion of
+such daub would survive. However, judging from the burned clay floors
+and fire basins found, it is evident that burned clay, as such, fired
+well enough to withstand the erosion of time. A higher percentage of
+wall daub should have been found if it had been extensively used.
+
+    [Illustration: Figure 25. Bone Tools
+    _(1. Ulna awls, 2. Beamer, 3. Deer scapula hoe, 4. Splinter awls)_]
+
+    [Illustration: Figure 26. Bone Beads and Burned Clay Daub
+    _(1. Cut bone, a step in making beads, and bone beads. 2. Daub with
+    whole cane impressions and evidence of interweaving of canes)_]
+
+There were twenty pieces of brickette flattened and smoothed in such a
+way as to indicate that they were probably part of house floors. They
+were smoothed on one side and grass impregnated on the underside and
+throughout the body of the specimen as the result of puddling the clay.
+They were made of a sandy clay and ranged in size from 2 to 4 cm. in
+thickness. The undersurface was irregular and showed no contact with a
+prepared surface such as the cane mats of wall daub specimens would
+leave.
+
+There were 163 pieces of fired clay objects showing considerable use
+which were made of a poorly fired sandy clay. Four specimens were
+tempered with crushed shell while one was clay tempered. Most of the
+others contain some grass although many are without any apparent
+tempering material. Use of these specimens is undetermined. One specimen
+(FS 425) was a rectanguloid brickette 10 × 12.5 cm. and 2 cm. thick with
+a slightly rounded base (Fig. 27;3). This was found in a form fitting
+depression on the fired clay floor of house 3. It shows considerable
+wear from use, especially on the bottom. It, perhaps, was used for
+grinding seeds or rubbing skins. The other clay objects are of different
+shapes, seemingly of round cylindrical devices with flat bottoms and
+rounded edges. From some of the better samples they appear to be about
+five inches in diameter but the length or height could not be
+determined. They do not show any appreciable wear. There was no evidence
+of excessive firing and most of the specimens crumble easily. The latter
+may be due to the sandy clay from which they were formed. It is
+suggested that these were anvils or stretchers for use in skin work or
+other soft materials such as textiles. They certainly were an important
+domestic item.
+
+There was one specimen with a central hole, apparently lengthwise, which
+suggests that it was suspended, perhaps as a loom weight (Fig. 27;1).
+
+The clay objects occur in considerable numbers in all parts of the site
+and throughout the deposit and constitute the biggest percentage of all
+the brickette material from the site. In point of fact these items are
+not broken bits of daub, such as are so common on Mississippian sites,
+but are items of domestic importance in the material culture assemblage,
+and must be so treated in the final analysis. They are not accidental
+formations, such as building daub, but have been precisely formed to a
+pattern. While many seemed to conform to a cylindrical shape others did
+not. One specimen has a groove around it but its position with reference
+to the complete object was not apparent. One piece shows a coarse
+textile impression on one side and a surface well smoothed on the other.
+It is not a potsherd. Another piece shows the imprint of a finger
+apparently curled around the clay—a very small finger—probably that of a
+child at play. One piece looks as if it could have been a pottery
+trowel, but is a questionable specimen.
+
+Two of the broken clay objects have been secondarily used as abraders
+for sharpening bone awls or similar pointed items. One specimen (FS 217)
+is the stem of a pottery trowel, a standard item of Mississippian
+groups. A complete modified conical object was recovered from a nearby
+site and is a graphic representation of another shape of these objects
+(Fig. 27;2).
+
+    [Illustration: Figure 27. Brickettes or Fired Clay Artifacts
+    _(Brickette with central hole, 2. Semi-conical clay objects. 3.
+    Rectanguloid clay brickette)_]
+
+It should be obvious from the above that much of the burned clay
+material from Lawhorn is not truly daub but rather fragmentary pieces of
+a multitude of domestic utility objects which played an important part
+in the material culture of the people.
+
+
+                            Shell Artifacts
+
+Six beads were made from marine shell (Fig. 28;1). These were small,
+being from 7 to 10 mm. in diameter and 10 to 16 mm. long. One drilled
+mussel shell hoe or scraper was found in the general digging and this is
+typical of the specimens commonly found on Mississippian sites
+(Fig. 28;2).
+
+
+                            Vegetal Remains
+
+Carbonized food occurred in several instances. A few acorn hulls were
+found in Feature 18, a nut shell in Feature 5, both fire basin and a
+small number of corn cobs in the general midden excavation. The corn
+cobs according to Nash, seem typical of the Eastern Complex corn. They
+are all fragmentary but three specimens show a tapering cob. The first
+of these had twelve rows of kernels spaced as pairs. The cob was
+probably not over 6 cm. in length and had a diameter of 2 cm. some
+distance from the probable butt. Kernels measured about 4 mm. wide and 2
+mm. thick. The second specimen had ten paired rows of kernels and was
+1.6 cm. in diameter. The third specimen had been split longitudinally
+but indicated twelve paired rows of kernels. The cob was 1.7 cm. in
+diameter. The largest kernels were 5 mm. wide and 2.4 mm. thick (See
+Appendix B).
+
+
+
+
+                                FEATURES
+
+
+                              Refuse Pits
+
+Eight refuse pits were identified during the course of excavation. The
+shapes varied from circular to oblong with considerable range in depth.
+In most instances, however, the bottoms were flat, or nearly so. The
+five examples of pits with a circular outline ranged from 1.2 feet to 3
+feet in diameter and from 1 to 1.5 feet in depth. The three oblong pits
+ranged from 2.5 to 3.8 feet wide, from 4 to 5 feet long, and from 1.8 to
+2.7 feet in depth. Two of the refuse pits were associated with
+houses—one with House 1 and the other with House 3. These will be
+described as associations with these houses. Feature 13, a refuse pit,
+was unusual in that it contained a number of broken vessels, bone awls,
+a drilled pottery disk and a considerable amount of animal bone and
+potsherds. The vessels were all jars ranging in size from small to large
+and were wide mouthed vessels. Most of these jars had strap handles
+while the two largest were decorated with crude incising on the
+shoulders and by a series of nodes punched from the inside, below that.
+A large broken vessel in one of the pits is shown in Figure 29.
+
+    [Illustration: Figure 28. Shell Ornaments and Tools
+    _(1. Marine shell beads. 2. Perforated mussel shell scraper or
+    hoe.)_]
+
+Little more can be said of these pits except that they represent a
+method of disposal of refuse but certainly not the standard approach to
+this problem.
+
+
+                                Ash Pits
+
+There were a number of ash dumps which were always associated with
+fireplaces. They were present in all three of the houses excavated. One
+outstanding characteristic is the completeness of combustion represented
+by the ashes. In no instance were small charred pieces of wood found
+with the ash, a thing to be expected unless the fire burned under forced
+draft or was carefully tended. While the ash in the dumps could have
+been selectively collected so that only the completely burned ash was
+thrown out, the same would not be true of the ash found in every
+fireplace excavated. It is suggested that this result would be normal
+only if low flame charcoal fires were used and these nursed to produce
+the desired heat, with red hot coals being buried in the ash to slow
+down their combustion until such time as it was desired to rekindle a
+hotter fire. A further consideration would be that only this type of
+fire would be relatively safe inside a grass thatched house.
+
+House 1 had three ash dumps, two of which were inside the house and in
+close contact with the firebasin, and one outside the house. These dumps
+tended to be rounded and about two feet in diameter. In depth they
+ranged from .6 foot in the center but tapered away to nothing at the
+outer edges. The single ash dump associated with house 3 was similar in
+all respects.
+
+
+                               Firebasins
+
+The firebasins at Lawhorn are quite definite and well formed of puddled
+clay and are good examples of those so common to Mississippian sites of
+the area. Rebuilding was common, with new construction leaving the
+remains of some portion of the old basin to one side. Often this was a
+half-moon shaped affair that may have continued in use. In all instances
+these basins were filled with a white wood ash which showed complete
+combustion so that there were no bits of unburned charcoal left in the
+ash. It may be that this bed of ash was maintained in basins at all
+times and was used to bury hot coals to hold the fire during periods of
+non-use. There were numerous specimens found near the fire basins which
+added to the impression of domestic hearth sites associated with
+whatever house forms these people had. The most notable trait was the
+presence of stone mortars and pestles near many of the basins. Drilled
+pottery disks were also commonly found nearby. Bone awls were found on
+one occasion.
+
+House 1 had a fire basin two feet in diameter and without a raised rim
+section. It was half filled with white to reddish wood ash without any
+partially burned charred material left in it. The fire area in House 3
+was not a puddled basin but rather a flat area on the floor where
+continued fire building had hardened the ground underneath. The House 2
+basin was puddled but poorly made. In two of these fireplaces small
+broken bowls were found half buried in the ash. Another burned area was
+found in square 17R13 which also showed use as a hearth site. Nearby was
+a circular refuse pit almost flat on the bottom. Here, carbonized nut
+hulls were found.
+
+    [Illustration: Figure 29. A Large Broken Pottery Jar in a Refuse
+    Area]
+
+In no instance were postmold patterns found in association with the
+firebasins at this site nor, for that matter, were any found in the
+entire excavation that could be thought of as forming a pattern.
+
+Feature 12 was a puddled clay fire basin with a rim section .1 foot
+above the surrounding floor. The basin was circular in shape with a
+diameter of 1.3 feet and a depth of .3 foot. It had been dug into
+subsoil and so was associated with the early levels of the site. To one
+side were two possible postmolds while nearby was a mortar and several
+crude pestles. Two bone awls and a drilled pottery disk were found close
+to the basin. Feature 14 was a similar fire basin but it was in poor
+condition. It was found just above the subsoil in the square just west
+of feature 12 and became the center point of an extended trench
+excavation in an unsuccessful search for a postmold wall pattern. The
+basin was filled with a white wood ash. Two shell tempered sherds were
+found in this ash.
+
+Feature 18, a firebasin, (Fig. 30) also built on subsoil, was of puddled
+clay filled completely with wood ash. This ash did not contain any
+specimen. There was a burned clay floor .1 foot below the rim of the
+firebasin but this was not very extensive and in all probability only
+surrounded the firebasin area. Once again, an extended trench excavation
+was undertaken in a search for postmolds. The subsoil was a light
+colored sand and such disturbances as tree roots and pits were very
+clear. Indeed many of these tree roots were cross sectioned in an
+attempt to locate postmolds. No postmolds of any description were found.
+
+Feature 5 was a large fired area with a heap of ashes extending beyond
+the burned clay. The area was circular with a diameter of 1.6 feet and
+burned to a depth of .3 foot. Associated with this area was a charred
+nut, either hickory or walnut, and a thin flat stone which had been
+subjected to intense heat.
+
+Feature 24 was very similar to feature 18 in that it, too, had been
+rebuilt and enlarged. The rebuilt basin was oval in shape being two feet
+long by 1.7 feet wide with an interior depth of .5 foot and a thickness
+of burned clay wall of .1 foot. The combined length of the basin was 3
+feet with a half moon section of the original basin being all that
+remained of it. The original basin was about 1.6 feet in diameter. Both
+sections were filled with wood ash and apparently continued in use.
+
+Feature 25 was the remaining half of a puddled clay fire basin under
+house 1. Whether the basin was circular or oval could not be determined
+due to an ash pit that had been cut through it. The basin was 1.6 feet
+in diameter with an interior depth of .6 foot and a clay wall thickness
+of .1 foot. The pit was filled with white wood ash and a few shell
+tempered sherds.
+
+    [Illustration: Figure 30. Feature 18, a Firebasin of Unusual Shape]
+
+
+
+
+                                 HOUSES
+
+
+The evidence for dwellings at Lawhorn rests on two burned structures,
+house 1 and house 3, and a fire basin and associated floor area adjacent
+to house 3. In the main, the evidence is as conclusive as to shape,
+ground plan and superstructure as is most such archaeological evidence
+from Mississippian sites. That no postmold patterns were discernable
+during the entire four years of work at Lawhorn must be taken at face
+value, especially when the cross sectional data from house 3 is
+considered.
+
+
+                                House 1
+
+This house was built on top of subsoil and was rectangular in shape
+(Fig. 31). The area of charred remains was ten feet by fifteen feet so
+that the house itself must have been at least that large and probably
+somewhat larger. Final excavation showed that no posts had been placed
+in the ground to support the superstructure. The charred material found
+on the floor indicated a house built of light poles, cane and thatch.
+
+There was no evidence of the use of daub on either walls or roof of the
+building. The main support poles were about .2 foot in diameter and
+poles half this size were interwoven to form a widely spread lattice
+work. Cane was fastened on this, apparently in layers, but there was no
+evidence as to whether this was woven or bound into mat form. There was
+no split cane in evidence, only whole cane poles (Fig. 32). Apparently
+the entire house was covered with thatch since evidence of it was found
+over the whole charred area and overlying the rest of the charred
+material. The house did not have a fired clay floor. The floor was
+highly compacted, however. There was a central firebasin made of puddled
+clay which was two feet in diameter, six inches deep with the lip level
+with the floor. It was filled with a white to reddish ash. To one side
+of the basin was a pile of ashes in which the skeleton of an infant was
+found. Outside the house was a refuse pit and another ash dump. Two
+mortars and six crude pestles were found on the floor close to the fire
+basin. Bone awls, pottery disks and bone beads were found on the floor.
+The list of specimens found in association with this house is as
+follows: four drilled pottery disks, three undrilled pottery disks, two
+projectile points, two bone awls, three bone beads and one pottery
+vessel.
+
+
+                                House 2
+
+This house had been built on top of subsoil and apparently, it partially
+underlay the northern portion of house 3 (Fig. 33 and 35). No new
+information came to light here but the size and shape apparently agreed
+with that of house 1. Here, the central section of the floor was hard
+burned and had been puddled with a clay and grass mixture before firing.
+Central to this floor area was an irregular and poorly shaped fire basin
+which was filled with white wood ash. Partially buried in this ash was a
+small broken shell tempered pottery bowl (Fig. 34). A few pieces of
+charred logs were found lying just above the floor of this house, but,
+they were too small and too few to be diagnostic of superstructure. It
+is even possible that these few pieces were from the house three
+conflagration.
+
+    [Illustration: Figure 31. House Ground Plan Showing Charred Remains,
+    Firebasin, Ash Dumps and Refuse Pit]
+
+    [Illustration: Figure 32. Charred Cane Poles and Grass, Part of
+    House 1, Overlying Pottery Sherds]
+
+    [Illustration: Figure 33. Houses 2 and 3
+    _(House 2 in foreground, house 3 in background)_]
+
+
+                                House 3
+
+This house was thirteen by fifteen feet as indicated by the charred
+remains of the superstructure (Fig. 35). Many of the poles appeared to
+be rafters and were about .2 foot in diameter. Interwoven between them
+were small poles forming a loose lattice work wall or roof (Fig. 36).
+Several small sections of cane matting were found near the basal ends of
+many poles. Typically these were of small whole cane laid at right
+angles to the poles. At one location there was some split cane matting
+but it is questionable whether this was part of the wall construction or
+was a portion of the house furnishings. Several of the wall poles had
+basal ends still in place. These basal ends were apparently resting on
+the surface of the ground since they originated at the same level as the
+house floor. The group at the southwest corner of the house were .9 foot
+apart. Cross sectioning vertical cuts under these posts failed to yield
+any evidence of postmolds or rotted out underground portions of the
+poles (Fig. 37). The evidence would seem to be quite clear that there
+were none.
+
+There was considerable evidence of thatch throughout the burned areas
+although this was very fragmentary. There were several hard fired floor
+areas that seemed to have been made of puddled clay. The fireplace was
+not dug out but was simply a central area on the floor identified by the
+heavy burning, the concentration of ash, and a small broken bowl buried
+in this ash (Fig. 34). There was an ash pit to one side of the fireplace
+which cut down through feature 25, firebasin. There was no evidence of
+daub being used in the construction of the house. One internal feature
+of extreme interest was a log lying on the floor which had been hewn to
+shape (Fig. 38). This was not apparent in the field but was discovered
+when the specimen was brought into the lab. Careful study revealed that
+the top section of the log had been cut down leaving a ledge at right
+angles to it. The split cane matting already mentioned was found in
+association with this log and may well have been part of some house
+furnishings. Quite a number of specimens were found lying on the floor
+of this house including the strap handled water bottle (Fig. 15;5).
+Another broken vessel was beneath charred roof or wall timbers (Fig. 39
+). Outside the house there was a refuse pit and an infant burial.
+Specimens found on the floor are as follows: one whetstone, four pottery
+vessels, two broken celts, one projectile point, three drilled pottery
+disks, two bone awls, one chipped hoe, one hammerstone, one rectanguloid
+clay pad, one bottom of a wooden container and one antler tip.
+
+Much of the interpretation of the house superstructure seems to be based
+on good solid evidence, but, even so, much is still conjectural and will
+remain so until more evidence is forthcoming. The absence of postmolds
+and the positive evidence of wall poles originating on the ground level
+led to the judgement that in some way the structure leaned upon itself
+in self support (Table 5).
+
+    [Illustration: Figure 34. Closeup of Pottery Vessel in House 2
+    Firebasin]
+
+    [Illustration: Figure 35. Ground Plan House 2 showing Firebasin and
+    Burned Floor Area and House 3 Showing Details of the Burned
+    Superstructure]
+
+ __
+
+    [Illustration: Figure 36. Charred Wattle Work Wall or Roof Section
+    of House 3]
+
+    [Illustration: Figure 37. Basal Ends of Poles along West Wall of
+    House 3
+    _(These poles rested on the house floor and were not sunk into the
+    ground)_]
+
+    [Illustration: Figure 38. Cross Sectioned Log from Floor of House 3
+    _(It appears to have been hewn to shape)_]
+
+    [Illustration: Figure 39. Broken Pottery Vessel Found Beneath
+    Charted Wall or Roof Timbers in House 3]
+
+                       TABLE 5—SUMMARY OF HOUSE DATA
+               Traits              House 1  House 2  House 3
+
+ Fired clay floors                    -        x        x
+ Compacted floors                     x        -        -
+ Puddled firebasins                   x        x        -
+ Mortar and pestles near firebasins   x        -        -
+ Wood ash in firebasin                x        x        x
+ Broken bowl in basin                 -        x        x
+ Ash pit beside basin                 x        x        x
+ Associated infant burial             x        -        x   (outside house)
+ Refuse pit outside house             x        ?        x
+ Lack of daub                         x        x        x
+ Pole, whole cane and thatch          x        ?        x
+   construction
+ No post molds                        x        x        x
+
+A hypothetical reconstruction (Fig. 40) is an ‘A’ frame building that
+makes use of all the archaeological data found here. Other forms might
+as easily be conceived including prefabrication of wall sections which
+could then be bound at the corners and braced outside against any roof
+thrust. There is no doubt that these dwellings were made of poles, cane
+and thatch and that these materials were assembled in such a way as to
+give strength and some degree of permanency to the house.
+
+
+
+
+                                BURIALS
+
+
+The human skeletal material and the field notes concerning the burials
+were turned over to Charles Nash, Tennessee State Parks Archaeologist,
+for study and interpretation. The result of his study has been included
+as Appendix C. Figures 41 through 45 have been included here to
+illustrate the burial types at the Lawhorn site.
+
+    [Illustration: Figure 40. Drawing Showing Hypothetical
+    Reconstruction of the House Type at the Lawhorn Site]
+
+    [Illustration: Figure 41. Burials 21 and 22 on the Bank of the
+    Diversion Ditch]
+
+    [Illustration: Figure 42. Burial 25 and Associated Pottery Bowl
+    _(Mud can be seen at the lower edge of the picture)_]
+
+    [Illustration: Figure 43. Burial 36 Showing the Usual Supine,
+    Extended Position of Burials at the Lawhorn Site
+    _(Note that the lower legs are crossed, an unusual position)_]
+
+    [Illustration: Figure 44. Soil Profiles above and near Burial 36]
+
+    [Illustration: Figure 45. Pottery Bowl Inverted Over the Shoulder of
+    Burial 37]
+
+
+
+
+                        SUMMARY AND CONCLUSIONS
+
+
+The location of the Lawhorn site is in the St. Francis River valley in
+an area that has had little archaeological investigation. Using the
+subdivision of the Alluvial Valley (Phillips, et. al., 1951, Fig. 1) the
+Lawhorn site comes within the Malden Plain, and lies between Crowley’s
+Ridge and the Little River Lowland. The Cairo Lowland lies to the north
+and east and is separated from the Malden Plain by the Morehouse
+Lowland. All except the Morehouse Lowland were described, at least in
+part, by Williams (1956). The Malden Plain area is less well known than
+the other areas described by Williams. To the south of the Malden Plain
+is the Lower St. Francis Basis which was discussed by Griffin in
+Archaeology of Eastern United States (1952).
+
+The site is relatively small and seemed to have no more than two
+components represented. The materials that were obtained from the site
+in the preliminary testing did appear to be somewhat unusual yet not
+intrusive in the St. Francis valley area. One reason that the site was
+picked for excavation is that it is relatively small in size making it
+possible for more aspects of the site to be investigated within a
+relatively short time. The excavation of the site was, in part, an
+experiment to determine whether or not a group of serious amateur
+archaeologists could produce information that would be of value to the
+field of archaeology and professional and amateur archaeologists alike
+on the necessary basis of working on weekends and during vacation time.
+There were no funds for the excavation other than those provided by the
+group of men interested in carrying out this experiment, and, as is
+usual in such endeavors, though many worked on the project, a small
+nucleus of four did most of the work. There were 8 to 10 persons who
+worked as much as a year on the project. In spite of the changing crews
+and the difficulties under which the different groups worked, a rather
+full sample of the entire site was obtained. The total time spent
+covered a period of four years in the field and two years of laboratory
+work. The work from start to finish was under the direction of one
+individual, the writer, and thus there was always an organization and a
+continuity to it.
+
+The methodology followed in the excavation is that of accepted hand
+methods of archaeology (Fig. 46) controlled by making a map of the site
+and excavating within a grid system and with depths provided by a
+farmer’s level transit. All notes and excavation procedures were checked
+with professional archaeologists and when some new problem arose a
+professional archaeologist was contacted for advise or consultation
+before the excavations progressed further. Since time was always at a
+premium this consultation was many times by telephone and quite often
+several long distance phone calls were necessary before some phase of
+the work could be carried to a conclusion. Furthermore, the site was
+ninety miles from the base station of those working on the project which
+meant a round tip of 180 miles on each weekend or other excursion to the
+site.
+
+    [Illustration: Figure 46. Cutting a Horizontal Profile in Square
+    27R32, Showing Use of Hand Tools]
+
+The analysis and interpretation of the materials excavated pointed up
+the necessity of obtaining many notes and saving all material from the
+site. Part of the analysis was done prior to the finish of the
+excavation and this was helpful in gaining fuller information from some
+of the later parts of the excavation. Most of the analysis was done at
+the Chucalissa State Park Museum, Memphis, Tennessee, through the
+courtesy of the museum director, Charles Nash.
+
+The site covered approximately four acres and the portions excavated
+included the village living area with house sites, a plaza area, and
+cemetery area. What was considered to be a fair sample was obtained from
+all of these areas. Incidental to this sample was the sampling of the
+earlier component since all excavations were carried to sterile subsoil.
+
+In the analysis most of the time was spent on the pottery since it
+seemed probable that the pottery was the most diagnostic in determining
+the cultural position and the time of the site. It was broadly apparent
+from the beginning of analysis that the pottery represented two distinct
+traditions. The greatest part of it was the standard shell tempered
+pottery of the area, Neeley’s Ferry Plain with a small percentage of
+decorated types on the Neeley’s Ferry Plain base. The secondary type was
+a sand tempered ware that was plain, cord marked and textile marked. The
+sand tempered ware was representative of the early component on the site
+and was of a type that has not been named for this particular part of
+the lower Mississippi valley.
+
+The sand tempered pottery had some variety and was divided upon the
+basis of the size of the cord markings as well as the textile markings.
+Only a small percentage was plain. Seemingly associated with the sand
+tempered pottery was a lithic complex that has not been described
+elsewhere. The prominent projectile point or dart point type that
+appeared to be associated was less than 2½ inches in length and was
+relatively thick. It had little or no shoulders and was approximately
+twice as long as wide. There were no diagnostic points that were
+associated definitely with this component but it is possible that the
+one Motley point found on the site gives an indication of the time
+period of the component. The Motley points supposedly date between 1300
+and 200 B.C. A Uvalde point was also found on the site but there is no
+assurance that this was not an accidental inclusion in the site. Four
+Gary points were also found but it is just as possible that these may
+have been associated with the later component on the site.
+
+There were no features that could be definitely related to the early
+component and it was necessary to separate the early component primarily
+upon typology and secondarily upon superposition. One reason for this
+was the fact that the site itself is on a very sandy bench of land and
+it seems probable that the evidence of the early occupation was shifted
+and many were exposed at the time the later occupation took place
+causing a certain amount of mixing in the deposits. Furthermore,
+earthquake activity had disturbed the deposits (Fig. 47). The old
+surface that the site lies on is the A1 surface of the Ohio according to
+Fisk (1944 Plate 15 sheet 1).
+
+    [Illustration: Figure 47. Vertical and Horizontal Profiles Showing
+    the Intrusion of Sand into Cracks in the Soil, Judged to be caused
+    by Earthquake Activity]
+
+The sand tempered pottery is very similar to the Barnes series that has
+been named in the Cairo Lowland area (Williams 1956). The ware also fits
+the description of the Thomas Plain, Blue Lakes cord marked and Twin
+Lakes fabric impressed (Phillips, et. al., 1951). It was decided not to
+utilize the names of the types from either area since the descriptions
+were not sufficient for it to be certain that the cord marked series
+here could be equated with either the lower alluvial valley types or the
+Cairo Lowland area. It does seem relatively certain, however, that the
+early component on the site is representative of a period that may have
+preceded the Baytown or Middle Woodland period or which may have been
+contemporaneous with it. It is of interest that no Baytown Pottery
+occurred on the site. The fact that Baytown pottery occurs in some
+profusion on sites in the surrounding area might indicate that the early
+component on the Lawhorn site is earlier than Baytown and that the site
+was never utilized during the Baytown or Middle Woodland period.
+
+It is possible that the sand tempered wares represented in the early
+component on the site are a middle Woodland type and the evidence for
+this is the fact that the Cairo Lowland area to the north, Williams
+(1956, in his table 2, page 32) places Barnes Ridge where the Barnes
+Series of Sand tempered types occur after Burkett and Hoecake and prior
+to Black Bayou. This places it in a Middle Woodland position.
+Furthermore on page 29 in Williams Table I he places the Barnes Ridge
+component at LaPlant after the Hoecake. The Hoecake equates with
+Woodland. Barnes Ridge, in his Table 3 page 38, is noted as Middle
+Baytown. This would equate with Middle Woodland in the central
+Mississippi valley.
+
+If the situation here in the Malden Plain area is similar to that in the
+Cairo Lowland and the sequence that Williams has suggested is correct,
+this would explain why no clay tempered Baytown material occurred on the
+site for this would be a component of the Middle Baytown period and
+would be preceded and perhaps followed by the clay tempered Baytown
+series.
+
+The late component on the site, or the Mississippian component, is not
+easily placed in either its cultural position or the time period in
+which it existed. The pottery is rather distinctive and is wholly a
+Neeley’s Ferry Plain and a few associated decorated types. The Neeley’s
+Ferry Plain vessel shapes consist of water bottles of two types, the
+long necked and the short necked and an unusual amphora water bottle;
+plates with undifferentiated rims and undecorated with the exception of
+red filming; shallow bowls; moderately deep, straight sided bowls; and
+deep bowls both straight sided and those with an incurvate side similar
+to some of the Caddo wares; and a usual jar form with strap handles and
+relatively low rim. A few of the jars are decorated and the most
+prominent decorated type is Wallace Incised or something very similar.
+Another minor decorated type is Matthews Incised and there are sherds of
+incised decoration which were not classified. These may possibly be
+Barton or Kent Incised but the number of sherds having the decoration on
+them and their small size was such that it was not considered desirable
+to try to classify them. Painted wares were all under the general term
+Avenue Painted and consisted of Old Town Red, Carson Red on Buff and at
+least one sherd of Nodena Red and White.
+
+The water bottles had a sub-globular shape in most instances and had a
+fillet around the base of the neck. They either had a flat base or an
+annular ring base that was perforated. The shape in general compared
+favorably with other vessels from the general St. Francis River area and
+to some extent with water bottles from the Caddoan area to the
+southwest. The steep sided bowls and the one incurvate sided bowl are
+similar to some of the Caddo shapes but these shapes in the Caddo area
+are associated with engraved wares and are upon much different paste.
+
+The appendages on the vessels, both effigies and lugs and handles are of
+aid in determining the relationship of the site to other areas. The
+handles were perhaps the best guide since they seem to be copies of the
+typical handles at Crosno, at Kinkaid and in the general lower Ohio
+River valley. The handles have nodes at the top and in some instances
+have a groove down the center or have two raised ridges on either side
+of the strap handle. The strap handle is the most prominent on the site
+although a very few loop handles do occur.
+
+Judging from the pottery, the site is typically St. Francis River
+Mississippian of the late B period (Phillips, et. al., 1951), and it has
+some slight relationship to the Cairo Lowland area to the north and to
+the Lower White River Basin to the south. Both of these relationships
+might be expected due to the physical or geographical location of the
+site between the two areas.
+
+The other more diagnostic artifacts that were used in determining the
+relationship of the Lawhorn site to surrounding areas were the
+projectile points. The typical projectile point type is a small corner
+notched arrowhead which has been named the Scallorn point in Oklahoma
+and Texas and is supposed to date between 700 and 1500 A.D. It is also
+very similar to the Table Rock Corner Notched arrowhead in southwestern
+Missouri on the White River which is associated with a Shell tempered
+pottery complex—the latest occupation in the area. Furthermore, the
+arrowhead appears to be rather similar to the corner notched arrowheads
+associated with the Matthews site and with the Mississippi cultures in
+the Cairo Lowland area. Other important arrowhead types that might aid
+in the association of the site elsewhere is the Bonham point which
+supposedly dates between 800 and 1200 A.D. and which is found in the
+Caddo area to the southwest. This point occurs only about a third as
+frequently as the Scallorn point which seems to be similar to the
+relationship expressed by the pottery from the site. Also occurring are
+triangular points that are similar to the rough, ovoid triangular points
+found at the Campbell site in the Little River Lowland of the Memphis
+cultural sub-area, and to the triangular points that are common on
+Mississippi sites throughout the central Mississippi Valley. One of
+these triangular points, the Fresno, is supposed to date from 800 or 900
+to 1600 A.D. Another, the Maude point, is noted to date from 1200 to
+1500 A.D. These dates compare favorably with those for the ovoid points,
+the Young, which date from 1200 to 1500 A.D. and the Catan, which dates
+from 500 to 1800 A.D. Another triangular point that may be important is
+one that can be classified readily as a Fort Ancient point and dates
+from 1200 to 1600 A.D. All of these points tend to run through the
+period 1200 to 1500 A.D., which is the general period that was
+considered probable as the date of the site by analysis and
+interpretation of the pottery. Therefore, the projectile point types
+from the Late component appeared to verify the dating of the site in the
+latter part of the B period as it has been established in the lower
+alluvial valley by Phillips, Ford and Griffin (1951).
+
+There are other items that are associated with the complex that might
+aid in establishing its position and its relationship elsewhere. The one
+pipe hints at relationships toward the Caddo area for it is similar to
+those found at Spiro. The thumbnail scraper is similar to the ones found
+on the Campbell site and other late sites in the Mississippi Valley, but
+the small number of these suggest an earlier time period. These
+miscellaneous items strengthen, rather than weaken the conclusions drawn
+from the pottery and projectile points.
+
+It is premature to suggest the sequence in this Malden Plain area of the
+St. Francis River basin, but it might be helpful to present the sequence
+here that will show the position of the Lawhorn components to the
+probable sequence of the general area. The Southeast Missouri Area
+Chronology Chart of Williams (1956, p. 38, Table 3) has been used, and
+the probable position of the Lawhorn components are indicated and
+underlined. The sequence is Williams (1956, Table 3) with the addition
+of the underlined items.
+
+
+SOUTHEAST MISSOURI AREA CHRONOLOGY
+
+  Historic (Shawnee and Delaware)
+  Late Mississippi (Nodena)
+  Middle Mississippi (Cairo Lowland)   Lawhorn Mississippian Component
+  Early Mississippi (Malden Plain)
+  Late Baytown (Black Bayou)
+  Middle Baytown (Barnes Ridge)        Lawhorn Sand Tempered Component
+  Early Baytown (Hoecake)
+  Tchula (Burkett and Pascola)
+  Pre-Ceramic (O’Bryan Ridge)          Dalton
+  Early Hunters (Fluted Points)
+
+It was not expected that the information contained here is the final
+answer to the story of the Lawhorn site or more than a start to finding
+out about the people who lived in the Malden Plain area of the St.
+Francis valley. It is hoped that this information will be at least a
+base from which others can work and that it adds enough new information
+that it will stimulate more people to do similar jobs within this area
+and surrounding areas.
+
+During the final stages of editing, three radio-carbon dates were
+received from the University of Michigan Memorial—Phoenix Project Radio
+Carbon Laboratory, H. R. Crane, Director. As these are of interest with
+regard to Lawhorn and, no doubt, to persons with commitments in that
+area, the dates are given below.
+
+  M-1156 Lawhorn site General Midden 625±150 Charred log (F. S. 78).
+          General Midden west of drainage ditch. Collected by John
+          Moselage, March, 1957.
+  M-1157 Lawhorn Site House 3 375±150 Charred Pole, possibly oak (F. S.
+          408) from floor of house 3. Collected March, 1960, by John
+          Moselage.
+  M-1158 Lawhorn Site House 1 750±150 Charred pole, possibly oak (F. S.
+          518) from floor of House 1. Collected December, 1957, by John
+          Moselage.
+
+
+
+
+                               APPENDIX A
+       IDENTIFICATION OF THE FAUNAL REMAINS FROM THE LAWHORN SITE
+
+
+                                   by
+                            Paul W. Parmalee
+                           Curator of Zoology
+                   Illinois State Museum, Springfield
+
+  Bone
+      _Mammals_
+          White-tailed deer, _Odocoileus virginianus_                393
+          Raccoon, _Procyon lotor_                                    42
+          Cottontail, _Sylvilagus floridanus_                         15
+          Canid, probably dog, _Canis familiaris_                     14
+          Man, _Homo sapiens_                                         10
+          Beaver, _Cantor canadensis_                                 10
+          Mink, _Mustela vison_                                        7
+          Muskrat, _Ondatra zibethicus_                                9
+          Swamp Rabbit, _Sylvilagus aquaticus_                         4
+          Gray squirrel, _Sciurus carolinensis_                        5
+          Opossum, _Didelphis marsupialis_                             3
+          Bobcat, _Lynx rufus_                                         1
+          Striped skunk, _Mephitis mephitis_                           1
+          Fox Squirrel, _Sciurus niger_                                1
+          Gray Fox, _Urocyon cinereoargenteus_                         1
+          Marsh Rice Rat, _Oryzomys palustris_                         1
+      _Birds_
+          Turkey, _Meleagris gallopavo_                               14
+          Mallard, _Anas platyrhynchos_ and/or Black Duck _Anas
+          rubripes_                                                    6
+          Duck, spp;                                                   5
+          Prairie Chicken, _Tympanuchus cupido_ (probably)             5
+          Canada Goose, _Branta canadensis_ (probably)                 3
+          King Rail, _Rallus elegans_                                  1
+          Wood Duck, _Aix sponsa_                                      1
+          Ring-necked Duck, _Aythya collaris_, or lesser Scaup,
+          _Aythya affinis_                                             1
+      _Turtles_
+          Box Turtle, _Terrapene_ sp.                                 50
+          Turtle, _Pseudemys_, _Chrysesemys_, _Graptemys_ group       34
+          Turtle spp.                                                 14
+          Pond Terrapin, _Pseudemys_ sp.                              24
+          Soft-shelled Turtle, _Trionyx_ sp.                           4
+          Snapping Turtle, _Chelydra serpentina_                       4
+      _Fishes_
+          Bowfin, _Amia calva_                                        25
+          Gar, _Lepisosteus_ sp.                                       6
+          Fresh-water Drum, _Aplodinotus grunniens_                    3
+          Northern Pike, _Esox lucius_                                 2
+          Catfish, _Ictalurus_ sp.                                     6
+          Sunfish, Bluegill group, Centrarchidae                       2
+
+          Unidentifiable large mammal bone fragments, most probably
+          deer                                                     1,126
+          Unidentifiable bird bone fragments                          30
+          Unidentifiable fish bone fragments                          14
+  Shell
+      _Mussels_
+          _Amblema_ cf. _costata_, Three ridge                        80
+          _Actinonaias carinata_, Mucket                               8
+          _Elliptio dilatatus_, Spike                                  4
+          _Plectomerus dombryanum_, Bank crawler                       4
+          _Lampsilis ventricosa_ (or l. _ovata_) Pocketbook            3
+          _Ligumia recta_, Black sand shell                            2
+          _Pleurobema cordatum_, Small Niggerhead                      1
+          _Plagiola lineolata_, Butterfly                              1
+          _Obliquaria reflexa_, Three-horned Warty-back                1
+          _Tritogonia verrucosa_, Buckhorn                             1
+          _Elliptio crassidens_, Elephant’s Ear                        1
+          _Quadrula quadrula_, Maple-leaf                              1
+      _Snails_
+          _Campeloma_ sp.                                              2
+
+
+
+
+                               APPENDIX B
+             ANALYSIS OF VEGETAL REMAINS FROM LAWHORN SITE
+
+
+                                   by
+                            Leonard W. Blake
+                          St. Louis, Missouri
+
+There is always a possibility that any sample, particularly a small one,
+may not be fully representative. The collection from the Lawhorn site
+consists of fragments of seven cobs, all either 10 or 12 rowed. Three of
+the cobs have cupule widths ranging from 7.7 to 8.6 mm. It differs from
+a larger sample from the Banks site, which is in nearby Crittenden
+County and which may have been occupied at about the same time (Table 6
+), in having a higher mean row number and greater median cupule width.
+Corn from both these sites shows evidence of a mixture with low rowed
+varieties to a lesser extent than that from the other sites shown in
+Table 6, except that from Mound 34 at Cahokia, which is presumably
+earlier (Table 7).
+
+Previous work on corn from the Northern Mississippi Valley indicates
+that row number tended to decrease and cupule width to increase in that
+area in time in the protohistoric and historic periods. This has been
+interpreted as being the result of an increasing mixture of
+predominantly 8 rowed Northern Flint with wide cupules with earlier 14
+rowed Tropical Flints slightly modified by possible traces of Mexican
+Pyramidal Dent. It is reasonable to expect that the proportion of the
+hardier Northern Flints would increase more rapidly in the Northern part
+of the valley than in the Southern, particularly, if there was a minor
+climatic cooling trend in the period of about 1200-1700 A.D., as Griffin
+(1960, p. 27) has suggested.
+
+Northern Flint was present in the Southeast as well as in the North
+before European settlement. Brown and Anderson (1947, pp. 8-13) found
+Northern Flint in collections of corn from archaeological sites in
+Northeastern Alabama, Eastern Tennessee, South Carolina and Georgia as
+well as in greater concentrations in Western New York and the Upper Ohio
+Valley. Actually, a lot of corn at the Missouri Botanical Garden from a
+Georgia site poses some of the same problems as that from Lawhorn. Mean
+row number is just under 11 and there are no 14 rowed ears. Cupule width
+of all but a few of the cobs ranges from 7 to 11 mm. with a median of 9
+mm. It is suspected that the wide cupules on the three Lawhorn cobs
+might be attributed to diffusion of Northern Flint from the Southeast as
+readily as from the North, possibly in diluted form. In the case of the
+Banks site, Cutler and Blake (1961) suggested that the influence of
+Northern Flint may have reached there in the form of a mixture rather
+than directly or, alternatively, that low row numbered corn may have
+entered from the Southwest where 8 and 10 rowed corn was dominant after
+700 A.D.
+
+    TABLE 6—COMPARATIVE ANALYSES OF CORN FROM LAWHORN AND FOUR AREA
+                                 SITES
+                      Row No. % total Cobs            Median (in mm.)
+      Site     No.   8    10   12   14   16   Mean    K. Th.   C.W.[1]
+               Cobs                          Row No.
+
+  Lawhorn         7    — 28.6 71.4    —    —    11.4      3.3      6.8
+  Banks          51  3.9 47.1 43.1  5.9    —    11.0      3.3      5.4
+  Mound 34       27  7.4 18.5 48.2 22.2  3.7    11.9      3.6      6.4
+  Crosno         16 31.3 43.7 25.0    —    —     9.9      3.4      7.0
+  Plum Island    17 35.3 29.4 35.3    —    —    10.0      3.8      7.4
+
+
+[1]K. Th. = Kernel Thickness
+    C.W. = Cupule Width, a measure of the cob cavity in which a pair of
+      grains is borne.
+
+
+                 TABLE 7—COMPARATIVE DATES FROM LAWHORN AND FOUR AREA SITES
+         Site            Location                    Estimated Date
+
+         Lawhorn       Craighead Co., Ark.   On Channel B, 1550 A.D. Plus.
+                                         (Phillips et al., 1951, p. 304)
+     Banks         Crittenden Co., Ark.  C14, 1535 A.D. ± 150 years. (Letter
+                                         G. Perino, Oct. 27, 1959)
+     Crosno        Mississippi Co., Mo.  Middle Mississippi. (Date?)
+     Mound 34      Madison Co., Ill.     Submound pit, C14, 700-900 B.P. ± 300
+                                         years. (Griffin, 1952, p. 367)
+     Plum Island   LaSalle Co., Ill.     Protohistoric
+        (11LS2)                          Circa 1600-1650 A.D.
+
+
+
+
+                               APPENDIX C
+                      BURIALS AT THE LAWHORN SITE
+
+
+                                   by
+                            Charles H. Nash
+                           Memphis, Tennessee
+
+The 35 burials from which we can get some data concerning sex and age
+groups seem to represent a relatively homogeneous group. Over half of
+the 26 adult burials were either too fragmentary for any further
+determination or the bone was not recovered during the course of
+excavation. In such instances, age group associations were made in the
+field. Burial determinations in Tables 8-11 were made in the laboratory.
+
+Of the 35 burials, twelve, or 34% had grave goods which included, in all
+cases, pottery vessels. Two burials had single beads with them but these
+were probably items of dress and not mortuary offerings. The only other
+object found was a questionable association of a flint drill. There were
+only three burials, 9%, which had more than one vessel in association
+and, of these, one had two bowls, another had a bottle and a bowl and
+the third had a bottle, a bowl and a small jar. Twenty three, or 66%, of
+the burials had no grave goods with them. The pottery vessels were
+divided about evenly between bottles and bowls.
+
+There were fourteen adult burials from which closer age criteria were
+available.
+
+The two females in their early twenties were not representative of the
+burial customs of these people, being in fact depositions of scattered
+bone showing little or no orientation and obviously not articulated. The
+crushing of the bone was probably due to earth moving machinery of
+recent years, but the general broken nature of the bones may more likely
+be the work of the Indians themselves. These bones appeared to have been
+laid on the ground and then covered over and it would seem that both had
+been interred at the same time. Both individuals show heavy charring of
+the bone; in one instance the feet were intensely charred with the rest
+of the bone showing progressively less toward the skull and the skull
+showing none. The most intense heat was obviously at the feet. The hands
+and lower arms also show heavy charring. The other individual was more
+generally charred but once again little or no burning appeared around
+the skull. These burials were not cremated at the spot at which they
+were found since there was no evidence of a heavy fire there. It must be
+assumed that the burning occurred elsewhere and that after further
+mutilation the bones were finally interred at this place. It is
+difficult not to conclude that these young ladies were victims of tribal
+displeasure.
+
+Insufficient skeletal material has been recovered and is in too
+fragmentary condition to yield a great deal of information. It might be
+well to mention at this point that ‘week end’ archaeology is hard put to
+produce a satisfactory record of this type of material. The days’
+activities of locating and staking a square, preliminary excavation and
+organization take up so much time that once a skeleton is located there
+is insufficient time to uncover it properly, record it and remove the
+bones with minimum damage. Even if the material is in good condition it
+is hard to do an adequate job in one day; if the bone is in a poor state
+of preservation the job becomes much more complicated. The specimens
+come easy but to clean, photograph, record and remove skeletal material
+will almost always require a second day. The thought comes to mind that
+with proper preparation much could be removed encased in protective
+materials for further processing at home thereby speeding up the process
+in the field. There are a number of ways this can be done, from using
+plaster impregnated burlap over the entire burial to wrapping bones in
+crumpled newspaper with much of the surrounding earth still in place and
+carefully placing in cartons large enough to hold them freely.
+Transportation must be handled with equal care. Much important
+information concerning the people themselves, their diet and health can
+be learned from skeletal material and no amateur “week end”
+archaeologist should feel free to ignore this class of data or throw it
+away.
+
+This sampling of skeletons is perhaps ample to give a general picture of
+the burial customs of these people. The universal position was supine
+and apparently laid out on top of the ground or in a shallow scooped out
+grave no deeper than the body itself. This then was presumably covered
+with a mound of earth and possibly marked by logs until decay had once
+again leveled the ground. There was no evidence of the use of pits.
+Grave goods, when present, were always pottery vessels presumably
+containing food and water for the departed. These were placed at the
+head. There was little or no evidence of clothing or decoration other
+than the two beads mentioned before.
+
+This burial complex is more like the extended burials of the Walls focus
+to the south than other comparable groups. Even the use of bottles and
+bowls together is suggestive. The almost total absence of grave goods
+other than pottery and the positioning around the head is again a Walls
+trait, as is the complete absence of other grave goods with many
+burials. This is the major evidence of Walls focus traits among the
+Lawhorn folk and even here the bottle form is at quite some variance.
+
+                              TABLE 8—BURIAL DATA
+ Burial      Age       Sex     Position       Condition and      Grave Goods
+ Number                                        Completeness
+
+       6  adult      ?       ?             frag. and poor        none
+       7  9-12 yr    child   ext. on back  poor—legs missing     small bowl,
+                                                                 bone bead
+       8  35-40      male    ext. on back  lower legs missing    none
+       9  8-9 yr     child   ext. on back  lower legs            none
+                                           missing—poor
+      10  25-30 yr   female  ext. on back  disturbed but         none
+                                           complete
+      11  -6 yr      child   ext. on back  hands and feet        none
+                                           missing—poor
+      12  25-30 yr   female  ext. on back  both legs             two bowls
+                                           missing—poor
+      13  -2 yr      infant  on back       incomplete            none
+      14  adult      ?       ext. on back  all above pelvis      none
+                                           missing
+      15  adult      ?       ext. on back  complete—poor         bottle
+      16  adult      ?       ext. on back  complete—very poor    none
+      17  plus 50    male    ext. on back  poor complete         bottle and
+                                                                 bowl
+      18  adult      ?       ext. on back  fragmentary           none
+      19  adult      ?       ext. on back  fragmentary           none
+      20  ?          ?       ?             very frag. disturbed  none
+      21  adult      ?       ext. on back  crushed by machinery  bottle
+      22  adult      ?       ext. on back  completely crushed    bowl
+      23  plus 30    female  ext. on back  no hands or           bottle and
+                                           feet—disturbed        shell bead
+      24  plus 30    male    ext. on back  no feet present       flint
+                                                                 drill,
+                                                                 bottle jar,
+                                                                 bowl
+      25  adult      ?       ext. on back  complete              bowl
+      26  pre-natal  infant  ?             none
+      27
+      28  25-30 yr   male
+      29  3 yr       child
+      30
+      31  pre-natal  infant  in a
+                             firebasin
+      32  35 yr      male    ext. on back  complete but crushed  none
+          plus
+      33  35-40      male    ext. on back  pathological suture   bowl
+                                           closure only
+                                           squamous open
+      34  25-30 yr   male    ext. on back  complete but poor     bottle
+                                           condition
+      35  adult      ?       ?             only an arm present   bottle
+      36  plus 60    male    ext. on back  complete—all          none
+                                           sutures closed—no
+                                           upper teeth—no
+                                           lower molars
+      37  adult      ?       ?             not worked out        shallow bowl
+      38  plus 20    female  scattered     burned                none
+                             bone          bone—heaviest at
+                                           feet—none on skull
+      39  plus 20    female  scattered     burned bone—deep      none
+                             bone          charring general
+                             some          over body—not on
+                             placement of  skull
+                             long bones?
+      40  plus 50    male    ?             ?
+   41-42  pre-natal  infants bundled       complete—42 covered   none
+                                           with a sherd
+
+                       TABLE 9—AGE AND SEX GROUPS
+                               35 Burials
+           Total   Male  Female Indeterminate  2-6 yr  Infant Pre-natal
+          Percent
+
+ Adults        74    22      14            37
+ Children      11                                 5.5     5.5
+ Infants       14                                           3        11
+
+              TABLE 10—MORTUARY VESSELS
+                Bottles  Bowls  Jars   Total
+
+  Adult Male          4      4      1      9
+  Adult Female        1      2             3
+  Adult Indet.        2      2             4
+  Children            1      1
+  Infants             0
+  Totals              7      9      1     17
+
+              TABLE 11—AVERAGE AGE OF FOURTEEN BURIALS
+   Age Group    Percentage   Male   Female  Total       Remarks
+
+  20 yr                 14       0       2       2  See discussion
+  25-30 yr              29       2       2       4
+  30-35 yr              14       1       1       2
+  35-40                 21       3               3
+  40-46                  0                       0
+  50 plus               21       3               3
+  Totals                         9       5      14
+
+
+
+
+                            REFERENCES CITED
+
+
+  BAERREIS, DAVID A.
+      1957 The Southern Cult and the Spiro Ceremonial Complex. _Bulletin
+          of the Oklahoma Anthropological Society._ Vol. III.
+  BELL, ROBERT E.
+      1958 Guide to the Identification of Certain American Indian
+          Projectile Points. _Special Bulletin No. 1 Oklahoma
+          Anthropological Society._
+  BRAY, ROBERT T.
+      1956 The Culture Complexes and Sequence at the Rice Site (23SN200)
+          Stone County, Missouri. _The Missouri Archaeologist_, Vol. 18,
+          nos. 1-2.
+  BROWN, WILLIAM L., and ANDERSON, EDGAR
+      1947 The Northern Flint Corns. _Annals of the Missouri Botanical
+          Garden_, Vol. 34, No. 1.
+  CUTLER, HUGH C., and BLAKE, LEONARD W.
+      1961 Corn from the Banks Site, Crittenden County, Arkansas. (ms)
+  EVERS, EDWARD
+      1880 _Ancient Pottery of Southeastern Missouri Contributions to
+          the Archaeology of Missouri_. Archaeological sections of the
+          St. Louis Academy of Science, part 1, pp. 21-30.
+  FISK, HAROLD N.
+      1944 _Geological Investigations of the Alluvial Valley of the
+          Lower Mississippi River._ Washington, D. C.
+  FORD, JAMES, A., and CLARENCE WEBB
+      1956 Poverty Point, A Late Archaic Site in Louisiana.
+          _Anthropological Papers of the American Museum of Natural
+          History_, Vol. 46, No. 1, New York.
+  FORD, JAMES A., PHILLIP PHILLIPS and WILLIAM G. HAAG
+      1955 The Jaketown Site in West Central Mississippi.
+          _Anthropological Papers of the American Museum of Natural
+          History_, Vol. 45, No. 1, New York.
+  GRIFFIN, JAMES B.
+      1952 Prehistoric Cultures of the Central Mississippi Valley, in
+          _Archeology of the Eastern United States_, University of
+          Chicago Press.
+  GRIFFIN, JAMES B.
+      1960 Climatic Change: A Contributory Cause of the Growth and
+          Decline of Northern Hopewell Culture. _Wisconsin
+          Archaeologist_, Vol. 41, no. 2.
+  GRIFFIN, JAMES B.
+      nd. _Prehistoric Pottery of the Eastern United States_,
+          mimeographed, Ann Arbor.
+  HUMPHRIES, CECIL C.
+      1960 The Formation of Reelfoot Lake and Consequent Land and Social
+          Problems. _The West Tennessee Historical Society, Papers_,
+          Vol. XIV.
+  MARSHALL, RICHARD A.
+      1958 The Use of Table Rock Reservoir Projectile Points in the
+          Delineation of Culture Complexes and Their Distribution, M.A.
+          Thesis, University of Missouri.
+  PHILLIPS, PHILIP, JAMES A. FORD, and JAMES B. GRIFFIN
+      1951 Archaeological Survey in the Lower Mississippi Alluvial
+          Valley 1940-1947. _Papers of the Peabody Museum of American
+          Archaeology and Ethnology_, Vol. XXV.
+  SUHM, DEE ANN
+      1954 An Introductory Handbook of Texas Archaeology, Vol. 25. The
+          Texas Archaeological Society.
+  WALKER, WINSLOW and ROBERT McCORMICK ADAMS
+      1946 Excavations in the Mathews Site, New Madrid County, Missouri.
+          _Transactions of the Academy of Science of St. Louis_, Vol.
+          XXXI No. 4.
+  WEBB, CLARENCE H.
+      1959 The Belcher Mound. _American Antiquity_, Vol. XXIV, No. 4,
+          Part 2.
+  WILLIAMS, STEPHEN
+      1956 _An Archaeological Study of Mississippi Cultures in Southeast
+          Missouri._ Ph.D. Dissertation, Harvard.
+
+    [Illustration: FIGURE 48.]
+
+
+
+
+                    Missouri Archaeological Society
+                         Achievement Award—1960
+
+_Be it known to all whom these presents come that_
+
+                           FRANCIS L. STUBBS
+
+in recognition of his sustained and active interest in the preservation
+of archaeological materials; for his very active participation in the
+survey, excavation, and exhibit work of the Society; for his many
+contributions to public information and education through work with the
+News Letter and by lectures; and for his help in Society business
+matters—is hereby accorded the award of and is designated Man of the
+Year 1960 of the Missouri Archaeological Society.
+
+                          Respectfully submitted by the Awards Committee
+             Virginia Watson, Charles R. Steen, Waldo R. Wedel, Chairman
+
+In the name of the Society this certificate is awarded and Francis L.
+Stubbs is designated Man of the Year 1960 and his name is inscribed on
+the Achievement Plaque displayed in the Museum of Anthropology of the
+University of Missouri.
+
+  _Attested by_       _Henry W. Hamilton_         _Richard A. Marshall_
+                          _President_             _Secretary-Treasurer_
+
+    [Illustration: Figure 49. Francis Stubbs, Achievement Award
+    Recipient, 1960.]
+
+    [Illustration: Figure 50.]
+
+
+
+
+                    Missouri Archaeological Society
+                         Achievement Award—1961
+
+_Be it known to all whom these presents come that_
+
+                       HARRY and FLORENCE COLLINS
+
+in recognition of their active participation in the preservation of
+archaeological sites and materials; for their outstanding interest in
+and support of archaeological salvage work; for their very active role
+in the State Fair exhibits of the Society and in other public relations
+work; and for their sustained efforts toward public enlightenment and
+education through talks to various clubs, societies, and other local
+groups—are hereby accorded the award of and designated Man of the Year
+1961 of the Missouri Archaeological Society.
+
+                          Respectfully submitted by the Awards Committee
+             Virginia Watson, Charlie R. Steen, Waldo R. Wedel, Chairman
+
+In the name of the Society this certificate is awarded and Harry and
+Florence Collins are designated collectively, Man of the Year 1961 and
+their names are inscribed on the Achievement Plaque displayed in the
+Museum of Anthropology of the University of Missouri.
+
+  _Attested by_       _Henry W. Hamilton_         _Richard A. Marshall_
+                          _President_             _Secretary-Treasurer_
+
+    [Illustration: Figure 51. Mr. and Mrs. Harry Collins, Achievement
+    Award Recipient, 1961]
+
+    [Illustration: Figure 52. Sam C. Irvine, Award Plaque Recipient,
+    1961]
+
+                                   To
+                             Sam C. Irvine
+
+In recognition of his 25 years of consistent help to the study of the
+archaeology of Missouri, in survey, excavation, and public relations.
+
+                            October 28, 1962
+
+
+
+
+                          Transcriber’s Notes
+
+
+—Silently corrected a few typos.
+
+—Retained publication information from the printed edition: this eBook
+  is public-domain in the country of publication.
+
+—In the text versions only, text in italics is delimited by
+  _underscores_.
+
+
+
+
+
+
