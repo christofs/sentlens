@@ -23,8 +23,8 @@ Samples and analyses
 * Gutenberg_sample1: A small sample of 100 novels from 1840–1920, meant as a direct comparison to the ELTeC texts. Less reliable metadata: in particular, the date of publication is not recorded in the Gutenberg metadata, and a very rough estimate, basically derived as the middle year between the years of birth and death of the author, has been used. The method used for calculating the average sentence length per novel is the same as for ELTeC-eng level1. Results have a somewhat wider range than for ELTeC, and the trend line as somewhat differing beginnings and endings, meaning some caution is on order where data is sparse. 
 * Gutenberg_sample2: A larger sample of 1000 novels from 1840–1920. Denser data and narrower confidence interval, confirms the overall trend. 
 * Gutenberg_sample3: A mid-sized sample of 300 novels covering a wider range than sample2, with novels first published between 1800 and 1950. Data density is lower for 1800-1840 and for 1920-1950 than for the core period, so caution is in order there.
-* Gutenberg_sample4: 1750-1950, with somewhat improved publication years based on Worldcat data. Data density is very weak for 1750-1800 and weak for 1920-1950. The general trend ist robust. 
-* Gutenberg_sample5: yet another sample, for the years 1800-1950, with the same improved publication years based on Worldcat data. General trend is confirmed once more. 
+* Gutenberg_sample4: 1750-1950, with somewhat improved publication years based on Worldcat data. There remain some caveats with regard to dating of texts (the clusters at 1800 and 1900 are artefacts that need to be resolved). Data density is very weak for 1750-1800 and weak for 1920-1950. The general trend ist robust. 
+* Gutenberg_sample5: yet another sample, for the years 1800-1950, with the same improved but still imperfect publication years based on Worldcat data. General trend is confirmed once more. 
 
 Visualizations
 
