@@ -17,6 +17,7 @@ from pygal.style import Style
 import seaborn as sns
 import spacy
 from spacy.lang.en import English as eng
+from spacy.lang.fr import French as fra
 from spacy.tokenizer import Tokenizer as tok
 import os
 
@@ -73,15 +74,22 @@ def main():
     Coordinates the process. 
     """
     # Files, folders, data containers
-    dataset = "ELTeC-eng_level1"
-    folder = join(dataset, "data", "ENG*.xml")
-    datafile = join(dataset, "results", "avgsentlens.csv")
+    dataset = "ELTeC-fra_level1"
+    textfolder = join("..", "data", dataset, "texts", "FRA*.xml")
+    datafile = join("..", "results", dataset, "avgsentlens.csv")
+    language = "fra"
+    if not os.path.exists(join("..", "results", dataset, "")): 
+        os.makedirs(join("..", "results", dataset, ""))
     data = {}
     # spaCy setup
-    nlp = eng()
+    if language == "eng": 
+        nlp = eng()
+    elif language == "fra": 
+        nlp = fra()
     nlp.add_pipe("sentencizer")
     tok = nlp.tokenizer
-    for xmlfile in glob.glob(folder): 
+    for xmlfile in glob.glob(textfolder): 
+        #print(xmlfile)
         basename,ext = re.split("\.", os.path.basename(xmlfile))
         idno = re.split("_", basename)[0]
         year = re.findall("\d\d\d\d", basename)[0]
