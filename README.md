@@ -13,6 +13,7 @@ The largest and probably the most reliable sample is sample 5 from the Gutenberg
 The analysis is based on two corpora: 
 * ELTeC-eng, The English novel collection for the ELTeC, the European Literary Text Collection, produced by the COST Action Distant Reading for European Literary History (CA16204, https://distant-reading.net), release 1.0.1 (https://doi.org/10.5281/zenodo.4662490), edited by Lou Burnard and published in April 2021. Details: https://github.com/COST-ELTeC/ELTeC-eng
 * The Gutenberg Corpus as described by Martin Gerlach and Francesc Font-Clos, see: https://arxiv.org/abs/1812.08092, using a copy extracted in November 2021. 
+* For comparison's sake, ELTeC-fra, the French novel collection of ELTeC, edited by Christof Schöch and Lou Burnard, 2021. 
 
 # Analysis
 
@@ -25,6 +26,7 @@ Samples and analyses
 * Gutenberg_sample3: A mid-sized sample of 300 novels covering a wider range than sample2, with novels first published between 1800 and 1950. Data density is lower for 1800-1840 and for 1920-1950 than for the core period, so caution is in order there.
 * Gutenberg_sample4: 1750-1950, with somewhat improved publication years based on Worldcat data. There remain some caveats with regard to dating of texts (the clusters at 1800 and 1900 are artefacts that need to be resolved). Data density is very weak for 1750-1800 and weak for 1920-1950. The general trend ist robust. 
 * Gutenberg_sample5: yet another sample, for the years 1800-1950, with the same improved but still imperfect publication years based on Worldcat data. General trend is confirmed once more. 
+* ELTeC-fra: 100 novels from 1840-1920. Interestingly, no comparablly clear trend is visible here.  
 
 Visualizations
 
