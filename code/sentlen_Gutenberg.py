@@ -26,7 +26,7 @@ from spacy.tokenizer import Tokenizer as tok
 
 def read_metadata(metadatafile): 
     with open(metadatafile, "r", encoding="utf8") as infile: 
-        metadata = pd.read_csv(infile, sep=",", index_col=0)
+        metadata = pd.read_csv(infile, sep=";", index_col=0)
     #print(metadata.head())
     return metadata
 
@@ -70,11 +70,11 @@ def main():
     Coordinates the process. 
     """
     # Datasets
-    datasets = ["Gutenberg_sample5"] # could be several
+    datasets = ["Gutenberg_sample8"] # could be several
     # spaCy setup
     nlp = eng()
     nlp.add_pipe("sentencizer")
-    nlp.max_length = 3000000
+    nlp.max_length = 15000000
     tok = nlp.tokenizer
     for dataset in datasets: 
         # Files, folders, data container
@@ -91,7 +91,7 @@ def main():
             basename,ext = re.split("\.", os.path.basename(textfile))
             #print(basename)
             idno = re.split("_", basename)[0]
-            year = int(get_metadatum(metadata, "firstpubyear", idno))
+            year = int(get_metadatum(metadata, "year-ref", idno))
             author = get_metadatum(metadata, "shortauthor", idno)
             title = get_metadatum(metadata, "shorttitle", idno)
             print(counter, idno, year, author, title)

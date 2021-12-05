@@ -40,7 +40,7 @@ def plot_pygal(data, dataset, filename):
     scatterplot = pygal.XY(show_legend = False, 
                     human_readable = True,
                     style = mystyle,
-                    range = (8,50),
+                    range = (5,70),
                     show_x_guides=True)
     scatterplot.title = "Average sentence length per novel in " + dataset
     scatterplot.x_title = "Year of publication"
@@ -51,8 +51,8 @@ def plot_pygal(data, dataset, filename):
         #print(row[1][0], row[0])
         point = [(row[1]["year"], row[1]["avgsentlen"])] # year, avgsentlen
         label = str(row[1][0]) + " (" + str(row[0]) + ")" # idno, author
+        label = re.sub("\+", " ", label)
         scatterplot.add(label, point)
-    print(filename)
     scatterplot.render_to_file(filename)
 
 
@@ -71,7 +71,8 @@ def main():
     #datasets = ["Gutenberg_sample2"]
     #datasets = ["Gutenberg_sample5"]
     #datasets = ["ELTeC-deu_level2"]
-    datasets = ["ELTeC-hun_level2"]
+    #datasets = ["ELTeC-hun_level2"]
+    datasets = ["Gutenberg_sample8"]
     for dataset in datasets: 
         # Files, folders, data container
         datafile = join("..", "results", dataset, "avgsentlens.csv")

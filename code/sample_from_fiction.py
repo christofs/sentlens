@@ -20,10 +20,10 @@ def read_metadata(fictionmetadatafilename):
 
 def filter_metadata(data, timeframe): 
     # select only texts between specific publication dates
-    data = data[(data["firstpubyear"] >= timeframe[0]) & (data["firstpubyear"] <= timeframe[1])]
+    data = data[(data["year-ref"] >= timeframe[0]) & (data["year-ref"] <= timeframe[1])]
     # clean up
-    print(data.head())
-    print(data.shape)
+    #print(data.head())
+    #print(data.shape)
     return data
 
 
@@ -33,24 +33,49 @@ def create_sample(data, samplesize):
     Selects a random sample of relevant texts from the selected data.
     """
     datasample = data.sample(n=samplesize)
+    #print(type(datasample))
     return datasample
 
 
 
+def sliced_sampling(data, timeframe, samplesize):
+    subsamplesize = int(np.round(samplesize / (timeframe[1]-timeframe[0]) * 10))
+    subtimeframes = []
+    start = timeframe[0]
+    while start < timeframe[1]-9: 
+        subtimeframes.append([start,start+9])
+        start +=10
+    #print(subsamplesize)
+    #print(timeframes_by_decade)
+    print("sample:", len(subtimeframes), "decades;", subsamplesize, "texts per decade;", len(subtimeframes*subsamplesize), "texts in total.")
+    slicedsample = pd.DataFrame()
+    for subtimeframe in subtimeframes: 
+        subdata = filter_metadata(data, subtimeframe)
+        subsample = create_sample(subdata, subsamplesize)
+        slicedsample = slicedsample.append(subsample)
+    #print(slicedsample)
+    return slicedsample
+    
+
 def save_metadata(data, samplemetadatafilename):
     with open(join(samplemetadatafilename), "w", encoding="utf8") as outfile: 
-        data.to_csv(outfile) 
+        data.to_csv(outfile, sep=";") 
         
-
 
 def copy_subset(datasample, origdir, destdir): 
     selids = list(datasample.index)
     selfns = [join(origdir, selid + "_text.txt") for selid in selids]
-    print(len(selfns))
+    #print(len(selfns))
     #print(selfns)
+    copied = 0
+    missing = 0
     for selfn in selfns: 
         if os.path.isfile(selfn):
             shutil.copy(selfn, destdir)
+            copied +=1
+        else: 
+            missing +=1
+    print("Copied", copied, "files. Missing:", missing, "files.")
             
 
 
@@ -58,19 +83,23 @@ def copy_subset(datasample, origdir, destdir):
 
 def main(): 
     # Parameters
-    fictionmetadatafilename = join("..", "data", "Gutenberg-fiction", "metadata-fiction+worldcat.csv")
-    dataset = "Gutenberg_sample5"
+    fictionmetadatafilename = join("..", "data", "Gutenberg-fiction", "metadata-fiction+worldcat+heuristics.csv")
+    dataset = "Gutenberg_sample8"
     origdir = join("..", "..", "..", "gutenberg", "data", "text", "")
     destdir = join("..", "data", dataset, "texts", "")
     samplemetadatafilename = join("..", "data", dataset, "metadata.csv")
-    samplesize = 1050
-    timeframe = [1800,1950]
+    samplesize = 1200
+    timeframe = [1800,1960]
+    sampletype = "decades" # "overall"|"decades"
     if not os.path.exists(destdir): 
         os.makedirs(destdir)
     # Create sample
     data = read_metadata(fictionmetadatafilename)
-    data = filter_metadata(data, timeframe)
-    datasample = create_sample(data, samplesize)
+    if sampletype == "overall": 
+        data = filter_metadata(data, timeframe)
+        datasample = create_sample(data, samplesize)
+    elif sampletype == "decades": 
+        datasample = sliced_sampling(data, timeframe, samplesize)        
     save_metadata(datasample, samplemetadatafilename)
     copy_subset(datasample, origdir, destdir)
 
