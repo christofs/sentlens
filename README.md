@@ -1,6 +1,6 @@
 # sentlens
 
-Sentence length in corpora of literary texts, specifically in ELTeC-eng and the Gutenberg Corpus. An analysis performed by Christof Schöch in late November, 2021. 
+Sentence length in corpora of literary texts, specifically the Gutenberg Corpus as well as several ELTeC corpora. An analysis performed by Christof Schöch in late November, 2021. 
 
 # Result in a nutshell
 
@@ -10,7 +10,7 @@ The largest and probably the most reliable sample is sample 5 from the Gutenberg
 
 # Data 
 
-The analysis is based on two corpora: 
+The analysis is based on the following corpora: 
 * ELTeC-eng, The English novel collection for the ELTeC, the European Literary Text Collection, produced by the COST Action Distant Reading for European Literary History (CA16204, https://distant-reading.net), release 1.0.1 (https://doi.org/10.5281/zenodo.4662490), edited by Lou Burnard and published in April 2021. Details: https://github.com/COST-ELTeC/ELTeC-eng
 * The Gutenberg Corpus as described by Martin Gerlach and Francesc Font-Clos, see: https://arxiv.org/abs/1812.08092, using a copy extracted in November 2021. 
 * For comparison's sake, and because they are readily available, ELTeC-fra, ELTeC-deu and ELTec-hun, have also been analysed. 
