@@ -72,7 +72,7 @@ def main():
     #datasets = ["Gutenberg_sample5"]
     #datasets = ["ELTeC-deu_level2"]
     #datasets = ["ELTeC-hun_level2"]
-    datasets = ["Gutenberg_sample8"]
+    datasets = ["Gutenberg_sample9"]
     for dataset in datasets: 
         # Files, folders, data container
         datafile = join("..", "results", dataset, "avgsentlens.csv")

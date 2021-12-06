@@ -28,6 +28,7 @@ Samples and analyses
 * Gutenberg_sample5: yet another sample, for the years 1800-1950, with the same improved but still imperfect publication years based on Worldcat data. General trend is confirmed once more. 
 * Gutenberg_sample7: Another sample for 1800-1960, but with the same number of texts (65) sampled for each decade, for a total just over 1000 texts. Same amount of evidence for each decade, but sampled from bins of different sizes. 
 * Gutenberg_sample8: Another, slightly larger sample for 1800-1960, with the same number of texts per decade, with a total of 1200 texts. Some outliers, otherwise clear confirmation of the downward trend. 
+* Gutenberg_sample9: Same kind of sample, with more manual corrections to the publication data. Missing data / artefacts remains (see 1800, 1818, 1834, 1848, 1900, 1944 in this sample).  
 * ELTeC-fra: 100 French novels from 1840-1920. Interestingly, no comparably clear trend is discernible here. 
 * ELTeC-deu: 100 German novels from 1840-1920. Same trend of decreasing sentence length as in English, from about 22 words in 1840 to 15 words in 1920.
 * ELTeC-hun: 100 Hungarian novels from 1840-1920. Same trend, from about 22 words in 1840 to about 15 words in 1920. 

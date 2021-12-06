@@ -84,7 +84,7 @@ def copy_subset(datasample, origdir, destdir):
 def main(): 
     # Parameters
     fictionmetadatafilename = join("..", "data", "Gutenberg-fiction", "metadata-fiction+worldcat+heuristics.csv")
-    dataset = "Gutenberg_sample8"
+    dataset = "Gutenberg_sample9"
     origdir = join("..", "..", "..", "gutenberg", "data", "text", "")
     destdir = join("..", "data", dataset, "texts", "")
     samplemetadatafilename = join("..", "data", dataset, "metadata.csv")
